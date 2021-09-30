@@ -1,0 +1,42 @@
+16. VĚK
+#	Země	Rozloha	Prestiž	Aliance	Vláda	Kol
+1.	TECHNO FOREVER(#496) - Hrk	32152km2	9651796	UFD	Kom	3777
+2.	Master Killer(#68) - Boss33	34903km2	8803820	UFD	Rep	3863
+3.	Lance Armstrong(#272) - Ďábel	22511km2	8630964	UFD	Rep	3572
+4.	Avanil(#451) - Hondo	20424km2	8311992	BH	Utop	3863
+5.	Albion(#116) - Wuru	26523km2	8188915	BH	Kom	3863
+6.	Black Stronghold(#828) - Black Warrior	24680km2	8182472	UFD	Utop	3703
+7.	Jeseník(#825) - Kala	22259km2	7382582	BH	Utop	3842
+8.	Alvar(#1220) - Pepo	25089km2	7292655	USoK	Feud	3861
+9.	CURELAND(#118) - CURE	19962km2	6806952	MA	Demo	3847
+10.	Drakkar(#3) - The Bozena	24952km2	6806944	USoK	Utop	3834
+11.	Madman(#1359) - Lone Wolf	23513km2	6756978	NATO	Demo	3863
+12.	Paintheon(#1513) - Shaman	22641km2	6747753	H.M.S.	Utop	3788
+13.	Amon Ereb(#75) - Daemos	19946km2	6719426	MA	Kom	3858
+14.	Tar Ancalimon(#13) - system71	19467km2	6668928	MA	Kom	3671
+15.	Rumland(#96) - Zaribel	24269km2	6612262	USoK	Demo	3855
+16.	Den of Forlon(#840) - Martind Forlon	21471km2	6569361	BH	Utop	3862
+17.	Pif, paf, bum(#135) - kinbub	20703km2	6554291	MA	Demo	3836
+18.	Klud(#371) - Kludas	20871km2	6522607	BH	Utop	3858
+19.	Dark Kangaroo(#1240) - Lion	23366km2	6492531	USoK	Utop	3703
+20.	Federace(#1105) - Yaz	21221km2	6329628	UFD	Utop	3862
+21.	Moria(#385) - Balrog	20428km2	6310442	MA	Kom	3863
+22.	===========(#1037) - IlIlIlIlIlIlIlIl	21393km2	6278959	NATO	Demo	3860
+23.	Rishadan Port(#316) - Jouza Makičký	16505km2	6131590	H.M.S.	Demo	3858
+24.	Phyrexian terror(#10) - Krovax	23139km2	6094874	UFD	Feud	3806
+25.	Fakír(#481) - Budha	20510km2	6027256	NATO	Utop	3826
+26.	Údolí dutých hlav(#859) - Swatt	21956km2	6005809	NATO	Demo	3854
+27.	Hindutin(#436) - langos	19515km2	5976351	MA	Kom	3863
+28.	Tir ná Béa Arainne(#889) - Deithwen	19414km2	5868400	NATO	Demo	3855
+29.	Crimson Thunder(#126) - Spirit	21484km2	5837855	NSA	Kom	3845
+30.	Horné Grgy(#40) - Rammstick	20171km2	5829991	MA	Demo	3863
+31.	Tartaros(#1042) - Erebos	20956km2	5820344	UFD	Feud	3863
+32.	Land of Roses(#255) - Lady Dark Rose	23510km2	5720641	MA	Feud	3859
+33.	Dracovo(#1026) - Draco	18295km2	5664326	NSA	Utop	3861
+34.	Arkon(#243) - GrayShark	19056km2	5654444	BH	Kom	3850
+35.	Brloh(#241) - Me2d	21622km2	5652688	MA	Feud	3862
+36.	Daiquiri banana plameňák(#12) - BjeZ	15629km2	5625441	Ne5	Kom	3824
+37.	Xenocida(#196) - antaran	15575km2	5600005	AHA	Kom	3741
+38.	empéčtyřiosmnáct(#1070) - Makkinen	11821km2	5599705	USoK	Tech	3694
+39.	ROCKLINKA(#112) - ISILDUR	20302km2	5487771	MA	Demo	3863
+40.	Proxima(#257) - Oxan	19388km2	5475699	MA	Utop	3862
