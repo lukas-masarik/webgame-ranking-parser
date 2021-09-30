@@ -1,0 +1,42 @@
+62. VĚK
+#	Země	Rozloha	Prestiž	Aliance	Vláda	Kol
+1.	Break On Through(#800) - JJura	15142km2	14349950	SB	Kom	3769
+2.	Nosim ruzove tanga a som(#2398) - Reen	13420km2	14323308	LAMINS	Feud	3558
+3.	Slivovica(#2371) - hurka	20161km2	12895831	cerveza	Kom	3953
+4.	Liv Boeree(#1123) - Comanndos	30000km2	12818239	CHARITA	Robo	3873
+5.	Horka nad Moravou(#787) - Pepemistr	22738km2	11707562	LLS	Kom	3847
+6.	gína(#391) - Smajl	18000km2	11346489	D*n*B	Utop	3457
+7.	Modrý pták(#619) - ridgeback	20613km2	11000000	LBL	Kom	3875
+8.	Bukvicak(#194) - t3latko	20007km2	10447578	BOUNTY	Utop	3949
+9.	scirrocco(#1049) - Pepa Bechr	17513km2	9521982	INTR	Utop	3771
+10.	hammer(#1391) - .Lammer	10570km2	9285032	LAMINS	Utop	3639
+11.	I Bara Hezky Zuzla Kulky(#3408) - klankosti	27751km2	9028320	Řezníci	Robo	3965
+12.	Už teď jsem to vyhrál(#1027) - Ivan IV	34000km2	8824958	NUKE	Robo	3944
+13.	NečumNaMěTímHnusnýmTónem(#2947) - Bíbou	26777km2	8657893	dgdg	Robo	3957
+14.	.:Ball Lightning:.(#4055) - DaMarkus	18999km2	8506247	KULE7	Utop	3713
+15.	Whisper From the Heaven(#4080) - paladin Uther	23431km2	8466583	ULoT	Kom	3911
+16.	Cotton Eye Joe(#576) - wladis353535	9999km2	8450499	LMD	Utop	3849
+17.	-=Last minute to Hell=-(#101) - SKAlpik	18734km2	8446223	-=LH=-	Kom	3916
+18.	Water Naboo(#172) - Dart.Kanne	18121km2	8279825	TemLeg	Utop	3665
+19.	FORTUNATE SON(#1710) - xkukx	26518km2	8050118	SB	Robo	3964
+20.	archangel land(#1074) - TiHiC	16858km2	8027797	H5N1	Utop	3770
+21.	From my cold dead hands(#3984) - General Honza	26546km2	7981933	SB	Robo	3977
+22.	Prirozeni v rozlozeni(#1184) - Ctirad2	24793km2	7863744	UVVB	Robo	3921
+23.	Forever young(#1664) - epicFAIL	22222km2	7777777	gto	Robo	3952
+24.	Budoucnost je v jádru(#3637) - Duke Nukem	17296km2	7694781	CHRO	Kom	3908
+25.	crocuta crocuta(#829) - saiyajiNN	20681km2	7594608	VT	Rep	3981
+26.	Uttica(#236) - Naumo	15723km2	7540307	Legend	Utop	3943
+27.	Elektrikár Baťa(#2726) - .Baťa.	22229km2	7530389	D1KTATOR	Utop	3774
+28.	.:CZ-SK:. žeby loučení?(#4152) - Nupacak	21007km2	7524204	ČSLA	Kom	3841
+29.	*-.I Feel Your Fear.-*(#681) - Farmar..Jonny	20643km2	7518438	UtopRobo	Utop	3963
+30.	Metalomanie(#842) - SiRvAcA	23825km2	7474316	SB	Robo	3978
+31.	ični nové bote zmochu(#282) - esya	16968km2	7444713	VT	Utop	3709
+32.	Brebta breptá s Ještěrkou(#3638) - Iskalon	16926km2	7428286	D3STROY	Utop	3774
+33.	Divided by Zero(#2358) - .Grim.	22622km2	7273689	TPP	Kom	3954
+34.	Zoufalec Sjezdovka(#2667) - Sjezdovka	18074km2	7273194	BOUNTY	Utop	3978
+35.	HyeNa MuMaKyyy(#2905) - Urenduil	29672km2	7231872	-SC-	Demo	3912
+36.	Storm(#257) - Lord Kano	19109km2	7207570	TemLeg	Utop	3977
+37.	Young Devon(#1000) - Lord IVCO	26999km2	7173070	Akatsuki	Rep	3951
+38.	Princezna Vodnena(#3542) - CyberMegaLoL	20937km2	7154861	LAMINS	Feud	3875
+39.	Nostalgie s temahle :-)(#2973) - Mr Shaman	19065km2	7098466	D1KTATOR	Utop	3952
+40.	InFiniTeneSS(#2853) - Gxx	20800km2	7097675	D3STROY	Robo	3918

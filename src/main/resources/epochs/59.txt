@@ -1,0 +1,42 @@
+59. VĚK
+#	Země	Rozloha	Prestiž	Aliance	Vláda	Kol
+1.	Héros Mythique(#262) - Siriuss	34238km2	11044206	Divočíme	Rep	3962
+2.	Azarothe(#4727) - ghostslayer	30082km2	10811234	Dei	Kom	3962
+3.	R3D and AZUR3(#113) - Dezider	10706km2	10739028	R3D	Kom	3587
+4.	Endorin(#4372) - Smrtka15	30073km2	10732715	SAS	Robo	3969
+5.	E=mc`2(#5993) - Pyromnacer	22374km2	10647870	=EF=	Kom	3786
+6.	Road to Zion(#531) - renown	29056km2	10418851	Zion	Utop	3895
+7.	KAZAŇ(#2761) - IngBadzo	35253km2	9875772	HOR	Robo	3942
+8.	Astičkov(#618) - Asticka	15000km2	9491079	.::R::.	Utop	3868
+9.	Requiem for a Dream(#4344) - vlk666	27208km2	9417194	Lotta	Demo	3978
+10.	Skill And Highest Income?(#170) - SAHI	25514km2	9258855	D*n*B	Demo	3768
+11.	Oko za oko, Zub za zub(#66) - Jolinar13	29595km2	9198434	ŠSS	Robo	3849
+12.	analraper(#1733) - Chaos leader	28463km2	9037631	ŽsN	Robo	3979
+13.	.:cz-sk:.Emo(#1126) - ra08	29835km2	8929176	cz-sk	Kom	3964
+14.	UFO-PORNÓÓÓÓ(#3851) - Cheater00	23049km2	8878598	ANAL	Rep	3794
+15.	NUKE Mal som Vás rád:((#2114) - šalanboy	22022km2	8717025	80`s	Utop	3908
+16.	Jok3r(#5473) - Lálošelot	17044km2	8544190	GVH	Utop	3959
+17.	Un hombre y un destino(#1736) - OFC3	11293km2	8350000	čusíňu	Utop	3509
+18.	279086541(#647) - TECHWARRIOR	21791km2	8144444	ICQ	Rep	3977
+19.	Masias is back:D(#1991) - Masias	28595km2	7815060	ŽsN	Feud	3971
+20.	Excrementom do xichtu(#5611) - hendikep	28311km2	7683581	PHfSA	Feud	3789
+21.	Budulínkova zem(#2577) - Budulínek s.r.o	18765km2	7562999	Ganja	Rep	3978
+22.	Bez noh nejdal dojdes(#2374) - Jokron	18562km2	7535382	ManG6	Utop	3754
+23.	drh(#2313) - Pepa Bechr	18855km2	7528947	cz-sk	Utop	3884
+24.	Pánové, vždyť je to steva(#449) - Skorpík	19640km2	7511302	BOUNTY	Utop	3808
+25.	juu mam gold :D(#261) - jack32	30453km2	7350367	.:NP:.	Robo	3971
+26.	s lukem chodime na caj(#5586) - efo	15853km2	7291856	FARMERS	Kom	3820
+27.	FARMER Hellboy(#715) - .Hellboy.	20597km2	7173960	FARMERS	Fund	3965
+28.	NeMám Čas UčíM Se(#4373) - Smrtka15	21006km2	7131261	.:V6R:.	Utop	3933
+29.	KřováK ...XiXao...(#1725) - Vasulin	24845km2	7127059	TESL4	Feud	3950
+30.	.:cz-sk:.Zeus(#4165) - Vladce Seanix	18180km2	7086838	cz-sk	Rep	3950
+31.	nevermind(#2980) - Broot	30150km2	6923224	xyz	Robo	3895
+32.	Love Beer 8--)(#1301) - H00L1G4N	11443km2	6917355	RQ	Kom	3882
+33.	R3D and Y3LLOW(#57) - .Tommy33.	19899km2	6722434	R3D	Demo	3966
+34.	Stejná jména stejný skill(#4326) - Milka I.	17223km2	6719468	Čoko	Utop	3979
+35.	Svému Osudu Neutečeš...(#2348) - Dragon.Slayer	23562km2	6689934	AGRESE	Robo	3975
+36.	KOSMODROM(#1317) - GaGaRiN.cz	17383km2	6684813	=T=	Demo	3967
+37.	.:R3D.Dwarf:.(#2641) - BeeMarin	22256km2	6649517	RedDwarf	Robo	3976
+38.	.:CZ-SK:.Kupis(#460) - Canada	19227km2	6626153	ČSLA	Robo	3896
+39.	?(#2333) - Nespravedlny	14176km2	6620085	-=AB=-	Utop	3526
+40.	Pochybný Hráč(#1231) - Katcheena	20504km2	6582501	.::VR::.	Kom	3884

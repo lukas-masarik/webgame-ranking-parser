@@ -1,0 +1,42 @@
+76. VĚK
+#	Země	Rozloha	Prestiž	Aliance	Vláda	Kol
+1.	Rhadamanthys(#652) - Namibi	24735km2	19028855	=*DC*=	Utop	3567
+2.	Echalon(#158) - ptak77	26917km2	10197537	-=EK=-	Robo	3978
+3.	Apollo(#1521) - West007	27265km2	9093862	ILU	Robo	3803
+4.	Nemilosrdná Slečinka(#320) - c4u710n	12845km2	8203345	ManG	Feud	3907
+5.	Lord of Light(#354) - Dezider	27904km2	8132421	Rounders	Robo	3982
+6.	Authority Zero(#2174) - MIG14	27189km2	8025599	WG	Robo	3978
+7.	RIP punkie man(#1511) - Sertus	22399km2	7765764	Heaven	Robo	3936
+8.	Pearl Jam(#1470) - Dívka	18383km2	7758402	Rock	Demo	3960
+9.	Dragon wings(#723) - Blatzkowitz	26561km2	7469735	Energy	Robo	3983
+10.	Manzanie(#2835) - Sir Robertini	21788km2	7127758	UVVB	Robo	3978
+11.	2782(#2784) - GIMME	19911km2	7023256	4EVER	Demo	3983
+12.	Nestíhám, nemám čas(#4000) - Aram Chroustal	20864km2	6988244	::R::	Kom	3582
+13.	Řízená R3Dukce farem.(#2729) - imperial knight	26224km2	6687117	R3D	Robo	3980
+14.	Dřív možná,teď už NE...(#3320) - Dragon.Slayer	19216km2	6591572	-=LH=-	Robo	3983
+15.	Drakolín(#2180) - Ikonoklas	19516km2	6589508	hack//	Utop	3977
+16.	Slammerovo(#32) - Beleriand	15522km2	6479853	TSŽ	Demo	3982
+17.	Relax, vole(#3193) - auiK	20416km2	6379145	BAMBUSKY	Robo	3940
+18.	Esgaroth(#2565) - CrazyBob	24212km2	6355403	BE	Robo	3951
+19.	Rogue state(#3654) - cachtan	17885km2	6269689	Across	Demo	3907
+20.	(350)(#489) - epicFAIL	11111km2	6260883	oka	Tech	3779
+21.	USS Los Angeles SSN-688(#1239) - Reich Graf	21754km2	6177195	Ponorky	Rep	3983
+22.	-=DF=- Old St. Andrews(#83) - .Gumoloid.	25218km2	6072391	-=DF=-	Robo	3948
+23.	HIC SUNT DRACONES(#747) - Boreas	16893km2	6070508	MARS	Tech	3983
+24.	Dawe(#2096) - Cenzor3d	10399km2	6007023	kdeshuk	Rep	3928
+25.	Trust me I`m Engeneer(#2586) - Nevídaně On	17371km2	5960633	BACK	Utop	3983
+26.	enjoy responsibly(#135) - Teutul2	19299km2	5825230	-=LH=-	Robo	3983
+27.	Rozzlobená slečinka(#497) - mara8	20313km2	5822936	ManG	Tech	3983
+28.	mumaky(#3067) - Urenduil	18494km2	5820541	HyeNy	Demo	3970
+29.	kuřbuřtazduř(#4049) - labojse	21363km2	5793441	APR	Robo	3522
+30.	mastarie(#2526) - martum	28195km2	5776438	*SN*	Robo	3982
+31.	LORDinace v RůžovéZahradě(#2856) - Hrubej	16528km2	5770736	PPP	Utop	3894
+32.	St4r3j Z4rK4vI j3 t4dY :D(#1915) - LuisFigo	17200km2	5741501	Across	Robo	3981
+33.	Vtipný Beránek(#490) - .Hellboy.	20799km2	5630028	BBB	Robo	3976
+34.	M1K0(#950) - Zaklinac01	11925km2	5603560	C*P	Tech	3975
+35.	Rhodezsky Ridgeback(#634) - sharppp	16807km2	5584992	ChRTI	Demo	3972
+36.	NO Time to be R3D(#1802) - .Tommy33.	25092km2	5576189	Rounders	Fund	3942
+37.	Kam dám stan?(#110) - Wlad	9999km2	5563528	LMD	Utop	3937
+38.	Natik(#1033) - NathanielCZE	10155km2	5562962	NATIK	Utop	3849
+39.	Ix(#3152) - Spawn	20139km2	5541674	Synchro	Demo	3983
+40.	Pokermaker(#748) - mortess	16156km2	5511335	SSo	Utop	3675

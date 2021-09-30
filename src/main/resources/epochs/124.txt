@@ -1,0 +1,42 @@
+124. VĚK
+#	Země	Rozloha	Prestiž	Aliance	Vláda	Kol
+1.	Sensi Seeds(#225) - Ponczek	20298km2	10241033	COOL	Demo	3678
+2.	End of Gravity(#1402) - Dzindzik	28589km2	7860117	W.G.M	Robo	3961
+3.	Vodka(#1496) - Joker16.	25683km2	7700764	Ganja	Robo	3963
+4.	Valar Dohaeris(#150) - Uaah	23162km2	7493244	.LL.	Robo	3977
+5.	Uspech nebo neuspech(#351) - Sdalin	16791km2	7322303	SOCH	Utop	3877
+6.	bobanek(#734) - Prepaaac	19666km2	7213826	Bull	Robo	3963
+7.	Vyvrženec Spoilding(#118) - StillDeadCZ	14630km2	7154979	D1000	Demo	3974
+8.	Velky uličník(#1208) - trubkatrubkovic	22645km2	6822793	Bull	Feud	3978
+9.	Nagash(#1444) - castropola	19999km2	6737898	DF2	Demo	3918
+10.	Zkouška po letech(#566) - the last Hero	18965km2	6380396	Bombing	Utop	3775
+11.	Bastard`s office(#1414) - Pitel	18592km2	6205930	Ganja	Demo	3979
+12.	BLOODY Stalin(#600) - Stalin2	15024km2	6060413	KR3W	Utop	3952
+13.	Karol Duchoň(#208) - marv III	20345km2	6043738	LW2	Robo	3978
+14.	.::PKZ limpopo::.(#353) - Grafical	14999km2	5919512	PKZ	Utop	3949
+15.	Dong Yaqian(#1098) - Topisek	11356km2	5884809	VT	Utop	3930
+16.	Farma s H12 není hřích(#550) - HeadShit	20626km2	5846829	PhaMa	Robo	3964
+17.	War or Peace(#98) - kagr15	19483km2	5762958	A.L.I.2	Fund	3952
+18.	Jupiter(#891) - Sheff	15997km2	5758602	S.a.	Utop	3955
+19.	Fallen_Angel(#338) - vhero	16944km2	5710358	SOCH	Robo	3979
+20.	Karak Dum(#639) - Reich Graf	14011km2	5692703	MENSA	Utop	3968
+21.	A za kolik expu to bylo?(#720) - Saturas	17508km2	5674343	Enjoy	Kom	3954
+22.	Medonoska Maštěrekpán(#973) - MAFline	16000km2	5576335	Junkyard	Utop	3861
+23.	bobanek:)(#715) - Prepaaac	14999km2	5472693		Robo	3961
+24.	Masse und Macht(#1709) - pLaYa Veliký	14403km2	5468217	qwertz	Utop	3875
+25.	Lipous(#1389) - Joker16.	21081km2	5409514	Ganja	Feud	3978
+26.	ImTheDoctor(#58) - Ersango	20366km2	5388125	RoboUtop	Robo	3920
+27.	.::PKZ Prasopysk::.(#531) - Kwasak	15984km2	5384944	PKZ	Demo	3961
+28.	Lunapark(#227) - Rambo123	18222km2	5210332	PJB	Utop	3968
+29.	FARMER(#1593) - DaniCZeK	13614km2	5202019	MŠ	Utop	3955
+30.	A trošku ééééra(#778) - MAFline	15000km2	5178596	Anarchy	Utop	3852
+31.	Nedistán(#1767) - Milned	15004km2	5156769	Anarchy	Utop	3721
+32.	nejdem(#746) - ek nejvetsii	10183km2	5140458	D3V1L5	Utop	3920
+33.	Fakin Hobol(#145) - smudlas	13920km2	5048749	-=PINP=-	Utop	3924
+34.	The Godfather(#437) - Sir Extrem	32323km2	4996617	FATHERS	Dikt	3821
+35.	Jsem z toho poplematený(#131) - thordevil	16719km2	4959429	Junkyard	Utop	3963
+36.	Kalypso(#655) - Hermes	16712km2	4945192	.::R::.	Robo	3959
+37.	.::PKZ Pokazím ti vek::.(#696) - kiss for you	16007km2	4914811	PKZ	Feud	3845
+38.	Farmici federace(#541) - ppedrnikar	16000km2	4900493	zooutop	Utop	3979
+39.	A stálo to za to ?(#759) - Saturas	11479km2	4847857	.SE.	Tech	3798
+40.	Vtipny Havino(#1425) - hlubik	12351km2	4825183	TTOC	Feud	3843

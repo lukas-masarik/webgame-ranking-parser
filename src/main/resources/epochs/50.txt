@@ -1,0 +1,42 @@
+50. VĚK
+#	Země	Rozloha	Prestiž	Aliance	Vláda	Kol
+1.	Why sooo SEEERIOUUUS???(#111) - eska	26786km2	15804033	KL	Kom	3946
+2.	Hellena - is typing(#6521) - .adm1n.	28200km2	15632725	Kačerov	Demo	3773
+3.	Vlčák jak dobrman(#6792) - DOG of WAR	26323km2	14246882	OS	Kom	3769
+4.	Hannibal`s Underworld(#522) - Dr.Leckter	27189km2	13612681	G.U.M.I.	Kom	3913
+5.	Trpaslík Karlík(#3658) - Pernic3k	22644km2	12058841	ŽsN	Demo	3758
+6.	První země(#1765) - .Zabrda.	26167km2	11899873	ZV	Demo	3890
+7.	Hannibalovo Podsvětí(#519) - Dr.Leckter	17622km2	11726314	Kačerov	Rep	3702
+8.	HypnoticaL(#610) - SAHI	20028km2	11427009	VICADMIN	Utop	3775
+9.	uFon s maLyM(#4269) - hugo.puchyř	30987km2	10783790	VJF	Dikt	3936
+10.	IT`S SNOWING SOMEHERE NOW(#6504) - .adm1n.	28428km2	10648951	=DS=	Kom	3902
+11.	OFC3? Jen převlečená lama(#4202) - OFC3	23577km2	10374308	*zoo*	Utop	3478
+12.	Voloďa(#4492) - Siriuss	21137km2	10358046	Nedivoč	Rep	3855
+13.	StoupaHrajeProRadost(#1620) - ACmilan	27314km2	10040660	G.U.M.I.	Kom	3881
+14.	500km za cenu 10.25kč(#108) - XXXGrey	27127km2	9146375	*zoo2*	Dikt	3882
+15.	.:BB:. Červenec(#4175) - TheSokar	23106km2	8861564	BumBum	Fund	3981
+16.	O5 připraven farmit :-*(#3158) - ttrtt	25000km2	8425355	SONY	Rep	3965
+17.	Astičkov(#10913) - Asticka	23380km2	8208422	AHA	Robo	2924
+18.	Až tě chytim, tak tě snim(#8094) - Temundzin	20477km2	8207004	OST3	Demo	3958
+19.	Lama lamou zůstane(#3775) - king000	27175km2	8052447	NFS	Robo	3982
+20.	Grblrzlrkovazemě(#2715) - .AnaX.	36310km2	7909321	KŠ	Robo	3815
+21.	Stay a while and listen(#1921) - Jiriss	28468km2	7851391	=-d14-=	Utop	3970
+22.	Farmit budu, hurá(#7455) - NemRan	21164km2	7824420	JOKES	Kom	3843
+23.	Princezna Klára(#5672) - Smajdaalf	21206km2	7805844	G.U.M.I.	Demo	3899
+24.	==letos ani nahodou==(#1816) - Los Heveros	21955km2	7778742	AotNW	Kom	3971
+25.	Veverka s dlouhym vocasem(#5581) - M454KR MARCUS	15826km2	7760047	Veverky	Robo	3911
+26.	Born of a broken MMAAANNN(#3154) - ...wrNdzo...	22084km2	7674151	--ratm--	Kom	3957
+27.	Miluji Tě broučku:-*(#748) - Natinka	26213km2	7651859	SB	Feud	3957
+28.	FC Liverpool(#4142) - Unubis	23183km2	7600126	BFP	Demo	3973
+29.	TQTuan strikes back(#1060) - Frantisek.Krizik	29814km2	7532284	SB	Feud	3897
+30.	.:BB:. Leden..(#8035) - klankosti	23832km2	7486895	BumBum	Kom	3965
+31.	Time To Say Goodbye(#3017) - Felubik	6286km2	7410171	KRBV	Dikt	3942
+32.	,která tě hned udělá(#804) - Cheater00	21993km2	7350146	OM..)/	Rep	3875
+33.	Beyond the death(#2597) - A. Valverde	19078km2	7282388	Legends	Demo	3966
+34.	Axiom(#3940) - Stanislav III.	21250km2	7189128	UVVB	Utop	3938
+35.	sa na supu doblves(#7904) - pepekTHEsailor	21408km2	7188295	2K	Kom	3983
+36.	Untitled(#5797) - mykl	24694km2	7184196	-RzP-	Robo	3948
+37.	Subwoofa(#7808) - Borsug	26366km2	7099597	=T=	Demo	3978
+38.	Zedels mamke =P(#2067) - Q4z3R	9746km2	7044700	SUN	Utop	3958
+39.	Tantum dic Verbo(#1948) - index	20360km2	6992030	CMUS	Utop	3786
+40.	lets play cs mruks:D(#8096) - Drunk3n	28451km2	6950245	POVKO	Robo	3889

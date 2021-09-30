@@ -1,0 +1,42 @@
+130. VĚK
+#	Země	Rozloha	Prestiž	Aliance	Vláda	Kol
+1.	S fackal sem svyho synka(#698) - Lord Biry	29479km2	18905090	M	Kom	3644
+2.	LOS made in...(#574) - Topisek	23848km2	18720091	DF	Utop	3773
+3.	hráč Naumo(#150) - Dr.hurka	23221km2	18687749	Across	Utop	3600
+4.	Ikuzák(#1118) - Borsug	26420km2	18322390	LORDI	Tech	3481
+5.	Parallel Universe(#22222) - Lord Kratos	22734km2	10443278	wW	Demo	3950
+6.	-DEAD- You got Bamboozled(#1311) - Rigor Mortiz	20631km2	10292512	DEAD	Demo	3876
+7.	Bojím se ČSB(#222) - Veriax	31527km2	10109457	ČSB	Feud	3878
+8.	Kimi Räikkönen(#750) - FARR FARR AWAYY	6363km2	9444444	EMP	Utop	3554
+9.	Canada(#86) - Canada	13483km2	9114050	DF	Kom	3916
+10.	Nesvačím, rovnou obědvám.(#1613) - imperial knight	15127km2	9045287	SJ	Fund	3895
+11.	Kde bolo tam bolo(#636) - raDeonn	27872km2	8628261	KL	Feud	3945
+12.	:-P(#235) - Koryyy	23222km2	8437009	WiC	Tech	3868
+13.	Aurora_Borealis(#631) - Koryyy	14999km2	8433262	WiL	Utop	3540
+14.	Infected Mushroom(#128) - Hydrophonic	22624km2	8375030	KL	Utop	3966
+15.	Afganistan(#324) - Lord Kratos	19264km2	7863409	PPCTPTL	Robo	3971
+16.	War or Peace(#751) - kagr15	12893km2	7849949	)CD(	Kom	3927
+17.	37373(#73737) - LuisFigo	29111km2	7690192	PIVO	Feud	3959
+18.	Graupen(#450) - Herr II	18499km2	7638758	-=PINP=-	Utop	3970
+19.	CATCH ME IF YOU CAN(#74) - Sir Extrem	24539km2	7582111	MENSA	Fund	3975
+20.	.:CZ-SK:.AK-47ProduSeR(#1110) - AKland	21159km2	7543970	ČSLA	Rep	3973
+21.	Stádo(#850) - trubkatrubkovic	24077km2	7465977	Bull	Robo	3975
+22.	LOS made in Zhonguo(#568) - Topisek	20419km2	7344404	.L.O.S.	Robo	3961
+23.	dont.again(#81) - Canada	23044km2	7339429	ČSLA	Robo	3961
+24.	Mládí v hajzlu(#1416) - Michal IX	20196km2	7154509	SPRITE	Demo	3919
+25.	Hefaystion(#64) - High Warlord Rxz	17000km2	7084511	ČSLA	Fund	3975
+26.	.::PKZ New Kids Nitro::.(#547) - Kwasak	18375km2	6959020	PKZ	Rep	3889
+27.	Fakin Holub(#31) - smudlas	14999km2	6661754	-=PINP=-	Utop	3948
+28.	Power of fight(#967) - terichem	19679km2	6557577	=T.T=	Feud	3939
+29.	Liškolev(#1200) - Atlantik	15000km2	6456846	KP	Utop	3918
+30.	R3SP3K7(#1487) - switch edimax	19355km2	6351686	*WinDe*	Robo	3925
+31.	Vyvrženec Rufus Dwirefald(#1496) - StillDeadCZ	18740km2	6262011	D1000	Utop	3970
+32.	Rimmerland(#650) - Lord Kamzo	18451km2	6244867	KL	Demo	3974
+33.	Astičkov(#1810) - Asticka	6999km2	6244547		Utop	3586
+34.	Fakin Hobol(#35) - smudlas	12817km2	6240857	M.A.	Utop	3973
+35.	Bombing V130(#1349) - the last Hero	14999km2	6201712	Bombing	Utop	3971
+36.	I hope you die(#1147) - Erethil II.	24223km2	6186198	M	Utop	3624
+37.	Prasodlak(#504) - Spratek	26794km2	6119630	KP	Dikt	3948
+38.	Avalon(#1150) - jarmier	17061km2	6115491	Divočíme	Robo	3879
+39.	Conqueror ufolog(#1660) - yuphon	17656km2	6101492	**CQR**	Utop	3843
+40.	LOS made in Destroyer(#774) - BlackTears	18298km2	6096129	.L.O.S.	Rep	3974

@@ -1,0 +1,42 @@
+96. VĚK
+#	Země	Rozloha	Prestiž	Aliance	Vláda	Kol
+1.	Hlavně bez emocí(#1656) - ridgeback	23027km2	9100115	Skins	Robo	3973
+2.	WINNER TAKES IT ALL(#433) - .adm1n.	27654km2	8628701	.:V3R:.	Robo	3960
+3.	Ten Thousand Promises(#1222) - Gxx	27700km2	8601867	-=LH=-	Robo	3959
+4.	Neodejmutelná hvězda(#1742) - .adm1n.	23849km2	8329972	M	Robo	3962
+5.	Legendary Farmer(#109) - Carcin	21285km2	7804309	LW	Demo	3982
+6.	Psyclops Carnival(#2764) - 1437DAG	24140km2	7802842	DAG	Kom	3926
+7.	Feel The Beat(#116) - Zorg	22000km2	7607297	PRDOX	Robo	3961
+8.	Lucky Luciano(#234) - Uaah	26984km2	7588964	-=F*A=-	Utop	3979
+9.	LOS made in Destroyer(#184) - BlackTears	23962km2	7245552	.L.O.S.	Robo	3889
+10.	to se tam nevejde...(#1619) - Prařeřichořezbář	22484km2	7105841	ANUS	Robo	3946
+11.	Warner Bros..(#1105) - ikyura	21212km2	6303099	BAMBUSKY	Demo	3952
+12.	i miss Frigid friends(#2628) - Josefko	19700km2	6214141	ČD	Kom	3946
+13.	000O0000(#88) - Pattis IV.	17695km2	6104321	ETD	Robo	3948
+14.	Da Hulz(#330) - dahulz.alpaca	12665km2	6080251	---	Utop	3937
+15.	hävittäjä(#1026) - Filip I	19791km2	5905977	ThermX	Feud	3967
+16.	peacemaker(#3062) - Mihall	21813km2	5801870	*SnsrN*	Robo	3975
+17.	How are you, expert?(#2142) - Mrkvička777	14333km2	5792315	-BLOOD-	Rep	3950
+18.	Bibi in da Kromeriz(#216) - King Bibi 666	17835km2	5712783	FCT	Robo	3946
+19.	Best of the west007(#1452) - FriedrichPaulus	28521km2	5682373	DF	Robo	3946
+20.	FATA KAPITÁNA MORGANA(#108) - snasa1	25295km2	5541594	Tabacek	Robo	3941
+21.	Slečinka z Ufounkova(#198) - a1d2h2	21371km2	5527709	GanG	Robo	3786
+22.	Suším hríby autogénom(#251) - AKland	23691km2	5476096	DF	Robo	3875
+23.	Dokaž, že to dokážeš kámo(#1444) - Ranger22	19082km2	5380355	US	Feud	3968
+24.	TakNicTakSlez(#2489) - labojse	20281km2	5327306	ČSB	Robo	3980
+25.	Clarke(#856) - Shrunke	19999km2	5260896	5S	Robo	3944
+26.	Pssst(#2599) - Dergon	20503km2	5258571	ELS	Feud	3983
+27.	Destiny(#262) - Vis Maior	14199km2	5204463	(ŠL)	Utop	3983
+28.	urielov(#801) - sir uriel	4291km2	5173337	RaD	Kom	3919
+29.	-We are Electric-(#1783) - Ducky Killer	22653km2	5162964	Clarbon	Rep	3961
+30.	Gerasimovka(#1167) - Jurgens	19841km2	5140659	68	Robo	3950
+31.	Oppa Gangnam Style(#2439) - Dragon.Slayer	19999km2	5087381	-=F*A=-	Robo	3896
+32.	Land of Hallucinations(#2346) - ...Geouring...	15681km2	5066093	VMCh	Feud	3877
+33.	Touha je zázrak, kámo...(#78) - thordevil	12584km2	5045652	Anarchy	Utop	3964
+34.	Rigolaus(#1867) - TPR	19863km2	5018236	ToAn	Feud	3965
+35.	Nikdo ... :((#221) - King Bibi 666	16584km2	4963723	EPT	Robo	3965
+36.	tukabel - tamkabel(#852) - posterr	19100km2	4848074	E.M.P	Robo	3982
+37.	Kurai(#2399) - bukvicka13	17302km2	4834769	PhaMa	Feud	3983
+38.	No The Land(#1460) - 4n.Tr4x	15544km2	4789767	NTL	Demo	3982
+39.	Dergonie(#2589) - Dergon	17260km2	4781520	ELS	Feud	3982
+40.	MY WAY(#2551) - .adm1n.	14513km2	4606115	33EASY33	Tech	3956

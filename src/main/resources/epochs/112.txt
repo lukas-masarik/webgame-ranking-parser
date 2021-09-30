@@ -1,0 +1,42 @@
+112. VĚK
+#	Země	Rozloha	Prestiž	Aliance	Vláda	Kol
+1.	NÁZEV ZEMĚ(#540) - mLn	29999km2	18402394	:O	Kom	3668
+2.	Frndic(#1865) - Ctirad2	23150km2	17004604	M	Utop	3427
+3.	War Criminal(#792) - Remor	30366km2	14207470	Chlastám	Feud	3666
+4.	Kup si moje CD(#131) - Aram Chroustal	18999km2	12865994	tpOwCh	Tech	3648
+5.	(-,-)(#1535) - Komrl	23213km2	12781509	(--)	Kom	3970
+6.	Yung Lean(#395) - ridgeback	20999km2	12019159	M	Kom	3648
+7.	Grandlehárna(#367) - Lord.droL	28539km2	11770127	**CQR**	Feud	3911
+8.	Masias(#831) - Masias	25335km2	10630603	V3ND3TA	Utop	3972
+9.	jetokomediejsoutoklauni(#629) - Afromoxa	25242km2	10002223	-.-	Kom	3971
+10.	ahoj (:(#1555) - Duskooo	22755km2	9116429	Chlastám	Robo	3928
+11.	Trolejbus(#1410) - Martin poula	28130km2	8831878	.:?:.	Robo	3979
+12.	-FA- Lucifer(#1550) - Uaah	22222km2	8784822	-=F*A=-	Robo	3977
+13.	THC Maniakov(#1914) - Bigbosh2	21096km2	8370205	W	Utop	3653
+14.	Titantida(#1249) - amuel	21856km2	8068867	JTLH	Demo	3979
+15.	dura lex sed lex(#1302) - Lord Demokrat	20789km2	7937588	=BW=	Kom	3968
+16.	Kebab House(#809) - FR3EZY	25238km2	7916221	-=F*A=-	Feud	3972
+17.	Eleanor Rigby(#152) - mutavault	26658km2	7840348	ŠANG-HAJ	Robo	3941
+18.	KRIEGER no.99(#100) - Vommel	23102km2	7447332	KRIEGER	Rep	3979
+19.	Tvoja máma neumí bruslit(#658) - skazinoska	21085km2	7295852	Chlastám	Robo	3960
+20.	.:CZ-SK:.Kupis(#113) - Canada	26058km2	7207684	ČSLA	Feud	3914
+21.	Don`t go backwards(#38) - xr3d	15790km2	7149126	Chlastám	Demo	3969
+22.	Was geht ab alter ?(#1559) - Duskooo	19245km2	7128718	-.-	Robo	3949
+23.	So hot(#554) - 2xcl.	21993km2	7077096	M	Robo	3977
+24.	Svazarm(#45) - Jurgens	23339km2	6780727	XL650v	Rep	3979
+25.	RUMBURAK(#618) - veganporno	23638km2	6707348	HDL	Robo	3849
+26.	Guernsey(#1188) - imha	23873km2	6611657	Chlastám	Rep	3973
+27.	Mercedes-Benz SLS AMG(#573) - Clarkson	35000km2	6580000	68	Dikt	3972
+28.	Gotham(#179) - ListerD1	25160km2	6519836	:O	Robo	3673
+29.	Lamatlama(#1509) - Temundzin	15555km2	6459808	Chlastám	Utop	3944
+30.	Artek(#37) - Jurgens	29395km2	6435987	68	Rep	3979
+31.	Gerasimovka(#40) - Jurgens	29445km2	6364257	68	Rep	3975
+32.	.:cz-sk:.Tv0j3 mÁmA(#657) - demonstrate	17770km2	6292443	Cz-Sk.	Kom	3968
+33.	SUXessfulI(#662) - LuisFigo	19302km2	6165982	SUX	Robo	3961
+34.	THOR(#521) - kaiman	20308km2	6093850	Avengers	Rep	3979
+35.	in dubio pro reo(#1298) - Lord Demokrat	19774km2	6076788	68	Feud	3979
+36.	Dong Yaqian(#273) - Topisek	31019km2	5935161	-=F*A=-	Dikt	3892
+37.	To neumíš co? :D(#2032) - mulako	27248km2	5929204	LEGO	Robo	3700
+38.	Oink(#373) - reklamaop	13039km2	5882336	MACH	Kom	3840
+39.	SUXessfuIl(#843) - LuisFigo	16666km2	5829677	SOX	Utop	3967
+40.	Koštování Strohu(#869) - Just4that	17478km2	5745755	Nepijeme	Utop	3979

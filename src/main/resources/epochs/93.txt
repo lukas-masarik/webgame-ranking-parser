@@ -1,0 +1,42 @@
+93. VĚK
+#	Země	Rozloha	Prestiž	Aliance	Vláda	Kol
+1.	WINNER TAKES IT ALL(#98) - .adm1n.	22256km2	13266464	cerveza	Feud	3596
+2.	Neslušňák220(#2352) - G.R.E.E.K	30500km2	10391576	mmu	Robo	3915
+3.	\(#3150) - cmelo	20712km2	9894514	/	Demo	3939
+4.	Vesmirna kuna(#2184) - Borsug	26919km2	9215241	=T=	Tech	3745
+5.	AntraX Sverdlovsk(#2145) - hum4nic	24888km2	8888752	anx	Feud	3936
+6.	Láhví vína proti systému(#2635) - KEPR	17560km2	8763536	Nedivoč	Fund	3861
+7.	Rise(#808) - M3mmOrY	16248km2	8632700	SOPHIE`S	Feud	3770
+8.	HellGuard of KKD 1200/130(#407) - 666puky	21352km2	8426046	H.T.	Demo	3987
+9.	Slečinka Art of Flight(#2075) - .troublemaker.	24222km2	8374036	KULE7	Feud	3920
+10.	Do it for your Pride(#2550) - Gxx	25325km2	8353072	Wrath	Anar	3886
+11.	Szarża Husarii(#2369) - Lord Radimag	20162km2	8107589	:O	Demo	3983
+12.	Temný mesiac(#36) - hemendex	25167km2	8015055	Mang66	Fund	3952
+13.	Vše znám, umím, udělám(#2020) - mulako	21241km2	7863109	LEGO	Kom	3943
+14.	Drugs, Drugs and Sex(#2944) - xr3d	16070km2	7716627	MK	Utop	3914
+15.	Napjate_cecky(#1139) - keltove	19999km2	7706492	*SnsrN*	Utop	3753
+16.	Morozem(#1499) - THEdread	20500km2	7364962	ItNofS	Demo	3982
+17.	Bíďa žije na pohodu(#121) - Hadrabator	14999km2	7222227	G.U.M.I.	Kom	3938
+18.	Fuzzy Lumpkins(#735) - Muffia	18396km2	7208013	PíPíBí	Demo	3951
+19.	This is the revolution(#2228) - Duskooo	24041km2	7041862	-.-	Demo	3947
+20.	Tartarus(#1683) - Zaklinac01	20914km2	6771270	r0c	Feud	3960
+21.	Titania(#1942) - Phoebe	21383km2	6667042	IDL	Robo	3974
+22.	Do důchodu daleko(#81) - Michal IX	22411km2	6645571	SPRITE	Robo	3981
+23.	Little Ass(#3263) - dragan	23930km2	6504177	KKnD	Robo	3893
+24.	Boh(#598) - West007	20293km2	6450133	Chlastám	Fund	3943
+25.	Sednem sebe na lavočku(#514) - Shrunke	15358km2	6434367	Across	Feud	3983
+26.	HAARP(#1322) - hum4nic	19999km2	6376676	VT	Utop	3882
+27.	Lord disaster(#168) - Defectorr	25425km2	6353738	B.K.	Utop	3897
+28.	StriktShop(#2895) - ultratypek	23031km2	6339535	VT	Demo	3951
+29.	You never know...(#207) - Zorg	21415km2	6333333	MK	Robo	3445
+30.	Hellboy(#652) - .Hellboy.	17699km2	6244022	HISTORY	Tech	3904
+31.	Bombing Ten hodný(#151) - White Dead	14387km2	6228805	Bombing2	Utop	3942
+32.	desconocido(#1482) - timil	16889km2	6130671	S*K	Kom	3973
+33.	And here comes DENDI(#1739) - Shrunke	17673km2	6111402	Genocida	Feud	3972
+34.	Vtipny Havino(#3549) - hlubik	15005km2	6077144	ČD	Utop	3702
+35.	.:CZ-SK:.AK-47ProduceR(#1808) - AKland	20333km2	6071962	ČSLA	Kom	3979
+36.	Kladivo na roboty(#1335) - DavidGIGI	12999km2	5846666	BezKulka	Utop	3966
+37.	Církev Batmana vykupitele(#2918) - SALADDIN	16374km2	5828627	*JT*	Robo	3865
+38.	Já to nebyl. Fakt ne :-((#1196) - Michal44	27533km2	5793230	SOPHIE`S	Robo	3951
+39.	Alt Gr(#1200) - MiNioN	17718km2	5612915	COOL	Robo	3986
+40.	R3D Eyed Devil(#880) - BlackTears	16813km2	5580271	R3D	Robo	3966

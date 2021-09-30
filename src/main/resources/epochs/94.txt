@@ -1,0 +1,42 @@
+94. VĚK
+#	Země	Rozloha	Prestiž	Aliance	Vláda	Kol
+1.	Zabombi si zadarmo(#2073) - Vojtiiik	24444km2	20633000	LBL	Utop	3474
+2.	Boh(#874) - West007	31299km2	15639658	Legend	Kom	3908
+3.	Papírový motýlek(#2035) - ridgeback	20417km2	14085834	BFP	Kom	3487
+4.	.::Gondor::.(#1853) - .Aragornikk.	27828km2	11150081	S.M.R.T.	Demo	3982
+5.	Dvě v leže(#2132) - Smajdaalf	20579km2	10601468	Kačerov	Utop	3698
+6.	Labor vincit omnia(#610) - Dzindzik	27205km2	10017111	S.D.E	Robo	3956
+7.	Nic a vzduch(#2748) - Defender...SID	24881km2	9820825	=*DC*=	Demo	3967
+8.	The One and The Only(#1638) - Gxx	9999km2	9601431	F(r)iend	Kom	3745
+9.	Láhví vína proti systému(#937) - KEPR	29808km2	9079498	S.D.E	Feud	3981
+10.	Vyzývám k revoluci...(#63) - KEPR	26736km2	8980283	SOPHIE`S	Demo	3983
+11.	Palenka(#209) - Dr.hurka	30112km2	8413632	cerveza	Robo	3943
+12.	INvinoVERITASinPIVOtaky(#2485) - . . . . .	19999km2	8385807	:MNVH:	Demo	3929
+13.	SOPHIE`S FENEČKA(#1764) - AndreFox	27813km2	8373677	SOPHIE`S	Feud	3946
+14.	COsrovnávajTRÁVUsDROGAMA(#768) - snasa1	27993km2	8287632	OXMOZE	Fund	3852
+15.	Sta Lin(#1412) - 19MINO94	19999km2	8153708	BumBac	Demo	3936
+16.	Titania(#1569) - Phoebe	23520km2	8150887	IDL	Robo	3965
+17.	Easy target,feelin` this?(#440) - Mrkvička777	19708km2	8134118	cerveza	Anar	3777
+18.	Anfalas(#1458) - xerou	19999km2	7871074	Sk-3	Kom	3955
+19.	Sarkasmus je moje milá(#1073) - mara8	22598km2	7707106	Junkyard	Feud	3983
+20.	.:AveCesar:.Pat(#800) - Ares65	16099km2	7436428	AveCesar	Utop	3979
+21.	Dawe(#2833) - Cenzor3d	19823km2	7110661	Across	Demo	3836
+22.	Egizia(#1484) - Sweetie1	16962km2	6888222	Junkyard	Utop	3920
+23.	..........(#150) - Pattis IV.	19339km2	6666666	Across	Tech	3753
+24.	Feel The Beat(#201) - Zorg	37232km2	6610227	Kačerov	Rep	3983
+25.	Modrý pták(#1985) - ridgeback	17547km2	6300748	LBL	Robo	3950
+26.	2. Panzer Division(#214) - Dr.hurka	22640km2	6250070	B.K.	Kom	3970
+27.	Yo soy el grande amigo(#531) - Defectorr	21522km2	6133000	LdlS	Feud	3902
+28.	Junkboy(#794) - .Hellboy.	20297km2	6109269	Junkyard	Demo	3983
+29.	Slecinka DF(#1945) - Hanz Guderian	20509km2	6038624	DF	Demo	3983
+30.	Panzer Lehr Division(#360) - Tomasius Velky	27298km2	6005708	B.K.	Feud	3833
+31.	Draco dormiens numquam ti(#305) - Dzindzik	18511km2	5980355	Legend	Robo	3979
+32.	Dark Helpik(#1214) - bigking2006	23761km2	5972687	-.-	Robo	3983
+33.	To neumíš co? :D(#1114) - mulako	24654km2	5961654	LEGO	Robo	3983
+34.	SOPHIE`S BDSM(#199) - U.U	23696km2	5911361	SOPHIE`S	Robo	3809
+35.	Ja som zakon(#2339) - Duskooo	22222km2	5908071	-.-	Robo	3979
+36.	U kralika Bernarda(#1776) - Nokiac	19499km2	5868575	Wrath	Rep	3951
+37.	ThoseWhoKnowWillNotTell(#1137) - Pyromancer	23347km2	5831938	Wrath	Kom	3938
+38.	Slečno,máte velkou garáž?(#44) - Kuboj	21421km2	5713394	.:YD2:.	Feud	3969
+39.	Sayonara ombre(#54) - Supra1Soul5Play	20363km2	5683874	Chilli	Utop	3981
+40.	vandals hope(#175) - UniQe	21026km2	5641360	A-A	Demo	3981

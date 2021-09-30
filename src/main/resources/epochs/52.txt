@@ -1,0 +1,42 @@
+52. VĚK
+#	Země	Rozloha	Prestiž	Aliance	Vláda	Kol
+1.	DONT STOP ME NOW(#50) - xkukx	16000km2	20636220	UFO	Tech	3840
+2.	Kořen(#1425) - ACmilan	19999km2	15000000	UP	Utop	3575
+3.	salamista(#201) - buko10	24530km2	14779367	cerveza	Kom	3770
+4.	Not to touch the Earth(#308) - Pepemistr	28000km2	14000000	LLS	Kom	3942
+5.	Gallax KILLER(#906) - boží vládce	39500km2	13819624	KOKAIN	Robo	3972
+6.	WHAT IF GOD WAS ONE OF US(#1302) - .adm1n.	24338km2	13567930	=DS=	Demo	3920
+7.	R3D Royal Flush(#78) - Dezider	34968km2	13525536	R3D	Robo	3860
+8.	.::Gondor::.(#6834) - .Aragorn.	23333km2	12557582	ZERO	Utop	3562
+9.	Bíďa jede na stipendium(#1170) - Hadrabator	33570km2	12134921	G.U.M.I.	Dikt	3573
+10.	Rozvojová Ukrajina(#1673) - Wisnowiecky	23784km2	11780834	*UF*	Utop	3567
+11.	Brebta breptá bakalářku(#1442) - Iskalon	31960km2	11506777	G.U.M.I.	Feud	3805
+12.	KAZAŇ(#4553) - IngBadzo	36819km2	11089636	.:.:.:.	Robo	3962
+13.	Palác Lidu(#4558) - Lord Darken Rahl	31013km2	11088195	JIL	Dikt	3952
+14.	R3D naked babes(#4294) - Battleruler	26874km2	10633333	R3D	Robo	3877
+15.	Catherine Zeta-Jones(#220) - Comanndos	26666km2	10607487	DEJAVU	Robo	3718
+16.	.:CZ-SK:.Disneyland(#108) - child	29035km2	10550251	ČSLA	Kom	3822
+17.	Spleen And Hourly Idling(#550) - SAHI	19410km2	9699155	LLS	Utop	3937
+18.	sympatikus(#139) - .AnaX.	29176km2	9471387	kš	Robo	3979
+19.	Pravidlo 7 neobejdeš(#3919) - the bestest	21462km2	9399006	=*ss*=	Demo	3787
+20.	Gumová víla(#240) - Temundzin	23198km2	9231111	Bourárna	Kom	3847
+21.	AUTORITA - EUBA(#1947) - ftacik	27587km2	9205856	AUTORITA	Feud	3748
+22.	Mazácky Ďábelský topinky(#281) - TheSokar	21215km2	9027053	cerveza	Robo	3861
+23.	urielov(#1937) - sir uriel	9999km2	8810996	DF	Kom	3661
+24.	Zlatíčko moje :love: you(#666) - xkukx	29474km2	8705924	SB	Robo	3974
+25.	Chelsea(#31) - .Serious Sam.	24893km2	8619418	LLS	Demo	3979
+26.	*** NO MERCY ***(#1788) - Lord Zazar 13	17054km2	8592549	.::RT::.	Demo	3936
+27.	To neumíš co?:D(#2835) - mulako	14999km2	8579093	.:oMg:.	Demo	3571
+28.	011001100110(#7045) - chazy chaz	19347km2	8526399	B.D.	Robo	3954
+29.	LiCk mE liKE a LoLliPoP(#6123) - Kosakk	22222km2	8526066	LEFT	Utop	3946
+30.	Nemilosrdná a Nebojácná(#2132) - Martain	25972km2	8519949	ŽsN	Robo	3878
+31.	+=+=+=+=+=+=+=+=+=+=+=+=+(#1175) - futuree	20020km2	8514486	*GA*	Kom	3933
+32.	The Day After Tomorrow(#6604) - chip..	27473km2	8473558	SB	Robo	3957
+33.	no to mi ho teda vyndej(#4412) - Kamail	29500km2	8296109	KOKAIN	Robo	3950
+34.	hram podla seba na vas K(#3754) - jack32	32367km2	8291235	:)MM(:	Robo	3976
+35.	279081548(#195) - TECHWARRIOR	19666km2	8266666	ICQ	Kom	3846
+36.	Highway to HELL..(#7000) - DieWalker	27471km2	8065474	SB	Robo	3835
+37.	mier(#717) - Davac	19010km2	8043194	ŽsN	Tech	3933
+38.	.:CZ-SK:.Dealer(#7193) - Darth Knight	26052km2	8019990	ČSLA	Feud	3825
+39.	Kouřim,piju,holkama žiju(#2638) - Willsonn	30700km2	7999444	1	Robo	3971
+40.	fy_biomechanik(#765) - Joe091	24950km2	7942851	cerveza	Dikt	3770

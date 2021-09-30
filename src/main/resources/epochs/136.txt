@@ -1,0 +1,42 @@
+136. VĚK
+#	Země	Rozloha	Prestiž	Aliance	Vláda	Kol
+1.	Liliana(#353) - Defectorr	29999km2	19873331	K	Demo	3611
+2.	Bloody Tommy Wiseau(#410) - Konopess	27623km2	15270737	VENDETA	Demo	3900
+3.	The Bad Touch(#419) - Erethil II.	25188km2	12684928	WG-Yang	Rep	3985
+4.	Jason Bourne(#329) - Comanndos	24222km2	12000000	DEJAVU	Tech	3897
+5.	Tyler Durden(#678) - Comanndos	18333km2	10400000	ZÁSKOK	Tech	3507
+6.	-.-.-.-.-.-.-.-.-.-.-,-,-(#1725) - HromikSir	23457km2	10104664	MORE	Demo	3970
+7.	Kdo leží, neběží(#1407) - FARR FARR AWAYY	9599km2	10000000	FETKA	Tech	3648
+8.	SUXessfulI(#647) - LuisFigo	29213km2	9782212	SUX	Robo	3973
+9.	Thomas Hughes 666(#1549) - kill666	25932km2	9467693	Afrik	Tech	3986
+10.	JOHN FORBES NASH(#1228) - Reich Graf	27178km2	8916762	MENSA	Fund	4009
+11.	Tady se nemazlim(#1248) - SOH	21225km2	8203579	)CD(	Kom	3871
+12.	*`=/+-.,:()(#792) - Patovímentálove	24777km2	7918429	RUM	Feud	3882
+13.	Oslintaná Zlatonka(#1675) - labojse	26013km2	7731801	AF	Robo	4009
+14.	CTK(#549) - Ctirad2	17346km2	7501156	=*SS*=	Tech	3995
+15.	Syrius the Plane(#635) - DieWalker	17751km2	7326761	FETKA	Tech	4008
+16.	Gerasimovka(#99) - Jurgens	27041km2	7302439	68	Utop	4008
+17.	Magie z mrkvové mafie(#1157) - Sinthoras I.	17264km2	7251579	Mrkev	Utop	4008
+18.	S fackal sem svého vnuka(#545) - Lord Biry	10999km2	7178782	WG-Elite	Utop	3876
+19.	uu ííííí u aáá(#1216) - Tattser	21129km2	7171129	ZT	Robo	3902
+20.	Naumo(#62) - Dr.hurka	19095km2	7165218	Across	Dikt	4008
+21.	-DEAD- Erangel(#6699) - Rigor Mortiz	19999km2	7140473	DEAD	Utop	3995
+22.	Bloody Drak(#1303) - D.r.a.k.	19937km2	7123426	VENDETA	Utop	3978
+23.	Velky uličník(#1030) - trubkatrubkovic	18278km2	7118129	Across	Robo	4005
+24.	O šesti bludech(#381) - mara8	12225km2	7036552	IF	Tech	3716
+25.	-DEAD-PpepeNemaPenachym(#111) - Diák	19999km2	7008443	DEAD	Utop	3915
+26.	Mia Wallace(#1445) - Telwin	27413km2	6988267	SUX	Feud	3970
+27.	Túrin Turambar(#323) - hlidac3	13333km2	6975126	HPMOR	Tech	3968
+28.	I hope you die(#357) - Erethil II.	9999km2	6959782	WG-Elite	Fund	3705
+29.	in dubio pro reo(#1082) - Lord Demokrat	18412km2	6866746	FETKA	Tech	3999
+30.	Elpro-Energo(#72) - král urucskýý	16538km2	6842101	FETKA	Tech	3982
+31.	Technograd(#341) - zhn	20978km2	6548435	WMYQ	Feud	3954
+32.	Temporal Paradox(#1123) - Deus	14600km2	6418492	SPRITE	Utop	4006
+33.	Maxikov(#465) - -MaX-	14998km2	6405874	queens	Utop	4007
+34.	Měsíčník Obrovský(#333) - Diák	16213km2	6359478	WG-Elite	Utop	3865
+35.	Siberia(#1485) - snasa1	26672km2	6348784	AF	Robo	3921
+36.	Who wants to live forever(#1569) - Zorg	14499km2	6338360	IF	Utop	3973
+37.	Malibu Vodka Coco(#364) - Lubos.H	14994km2	6322498	WMYQ	Utop	4004
+38.	TheNORTH(#432) - AzorAhai	17786km2	6211654	MAFIE	Demo	3999
+39.	Sex s medvídkem Pú(#1570) - Wojxtier	15830km2	6173964	Anarchy	Utop	3977
+40.	Who dares wins(#1355) - Doktor Dušan	19235km2	6091873	CMEPTb	Robo	4003

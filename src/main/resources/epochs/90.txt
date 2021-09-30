@@ -1,0 +1,42 @@
+90. VĚK
+#	Země	Rozloha	Prestiž	Aliance	Vláda	Kol
+1.	Vesmirna kuna(#1710) - Borsug	32342km2	11495593	=T=	Demo	3977
+2.	Astičkov(#817) - Asticka	16999km2	11181666	AHA	Utop	3850
+3.	Dance with the Devil(#1366) - Tomasius Velky	29314km2	10648039	**CQR**	Robo	3964
+4.	Jeff Winger(#1819) - Martin858	26700km2	9878839	SIL	Demo	3968
+5.	Asian hookers(#786) - inkvizitoor	25459km2	9785613	MI6	Kom	3862
+6.	You know nothing Jon Snow(#1820) - Martin858	20400km2	9396975	GoD	Kom	3867
+7.	Jedi v akci(#1249) - D.r.a.k.	27798km2	9345704	VT	Feud	3739
+8.	Rogue state(#1829) - cachtan	30000km2	9164907	ZT	Feud	3979
+9.	Malá prodavačka zápalek(#2036) - mara8	24816km2	9163169	**CQR**	Demo	3978
+10.	Magie Spravedlivé Mafie(#1855) - Sinthoras I.	29007km2	9135640	.DaZ.	Robo	3979
+11.	Easy target,feelin` this?(#1751) - Mrkvička777	25754km2	9128582	Rafani	Kom	3949
+12.	Ash and dust(#225) - Defender...SID	21178km2	8866447	=T=	Demo	3976
+13.	Dol Blathana(#2351) - ThoughtGuy	21944km2	8511436	**CQR**	Utop	3946
+14.	-FA- Fenomenal Advocate(#261) - LeoDaVinci	24200km2	8184149	-=F*A=-	Tech	3979
+15.	.:W:. Ace on the river(#824) - M3mmOrY	13281km2	7916888	*WiNDe*	Utop	3648
+16.	Stačilo se zeptat..(#2207) - Atlantik	25770km2	7884438	VT	Utop	3680
+17.	Atenza(#104) - ...a naposled...	23677km2	7879018	COOL	Demo	3977
+18.	Lechtivá slečinka(#1121) - c4u710n	21845km2	7556430	M	Robo	3977
+19.	Mike Wazowski(#388) - Defectorr	23651km2	7553297	LdlS	Demo	3798
+20.	prařeřichořezbářov(#802) - Prařeřichořezbář	25318km2	7462063	S.M.R.T.	Robo	3972
+21.	fnu xD(#44) - TheSokar	19266km2	7457084	xD	Tech	3648
+22.	JAKvyKmyTAKmyKvy(#2047) - vanna	20302km2	7422713	VT	Tech	3908
+23.	Baldr(#1404) - Tomasius Velky	19999km2	7214614	ZT	Robo	3925
+24.	My life is porn(#449) - Defectorr	22512km2	7172358	NBS	Robo	3940
+25.	God Si Me(#1157) - God si me	21271km2	7006847	**CQR**	Tech	3928
+26.	Tak Ako?(#2653) - mental cruelty	14350km2	6662932	SaBot	Utop	3757
+27.	Závidíš co?(#851) - PEJSEKaKOČIČKA	23297km2	6533200	M	Fund	3977
+28.	Harted(#2458) - Marshallin	18844km2	6440740	T3R0R1ST	Demo	3976
+29.	DaHulzova Zelenina(#32) - dahulz.alpaca	22216km2	6392499	M	Dikt	3964
+30.	Namyslená slečinka(#2382) - van dame	29535km2	6252127	SAZ	Feud	3859
+31.	x.x.x.x.x.(#1801) - MARTiJACK	22117km2	6153478	-osn2-	Feud	3931
+32.	Moje Borůvka(#1169) - green88	22221km2	6074319	)CD(	Utop	3945
+33.	Conqueror z donucení(#1425) - .Hellboy.	22999km2	6059685	**CQR**	Feud	3978
+34.	Guferko(#1636) - Ctirad2	22877km2	6054367	VT	Fund	3940
+35.	Sarkasmus je moje milá(#414) - mara8	18492km2	5959178	M	Kom	3979
+36.	Dawe(#1020) - Cenzor3d	22087km2	5934654	T3R0R1ST	Robo	3978
+37.	Bombing Hero(#1757) - the last Hero	18884km2	5866401	Bombing	Utop	3963
+38.	bim bam a je tam(#1868) - DavidGIGI	15900km2	5852647	T3R0R1ST	Feud	3978
+39.	TopGládeR(#157) - High Warlord Rxz	20222km2	5826038	AHA	Robo	3964
+40.	Awakening(#1361) - Tomasius Velky	23635km2	5810865	M	Fund	3886

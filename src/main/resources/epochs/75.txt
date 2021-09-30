@@ -1,0 +1,42 @@
+75. VĚK
+#	Země	Rozloha	Prestiž	Aliance	Vláda	Kol
+1.	JenVulDavaJidloPod26(#1277) - Ctirad2	37739km2	18698760	ManG	Robo	3584
+2.	...:::::NUf DRAKU:::::...(#802) - XXXGrey	23619km2	15802336	-=LH=-	Utop	3870
+3.	Naumo(#45) - FriedrichPaulus	25999km2	15045497	WHO	Utop	3680
+4.	Vtipný demokrat(#208) - Wlad	32743km2	13590246	VTIP	Demo	3881
+5.	Ita-=LH=ia pwnd(#1987) - Leninus	24444km2	12071383	-=LH=-	Tech	3855
+6.	Gerasimovka(#71) - Jurgens	36135km2	11602304	ToAn	Rep	3979
+7.	eidam evoluce(#2225) - d13	21510km2	11195503	.::VR::.	Utop	3553
+8.	SiL ikONy 4EveR(#234) - klankosti	36396km2	10930463	P.f.B	Robo	3973
+9.	No Skill(#1551) - CanisLupus	23118km2	10226833	Across	Utop	3558
+10.	PeknyKvadraky(#1287) - Ctirad2	29899km2	9539484	VTIP	Robo	3965
+11.	-iZdEmUzEbYtVaSeReKlAmA-(#265) - Elkor	25252km2	8945000	ICQ	Tech	3779
+12.	skusim(#1263) - epicFAIL	26289km2	8745741	gto	Robo	3883
+13.	c49sy7(#1176) - MILATA	21531km2	8053263	SSo	Rep	3979
+14.	Však je to jen hra(#250) - Drace	16987km2	8049915	BFP	Utop	3934
+15.	Bijuu Tobi(#175) - Lordisko	24513km2	7450462	Akatsuki	Rep	3974
+16.	24/7(#2181) - OBB SpameR	24579km2	7424461	-=LH=-	Fund	3859
+17.	Hráme iba hity(#213) - Wlad	10992km2	7300000	LMD	Utop	3796
+18.	Nemám vás rád :)(#244) - Drace	14335km2	7183733	*`=/-.,	Utop	3938
+19.	0101001100101110(#2911) - HeadShit	33208km2	7145203	::R::	Robo	3969
+20.	NRsF: J@ N3HR@you W3BG@M3(#338) - ja666	16999km2	6996268	NRsF	Utop	3787
+21.	CRADLE OF FILTH(#477) - Rambob	17220km2	6857793	KiX	Utop	3971
+22.	Ema mele mámu(#1900) - .Skar.	20365km2	6840555	Evil	Demo	3857
+23.	Zlaté mince nechřestí(#558) - iLuke	16490km2	6835560	/-SR-/	Utop	3971
+24.	Red Dwarf(#2782) - ListerD1	11981km2	6787300	(RV)	Utop	3933
+25.	Slečinka z Ufounkova(#2853) - a1d2h2	21381km2	6633337	ManG	Robo	3978
+26.	Pavlinecka(#430) - Neodym	23029km2	6626757	PaKoo	Robo	3963
+27.	AT ME BRO YOU COME(#1071) - M454KR MARCUS	28317km2	6623218	Chlívek	Fund	3972
+28.	Pštros prasák(#380) - Dark Phoenix	15885km2	6504302	Pštrosi	Utop	3759
+29.	Slivovica power(#317) - edgeTek	21586km2	6503469	.:Z:S.:	Kom	3660
+30.	KAZAŇ(#2848) - IngBadzo	29757km2	6479985	DDO	Robo	3957
+31.	Meskaline(#2794) - LittleMan	17435km2	6465635	4FUN	Utop	3978
+32.	brain`s hive(#1003) - br4insh4ker	17202km2	6390489	VÍCADMIN	Kom	3881
+33.	-=LicH=-(#299) - zase jachym	22268km2	6230334	-=LH=-	Robo	3947
+34.	Marin(#1382) - Vibromax	24277km2	6192939	P.f.B	Robo	3970
+35.	Vtipný Limoboy(#392) - .Hellboy.	17257km2	6006666	VTIP	Robo	3979
+36.	Nemilosrdná Slečinka(#308) - c4u710n	21787km2	5965549	ManG	Robo	3977
+37.	nEjLepšÍŽenAjePolOženÁ(#1515) - klofák	22140km2	5958182	Lofas	Robo	3975
+38.	IloveAlkohol(#693) - abstinentcolek	16709km2	5886851	NB	Utop	3829
+39.	Zacinam si odvykat od ...(#704) - AlpiNko	17949km2	5849011	ZNR	Robo	3909
+40.	White Koksers(#2265) - JoservonOser	14929km2	5839616	CGHMN	Utop	3834

@@ -1,0 +1,42 @@
+148. VĚK
+#	Země	Rozloha	Prestiž	Aliance	Vláda	Kol
+1.	Whisky(#766) - Dr.hurka	20336km2	16981342	CE	Kom	3601
+2.	Hrejsemnou(#1457) - AzorAhai	23993km2	14399075	PíPíBí	Tech	3936
+3.	Dragons breath(#72) - Supra1Soul5Play	23076km2	13806256	-4F-	Tech	3767
+4.	Born To F1GHT(#695) - jasson	18415km2	12100000	PaTo	Utop	3874
+5.	Fuzzy Lumpkins(#230) - Muffia	18261km2	10652429	PíPíBí	Utop	3845
+6.	JOHN FORBES NASH(#467) - Reich Graf	16359km2	9806851	MENSA	Tech	3979
+7.	Duhovka(#851) - .DuKeLuKe.	15950km2	9312798	Bubáci	Tech	3680
+8.	ARCHANGEL-Aquileje(#1144) - Turdos	18437km2	9223570	A.N.D.	Utop	3876
+9.	Lucifer Morningstar(#51) - Comanndos	9999km2	9051713	9999	Kom	3885
+10.	peli je zid(#381) - stejski IX.	16999km2	8924400	Skritkov	Utop	3685
+11.	copacapo(#733) - Nepochopisnikdy	16555km2	8866807	K1*`=/-.	Tech	3958
+12.	ValkáčThe Farmáč(#923) - Absurdaa	16238km2	8475063	Skritkov	Utop	3768
+13.	Suicide farmer(#183) - Gornik	18497km2	8407672	NIGGA	Demo	3936
+14.	Protáhnu Ti kukátko ...(#522) - Jacobthebest	21813km2	8308924	::FŘ::	Rep	3866
+15.	Ho un pene piccolo(#76) - pelizid	15999km2	8302911	Skritkov	Utop	3690
+16.	Nevrhevsíntoprlajkmí(#1240) - Záchodové prkno	18093km2	8242674	PKZ	Utop	3924
+17.	-DEAD-Rest in Ppepies(#1999) - Diák	25133km2	8013092	D1000	Demo	3874
+18.	The Last Man Standing(#1922) - G.R.E.E.K	28577km2	7888888	TLD	Robo	2850
+19.	Gangreen Gang(#234) - Muffia	20000km2	7813768	SUX	Kom	3954
+20.	Sekec mazec tvojí mámy(#902) - lugh	15272km2	7714999	MÁMA	Utop	3901
+21.	Mláka ma láka(#1687) - .Grim.	9999km2	7600305	K0MUN1ST	Kom	3978
+22.	What have I done?(#1296) - liqo	19999km2	7583294	*`=/-.,	Tech	3969
+23.	Dycky Valkáč(#87) - Absurdaa	17330km2	7457032	ALIVE	Utop	3955
+24.	Princezna z kAnálu(#114) - lord Wampireli	15572km2	7348375	FReaK2	Utop	3979
+25.	Dr. Moreau(#1133) - StillDeadCZ	20000km2	7341859	Vzp	Fund	3919
+26.	Emise tvojí mámy(#1170) - gugoslav	16265km2	7227505	MÁMA	Utop	3837
+27.	-DEAD-Quantum Realm(#1128) - Deus	20700km2	7200000	DEAD	Rep	3973
+28.	Láka ma mláka(#10100) - .Grim.	31158km2	7190375	Bubáci	Robo	3972
+29.	Mat(#550) - ClassicTom	19599km2	7057743	-?-	Utop	3847
+30.	Námezdní lovec Deusett(#1124) - Deus	10948km2	7000000	ALIVE	Tech	3958
+31.	Tvé oči tě mohou klamat.(#33) - White Dead	24775km2	6988578	.:YD:.	Tech	3880
+32.	Blacken the sun(#1295) - liqo	14999km2	6926807	*`=/-.,	Utop	3978
+33.	Rannymok(#1490) - kiss for you	20937km2	6774358	PKZ	Feud	3960
+34.	Dobrá sváča tvojí mámy(#864) - lugh	15985km2	6604578	SRAN	Utop	3745
+35.	VysabotímŤaKeďChceš(#7777) - tvojasmrt	13451km2	6500000	42	Utop	3965
+36.	StayPositive(#319) - .Aragornikk.	16140km2	6460488	42	Utop	3936
+37.	Farmenie skodi zdraviu(#8888) - ftacik	16129km2	6425027	CE	Dikt	3962
+38.	Splozenec Incestu(#97) - Lord Baal	13430km2	6267468	ALIVE	Utop	3972
+39.	PhaseMistress(#906) - Shamil Bassajev2	13940km2	6251729	Evropa	Utop	3972
+40.	Kladivo na čarodějnice(#1243) - .Al Capone.	13999km2	6186829	Weed	Tech	3938

@@ -1,0 +1,42 @@
+72. VĚK
+#	Země	Rozloha	Prestiž	Aliance	Vláda	Kol
+1.	Som farmil(#2426) - Lord Biry	21228km2	17661561	VÍCADMIN	Utop	3569
+2.	Natiiiiisek(#400) - Alakar	16000km2	13930607	-=FA=-	Utop	3510
+3.	mostarie(#357) - martum	30647km2	13810187	*zoo*	Tech	3908
+4.	Jožko Kukuricúdus(#1048) - gorbatčov	16999km2	13492340	PH	Utop	3456
+5.	.:INEST CLEMENTIA FORTI:.(#3621) - Sef87	20100km2	11032046	/skaza	Kom	3826
+6.	Lodoss(#905) - Netopier5	25418km2	10943647	Across	Demo	3971
+7.	MadisonCubeGarden(#3291) - rozbithlavu	27816km2	9872202	.Ganja.	Robo	3935
+8.	Hannibal`s Underworld(#433) - Dr.Leckter	20924km2	9797863	*UF*	Demo	3562
+9.	Bernard Black(#64) - hxtxxtxp	20000km2	9181932	ZEVL	Kom	3936
+10.	murdajdolejdant(#274) - K.N.M KoLLo	24353km2	9181415	KÚ	Tech	3546
+11.	hatemeifyoucan(#310) - drEamecek	20980km2	8554884	BibrFans	Utop	3952
+12.	Lechtivá slečinka(#1198) - c4u710n	23518km2	8247243	ManG	Feud	3920
+13.	ci?(#936) - epicFAIL	22222km2	8095650	gto	Robo	3944
+14.	Stejně to nikdo nečte(#2588) - Saturas	21594km2	7777777	-SF-	Rep	3970
+15.	Naštvanej králíček(#3582) - Budulínek s.r.o	20478km2	7708795	queens	Rep	3975
+16.	Ganbareh(#909) - Scalpelexis	24419km2	7361955	-=EK=-	Robo	3907
+17.	boží slečinka(#999) - inkvizitoor	22999km2	7267681	ManG	Feud	3906
+18.	Dr.Gonzo(#3006) - Lord IVCO	17465km2	7004836	:ZotR:	Utop	3818
+19.	ImY0ursN3m3s1s(#3198) - .Zabrda.	19126km2	6909591	.Ganja.	Utop	3944
+20.	legionář 007(#1249) - Fleship	20158km2	6851480	.::R::.	Utop	3931
+21.	urielov(#1278) - sir uriel	21369km2	6807711	DF	Fund	3973
+22.	Valibuk(#819) - kadibouda	16902km2	6788641	WMYQ	Tech	3972
+23.	Bíďa má zaseklej krk(#2796) - Hadrabator	17999km2	6612114	G.U.M.I.	Anar	3960
+24.	Fesdurius(#2370) - Kazatel Havlis	20100km2	6587000	CHARITA	Utop	3969
+25.	Perro de mierda, sí?(#600) - Josefko	12886km2	6572854	=FF=	Tech	3951
+26.	SZS Ocásek(#564) - BrankoStruper	21633km2	6547774	SZS	Robo	3967
+27.	Oči v barvě nebe(#940) - maXtreme	28111km2	6542152	Z4	Robo	3963
+28.	hrát či klikat?(#1354) - ano jsem to já	15115km2	6432603	*EG*	Utop	3572
+29.	Slečinka (V)alkaci(#1143) - Lord.of.Europe	22000km2	6395574	ManG	Feud	3860
+30.	Hamee(#4830) - .durrr	19111km2	6233333	StrakerS	Robo	2942
+31.	Registrace nové země 2(#2511) - nothing left	15913km2	6223851	klObAsKy	Robo	3926
+32.	Želví.žasnutí(#3673) - drtep	15954km2	6122899	HIMYC	Utop	3774
+33.	Land of Masters(#1244) - hlubik	20353km2	6109017	VTIP2	Utop	3974
+34.	Arnold J. Rimmer BDp.SDp.(#283) - melOG	16546km2	6102554	BFP	Utop	3969
+35.	Ostravsky VELKOSRAZ 14.4.(#160) - PEJSEKaKOČIČKA	21508km2	6100517	=*ss*=	Fund	3975
+36.	0100100010110111010010001(#4099) - Aida	17501km2	6060565	01	Rep	3395
+37.	Cpt. Morgan(#1598) - .Hellboy.	17151km2	6019767	=*ss*=	Fund	3974
+38.	.hunteRs. KRAKEN(#2918) - WORKHOLIK	21055km2	5882036	.hunteRs	Robo	3962
+39.	DF_Energy(#2280) - FH	23044km2	5725511	DF	Fund	3955
+40.	boheMista(#1402) - Mista	17639km2	5657447	BFP	Utop	3591

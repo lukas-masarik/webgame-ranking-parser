@@ -1,0 +1,42 @@
+74. VĚK
+#	Země	Rozloha	Prestiž	Aliance	Vláda	Kol
+1.	brain`s hive(#569) - br4insh4ker	26999km2	12404081	VÍCADMIN	Rep	3859
+2.	Jožko Kukuricúdus(#45) - gorbatčov	11999km2	12283570	PH	Utop	3754
+3.	Easy Target(#3314) - Kapitán Drunigen	22164km2	10272350	PíPíBí	Kom	3933
+4.	Diktaland(#2446) - goodest	22696km2	9388000	DIKTA	Kom	3843
+5.	PeknyKvadraky(#1860) - Ctirad2	25449km2	9056772	VTIP	Robo	3972
+6.	Obblastní vtipálek(#1516) - OBB SpameR	27343km2	8869419	VTIP	Robo	3975
+7.	Let Me Mourn(#911) - santa satan	19000km2	8810020	Ganja	Utop	3944
+8.	...:::::NUf DRAKU:::::...(#120) - XXXGrey	31949km2	8647898	*zoo*	Robo	3979
+9.	Eski Girl(#192) - Dhany	16999km2	8091290	-WG-	Utop	3852
+10.	New Found Glory(#3014) - Pepa Bechr	16341km2	8033257	cz-sk2	Utop	3857
+11.	Pirlo dictates the game(#2514) - Theodoric	15838km2	8020906	Novinka	Utop	3780
+12.	hráč GOLD(#3441) - Abecednik	21090km2	8013335	BAMBUSKY	Demo	3840
+13.	H61M-S2PV(#2636) - Aida	25808km2	7963050	P4V8	Rep	3979
+14.	Tvaroh se zelim(#1855) - Ctirad2	20495km2	7512725	BAMBUSKY	Robo	3936
+15.	JenTakProRadost...(#214) - ACmilan	11111km2	7507985	VIR	Kom	3840
+16.	Na otarcie lez masz cegle(#1044) - leszek	18942km2	7493414	OKNO	Kom	3891
+17.	Střechy jsou mi chodníkem(#186) - Dhany	23200km2	7416783	Ganja	Robo	3979
+18.	Fight or Flight(#31) - A. Valverde	26999km2	7377746	Wrath	Utop	3552
+19.	Slivovica power(#414) - edgeTek	19180km2	7276971	ZMK	Utop	3610
+20.	Zemička mistra Ťapíka(#102) - Evzen Hyberny	11989km2	7255326	DpN	Utop	3480
+21.	Limonádový Joe(#3059) - Skorpík	18160km2	7188908	BOUNTY	Utop	3954
+22.	`.-`La.-``-.sAbOtAgE`-.`(#3671) - OFC3	13129km2	7153826	VIR	Kom	3741
+23.	Svému Osudu Neutečeš..(#1488) - Dragon.Slayer	15410km2	7092383	=*ss*=	Utop	3967
+24.	La nostra e la furia(#3456) - stejski IX.	20922km2	7089620	Lotta	Utop	3961
+25.	Naboo(#237) - Dart.Kanne	15288km2	7078133	TemLeg	Utop	3847
+26.	Maxikov(#203) - -MaX-	15314km2	7008673	UVVB	Utop	3873
+27.	Cephalanthera(#1640) - KinleyG	15284km2	7002710	TemLeg	Utop	3819
+28.	Form Is Temporary(#2185) - Vojtiiik	10000km2	7000000	HUNTERS	Tech	3843
+29.	20(#2874) - epicFAIL	10509km2	6836651	gto	Utop	3759
+30.	Trigger Whiskey Saloon(#319) - Skorpík	16703km2	6758327	BOUNTY	Utop	3967
+31.	Noačo?(#1022) - Jnao	16256km2	6731089	ALI1234	Utop	3979
+32.	Začněte klepnutím zde(#1106) - Romulus.	11986km2	6667558	NEVER	Kom	3936
+33.	vtipálek Joachim Löw(#56) - Wlad	26226km2	6666666	VTIP	Dikt	3946
+34.	The Old Republic(#2454) - Djkoma	16351km2	6632389	TemLeg	Utop	3809
+35.	Temný les kdesi v Gálii(#807) - Lyall	18576km2	6501261	ADR	Demo	3978
+36.	Ted Mosby Architect(#1942) - Martin858	29182km2	6459784	P.f.B	Robo	3940
+37.	Úzkoprsý útočí(#2230) - marv III	21564km2	6397576	Across	Fund	3958
+38.	Nemám vás rád :)(#921) - Drace	18260km2	6265865	BFP	Utop	3965
+39.	Skylar(#1558) - Dori3n	14999km2	6192222	=*DC*=	Rep	3979
+40.	we all for that paper(#1565) - TECHWARRIOR	26666km2	6183072	SR	Tech	3954

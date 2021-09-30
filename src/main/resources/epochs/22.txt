@@ -1,0 +1,42 @@
+22. VĚK
+#	Země	Rozloha	Prestiž	Aliance	Vláda	Kol
+1.	Avanil(#6963) - Hondo	29999km2	8805905	BH	Demo	3847
+2.	Mikawa(#6869) - Yohan	28852km2	8316908	BH	Demo	3747
+3.	Son Petit Guerrier(#5630) - CEst La Vie	11111km2	6857754	Fr33d0m	Utop	3872
+4.	Brutal Paws of Fury(#1608) - shura	27539km2	6821718		Demo	3858
+5.	Up in arms(#2306) - gang	25394km2	6664231	M.O.T.S.	Tech	3396
+6.	Another perfect day..(#3386) - Mr.Hill	22948km2	6570716	DL	Robo	3858
+7.	217063136(#4100) - Morfeus	22944km2	6552150	ICQ	Utop	3856
+8.	Sovereign(#7423) - Venerable	18693km2	5884863	BH	Demo	3635
+9.	Kobe Bryant je nevinny(#7974) - A.Iverson	25606km2	5805563	Mizerove	Feud	3633
+10.	HAPPY DAY(#223) - survival.	19743km2	5512842	SB	Demo	3859
+11.	Legie zkázy(#573) - BlackJack	35861km2	5511179	KOZINA	Kom	3845
+12.	The VIDLÁKOV(#2489) - Franta Vopršálek	23483km2	5487698		Utop	3840
+13.	Zemědělství(#1559) - nearest	24491km2	5450433	U.I,	Demo	3809
+14.	Serious Sam(#156) - 11Gladiator11	21007km2	5444601		Robo	3644
+15.	119310584(#326) - Black Warrior	30178km2	5411237	ICQ	Dikt	3848
+16.	Stex(#711) - Cadlo The Great	22525km2	5390374	BH	Demo	3743
+17.	Andwar(#987) - fewar	23498km2	5308267	H2	Dikt	3840
+18.	Serious Sam(#4277) - 11Gladiator11	22119km2	5212096		Robo	3594
+19.	Peru? 311(#6291) - Wuru	26391km2	5189861	ALIBABA	Demo	3847
+20.	Die For Honour(#9446) - Katsumoto	24164km2	5157059	U.I,	Robo	2861
+21.	UHNI...(#1313) - balin.	25176km2	5118255	SB	Utop	3850
+22.	Magicland(#726) - Hurd	21799km2	5113253	SR	Kom	3852
+23.	Kocourkov(#1086) - Medvěd	17701km2	5103018	Fr33d0m	Demo	3787
+24.	=HELL=(#7219) - Hell Maker	23689km2	5083710	RIP	Dikt	3821
+25.	Wolves Land(#1008) - Arnarmo	17408km2	5029115	KM	Kom	3820
+26.	Rico(#4420) - lamka333	18887km2	4999455	DeusEx	Kom	3806
+27.	Chinese Empire(#3691) - Mao	20391km2	4995790	GF	Tech	3670
+28.	Canibus(#193) - nonPhixion	26897km2	4990632	SR	Kom	3858
+29.	Smetisko(#394) - Puklica	23650km2	4982722	SR	Kom	3859
+30.	Mostly Harmless(#6806) - HarmlessThingy	14054km2	4960842	NTP	Kom	3856
+31.	OCHO(#220) - survival.	22944km2	4914535	SB	Utop	3859
+32.	Rascak(#735) - Plakala	21966km2	4910294	KS	Kom	3851
+33.	Zatracenec(#1372) - Stopař	15500km2	4877115		Utop	3539
+34.	Voice Of Subconsciousness(#4426) - CEst La Vie	17777km2	4871182	Fr33d0m	Utop	3838
+35.	Mamberamo(#5167) - erny	20036km2	4831974	SR	Kom	3889
+36.	Thunderland(#1843) - Huntter	19827km2	4817785	SR	Rep	3858
+37.	The LoL(#4080) - Terez	20208km2	4686337	KS	Utop	3853
+38.	HromíK(#6385) - LomíK	13696km2	4684534	WULF	Demo	3615
+39.	jominkov(#58) - jominek	19414km2	4671383	S.D.E	Demo	3859
+40.	Registrace nové země(#1542) - nearest	21401km2	4661273	U.I,	Robo	3858

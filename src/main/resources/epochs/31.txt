@@ -1,0 +1,42 @@
+31. VĚK
+#	Země	Rozloha	Prestiž	Aliance	Vláda	Kol
+1.	Slovenská Republika(#44) - .FeXeR.	23606km2	12460183	K-T-A	Demo	3753
+2.	Kimi(#341) - Plakala	25779km2	12181136	HIV	Demo	3827
+3.	Mazlik(#4377) - Plakala	24386km2	11542122	BCuzz	Demo	3776
+4.	SEAL 6(#7021) - NietzscheV	43404km2	11320253	.::R::.	Robo	3855
+5.	AntiCzechTek(#521) - I am the Future	29033km2	11294687	n-jedna	Demo	3645
+6.	Submisivní dívenka(#666) - Dimmu.Borgir	25149km2	10301381		Demo	3422
+7.	Allan Iverson bude MVP(#2441) - A.Iverson	13442km2	10040807	Mizera	Demo	3472
+8.	Axiom(#1743) - Stanislav III.	20422km2	9974944	SaH	Demo	3645
+9.	Černý Vigvam(#1380) - Windom	23882km2	9897177	K1	Utop	3605
+10.	Bundeswehr(#8803) - Sixtus	17492km2	9458502	IBHZK	Robo	3837
+11.	No neviem neviem....(#1395) - S.mage	4999km2	9417937		Utop	3734
+12.	Rider of Nosferat(#10278) - Parcifal	27700km2	9352505	n-jedna	Demo	3675
+13.	zase mam vokno(#407) - Elkor	8338km2	9275640	WOKNO	Demo	3743
+14.	Farmim zavodne(#685) - nonPhixion	24669km2	9224639	n-jedna	Demo	3669
+15.	NaposledADostTedNeboNikdy(#9155) - Revan	12149km2	9138165	DoA	Utop	3517
+16.	..::Batlle Realms::..(#6866) - Deus	24174km2	9134181	D1KTATOR	Demo	3608
+17.	az25znakovTAKtoVYUZIJEM=D(#174) - Lord TROKS	22343km2	8862609	D1KTATOR	Demo	3701
+18.	Umely povrch(#11650) - Kocurko	21988km2	8627500	V.I.P.	Robo	3837
+19.	.::D1KTATOR::.(#6202) - VK	24218km2	8418627	biT3	Demo	3828
+20.	Vybombi? poprosim...(#2761) - Mul?ák II	27408km2	8404591	Igmo	Demo	3632
+21.	Westside is the best(#374) - King Ass	27157km2	8235459	BBfW	Demo	3854
+22.	Throne of Destruction(#1326) - DarkCrew	18103km2	8207316	THE	Robo	3794
+23.	MUJ DÍROV(#5429) - ToM0	30193km2	8186122	=DS=	Robo	3851
+24.	krteček(#8432) - nearest	13435km2	8167488	f4kju	Demo	3761
+25.	UNIMATRIX(#12621) - steamroller	23232km2	8028694	.::R::.	Robo	3810
+26.	Betelgeuze(#1718) - Stanislav III.	11771km2	7962565	THOR	Demo	3635
+27.	Forst(#1317) - Adipocire	17274km2	7917404	IBHZK	Robo	3854
+28.	Castle of Cagliostro(#6178) - Philman	28896km2	7899158	=DS=	Robo	3822
+29.	fušer sem fušer tam(#593) - Leninus	17683km2	7818058	IBHZK	Kom	3838
+30.	Walpurgis III.(#9554) - Mablung	22958km2	7806922	=T=	Robo	3840
+31.	Di se wožrat(#7044) - Už jenom Biggus	21775km2	7707272	*SC*	Demo	3677
+32.	Nevolte rude vrahy(#10688) - CarCarovneCucalP	18497km2	7702139	*=VPT=*	Tech	3853
+33.	NaMRaKy :P(#7118) - Dadynka	28444km2	7692357	*ul*	Robo	3852
+34.	R3IgN oF t3rRoR(#7081) - Raid3r	28231km2	7671295	=DS=	Robo	3844
+35.	Klouzkoland(#9725) - Klouzek.cz	20389km2	7645739	LPH	Robo	3844
+36.	AGRESO.::R::.2GETHER4EVER(#52) - Lord TROKS	24836km2	7629875	.::R::.	Robo	3803
+37.	TAX(#620) - Rhodan	14299km2	7551254	-=AoM=-	Utop	3718
+38.	Sigmarův řád(#1256) - Sigmar	25326km2	7529381	*H.S*	Demo	3852
+39.	Borg Drone 1 of 9(#6659) - Yurnero	21733km2	7439281	BORG	Kom	3849
+40.	Dobyju tě ...(#207) - Turbi	31222km2	7423441	HIV	Kom	3763

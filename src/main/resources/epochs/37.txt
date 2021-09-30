@@ -1,0 +1,42 @@
+37. VĚK
+#	Země	Rozloha	Prestiž	Aliance	Vláda	Kol
+1.	Skill And Highest Income(#8971) - SAHI	34519km2	17872449	.::4N::.	Demo	3740
+2.	bite my shine metal ass(#10081) - kopff	33288km2	15420224	SWK	Robo	3995
+3.	.::Tassadar::.(#996) - Dragoon.	35574km2	13768401	.:eK:.	Demo	3829
+4.	The Goblin Techies(#13414) - HLAVATYS	16965km2	13354690	NERV	Demo	3758
+5.	Nemesis Divina(#1338) - Dimmu.Borgir	30177km2	13331734	Atrax.R	Robo	3892
+6.	NEX.SLIPOTRENKY(#1514) - j0k3r	34424km2	12002685	nex	Kom	3999
+7.	naucte me to konecne :-P(#4584) - Romulus.	21784km2	11822197	SpS	Kom	3848
+8.	MERCURIUS(#1214) - Parcifal	36858km2	11787526	CRUX	Robo	3997
+9.	Popadincova farma(#12640) - popadinec	34448km2	11298948	.::R::.	Demo	3823
+10.	SG Waldsassen/Wiesau(#3179) - Ďábel	12943km2	11279221		Demo	3867
+11.	Den of Forlon(#11187) - Martind Forlon	40037km2	10974511	Bubáci	Robo	3989
+12.	XCOM(#10013) - steamroller	30749km2	10941848	.::R::.	Robo	3835
+13.	Kořen(#81) - ACmilan	30833km2	10792704	UP	Kom	3822
+14.	Zloděj z Bagdádu(#5850) - Yurnero	23891km2	10472910	DooM	Utop	3878
+15.	Hut of Forlon(#11188) - Martind Forlon	38378km2	10387518	Bubáci	Robo	3991
+16.	.::Gondor::.(#5144) - .Aragorn.	31221km2	10332818	.:eK:.	Demo	3947
+17.	ImY0urF4rm(#7824) - .Zabrda.	25647km2	10332183	Sadomaso	Utop	3956
+18.	Scrapheap(#130) - Komrl	43648km2	9885879	CRUX	Robo	3996
+19.	Mr. Pokuston(#3526) - Hondo	33422km2	9866076	Bubáci	Robo	3931
+20.	U červeného kohouta(#319) - .DuKeLuKe.	35943km2	9727073	Bubáci	Robo	3978
+21.	FR1TÉZAnaKROKETY(#10651) - VencaKroketka	31554km2	9570710	nex	Kom	3617
+22.	System Failure(#1423) - .FeXeR.	17180km2	9417430	WIPENOOB	Demo	3693
+23.	Mixhail je buh(#732) - Juklik	28195km2	9311330	Juklik	Utop	3996
+24.	centaury(#8588) - peacemaker b	22258km2	8932854	*nc*	Robo	3975
+25.	Twin Peaks(#1497) - maniacz	24503km2	8862662	DooM	Utop	3903
+26.	U modrého králíka(#446) - .DuKeLuKe.	21875km2	8743743	Bubáci	Utop	3848
+27.	R3D and BLU3(#7139) - BuRKo	24250km2	8640609	R3D	Demo	3943
+28.	Xpack(#9548) - Dr.IQ	22192km2	8601058	E2	Rep	3997
+29.	solaris(#14363) - clockwork orange	25297km2	8584481	CdtC	Robo	3974
+30.	Pif, paf, bum(#6018) - kinbub	30624km2	8569526	UFF	Kom	3952
+31.	Nukleární Králíček(#42) - SirIndy	25392km2	8423539	NUKE	Rep	3999
+32.	Furious(#16413) - sphere	32447km2	8386748	F	Robo	3733
+33.	kryndgogufrrhabalogon(#14669) - aag	27744km2	8368510	CQX	Robo	3867
+34.	farma na piko(#2479) - PajinXXX	20918km2	8220430	E2	Rep	3983
+35.	Nedistán(#5472) - Milned	38365km2	8044896	CRUX	Robo	3998
+36.	Prepacte,ZeSomVasSundal(#744) - Baťa	17570km2	7845559	iu	Demo	3954
+37.	JenTakProRadost...(#352) - ACmilan	25966km2	7785703	.::R::.	Robo	3983
+38.	Avanger(#628) - T.H.I.M.Y	22865km2	7779577	AVIVO	Robo	3990
+39.	Asi vítr, nebo co ...(#573) - Ruprd	29552km2	7765424	Ch.U.D	Robo	3991
+40.	Biocidní Králíček(#118) - SirIndy	29098km2	7709438	NUKE	Rep	3999

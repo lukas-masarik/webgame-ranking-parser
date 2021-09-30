@@ -1,0 +1,42 @@
+115. VĚK
+#	Země	Rozloha	Prestiž	Aliance	Vláda	Kol
+1.	Zima prichazi(#284) - rybka es atrás	20204km2	13139067	Chlastám	Utop	3648
+2.	Pitcairn(#788) - BF123	17099km2	12090104	BS	Utop	3650
+3.	I LOVE MADEIRA(#421) - ptak77	25499km2	12049833	=T=	Feud	3677
+4.	Hodnej policajt(#1026) - NightLovell	29919km2	10824376	M	Robo	3959
+5.	PhaMa Showtime(#141) - bukvicka13	26243km2	9959353	PhaMa	Demo	3979
+6.	Pussy_Slayer69XXL(#1215) - forkys	23082km2	9566375	ČSB	Utop	3968
+7.	Habanero(#172) - Reich Graf	24999km2	8918625	MENSA	Demo	3979
+8.	Contraband(#822) - NightLovell	20888km2	8696677	OKNO	Kom	3974
+9.	Zem neZem Sem naZem(#219) - .Nojmy	26520km2	8631322	SPRITE	Dikt	3944
+10.	All Saints(#1524) - BF123	25762km2	8382668	SI	Utop	3870
+11.	Qué Pasa?(#307) - hlen123	20002km2	8178918	MBA	Utop	3970
+12.	Nevěř NIKOMU(#343) - poMe	17999km2	8142399	.hack//	Kom	3840
+13.	Zavrene muchy v kleci(#1005) - Homeerius	19614km2	7514495	I.H	Utop	3930
+14.	LEGIO GERMANA VI. RAPAX(#881) - dr.antrax	22827km2	7347344	GERMANUS	Fund	3979
+15.	usti(#566) - vachys39	17898km2	7316156	ALI1234	Demo	3977
+16.	Sexuolog(#962) - AndreFox	22825km2	7124879	DICK	Robo	3974
+17.	CATCH ME IF YOU CAN(#1508) - Sir Extrem	20419km2	7109188	OKNO	Feud	3970
+18.	ONA MÁ STYL A VIE(#618) - PEpecek	21101km2	6997300	DICK	Utop	3947
+19.	-)MTG(- Everything ends(#381) - happyguy	22943km2	6938322	MTG	Robo	3972
+20.	Gabriel the Archangel(#929) - znicim mechy	28684km2	6877269	:.AoA.:	Robo	3940
+21.	Nagash(#166) - castropola	26000km2	6798231	MENSA	Feud	3977
+22.	Díra do srdce(#829) - NightLovell	23174km2	6609392	OKNO	Dikt	3968
+23.	I mean it :)(#88) - LukO cZ	21106km2	6358209	=T=	Robo	3979
+24.	SUXessfuIl(#576) - LuisFigo	19111km2	6333748	Across	Kom	3924
+25.	Nothing Like Home(#825) - leszek	17038km2	6275377	OKNO	Utop	3976
+26.	Valar Dohaeris(#699) - Uaah	20345km2	6094835	=T=	Robo	3978
+27.	Królowie życia(#861) - leszek	16380km2	6042458	Across	Kom	3979
+28.	DataEngineer(#278) - youwillbedead	20704km2	5958148	ČSLA	Robo	3952
+29.	Bojím se ČSB(#539) - Veriax	30594km2	5904359	ČSB	Dikt	3978
+30.	-)MTG(- Tezzeret(#332) - mazereon	19001km2	5825538	MTG	Demo	3977
+31.	Tempest(#232) - Scalpelexis	20258km2	5796181	M	Feud	3978
+32.	Kebab House(#702) - FR3EZY	16449km2	5794882	LMS	Utop	3958
+33.	EGO SUM VIA VERITAS(#700) - Piši	25158km2	5791905	=T=	Dikt	3977
+34.	Albański raj(#871) - leszek	16000km2	5755961	Across	Kom	3972
+35.	-osn-ruzove v pive(#459) - D1N1AK	21333km2	5730054	-osn-	Rep	3977
+36.	La Victoire ou la Mort(#163) - G.Mimoň	21579km2	5719164	NeSeR	Utop	3883
+37.	Show Me The Way(#854) - leszek	14141km2	5714526	OKNO	Kom	3979
+38.	-)MTG(- Scalpexis(#611) - Angelus66	21057km2	5683903	MTG	Feud	3933
+39.	budu mit OKNO jak cip(#683) - StillDeadCZ	19922km2	5653065	OKNO	Rep	3979
+40.	Boris Brejcha(#968) - marv III	17297km2	5634920	Across	Kom	3939

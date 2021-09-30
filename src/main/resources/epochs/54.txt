@@ -1,0 +1,42 @@
+54. VĚK
+#	Země	Rozloha	Prestiž	Aliance	Vláda	Kol
+1.	HELLS BELLS(#158) - Ivosh	19191km2	16776893	AC/DC	Utop	3928
+2.	The Holy Wikipedialand(#2446) - Orcidian	31734km2	14278071	ŽsN	Kom	3938
+3.	Posledni vek kterej farmim(#23) - .Serious Sam.	25111km2	13445102	ŽsN	Kom	3568
+4.	SORRY IS THE HARDEST WORD(#3978) - .adm1n.	24825km2	13296872	=DS=	Utop	3443
+5.	.:.:.:.:.:.:.:.:.(#117) - Thooom	26671km2	12578646	.:.:.:.	Demo	3857
+6.	I Always Get What I Want(#4129) - Gxx	35000km2	11975191	Wrath	Feud	3845
+7.	Tento vek AC/DC vyhraje :-*(#5066) - Frantisek.Krizik	20000km2	10875045	AC/DC	Utop	3854
+8.	NUKLEARNI grey(#2295) - XXXGrey	36026km2	10869160	*zoo2*	Robo	3979
+9.	Chlastám závodně(#3289) - Juklik	29998km2	10374482	Ovecky	Kom	3740
+10.	Frajerka(#902) - the bestest	27498km2	10244797	Wrath	Kom	3568
+11.	Do the Evolution(#588) - Exot3	21246km2	10194483	::R::	Rep	3923
+12.	Zkouškový suck:-D(#5618) - goodest	19867km2	10128900	AC/DC	Utop	3843
+13.	Spleen And Hourly Idling(#388) - SAHI	25712km2	9908819	nEf	Utop	3886
+14.	karamel je betonovej pes(#364) - adduktor	24550km2	9711301	Wrath	Robo	3829
+15.	Gregoň(#776) - Skiller	28800km2	9334384	AA	Utop	3956
+16.	Bobřík Tykeff(#71) - Dhany	29239km2	9262184	Ganja	Robo	3979
+17.	Stronger Than Hate(#4072) - Hengist	17935km2	9127798	AC/DC	Utop	3795
+18.	NESSUN DORMA(#3700) - SprávceChlívku	38607km2	8961629	CoMyslis	Robo	3967
+19.	na nic neni cas :)(#2196) - wrYsp	18090km2	8923269	AC/DC	Utop	3847
+20.	hoLuB(#4019) - Mahtyon	20487km2	8851734	bfp	Demo	3926
+21.	Partyhardcore(#6458) - HOVNI4K	37253km2	8803355	SWINGERS	Robo	3966
+22.	.:KS-NiTraM Dr.Ol:.(#1912) - martin026	23569km2	8764591	.::R::.	Demo	3979
+23.	Vyvažovací kontinent(#298) - kIt. .	25914km2	8563588	Z	Demo	3953
+24.	Ufounkov(#449) - a1d2h2	25172km2	8537444	ManG3	Utop	3978
+25.	Wizard(#2414) - Corvin mc Grey	39359km2	8510245	.:V7R:.	Dikt	3931
+26.	.:.WG-PROFESSIONAL.:.(#389) - Jiriss	18766km2	8494413	WG-PROF	Rep	3972
+27.	Jongens Ante Portas(#306) - jongens1	27894km2	8262288	574ND4R7	Feud	3942
+28.	Ivrin Falls(#1201) - Idril	29049km2	8235623	=STW=	Demo	3920
+29.	naozaj maTo uz nebavi :-/(#1365) - jumpman	29000km2	8203424	ISS	Feud	3967
+30.	Desolater(#332) - Darth Knight	24444km2	8192009	ŽsN	Utop	3767
+31.	(=3977)(#3992) - Biogoo	18524km2	8131264	*GA*	Demo	3978
+32.	Zase zkouškové:o((((#446) - Alakar	18006km2	8000000	AC/DC	Utop	3882
+33.	Mrtvoland(#5746) - px45	26952km2	7969122	Šneci	Robo	3976
+34.	Sučina(#1668) - BrankoStruper	26316km2	7933851	MF	Robo	3968
+35.	Budulínkova zem(#4907) - Budulínek s.r.o	26774km2	7874631	Ganja	Robo	3976
+36.	S hlemýžděm založ n. stát(#945) - KEPR	29999km2	7788949	EASY	Feud	3950
+37.	Hic Sunt Leones(#304) - jongens1	29664km2	7719480	DEJAVU	Feud	3925
+38.	Young Devon(#1092) - Lord IVCO	29919km2	7638553	SWINGERS	Feud	3969
+39.	Longin Kandinsky(#2477) - Bojovy Tulen	21848km2	7588134	/go	Utop	3950
+40.	zlobííííš :-P(#1402) - xkukx	18000km2	7580966	AC/DC	Utop	3901

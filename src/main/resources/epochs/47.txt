@@ -1,0 +1,42 @@
+47. VĚK
+#	Země	Rozloha	Prestiž	Aliance	Vláda	Kol
+1.	waste land(#9294) - BlindJustice	32889km2	15207799	c0n	Demo	3922
+2.	Nedistán(#6148) - Milned	33176km2	13645143	UVVB	Demo	3884
+3.	Nepropadejte panice(#3167) - mixhail	27897km2	13440602	MoM	Demo	3840
+4.	ty maš síly jak za 4 víly(#5232) - adduktor	29959km2	12161566	HOPRDOX	Feud	3810
+5.	SOMEWHERE I BELONG(#4948) - .adm1n.	26066km2	12098881	=DS=	Kom	3760
+6.	Alenka z Říše Divu :-*(#40) - 3Gal	18195km2	12094587	HYENY	Feud	3457
+7.	NBA(#185) - Robbie	31968km2	11982628	mef	Demo	3879
+8.	Brůča končí v Americe(#1610) - Nupacak	14997km2	11774521	G.U.M.I.	Kom	3726
+9.	Dajte mi pokoj pls.(#2065) - Garithos	28316km2	10965433	DR	Utop	3940
+10.	Spleen And Hourly Idling(#917) - SAHI	29647km2	10726652	nEf	Utop	3671
+11.	Nebuzeruj(#846) - ASA	34294km2	10488023	N-N-N	Robo	3970
+12.	I have lost my illuzions(#6126) - Aram Chroustal	34445km2	10404193	RAPTOR	Kom	3949
+13.	RJAZAŇ(#6744) - IngBadzo	27574km2	10403686	DDO	Kom	3934
+14.	ROTATK1D EŽEL V ĚVD(#2696) - Smajdaalf	28178km2	10122811	ROTATK1D	Feud	3586
+15.	Voloďa(#1587) - Siriuss	34264km2	10089798	nEf	Robo	3808
+16.	Mage(#1887) - G.R.U.M.Y	16611km2	10067761	AlkoholX	Kom	3652
+17.	EASY-zábava neskončila(#6613) - KEPR	31489km2	10029149	EASY	Dikt	3941
+18.	krutá veverka znovu útočí(#1085) - futuree	28884km2	9903485	Zvířátka	Kom	3838
+19.	Snakes(#135) - Chica	19779km2	9758173	SNAKES	Kom	3736
+20.	Chlastám závodně(#2592) - Juklik	20449km2	9632122	wg-elite	Utop	3952
+21.	Jsem malinkatá lamička =)(#2875) - Sertus	21812km2	9419469	Heaven	Dikt	3652
+22.	Age of victory(#4185) - Juklik	19018km2	9088451	ganja	Utop	3953
+23.	3gal udelej mi obrizku(#808) - saiyajiNN	19995km2	8907638	HYENY	Feud	3255
+24.	Greenhouseland(#3291) - Oligarf	11045km2	8660652	BZSM	Utop	3710
+25.	Tantum dic Verbo(#139) - index	30798km2	8599325	LUMEN	Robo	3951
+26.	Extra Porce(#1184) - N.S. na hrad	22201km2	8585761	DDO	Demo	3933
+27.	5834(#1202) - Ukurusamba1	20469km2	8578986	BFP	Kom	3860
+28.	Wassup ??(#5765) - Brutalist	32750km2	8379128	HOPRDOX	Robo	3898
+29.	zem plna ...BEER?(#10852) - Lord Mendark	22149km2	8327889	BEER	Dikt	3552
+30.	I`ll get all bounty money(#2337) - Rybyz	27398km2	8221568	*Winde*	Feud	3967
+31.	.:CZ-SK:.Disneyland(#449) - child	23018km2	8173274	ČSLA	Kom	3963
+32.	lets play cs nubs :P(#6071) - Drunk3n	24136km2	8169083	ZERO	Dikt	3965
+33.	Catacomb Dragon(#1565) - MorNar	27140km2	8141962	..D..	Robo	3970
+34.	ROTATK1D IDRMS YRIB(#1010) - ASA	21598km2	8016085	ROTATK1D	Feud	3573
+35.	VRCHNÍ LAMER(#7433) - Coav	9013km2	8008112	ZERO	Dikt	3759
+36.	.:Ball Lightning:.(#915) - DaMarkus	16387km2	7896243	KULE7	Utop	3925
+37.	Paskuda19(#9140) - K11A	24725km2	7893631	DYN	Dikt	3905
+38.	No one else(#2687) - Vojtiiik	9942km2	7841667	FuWG	Rep	3963
+39.	nelson.h(#3921) - aaak	27576km2	7811617	DR	Robo	3962
+40.	země vožralů(#593) - Joker16.	31379km2	7777657	ganja	Robo	3970

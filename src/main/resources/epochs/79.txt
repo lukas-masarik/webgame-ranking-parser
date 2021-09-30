@@ -1,0 +1,42 @@
+79. VĚK
+#	Země	Rozloha	Prestiž	Aliance	Vláda	Kol
+1.	O_O(#1581) - Caesar159	19000km2	12699969	D1KTATOR	Utop	3483
+2.	technomozeg(#1660) - br4insh4ker	14463km2	11971365	n1	Tech	3819
+3.	Radsi knihu(#1348) - UfonJakMaByt	20333km2	9406788	:ZotR:	Utop	3562
+4.	Scream of the butterfly(#2448) - Pepemistr	15999km2	9066636	Wrath	Kom	3857
+5.	Pedigree Scum(#3105) - Karolínka	30138km2	8646522	*`=/-.,	Robo	3975
+6.	Svému Osudu Neutečeš..(#890) - Dragon.Slayer	25555km2	8457025	NBS	Dikt	3948
+7.	1011110001001011010100110(#4065) - HeadShit	33310km2	8341769	D1R1GENT	Robo	3975
+8.	Mechatronic(#547) - martin026	23022km2	8177795	KABAT	Utop	3951
+9.	však ja ti to vrátim(#1877) - .modran	21694km2	7586392	KABAT	Demo	3939
+10.	Znám popu(#3122) - Theodoric	22026km2	7380872	ZP	Dikt	3849
+11.	Nepotopen(#856) - Josefko	9999km2	7363739	=FF=	Demo	3843
+12.	N1::TechnoViking()(#1612) - Kopacka	14876km2	7317917	n1	Tech	3780
+13.	brain`s hive(#1930) - br4insh4ker	24817km2	7268261	DF2	Rep	3903
+14.	Jen se tak koukam(#656) - Benedikt.	9999km2	7200393	FF	Utop	3315
+15.	PREPÁČ(#1424) - mara8	20085km2	6907902	sP`	Rep	3970
+16.	expllclt(#2366) - a m 0	19313km2	6761294	KABAT	Demo	3979
+17.	Ahonic(#3090) - FoxSpy	15196km2	6738098	.:TS:.	Demo	3958
+18.	Just trying(#1866) - Krystof.Jindra	24111km2	6704343	JOKE	Kom	3947
+19.	Luxor(#287) - ridgeback	28999km2	6563529	KULE7	Kom	3966
+20.	St4r3j Z4rK4v1 j3 t4Dy :D(#403) - LuisFigo	19247km2	6540005	SUX	Robo	3931
+21.	indulona...repelentná(#3304) - Leninus	12663km2	6486289	n1	Tech	3843
+22.	Cirkus Alien(#3109) - Karolínka	26746km2	6456063	:ZotR:	Robo	3979
+23.	Umělec podruhe(#3204) - JAMees.Sawyer	20507km2	6410629	*`=/-.,	Robo	3971
+24.	Wheeeeeee(#1620) - maestrotech	21432km2	6339412	Hrajem	Robo	3972
+25.	Naštvanej králíček(#389) - Budulínek s.r.o	19182km2	6298537	queens	Rep	3978
+26.	.:cz-sk:.Zeus(#3577) - Vladce Seanix	21391km2	6273656	cz-sk	Utop	3950
+27.	:-*(#91) - šalanboy	17939km2	6192976	JOKE	Utop	3979
+28.	BackInTown(#843) - ploutvička	24213km2	6173655	Šang-Haj	Robo	3976
+29.	1mY0ursN3m3s1s(#3363) - .Zabrda.	17744km2	5924273	Zero	Utop	3946
+30.	nějaký cool název země(#4078) - yuphon	21486km2	5914850	CoolTag	Kom	3968
+31.	.hunteRs. KRAKEN(#2586) - WORKHOLIK	20440km2	5769615	.hunteRs	Robo	3971
+32.	Oppa Gangnam Style(#1853) - Ivan IV	30000km2	5752451	:ZotR:	Robo	3979
+33.	=RAM= Medved smirak(#1099) - Krutovladce2	20927km2	5705975	=RAM=	Kom	3936
+34.	HyeNa Par eXcelleNce(#3529) - AliasKAKAO	28620km2	5671124	HyeNy	Dikt	3940
+35.	2. zem nebyla založena.(#3524) - Jendasking	17777km2	5658796	*RA*	Rep	3977
+36.	Chipík(#1538) - Plakala	19242km2	5598352	HTF	Kom	3924
+37.	vyšehoří2020(#1043) - smitowsky	15999km2	5553691	.:SOS:.	Demo	3891
+38.	=RAM= rum + zelená 50:50(#224) - DjAfrika	21507km2	5380072	=RAM=	Kom	3937
+39.	Dale(#2441) - zolina	16987km2	5342818	R*R	Kom	3978
+40.	I CAN MAKE THE WORLD STOP(#3699) - FRaktura	14391km2	5327636	ŠAM	Demo	3976

@@ -1,0 +1,42 @@
+45. VĚK
+#	Země	Rozloha	Prestiž	Aliance	Vláda	Kol
+1.	..Mazlík Terka..(#4851) - Nargan	18055km2	21050200	VSL	Kom	3584
+2.	Soníku jsi pro mne vším(#7527) - Lord Biry	27508km2	18226146	StrakerS	Kom	3757
+3.	Ne tak milý jako bůh(#11371) - Mr.Perfect	23276km2	15455532	K1	Demo	3533
+4.	Nedistán(#8728) - Milned	25987km2	14431233	UVVB	Demo	3504
+5.	I Always Get What I Want(#4389) - Gxx	25325km2	14308695	Wrath	Rep	3587
+6.	CS?? kde je skil?? ?(#5260) - Drunk3n	17738km2	13218561	TrPazÚsT	Kom	3783
+7.	Brůča bručí v Americe(#10342) - Nupacak	38229km2	12827218	G.U.M.I.	Kom	3936
+8.	Malá sněhová vločka(#3337) - Pachacuti	37534km2	12789549	VENDETA	Feud	3796
+9.	lets play cs nubs :O(#10959) - Drunk3n	31199km2	12427970	SIL	Dikt	3585
+10.	The Hitchhiker`s Guide(#6416) - Pepemistr	34867km2	11349407	D3STROY	Robo	3925
+11.	Muhammed Abdul al-Wahháb(#1460) - Evil Revolution	41235km2	11185915	Jop:-)	Robo	3930
+12.	I Bara Hezky Zuzla Kulky(#3220) - klankosti	29932km2	10828201	IBHZK	Kom	3925
+13.	Spamuj1ci zviatko (^o^)(#12636) - Jerwi	19981km2	10587273	FoW	Dikt	3664
+14.	The beauty in black(#3126) - Dimmu.Borgir	23232km2	10551852	Love	Demo	3753
+15.	The Hybrid Theory(#4221) - Gxx	25325km2	10357496	Hajanek	Robo	3930
+16.	Waiting for win(#2395) - Dave jee	23784km2	10320970	LLS	Demo	3588
+17.	Vajco,vajicko,vajcak(#1693) - K.N.M KoLLo	20005km2	9948487	Vajcaci	Utop	3764
+18.	Kačka(#3543) - .adm1n.	24386km2	9826623	/Fe4r/	Kom	3795
+19.	HellGuard of TrupyLend(#7021) - FARR FARR AWAYY	30104km2	9382198	EMP	Dikt	3868
+20.	Hell of Nupaky(#8718) - Nupacak	24493km2	9250690	.:H-A:.	Kom	3861
+21.	:.:.ASSASSIN.:.:(#75) - Blackthunder	22088km2	9033957	.A.	Demo	3805
+22.	Bobr natupírovaný(#280) - 4M0K	22485km2	8581982	HoBŘ	Kom	3750
+23.	Obelix(#3428) - Sjezdovka	17439km2	8577342	ASTERIX	Demo	3842
+24.	Tomastán(#10507) - Děda Jaga	33474km2	8491550	LLS	Robo	3977
+25.	*`=/-.,:())+*//(-*-)///=*(#5435) - Comanndos	24143km2	8462096	N-N-N	Robo	3979
+26.	archangel land(#3955) - TiHiC	24644km2	8451590	H5N1	Demo	3979
+27.	Veni,Pikačuk,Vici(#171) - .Tommy33.	28222km2	8149200	V.V.V.	Robo	3978
+28.	Voloďa(#4993) - Siriuss	23002km2	8098842	Nedivoč	Rep	3775
+29.	Zem prázdnoty a ticha(#1216) - fúúúúúha	14334km2	7956374	:)ski(:	Utop	3819
+30.	MAXIMUS EREKTUS(#10598) - Poly	19072km2	7921636	s.emil	Kom	3878
+31.	Startku sou moc dobry(#2635) - Ctirad2	31855km2	7751387	L.O.S.	Robo	3845
+32.	Furor Teutonica(#5591) - rawsteel	27670km2	7660760	*SN*	Robo	3979
+33.	A r3d r3d ros3...(#2075) - Spozpoid.Great	23877km2	7574464	R3D:-*	Demo	3924
+34.	Thanatos-bůh smrti(#7773) - .cobra.	28583km2	7507120	H.E.H	Robo	3948
+35.	?????????????????????????(#30) - Rhoods	17136km2	7478730	RAF	Demo	3766
+36.	Jsem Ostuda WG(#703) - Windows Error	26015km2	7465871	-:WoF:-	Robo	3800
+37.	I_Destroy_You(#3710) - cermisek	23330km2	7432995	Rychta	Robo	3976
+38.	Lord SMRT Prasohryzovi(#7089) - Signalman	22165km2	7428827	Lordi	Robo	3960
+39.	Vlčák jak dobrman(#8210) - DOG of WAR	24100km2	7421229	OS	Rep	3925
+40.	((#4976) - r0x	21543km2	7407830	=-d15-=	Demo	3951

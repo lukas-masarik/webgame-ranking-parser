@@ -1,0 +1,42 @@
+142. VĚK
+#	Země	Rozloha	Prestiž	Aliance	Vláda	Kol
+1.	nEvEr mOrE(#506) - F0rsaken S0ul	30000km2	21274397	.L.O.S.	Kom	3850
+2.	Easy target,feelin this?(#1267) - Mrkvička777	30226km2	18497382	=T=	Dikt	3745
+3.	Rozbij se(#1521) - Spratek	31234km2	17262649	L.O.S.	Demo	3946
+4.	God bless you(#340) - JimCurry	25840km2	14700000	PíPíBí	Utop	3936
+5.	Hrejsemnou(#624) - AzorAhai	26513km2	14130430	PíPíBí	Tech	3941
+6.	Memento mori(#1087) - XQG	20128km2	12988376	*UF*	Tech	3679
+7.	Air....(#9696) - kill666	22999km2	12656128	Afrik	Tech	3957
+8.	Trn v Patě(#794) - Lord Rechleek	20006km2	12298198	*UF*	Utop	3880
+9.	****?CEN?SO?RED?****(#1559) - rybka es atrás	22622km2	11287576	L.O.S.	Kom	3776
+10.	Enforcer(#60) - Dr.Leckter	22137km2	11022296	*UF*	Demo	3662
+11.	Survival of the Fittest(#1378) - ridgeback	18572km2	10773406	LBL	Tech	3494
+12.	Bombis hladí(#1494) - Bombis	26000km2	10420934	L.O.S.	Utop	3922
+13.	Amoeba Boys(#1555) - Muffia	29150km2	10192380	SUX	Feud	3971
+14.	BUFU(#1306) - snasa1	15928km2	10177798	Tabacek	Utop	3852
+15.	-=KA=-(#78) - Estetik	23038km2	10126451	-=KA=-	Rep	3976
+16.	-=KA=-4ever(#75) - Estetik	20952km2	10023193	-=KA=-	Tech	3601
+17.	Fallen Angel(#325) - hagg1d	22000km2	9900000	HIZBALAH	Tech	3864
+18.	Rafan Sph1nx(#109) - Sph1nx	16833km2	9214754	-=AB=-	Tech	3887
+19.	Princezna (ha)Lůzinka(#1479) - Kaery	26034km2	9154589	L.O.S.	Feud	3964
+20.	Nehral som to 5 rokov(#119) - State Enemy	28421km2	9011542	MK	Feud	3979
+21.	-=KA=-pička meskalinu(#234) - Athara	21999km2	8751983	-=KA=-	Kom	3840
+22.	zeme plna sandalu(#435) - sir uriel	12230km2	8584386	WMYQ	Kom	3882
+23.	LOS made in Black(#397) - BlackTears	18660km2	8541725	L.O.S.	Demo	3845
+24.	Ponrava(#80) - Estetik	18588km2	8487192	FETKA	Tech	3867
+25.	Shiro(#112) - bukvicka13	20492km2	8414312	PhaMa	Demo	3971
+26.	Plačko(#932) - .G.R.U.M.Y.	24221km2	8376457	FAKE	Tech	3968
+27.	Natri si bambino(#289) - ftacik	22661km2	8292521	DOTA	Robo	3932
+28.	Arroyo(#95) - king martas	18305km2	8273650	MK	Utop	3969
+29.	Hi, send nudes(#1402) - Bota007	30003km2	8186685	MK	Fund	3945
+30.	Nevrhevsíntoprlajkmí(#1198) - Záchodové prkno	21870km2	8147771	PhaMa	Kom	3945
+31.	....,..(#115) - pelizid	15988km2	8098999	Lotta	Tech	3879
+32.	Muso oa Lesotho(#1089) - XQG	28181km2	8066456	Afrik	Robo	3954
+33.	Marin(#740) - Vibromax	15970km2	8062690	ganja	Tech	3963
+34.	-ALIVE- Divná zem(#1354) - Xzibit.Dogg	15999km2	8024380	ALIVE	Utop	3881
+35.	Nevyplatí:::se:::ti:::to(#2020) - AzorAhai	16869km2	8002347	Tabacek	Tech	3962
+36.	***B***orec Dzuli.(#856) - Zlatá udice	17587km2	7861144	JIHAD	Demo	3950
+37.	No Woman No Cry(#829) - Mr. Sedlinno	19093km2	7726359	L.O.S.	Tech	3931
+38.	Palomphreon(#92) - Henry Propr	17258km2	7609450	(M)	Kom	3941
+39.	Buřtokvas tvojí mámy(#1021) - Mrkew	15409km2	7605275	MÁMA	Utop	3979
+40.	Eiger Extreme(#319) - Edron	14441km2	7438353	MK	Utop	3973

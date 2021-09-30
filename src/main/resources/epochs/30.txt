@@ -1,0 +1,42 @@
+30. VĚK
+#	Země	Rozloha	Prestiž	Aliance	Vláda	Kol
+1.	Mazlik(#12217) - Plakala	19999km2	9554078	CMX	Demo	3597
+2.	zzzzzzZZZZZZZZZZzzzzzz(#4735) - Morfeus	26174km2	9375404	D1R1GENT	Demo	3821
+3.	Walpurgis III(#9126) - Mablung	19051km2	8256566	SAM	Robo	3851
+4.	I see dead people(#7821) - nonPhixion	19271km2	8218976	n-jedna	Demo	3731
+5.	OCHO(#11130) - survival.	15178km2	8088330	SB	Robo	3656
+6.	Kód: 3,14ČA(#1629) - medvidek.BU	22385km2	7863375	SWK	Demo	3854
+7.	Sendí Svět(#10820) - .Dosty.	11977km2	7777777	BaH	Kom	3787
+8.	:.:Slayer Knight:.:(#4209) - Charlemagne	22215km2	7669948	THOR	Robo	3753
+9.	Keci ejč, ajci manuš YEAH(#10235) - CREASON	21759km2	7668211	AF	Demo	3850
+10.	Město Andělů(#143) - Eldudik	13973km2	7604993	L.A.	Robo	3790
+11.	Area 52(#2215) - Mul?ák II	25548km2	7528397	n-jedna	Demo	3737
+12.	Scrap heap(#7956) - Komrl	12163km2	7479176	-=W=-	Demo	3795
+13.	S brekem domu(#2209) - .endarion.	24119km2	7474940	D1R1GENT	Demo	3842
+14.	Dantooine(#1339) - Quixote	21813km2	7197543	VL	Utop	3854
+15.	provincia Gallia(#12571) - Doosha	19347km2	7186277	p.r.3	Demo	3603
+16.	13.Září(#3817) - Mateo.	19595km2	7085768	SB	Demo	3267
+17.	Jamabushi(#321) - JNK	19991km2	6966340	*SS*	Robo	3842
+18.	makkakland(#7134) - S.A.T.A.N	11103km2	6890524	NIE	Utop	3774
+19.	Footmen Frenzy v3.8(#108) - SAHI	23321km2	6831081	.:BRNO:.	Rep	3812
+20.	lumík v chronické depresi(#4087) - kopff	22032km2	6801863	SWK	Kom	3859
+21.	Druhá zem(#9181) - Mablung	16728km2	6766605	SAM	Robo	3850
+22.	Nailand(#4339) - Nairen	24212km2	6733883	n-jedna	Robo	3858
+23.	:.Ice water runs deep.:(#202) - palicius	31928km2	6718019	AML.	Robo	3855
+24.	kansas city royals(#9829) - ZeDiK	18418km2	6646262	MLB	Demo	3855
+25.	Naddrženej Dědeček(#422) - M.i.s.T	19378km2	6626359	Mrzak2	Rep	3732
+26.	Ásgard(#4202) - Charlemagne	26918km2	6620477	THOR	Utop	3777
+27.	Kenny is back(#2395) - K3nny.	24131km2	6547620	ZERO	Utop	3713
+28.	Senokřupy(#2793) - Lopyk	17850km2	6491181	n-jedna	Robo	3822
+29.	..Ice water runs deep..(#413) - steelshaper	29900km2	6479553	AML.	Robo	3834
+30.	Salusa Secunda(#9061) - Modic	19350km2	6456716	worm	Robo	3820
+31.	uLtRa`(#11256) - uLtR4	26662km2	6422493	BORG	Robo	3806
+32.	Phobos(#5905) - zolina	22551km2	6351841	THOR	Utop	3855
+33.	Naddržená babička(#426) - M.i.s.T	19186km2	6345122	Mrzak1	Rep	3732
+34.	san francisco giants(#70) - grepik	18410km2	6330881	MLB	Robo	3855
+35.	.:Ice water runs deep:.(#136) - palicius	29679km2	6328460	.::R::.	Robo	3838
+36.	Kimi(#7659) - Plakala	16210km2	6314976	PBT	Demo	3743
+37.	/////////////////////////(#9769) - xpepa	13333km2	6286517	VENDETA	Robo	3736
+38.	new york yankees(#19) - grepik	18744km2	6279061	MLB	Robo	3855
+39.	SEAL 6(#2553) - NietzscheV	28296km2	6254118	UP	Fund	3572
+40.	Dragon Sands(#6305) - Binnesman	15972km2	6249674	DDO	Demo	3855

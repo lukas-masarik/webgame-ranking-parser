@@ -1,0 +1,42 @@
+131. VĚK
+#	Země	Rozloha	Prestiž	Aliance	Vláda	Kol
+1.	Julie(#522) - hlidac3	20000km2	12286928	Genocida	Kom	3654
+2.	chrochro(#140) - Joker16.	20758km2	10216488	ZERO	Robo	3957
+3.	H3lp1k(#820) - Hanz Guderian	26334km2	9989193	NKL	Demo	3939
+4.	SUXessfulI(#727) - LuisFigo	25721km2	9574169	SUX	Robo	3947
+5.	.:CZ-SK:.AK-47ProduceR(#1038) - AKland	27038km2	9288531	ČSLA	Demo	3966
+6.	Schönau am Königsee(#614) - Herr II	27250km2	9216252	-=PINP=-	Demo	3975
+7.	Slava Ukrayini(#1546) - Athara	21622km2	8244323	FETKA	Tech	3797
+8.	Jason Bourne(#955) - Comanndos	14444km2	8141103	DEJAVU	Utop	3755
+9.	LEONARDO DA VINCI(#324) - JohnnyLamka	27074km2	8081245	MENSA	Robo	3978
+10.	tell me something girl..(#33333) - rybka es atrás	17579km2	7963186	.:?:.	Utop	3902
+11.	Make coffee not war(#259) - JimCurry	22044km2	7828071	VIR	Utop	3979
+12.	Premiéra za Demo(#738) - the last Hero	19566km2	7713274	Friend	Demo	3946
+13.	kopanice(#1309) - Lord Kamzo	18232km2	7274975	NKL	Robo	3966
+14.	Lipous(#136) - Joker16.	21571km2	7221542	Ganja	Robo	3971
+15.	Neverwinter(#690) - kaamilko	19999km2	7205259	-WoW-	Anar	3907
+16.	incognita terra(#1169) - Traboss	22418km2	7164059	-WoW-	Robo	3978
+17.	.:YD:. Mechy, techy fuč(#760) - White Dead	23018km2	6960012	.:YD:.	Utop	3978
+18.	HolubíŘev(#137) - HolubíAgresor	15351km2	6858100	80`s	Utop	3944
+19.	Ponrava je dobrá(#1438) - Estetik	19971km2	6779695	FETKA	Tech	3757
+20.	Karaz-a-Karak(#4000) - Reich Graf	16999km2	6775065	DF2	Demo	3890
+21.	Mia Wallace(#278) - Telwin	25499km2	6744222	SUX	Feud	3956
+22.	500g hovězího k snídani(#507) - imperial knight	26823km2	6710385	FETKA	Feud	3977
+23.	Pfanner(#77777) - Evzen Hyberny	19364km2	6678637	Ganja	Robo	3965
+24.	Ohon na ruční pohon(#907) - .Meteos.	16999km2	6666666	**SNK**	Robo	3954
+25.	Ponrava jak stehno(#1437) - Estetik	20029km2	6643260	FETKA	Tech	3865
+26.	-DEAD-DanikNemaPenachym(#985) - Diák	15550km2	6634101	DEAD	Utop	3907
+27.	Grýn(#211) - green88	15000km2	6605580	)CD(	Utop	3978
+28.	možno ty(#621) - skazinoska	19026km2	6576975	VzP	Utop	3977
+29.	Handstand(#948) - Deus	13600km2	6410000	SPRITE	Utop	3784
+30.	dopřipravuju(#104) - Walden r Gwendor	19499km2	6405221	ZERO	Robo	3972
+31.	TheWindowslogoooo(#753) - woloda	17827km2	6402895	KZ	Rep	3940
+32.	Lasciate Ogni Speranza..(#855) - DieWalker	17081km2	6361162	FETKA	Anar	3962
+33.	Syrius the Plane(#856) - DieWalker	12121km2	6123425	FETKA	Tech	3939
+34.	Mládí v hajzlu(#1389) - Michal IX	16380km2	6102210	SPRITE	Demo	3962
+35.	Elpro-Energo(#231) - král urucskýý	12187km2	6090633	lF	Robo	3858
+36.	ELON MUSK(#2000) - Reich Graf	17571km2	6059188	MENSA	Demo	3926
+37.	Nová Ves u Bakova(#332) - Bigbosh2	16166km2	6044538	S*K	Utop	3864
+38.	Vysabotím ťa keď chceš(#8888) - tvojasmrt	13571km2	6034550	FETKA	Utop	3853
+39.	MegzlaWara(#210) - Jukalis	20107km2	6001604	ZERO	Dikt	3934
+40.	Slušná země(#1047) - Saturas	16435km2	5906401	.SE.	Utop	3979

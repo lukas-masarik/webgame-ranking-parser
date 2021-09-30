@@ -1,0 +1,42 @@
+25. VĚK
+#	Země	Rozloha	Prestiž	Aliance	Vláda	Kol
+1.	Zivot je Bagr(#2292) - Krystof Jindra	25493km2	10595715	VÍCADMIN	Demo	3811
+2.	Lord Brak(#1910) - GanYaBuS	25665km2	9000000	VÍCADMIN	Demo	4095
+3.	Zase Farma(#777) - Boss33	23381km2	8898911	TH	Rep	3839
+4.	Bramborka(#1013) - Mandelinka Bram.	22326km2	8568353	TH	Demo	3870
+5.	Medvěd(#1387) - nearest	24190km2	8540932	VÍCADMIN	Demo	3942
+6.	Immortality waiting for u(#1890) - Metamorph	27659km2	8537613	VÍCADMIN	Utop	3939
+7.	Narwain(#426) - oggi	16580km2	8453331	TH	Anar	3726
+8.	Bílý Vigvam(#1602) - Windom	13560km2	8274135	X-F	Utop	3259
+9.	ZaPytelSkankuVyloupiBanku(#2453) - LordDePraga	17341km2	8006787	TD	Demo	3748
+10.	Pif, paf, bum(#296) - kinbub	21262km2	7981277	TH	Demo	3749
+11.	MYKENY(#3257) - steamroller	15555km2	7918670	KKA	Utop	3722
+12.	119310584(#888) - Black Warrior	21779km2	7792535	ICQ	Utop	3865
+13.	209593016(#354) - Elkor	20577km2	7500000	ICQ	Utop	3846
+14.	Sekec Mazec(#63) - Zaribel	22198km2	7435533	UFO	Rep	3834
+15.	Eldorado(#289) - alu	25887km2	7410851	AYES	Robo	3865
+16.	Zex(#215) - Facka	17928km2	7336065	INTR	Demo	4123
+17.	Noční Klub(#1089) - Keyoke	22901km2	7161635	TH	Rep	3829
+18.	Looking For To Be ...(#1378) - TECHWARRIOR	1000km2	6915024	UFO	Utop	3865
+19.	Maxíkova zemička(#5300) - Max von Sydow	19115km2	6883357	SB	Utop	3864
+20.	137745053(#3973) - Sir Peko	18096km2	6827644	ICQ	Utop	3797
+21.	zcela bezvýznamná zemička(#2905) - Nerevarine	17000km2	6814013	UFO	Demo	3864
+22.	The Memorial of Fallen(#5504) - Raid3r	18254km2	6799973	=DS=	Kom	4246
+23.	Ctihodný MARGOT(#4579) - Sekory	17063km2	6770615	ORION	Kom	3803
+24.	.udounek.(#3393) - br4insh4ker	24209km2	6697887	VÍCADMIN	Utop	3865
+25.	Territory(#2716) - orgasmatron	27187km2	6660372	3rdWorld	Kom	3839
+26.	Garfieldův svět(#4553) - Sekory	20536km2	6642310	coRp	Tech	3813
+27.	Apocalypsa(#1033) - Zorg	18125km2	6592836	MK	Rep	3855
+28.	Těžká vibrační souprava(#209) - Razor	15009km2	6515058	VK	Robo	3863
+29.	Rebellion(#10402) - Rebell	8415km2	6452731	C*P	Demo	3367
+30.	Beetle.Juice(#7083) - Hydrasman	22094km2	6425760	BV	Rep	3805
+31.	Amores perros(#1615) - soltari	21077km2	6367702	S.D.E	Rep	3851
+32.	1RuKaVkAlHoTeCh1VnI(#7413) - pyroman	14472km2	6265796	n1	Demo	3861
+33.	Ghost(#940) - SpaceGhost	22790km2	6245417	=DS=	Kom	3922
+34.	OCHO(#714) - survival.	12056km2	6180876	SB	Demo	3815
+35.	Silmarillion(#6454) - Elwe	15410km2	6174191	VK	Robo	3865
+36.	Huhulackof(#459) - Sanysek	2748km2	6160060	TH	Anar	3540
+37.	Astorobotor(#1091) - Asticka	19509km2	6149208	SP	Robo	3865
+38.	278449250(#8134) - .DuKeLuKe.	18805km2	6129000	ICQ	Utop	3854
+39.	matka predstavena(#69) - kamikadze10	12014km2	6114964	n1	Demo	3790
+40.	Gandalf(#5239) - Hermes	20109km2	6108525	SP	Rep	3848

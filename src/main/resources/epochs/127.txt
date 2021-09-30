@@ -1,0 +1,42 @@
+127. VĚK
+#	Země	Rozloha	Prestiž	Aliance	Vláda	Kol
+1.	Origins(#16180) - Mindnmaster	25555km2	19343089	N-N-N	Utop	3481
+2.	Život píše(#293) - ridgeback	19999km2	14474999	LBL	Utop	3662
+3.	Ikuzák(#1102) - Borsug	28838km2	12401103	V...D	Utop	3753
+4.	Farmářskej zm*d(#1046) - JohnyMaslo	16390km2	12155986	=HORDA=	Utop	3598
+5.	come on(#71) - Ctirad2	12016km2	9475532	SB	Anar	3389
+6.	CTK(#81) - Ctirad2	28317km2	8534542	Tabáček	Robo	3958
+7.	Jan-Kláda Van Dal(#854) - imperial knight	21649km2	8318539	Ganja	Demo	3983
+8.	Nemilosrdná slečinka(#428) - c4u710n	14444km2	8288417	ManG	Utop	3878
+9.	Sophie Deveraux(#516) - Avgeropoulos	24802km2	8112787	G-S	Utop	3683
+10.	Ještě jedno prosím(#1389) - FR3EZY	20178km2	8009735	VD	Utop	3782
+11.	Snorriho zahrádka(#1291) - Method Man	23572km2	7865588	-THC-	Robo	3982
+12.	Krutor(#804) - Zdeno koleno	22996km2	7587757	.Ganja.	Feud	3982
+13.	Neuspech nebo uspech(#744) - Sdalin	16544km2	7584059	68	Utop	3967
+14.	Myspulin(#817) - Joker16.	26516km2	7571465	ZERO	Robo	3958
+15.	Bombing Crown(#514) - the last Hero	22022km2	7174528	Bombing	Kom	3983
+16.	.:S3rVuS:.Bro(#1271) - Charles king	19973km2	7144748	68	Utop	3914
+17.	LA7(#603) - snasa1	27501km2	7096613	Tabáček	Robo	3974
+18.	Skunkfield(#680) - Method Man	18668km2	7091488	SUX	Demo	3974
+19.	Ararat(#97) - zullu	20733km2	7086762	=T=	Anar	3956
+20.	RU kolu neže RU(#421) - Lídiště	15490km2	6719478	-=DH=-	Utop	3951
+21.	Hefaystion(#266) - High Warlord Rxz	22222km2	6532909	Bull	Utop	3980
+22.	-DEAD-Diak nema Penachym(#387) - ppedrnikar	15000km2	6398052	DEAD	Utop	3693
+23.	Titanopolis(#723) - Independence	17374km2	6296204	ALI1234	Demo	3982
+24.	PnD(#43) - Skillgannon	13637km2	6258726	-=DH=-	Utop	3951
+25.	usti(#443) - vachys39	22779km2	6175522	ALI1234	Robo	3963
+26.	KUnaSVOUtyčkuDÁMkaždouPIČ(#89) - xxxBladexxx	14999km2	6144638		Utop	3568
+27.	Cauky Land(#992) - Brawek	16537km2	6141790	SOCH	Anar	3974
+28.	Scary Pitcha(#581) - Thooom	19954km2	6079563	-THC-	Robo	3978
+29.	Take the L(#1383) - Diesi	15156km2	5974025	queens	Utop	3978
+30.	VTIP O Hadovi a Zajacovi(#815) - hlubik	17139km2	5899583	-G-	Anar	3950
+31.	-Dead-Greyova zahradka(#84) - Windmouse	21945km2	5893379	DEAD	Feud	3937
+32.	back in silver(#745) - mrstr	14999km2	5872044		Demo	3982
+33.	KOALA Vítěz 127.věku(#1111) - koala59	14999km2	5869566		Utop	3735
+34.	Conqueror labužník(#1993) - Mr. Sedlinno	14999km2	5783130		Utop	3922
+35.	Fifina(#812) - Joker16.	15019km2	5761062	queens	Utop	3958
+36.	FOSYNK0(#491) - 4saken	14999km2	5755066		Feud	3960
+37.	Ničitel Světů(#805) - Zdeno koleno	14998km2	5732565		Utop	3704
+38.	Wyrmberg(#1162) - Roger	14999km2	5690915		Utop	3866
+39.	Lasciate Ogni Speranza..(#163) - DieWalker	28203km2	5604880	SIL	Feud	3977
+40.	Kings queen(#633) - ppedrnikar	15000km2	5583414	queens	Utop	3974

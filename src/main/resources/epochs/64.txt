@@ -1,0 +1,42 @@
+64. VĚK
+#	Země	Rozloha	Prestiž	Aliance	Vláda	Kol
+1.	Tempus Fugit..(#5177) - DieWalker	14555km2	17391349	SB	Tech	3805
+2.	500kč za 1000km(#1633) - XXXGrey	22164km2	14221273	*zoo*	Utop	3557
+3.	Veverky nadopované heliem(#188) - Mr Shaman	21545km2	13812023	Veverky	Demo	3538
+4.	GALLAX K1LLER(#730) - JassonD	39600km2	13670642	*.:L:.*	Robo	3963
+5.	Nedistán(#1672) - Milned	27105km2	13411586	Mgn	Demo	3761
+6.	Astičkov(#2220) - Asticka	29296km2	12461847	UTOPSE	Robo	3902
+7.	.:in cruce mea fides:.(#3734) - Sef87	22169km2	12441099	/GC/	Tech	3954
+8.	No Drill - No Skill(#1003) - CanisLupus	31548km2	11843693	Across	Utop	3950
+9.	:Wata:gata:pitus:berry:(#374) - G.R.U.M.Y	20001km2	11522443	DOGS	Utop	3556
+10.	Born To Be Wild(#4491) - Vojtiiik	35449km2	11468387	D1KTATOR	Robo	3970
+11.	SiL ikONy 4EveR(#2080) - klankosti	27062km2	10945456	ČSLA	Kom	3936
+12.	AntiPredator(#1077) - .LordIlidan.	10160km2	10921548	GST	Kom	3651
+13.	Banánový Joe(#1508) - Joe The Boss	24366km2	10826276	EMP	Rep	3838
+14.	Nejneobhospodařovávanější(#922) - Martin858	33633km2	10773421	EMP	Robo	3953
+15.	absinth k snídani i obědu(#174) - M1S73R	21950km2	10597861	:ZotR:	Utop	3578
+16.	Jace, the Mind Sculptor(#2211) - xkukx	17777km2	10456174	SB	Tech	3842
+17.	Can you beat me?(#489) - Dzindzik	23288km2	10406547	WG-PROF	Utop	3832
+18.	Break On Through(#1760) - JJura	24167km2	10303154	SB	Demo	3581
+19.	I Bara Hezky Zuzla Kulky(#2076) - klankosti	28552km2	9539757	wal-mez	Robo	3960
+20.	Jerwowizard(#3126) - Jerwi	23307km2	9486326	FoW	Demo	3722
+21.	Chňa chňa chňa(#3693) - Khatmay Siphando	26522km2	9439232	Chrudoš	Robo	1645
+22.	Susan Coffey(#3231) - Gxx	19700km2	9378413	Ganja	Kom	3936
+23.	****?CEN?SO?RED?****(#179) - rybka es atrás	20704km2	9122292	.:?:.	Utop	3676
+24.	Som s5 po 17-tich vekoch(#51) - Davo99	17999km2	8840444	.:eK:.	Demo	3553
+25.	Eski Girl(#46) - Dhany	23880km2	8835795	Ganja	Robo	3975
+26.	Flying circus(#5625) - Binnesman	27285km2	8582694	K	Feud	3978
+27.	Ten(#2592) - Broot	23354km2	8374815	ILW	Robo	3950
+28.	++(#5858) - VargVikernes	29061km2	8302825	RAFBO	Robo	3896
+29.	Malibu Cayo Vodka Coco(#5935) - Lubos.H	15997km2	8300382	WMYQ	Utop	3779
+30.	Cristiano Ronaldo ...7...(#5426) - Vasulin	31414km2	8227556	PUNX23	Robo	3978
+31.	.:CZ-SK:.Ai(#2249) - Bulva	26999km2	8126141	ČSLA	Robo	3971
+32.	Šáršulka :-*(#4225) - 0portunity	19449km2	8084319	CoverUni	Utop	3953
+33.	Artek(#112) - Jurgens	20000km2	8053988	Mgn	Rep	3979
+34.	sLidmaJeToHoldTezky(#1825) - Pyromnacer	20330km2	8028779	=EF=	Utop	3876
+35.	LOS made in Cote d`Ivoire(#3625) - Lord Minndy	19998km2	7913451	L.O.S.	Rep	3950
+36.	urielov(#2577) - sir uriel	24701km2	7889388	WMYQ	Robo	3979
+37.	Legionář Pomsty(#575) - Anděl	25800km2	7880112	KL	Robo	3979
+38.	zemeTulipanuMlejnu(#3316) - kabelec	27104km2	7871181	K	Feud	3962
+39.	Creepy attack(#66) - SKAlpik	19477km2	7720987	ČSFR	Kom	3747
+40.	Surrender(#3242) - delivery	29150km2	7689145	.:TR:.	Robo	3979

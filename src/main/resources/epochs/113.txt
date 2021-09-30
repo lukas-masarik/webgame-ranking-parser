@@ -1,0 +1,42 @@
+113. VĚK
+#	Země	Rozloha	Prestiž	Aliance	Vláda	Kol
+1.	IM MADEIRA(#1297) - ptak77	32048km2	26513179	=T=	Kom	3645
+2.	Ukaž číču(#1287) - Remor	30687km2	19298648	EGT	Utop	3783
+3.	Andrej Bubiš(#1843) - Nový inkvizitoor	26999km2	14920299	Tabáček	Kom	3814
+4.	neminem laedere(#190) - Lord Demokrat	20194km2	10897658	EGT	Kom	3875
+5.	Mareček je dáreček voe(#352) - Temundzin	16666km2	10666666	M	Utop	3871
+6.	Conquerror(#1652) - mara8	20042km2	10607704	**CQR**	Kom	3882
+7.	Tabacco(#163) - ...Aláh...	25994km2	10126680	Tabáček	Demo	3608
+8.	Dong Yaqian(#56) - Topisek	21695km2	10088480	=101=	Utop	3949
+9.	Sněží expy, něco si přej(#336) - Temundzin	16666km2	8584622	BOUNTY	Utop	3872
+10.	.........................(#61) - Sample	30196km2	8310718	V3ND3TA	Robo	3975
+11.	Hod se do klidu(#537) - Aram Chroustal	26702km2	8304324	.L.O.S.	Feud	3944
+12.	Atlan(#625) - Atlantik	17499km2	8246456	M	Utop	3843
+13.	jak chceš(#1100) - Atlantik	24587km2	7900059	EGT	Robo	3942
+14.	Bhut Jolokia(#1320) - Reich Graf	22358km2	7707347	MENSA	Robo	3974
+15.	Fetální erytroblastóza(#209) - The noble Erse	16999km2	7252426	College.	Utop	3965
+16.	KUnaSVOUtyčkuDÁMkaždouPIČ(#83) - xxxBladexxx	21489km2	7194722	D1KTATOR	Robo	3975
+17.	DAIWA(#515) - Caballero	20670km2	7160409	LEGO	Robo	3975
+18.	Legendary Night Club(#275) - Archimonde73	19736km2	7094115	LW	Kom	3959
+19.	___O_o_o____O__o----o_o_O(#1209) - Garithos	21460km2	7041208	KOMPLEX	Robo	3974
+20.	Artek(#35) - Jurgens	21980km2	6897631	68	Rep	3975
+21.	Zaphod Beeblebrox(#914) - mara8	16999km2	6865091	M	Utop	3873
+22.	tlustší a blbější farma(#1532) - S1m0n	18043km2	6861469	MZA	Utop	3945
+23.	Gnar(#58) - Topisek	20891km2	6763277	EGT	Feud	3975
+24.	.::PKZ Multikar::.(#1608) - Kwasak	21195km2	6749791	PKZ	Demo	3943
+25.	Kebab House(#599) - FR3EZY	23963km2	6734119	=101=	Robo	3961
+26.	Business trip(#1134) - imha	20697km2	6648966	Tabáček	Fund	3965
+27.	Orenburg(#41) - Jurgens	21904km2	6598108	XL650v	Rep	3975
+28.	Čaroděj ze země (k)oz(#911) - nezbedny bohus	13981km2	6501242	=101=	Robo	3925
+29.	So hot(#346) - 2xcl.	16666km2	6339352	M	Utop	3879
+30.	Lotrando a 40 loupežníků(#1412) - Sjezdovka	16976km2	6323910	BOUNTY	Utop	3890
+31.	Nothin Like Home(#990) - leszek	18129km2	6278709	EGT	Robo	3940
+32.	Koštování Strohu(#180) - Just4that	15999km2	6274389	Nepijeme	Utop	3964
+33.	DNA 24K Gold(#1230) - Master WG	13704km2	6213794	BOUNTY	Utop	3974
+34.	To neumíš co? :D(#1040) - mulako	18056km2	6195805	.:oMg:.	Demo	3814
+35.	PSČ CREW...(#1854) - gerbera	19349km2	6118830	MENSA	Feud	3944
+36.	koleje(#1069) - Martin poula	14820km2	5888888	M	Utop	3962
+37.	Floutkov(#842) - Bigbosh2	25357km2	5754982	S*K	Feud	3933
+38.	-)MTG(- Asi vítr(#74) - SOH	15717km2	5696586	MTG	Rep	3961
+39.	SUXessfulI(#145) - LuisFigo	20825km2	5530908	SUX	Robo	3855
+40.	be here now(#347) - rybka es atrás	21382km2	5496264	EGT	Fund	3962

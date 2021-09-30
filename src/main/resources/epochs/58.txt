@@ -1,0 +1,42 @@
+58. VĚK
+#	Země	Rozloha	Prestiž	Aliance	Vláda	Kol
+1.	Astičkov(#205) - Asticka	29871km2	17498127	UTOPSE	Utop	3499
+2.	S fackal jsme svýho synka(#3571) - Lord Biry	29452km2	14238786	D1KTATOR	Kom	3649
+3.	Ouroboros(#389) - Nargan	28137km2	13687933	Chrudoš	Robo	3971
+4.	Chmelový nektar ja znám(#4822) - Mr Shaman	31923km2	13385412	Berušky	Robo	3761
+5.	Ptaak(#1104) - Borsug	25124km2	13125576	VD	Utop	3754
+6.	FUROR TEUTONICA(#88) - rawsteel	20476km2	12388663	MRUK	Utop	3467
+7.	\(#5137) - cmelo	20955km2	12112612	RQ	Utop	3545
+8.	Vojtiiik(#25) - Vojtiiik	25019km2	12072247	D1KTATOR	Demo	3692
+9.	.:CZ-SK:.Morfo(#125) - enymesi	19999km2	10881000	.::B::.	Utop	3461
+10.	Voloďa(#4405) - Siriuss	29047km2	10876001	EASYLIKE	Rep	3885
+11.	10M baby(#256) - Temundzin	20741km2	10303421	BOUNTY	Utop	3916
+12.	=SYNTIA=on the smoon(#3429) - Vytez	29312km2	10121978	.:LWB:.	Rep	3958
+13.	Nepropadejte panice(#2002) - mixhail	30877km2	10090727	MoM	Robo	3930
+14.	Profesor mručích mravů(#424) - Drunk3n	33333km2	9870613	MRUK	Robo	3933
+15.	...myslíš...?;](#3962) - a1capo	28443km2	9340937	Z.L.A.	Kom	3865
+16.	***?CENS??ORED?***(#559) - mTj s.	20993km2	9110028	.:?:.	Utop	3744
+17.	Skill And Highest Income?(#1608) - SAHI	19100km2	8873215	D1KTATOR	Demo	3857
+18.	Dúnadančan(#189) - Drake18	27648km2	8635331	MRUK	Robo	3972
+19.	zahrada růží(#3289) - steamroller	17086km2	8616403	.::R::.	Utop	3868
+20.	N0 Br4in(#401) - t3latko	18206km2	8492074	AUTORITA	Utop	3945
+21.	rm / -rf(#3165) - czYbph0	30405km2	8467533	d15	Kom	3844
+22.	Dalaj.lama(#3707) - XPskFyzik	20612km2	8363156	RQ	Fund	3934
+23.	Mruk from hell(#3347) - Cheater00	29000km2	8335403	MRUK	Robo	3978
+24.	Sarmatsky bojovnik(#3969) - Macedonec	24276km2	8311797	LLS	Utop	3894
+25.	(-(-_(-_-)_-)-)(#3517) - dudi.	25749km2	8292004	d15	Robo	3947
+26.	Hrdzavý Robot(#467) - jongi	27359km2	8269460	BLIGHT	Robo	3901
+27.	Jmenuju se Kazisvet(#4539) - Chaos leader	27863km2	8266492	EMP	Robo	3979
+28.	(-:NaSKAkující expy:-)(#72) - SKAlpik	24960km2	8255582	.::B::.	Kom	3935
+29.	Fedor Emilianenko(#1858) - Kefalin.	23981km2	8157741	PRIDE	Demo	3865
+30.	xxxkukukurukuxxx(#2307) - Kanik	28284km2	8107270	Across	Kom	3845
+31.	Třikrát denně akt(#352) - Smajl	28896km2	8058070	MRUK	Robo	3977
+32.	Lebo inak odpášem remeň(#1458) - Garithos	22505km2	7875615	WG-PROF	Tech	3882
+33.	Nakládej to dávej(#329) - Smajl	27922km2	7857346	MRUK	Robo	3967
+34.	Battle of Love(#2786) - ptak77	23736km2	7846409	-=EK=-	Fund	3610
+35.	Miss Cocaine(#4685) - Kowacs	18174km2	7621063	Čoko	Demo	3972
+36.	Hanbim sa, mam maly zalud(#48) - Dhany	22605km2	7606182	Ganja	Robo	3914
+37.	*zoofil*Dr.Gonzo(#1609) - Lord IVCO	16930km2	7604421	*zoo*	Utop	3973
+38.	Joe Dirt(#3677) - Joe The Boss	20174km2	7600907	RQ	Robo	3964
+39.	pssst misko spinkaa(#4709) - esya	24171km2	7596425	SR	Rep	3558
+40.	Nocny klub(#469) - Bojovy Tulen	25239km2	7538004	/go	Rep	3978

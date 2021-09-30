@@ -1,0 +1,42 @@
+20. VĚK
+#	Země	Rozloha	Prestiž	Aliance	Vláda	Kol
+1.	Joeikov(#148) - Joe the Ruler	15115km2	12999999		Utop	3638
+2.	...let the gun do talking(#276) - safi	22347km2	8828918		Kom	3729
+3.	Vy?ahaný svetrík(#3211) - Tan X.	21087km2	8412285	SR	Utop	3662
+4.	dbz world(#2417) - SSJVegeta	19773km2	8300932		Demo	3764
+5.	Sorsova země(#309) - RICARDO	21469km2	7577432	SSL	Demo	3678
+6.	Ufounek(#153) - .Ufounek.	1000km2	7192443	FED	Kom	3672
+7.	Rumland(#900) - Zaribel	20272km2	7170077	cz-sk	Kom	3642
+8.	please, let me play...(#603) - Metamorph	1000km2	7027403		Utop	3710
+9.	The VIDLÁKOV(#23) - Franta Vopršálek	24650km2	6953597	E.f.W	Rep	3855
+10.	Lachtaní Zord(#267) - Premalisk	26735km2	6923203	TC	Demo	3854
+11.	Apple of Sodom(#2146) - BIG BOSS	23326km2	6792223	SP	Kom	3810
+12.	Nebula(#2306) - Brian	19504km2	6790396		Robo	3853
+13.	www.q3nutp.fotomodelka.cz(#1894) - eeeee	17067km2	6282575	FED	Utop	3833
+14.	C a n a d a(#2152) - Seanix	19388km2	6166286	Beast	Kom	3808
+15.	Tři vejce do skla(#3415) - Trsin	23471km2	6156355	SP	Kom	3672
+16.	Arwylen(#2093) - Anathorn	21915km2	6137085	SP	Kom	3814
+17.	Mrs.Forel(#2796) - koopjes	23249km2	6079525	SP	Kom	3840
+18.	Ventílkov(#1537) - ECHT	18873km2	6078991	E.f.W	Rep	3854
+19.	all what you want(#419) - dali	23644km2	6033789		Demo	3852
+20.	konecne(#1460) - gut	24051km2	5950058	TC	Demo	3826
+21.	Atol Mikiny(#1035) - mike	19780km2	5944348	SP	Fund	3849
+22.	www.webgame.cz(#431) - Zorg	18413km2	5934811	MK	Kom	3834
+23.	ShriekLand(#21) - Skřetice	20808km2	5927942	HLAD	Rep	3854
+24.	Sir of aliance(#920) - manisback	954km2	5891960	cz-sk	Rep	3654
+25.	Mediterranea(#17) - Zex	21351km2	5881306	Břez	Kom	3788
+26.	CHAOS(#1688) - L.O.T.R	17740km2	5867210	K	Robo	3836
+27.	Arkon(#799) - GrayShark	15390km2	5816262	NILFG	Utop	3583
+28.	Je to naše závislost(#2036) - Makkinen	12626km2	5812089	M*A*S*H	Tech	3676
+29.	chamajdaland(#480) - Zeratul	19440km2	5797508	K9	Kom	3743
+30.	.:Oblivion Stone:.(#2084) - Dark Dwarf	21201km2	5735336	FTL	Robo	3852
+31.	Hussaria(#5348) - DeJure	19213km2	5726858	Beast	Rep	3361
+32.	Let me be...(#671) - Loicik	20621km2	5713681	K9	Kom	3569
+33.	Mysidia(#40) - Kurtz	17633km2	5672218	FF	Utop	3834
+34.	KSČM(#330) - sony ericsson	18726km2	5624619	SSL	Robo	3722
+35.	Tlamolep Empire(#1823) - Scrl	21453km2	5592923	TC	Rep	3815
+36.	kazatel(#13) - schemo	17959km2	5573961	SR	Kom	3784
+37.	Mufland(#384) - MUFAN	20015km2	5567123	D:Mages	Utop	3851
+38.	Almighty Empire(#258) - Mulen	17531km2	5560387	E.f.W	Kom	3843
+39.	Bouranice(#2321) - Facka	26799km2	5533357	Břez	Kom	3800
+40.	Moskva(#640) - PicasoM	18474km2	5531434		Utop	3806

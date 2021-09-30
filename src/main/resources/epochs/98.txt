@@ -1,0 +1,42 @@
+98. VĚK
+#	Země	Rozloha	Prestiž	Aliance	Vláda	Kol
+1.	Rosaldo je frajeris(#35) - TECHWARRIOR	20333km2	10045166	NBS	Feud	3748
+2.	Ikuzák(#2425) - Borsug	21310km2	9090633	xD	Utop	3937
+3.	xnu xD(#1052) - MatkoFaka	22555km2	8171896	xD	Robo	3957
+4.	1000000111001010100010111(#52) - hum4nic	22287km2	7996366	=101=	Robo	3979
+5.	Viktorka=Šampion(#2239) - demonstrate	19479km2	7635159	C-Men	Demo	3931
+6.	FIX YOU(#396) - ptak77	25045km2	7550614	S.D.E	Feud	3881
+7.	I saw that. Karma(#1441) - snasa1	25784km2	7510326	Tabáček	Robo	3975
+8.	Sovngard(#1600) - Alduin	23046km2	7050604	YD-HAMAS	Feud	3979
+9.	.:YD:. DadReon(#284) - F4Fk4C	25662km2	7040754	.:YD4:.	Feud	3978
+10.	Bíďa a jeho čumenda(#883) - Hadrabator	20718km2	6969696	G.U.M.I.	Feud	3958
+11.	rikudou sennin(#2023) - Lucky6186	20305km2	6764735	DnS	Robo	3978
+12.	fackthor(#1717) - Hodor the KING	20117km2	6763088	ALI1234	Robo	3950
+13.	Duracell Turbo MAX(#2448) - Davo99	19053km2	6704378	HDYD	Rep	3978
+14.	vyplac sa mi do posty (:(#827) - Duskooo	24859km2	6693167	*`=/-.,	Feud	3872
+15.	Měsíční zahrada II(#978) - Vsevedecvseumel	20385km2	6672824	ZT	Feud	3959
+16.	Snatch(#2348) - M3mmOrY	19688km2	6400772	*WiNDe*	Demo	3977
+17.	if u want to live happy(#2262) - HI MOM	16271km2	6359606	HI`MOM	Robo	3934
+18.	Maškaráda(#2291) - .Grim.	18422km2	6006269	KL	Robo	3826
+19.	Ganbareh(#2307) - Scalpelexis	27875km2	5750632	=T=	Robo	3951
+20.	Suším hríby autogénom(#1579) - AKland	17996km2	5738123	DF	Robo	3892
+21.	Hladící Conqueror(#665) - ViewSonick	14600km2	5671268	**CQR**	Utop	3977
+22.	bombeni mam rad(#257) - vachys39	22160km2	5671215	nBd.	Robo	3953
+23.	BOROVIČKA(#44) - Pattis IV.	19993km2	5630350	Tabáček	Kom	3932
+24.	Váša ti nakope zadničku(#457) - Vasulin	16234km2	5602380	*`=/-.,	Robo	3948
+25.	DHKP/C(#327) - FriedrichPaulus	20545km2	5531131	DF	Robo	3942
+26.	????????????(#450) - H3lp1k	22999km2	5474521	?	Utop	3965
+27.	Kolonáda(#2638) - Cisar Robo	21000km2	5365063	-=D=-	Robo	3965
+28.	yes,it is nice to meet me(#31) - TECHWARRIOR	26999km2	5283762	GH	Dikt	3976
+29.	.:YD:. Beerceps(#234) - ...Aláh...	22000km2	5264700	.:YD:.3	Dikt	3958
+30.	Tatka neni vecer doma(#847) - DruhyPokus	19519km2	5190153	HI`MOM	Demo	3978
+31.	Kebab House(#139) - FR3EZY	17932km2	5140237	S.D.E	Kom	3974
+32.	Klekni si....(#287) - Michellion	18720km2	5107083	MZA	Feud	3948
+33.	Íapetos(#112) - Durrandir	21028km2	5094764	MZA	Demo	3959
+34.	Honzíkova zem číslo 2(#88) - Defectorr	17999km2	5085331	S.D.E	Dikt	3836
+35.	Black Sheep Of the Family(#729) - kaci007	9984km2	5065355	BSotF	Utop	3928
+36.	ZaHorduZivotPolozim(#251) - Ugalatuga	22127km2	5043207	-S-	Feud	3979
+37.	Se mnou si nepocital(#272) - Brhel	20935km2	4974936	*SnsrN*	Feud	3931
+38.	PSČ CREW...(#1177) - gerbera	21372km2	4930884	ALI1234	Robo	3969
+39.	densetsu no sannin(#2030) - Lucky6186	19196km2	4922047	ZT	Rep	3978
+40.	U 864(#1408) - Struan	11950km2	4919937	Ponorky	Demo	3946

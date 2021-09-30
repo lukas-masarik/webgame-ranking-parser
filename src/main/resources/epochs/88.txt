@@ -1,0 +1,42 @@
+88. VĚK
+#	Země	Rozloha	Prestiž	Aliance	Vláda	Kol
+1.	Simply the west007(#1800) - FriedrichPaulus	28658km2	14512039	DF	Utop	3746
+2.	WINNER TAKES IT ALL(#173) - .adm1n.	28078km2	13573618	Wrath	Feud	3750
+3.	Dawe(#2850) - Cenzor3d	24888km2	13376627	Across	Utop	3883
+4.	Suprovo děvče. č.2(#3156) - Atlantik	27777km2	11603958	*`=/-.,	Utop	3880
+5.	Bojím se nekonečnéhoKonce(#2451) - Milka I.	25999km2	10555209	ČSN	Kom	3969
+6.	Kenny Powers(#2327) - Martin858	19999km2	10232707	SB	Demo	3874
+7.	*(#624) - U.U	17500km2	9856276	ManG	Tech	3192
+8.	nebojím se(#545) - kousnu te lamo	24534km2	9390984	ČSB	Feud	3953
+9.	Quick-Instalater..(#1186) - TCK	24944km2	9053910	ManG4	Dikt	3785
+10.	Silent Hill(#405) - Eldudik	10126km2	8524051	-WG-	Anar	3856
+11.	provozuju pantátomámu(#1429) - Tattser	25856km2	8509652	ZT	Robo	3937
+12.	4692 kusů ozářené haše(#398) - King Lear	28483km2	8499614	S.M.R.T.	Robo	3959
+13.	.:AveCesar:.Human2.0(#3114) - ŠavlozubáVeverka	15184km2	8487903	AveCesar	Utop	3954
+14.	Durchfall(#900) - marv III	21426km2	8427043	ETD	Kom	3969
+15.	Courage(#3427) - poMe	12625km2	8370336	NBS	Kom	3930
+16.	Muž z New Yorku(#3127) - uličník	24220km2	8345083	DooM	Kom	3968
+17.	Best from West ,`-(#78) - H3LL M4KER	28667km2	8128401	SR	Feud	3974
+18.	bacha, tráva léčí raka(#958) - AlpiNko	22977km2	8021476	ZeS	Robo	3869
+19.	-=KA=-banos do pussy pro všech(#251) - CTX	30940km2	7847137	M	Robo	3974
+20.	Prezident hlavy štátu(#971) - RedmanE	26112km2	7815677	SR	Robo	3970
+21.	Like Mike(#731) - Hardwell	26753km2	7758299	RU	Kom	3936
+22.	.:CZ-SK:.AK-47ProduceR(#334) - AKland	24953km2	7744853	ČSLA	Robo	3972
+23.	Sek=OCB=rol=škrt=OK(#2195) - Skunki Dunki	29941km2	7625516	Mimoza	Robo	3957
+24.	delevingne(#1938) - Huntter	18963km2	7289672	SR	Rep	3975
+25.	Dčko(#1435) - Discoworld 2	14398km2	7153282	ICE	Tech	3866
+26.	... Chceš být fit ...(#591) - Zkusimto	18902km2	7069823	TMNT	Utop	3840
+27.	R3Dtjůb-ItMejxJórDykBygr(#1742) - Záhoř	33860km2	7062802	M	Robo	3939
+28.	Sympaťák(#3320) - green88	26589km2	7010861	)CD(	Robo	3876
+29.	Budulínkova zem(#2229) - Budulínek s.r.o	18782km2	6982241	Ganja	Demo	3974
+30.	CollegeHumor(#1248) - Uaah	15999km2	6921716	YouTube	Utop	3967
+31.	ZT ShutUpAndTakeMyMoney(#122) - bosinek	22041km2	6881672	ZT	Robo	3975
+32.	expllclt(#2877) - a m 0	11102km2	6866340	ČD	Demo	3880
+33.	TheHillbilyMoonExplosion(#3169) - 1437DAG	18050km2	6825062	DAG	Kom	3917
+34.	Lovoland(#3059) - Michalec8	20500km2	6785998	-=d15=-	Utop	3964
+35.	Trachemys scripta elegans(#3836) - .Solmyr.	16386km2	6760741	HAARP	Robo	3939
+36.	Naštvanej králíček(#3539) - Budulínek s.r.o	19967km2	6753393	Ganja	Rep	3969
+37.	ToP 1(#2519) - Morfeus	20107km2	6716260	NBS	Demo	3925
+38.	krtko(#3181) - Lucky6186	17478km2	6572232	.:V3R:.	Rep	3965
+39.	Si faggiole?(#2866) - Hrubej	18864km2	6513420	Lotta	Fund	3974
+40.	Chlív(#746) - SprávceChlívku	21349km2	6513001	Rafani	Rep	3932

@@ -1,0 +1,42 @@
+145. VĚK
+#	Země	Rozloha	Prestiž	Aliance	Vláda	Kol
+1.	PŘÍLIŠ MLADEJ PRO ŽIVOT(#390) - ...Kápo...	28000km2	21250000	Lotta	Utop	3649
+2.	?akídnip im šežáku(#23432) - Seksymania	20313km2	18375133	POV	Utop	3410
+3.	Iron Reagan(#80) - Broot	19520km2	18215836	ganja	Tech	3561
+4.	PROTECTOR(#66666) - ratatatatatata	29573km2	14733913	BRUNTAL	Tech	3939
+5.	One Manhattan West(#403) - sharppp	21445km2	14663103	BRUNTAL2	Tech	3653
+6.	Mathieu van der Poel(#60) - Comanndos	25000km2	12222222	SIL	Rep	3831
+7.	Milujem Aďku :-*(#3334) - rybka es atrás	23905km2	11130235	.:?:.	Tech	3955
+8.	B*E*S*A*R*A*B*I*A(#850) - Abdul	23916km2	11123038	AHA	Tech	3854
+9.	copacapo(#360) - Nepochopisnikdy	18330km2	10110691	AHA	Demo	3961
+10.	Menoa(#654) - Mirek4	19776km2	10044412	.:W4R:.	Kom	3857
+11.	Now I am become Death(#379) - MOTOR O1L	22179km2	9314189	=T=	Tech	3978
+12.	Back In Black(#157) - mrstr	19020km2	8861612	Jukatáni	Demo	3946
+13.	Quantum Realm(#771) - Deus	16134km2	8531649	SPRITE	Utop	3785
+14.	Ultima forsan(#1193) - XQG	17972km2	8438837	*UF*	Tech	3952
+15.	Uncountable Infinite(#10110) - .Py	19626km2	8427164	KOMPLEKS	Anar	3960
+16.	Conqueror Zloduch(#350) - Kacocentrum	10379km2	8306651	**CQR**	Tech	3936
+17.	pasivna Lama :D(#3338) - .Baťa.	14761km2	8248541	-=ELW=-	Tech	3942
+18.	Air...(#6969) - kill666	16666km2	8220997	*UF*	Utop	3964
+19.	Central African Republic(#245) - kill666	18427km2	7999999	Afrik	Robo	3979
+20.	MOAB(#10101) - .Py	16666km2	7991697	AR	Anar	3962
+21.	Velky uličník(#1449) - trubkatrubkovic	18567km2	7966084	Jukatáni	Tech	3979
+22.	Igor z Trnavy(#4569) - skazinoska	15515km2	7924834	VZP	Tech	3979
+23.	Keťas(#376) - tadycaapek	17883km2	7833049	MaNTiNeL	Kom	3958
+24.	73737(#37373) - LuisFigo	11511km2	7707960	1	Demo	3840
+25.	Isshin the Sword Saint(#99997) - MatějIX	14999km2	7704580	ES	Utop	3919
+26.	0N_brain(#4499) - hráčsjménem	14507km2	7551550	=BSC=	Tech	3792
+27.	M.O.R. land(#52) - M.O.R	15960km2	7479752	STJZ	Demo	3963
+28.	ELON MUSK(#20000) - Reich Graf	11137km2	7366416	MENSA	Tech	3961
+29.	v poho(#180) - .HARKOMEN.	14626km2	7174974	HRNCE	Tech	3673
+30.	Zmijovec titánský(#55555) - koutb	26756km2	7125094	---	Robo	3979
+31.	Defender(#65) - Dr.Leckter	15999km2	7124504	*UF*	Tech	3957
+32.	-osn-stale malo(#735) - D1N1AK	18003km2	7123732	-osn-	Utop	3979
+33.	Enforcer(#64) - Dr.Leckter	14444km2	7061969	*UF*	Utop	3900
+34.	Tavolníkovec jeřábolistý(#33333) - koutb	20065km2	6976727	---	Tech	3977
+35.	Milujem Esteti-=KA=-(#661) - Klimovec	12662km2	6959199	-=KA=-	Utop	3903
+36.	Já nejsem zlej :)(#782) - LukO cZ	15494km2	6922089	SUX	Utop	3913
+37.	Nebojim se totalu(#9993) - SOH	18406km2	6894645	ČSN	Kom	3974
+38.	Memento mori(#1192) - XQG	15000km2	6873659	*UF*	Utop	3882
+39.	.:W:. Scorpion Moruga(#943) - Koumes	15966km2	6865961	*WinDe**	Utop	3975
+40.	Anti Koblížek(#1354) - c4u710n	12666km2	6863150	=L.O.T=	Utop	3898

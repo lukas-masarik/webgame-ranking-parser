@@ -1,0 +1,42 @@
+118. VĚK
+#	Země	Rozloha	Prestiž	Aliance	Vláda	Kol
+1.	Dawe?(#1046) - Cenzor3d	26671km2	8842172	NKL	Robo	3982
+2.	****?CEN?SO?RED?****(#397) - rybka es atrás	28365km2	8383384	.:?:.	Feud	3983
+3.	Jersey(#617) - imha	20961km2	7276987	Tabáček	Demo	3983
+4.	Eh, sexy lady...(#882) - yuphon	23155km2	7268677	**CQR**	Robo	3973
+5.	Čaroděj ze země (k)oz(#613) - nezbedny bohus	19641km2	7097759	=T=	Robo	3980
+6.	Hasim žízeň(#160) - no killer	27553km2	6898953	SPRITE	Dikt	3981
+7.	BigBrother(#776) - D.r.a.k.	17431km2	6760158	Vendeta	Utop	3980
+8.	nelibi se me tvoje zeme(#699) - abraxas	18075km2	6660451	AoE	Utop	3944
+9.	Rick and Morty(#319) - ListerD1	14169km2	6637557	DF2	Utop	3916
+10.	LOS made in Destroyer(#83) - BlackTears	17811km2	6482075	.L.O.S.	Robo	3901
+11.	meum tempus ueniet(#82) - xr3d	17999km2	6390752	schwung	Utop	3941
+12.	Antikapitalista(#580) - Prciik88	21002km2	6281686	ALI1234	Robo	3968
+13.	Hrajte to s úsměvem :-)(#821) - kagr15	19236km2	6262978	)CD(	Kom	3979
+14.	Tvoj tato ma maleho vtaka(#1260) - Konopess	16958km2	6236014	Vendeta	Demo	3979
+15.	JiříBabica a jeho dobroty(#956) - EmAChe	21700km2	6058436	Rakka	Robo	3982
+16.	Carolina Reaper HP22B(#264) - Sir Extrem	18159km2	5647058	MENSA	Kom	3854
+17.	Red Dwarf(#327) - ListerD1	15483km2	5576891	mXt	Utop	3912
+18.	Zem esa Rimmra(#527) - Lord Kamzo	25813km2	5447150	KL	Kom	3983
+19.	Mam problem pri kakani(#870) - GladThom	19912km2	5370093	KRIEGER	Dikt	3948
+20.	Země Sofie Lorenové(#519) - Karr	16470km2	5320391	HyeNy	Utop	3982
+21.	Touha je zázrak, kámo...(#157) - thordevil	13456km2	5310199	Anarchy	Utop	3959
+22.	IF(#134) - youwillbedead	26138km2	5260751	-.-	Dikt	3983
+23.	Mam problem pry gramatyke(#914) - DrakeBlu	18242km2	5210314	KRIEGER	Rep	3974
+24.	LEGIO GERMANA IX. VICTRIX(#564) - dr.antrax	20617km2	5204903	Varjagi	Demo	3982
+25.	Nebicko v pekle(#997) - fagancek2	16407km2	5146472	nBd.	Kom	3970
+26.	Mr.kvicka(#1524) - kema	17973km2	5132803	Chlastám	Kom	3953
+27.	JohnDick(#1173) - redipsovac	21073km2	5109551	hahaha	Utop	3982
+28.	.::PKZ Ranymok::.(#767) - kiss for you	20200km2	5075357	PKZ	Rep	3878
+29.	GOAT(#1677) - Connor McJesus	16999km2	5005021	NFG	Utop	3968
+30.	Čajna(#848) - Falkus.	14444km2	5000000	D3V1L5	Utop	3981
+31.	Dong Yaqian(#50) - Topisek	23925km2	4993425	nBd.	Dikt	3936
+32.	Eror11(#1727) - Eror11	24232km2	4969160	DLMD	Robo	3949
+33.	Malaz(#1131) - SMRTIHLAWUS	15138km2	4943887	-=FE=-	Utop	3942
+34.	122mm JROF(#417) - Fanynek	17064km2	4881524	VN	Robo	3963
+35.	BROS - Interpol(#1543) - wildwalker	16367km2	4879840	BROS	Feud	3982
+36.	LOS made in NiP(#154) - God si me	17542km2	4844019	.L.O.S.	Kom	3965
+37.	borovička(#1367) - marv III	14192km2	4830994	Across	Fund	3938
+38.	LOS made in Zhongguo(#40) - Topisek	22626km2	4815084	.L.O.S.	Dikt	3964
+39.	Gotham(#313) - ListerD1	14355km2	4804576	DF2	Utop	3979
+40.	Pomáhat a chránit(#1583) - sir.smrt	14035km2	4789175	.:FaK:.	Utop	3913

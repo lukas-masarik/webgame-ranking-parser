@@ -1,0 +1,42 @@
+133. VĚK
+#	Země	Rozloha	Prestiž	Aliance	Vláda	Kol
+1.	Jožko Kukuricúdus(#6666) - gorbatčov	18999km2	15777777	MUL	Utop	3561
+2.	Mandragora(#442) - Charlie Sheen	21000km2	10693621	S.S	Demo	3738
+3.	Lingvistická antropologie(#1475) - Master77	19101km2	10666666	SpaceX	Kom	3843
+4.	Bombing Hero(#344) - the last Hero	23535km2	10333777	Bombing	Utop	3975
+5.	AMSTAFF(#190) - snasa1	23333km2	10320285	SpaceX	Utop	3690
+6.	Vyvrženec Dr.Satan(#152) - StillDeadCZ	19999km2	9177581	VZP	Utop	3975
+7.	Mambo(#942) - Joker16.	22302km2	8975743	Ganja	Robo	3972
+8.	TougherThanASpike(#99) - hlidac3	17000km2	8913903	Alone	Tech	3622
+9.	Herr Mutzenbacher(#1306) - Pitel	23318km2	8634843	Ganja	Rep	3978
+10.	n1vím jak hrát(#200) - zase jachym	25724km2	8318520	Across	Demo	3979
+11.	.22 K-Hornet(#127) - Nicole Kidmann	20473km2	7591912	ČSB	Utop	3979
+12.	.:Španělsko:.(#994) - Canada	20096km2	7495547	Across	Robo	3940
+13.	JOHN FORBES NASH(#641) - Reich Graf	15564km2	7295842	MENSA	Utop	3745
+14.	Všude sami exot(#822) - Martin poula	14999km2	7151053	=L.O.T=	Utop	3890
+15.	Abbie(#1042) - Tomasius Velky	20519km2	7052026	=L.O.T=	Fund	3872
+16.	Sarkasmus je moje milá(#481) - mara8	15490km2	7046290	=L.O.T=	Utop	3864
+17.	Dark Bubble(#181) - Sc0rp10n	19020km2	7011616	KZ	Demo	3978
+18.	:+(#89) - PLASTIK	14974km2	6965729	=L.O.T=	Utop	3936
+19.	Pfanner alias Deebii(#444) - Evzen Hyberny	22207km2	6948882	Ganja	Demo	3928
+20.	Lord Of Tactic(#9999) - tvojasmrt	15901km2	6865150	=L.O.T=	Utop	3869
+21.	tell me something boy..(#54321) - rybka es atrás	16399km2	6731075	=L.O.T=	Utop	3936
+22.	Lipous(#943) - Joker16.	22020km2	6527698	Ganja	Dikt	3978
+23.	Grýn(#417) - green88	23127km2	6526735	)CD(	Fund	3923
+24.	Cenzura a perestrojka(#231) - Rastique	16264km2	6467355	LEGO	Utop	3922
+25.	Are you kidding me?(#803) - poMe	19294km2	6453101	poMe	Robo	3957
+26.	fsdfsdf(#274) - killop	10563km2	6405145	SNAKES	Anar	3941
+27.	Sweet Conqueror(#452) - Sweetie1	15568km2	6326494	**CQR**	Utop	3866
+28.	1010011010(#769) - kaamilko	27269km2	6299767	CGHMN	Feud	3952
+29.	So hot(#434) - 2xcl.	16100km2	6297692	=L.O.T=	Utop	3971
+30.	aNiHiLaToR(#1289) - Anihilator	21441km2	6289526	CGHMN	Utop	3975
+31.	Slipy s otvory(#1377) - amaj	16227km2	6287518	NSVB	Utop	3977
+32.	Bombing Super trooper(#1304) - Kuboj	12999km2	6270377	Bombing2	Utop	3979
+33.	FARMALAMA(#125) - Chujo	15998km2	6266867	*WinDe*	Utop	3979
+34.	Orier(#154) - Deus	14000km2	6140000	SPRITE	Utop	3978
+35.	Dark Conqueror(#731) - vanna	15312km2	6104752	**CQR**	Utop	3972
+36.	KOALA ti pokazí věk(#1524) - koala59	20173km2	6039450	KOALA	Demo	3931
+37.	HIGH++(#286) - ondrOx	25599km2	5869042	S.S	Robo	3979
+38.	Bombing je Secret :-)(#982) - sweetlollipop	18290km2	5843541	Bombing2	Utop	3963
+39.	Marsellus Wallace(#318) - Telwin	17449km2	5822018	SUX	Utop	3977
+40.	I mean it :)(#157) - LukO cZ	16683km2	5812821	SUX	Utop	3977

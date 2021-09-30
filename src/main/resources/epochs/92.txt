@@ -1,0 +1,42 @@
+92. VĚK
+#	Země	Rozloha	Prestiž	Aliance	Vláda	Kol
+1.	Dawe?(#1260) - Cenzor3d	17715km2	13215083	Across	Kom	3959
+2.	Have a nice day :)(#2030) - Lets go	22999km2	11251224	MK	Feud	3968
+3.	Héros Mythique(#2382) - Siriuss	16999km2	10285018	S.D.E	Utop	3552
+4.	How are you, expert?(#2861) - Mrkvička777	18585km2	8197035	VIR	Fund	3961
+5.	(oYo)(#1485) - zedna	12463km2	8192335	-=BN=-	Kom	3875
+6.	Teletabis(#3206) - Tinky binky ex	25419km2	8001236	Tabáček	Fund	3979
+7.	Gerasimovka(#927) - Jurgens	29413km2	7927114	68	Rep	3976
+8.	Registrace nové země 2(#852) - nothing left	9871km2	7640907	ManG14	Robo	3817
+9.	Navštivte rusko :-)(#2330) - nezbedny bohus	25583km2	7260817	=wale=	Robo	3980
+10.	Co je ti do toho?(#3708) - KEPR	26041km2	7110993	SZNPH	Robo	3939
+11.	Morozem(#1671) - THEdread	20000km2	6874165	ItNofS	Demo	3954
+12.	...::JuSTiCe::...(#3532) - ...Don of War...	25299km2	6802980	NWNS	Robo	3923
+13.	Help Yourself(#3385) - Gxx	21212km2	6695343	F(r)iend	Demo	3938
+14.	Very tasty(#1544) - Mrkvik	11999km2	6663271	CHŽHO	Utop	3650
+15.	Levačka(#862) - LeoDaVinci	22390km2	6620041	Chlastám	Demo	3981
+16.	Láhví vína proti systému(#3210) - KEPR	21537km2	6579804	C-Men	Rep	3951
+17.	Krteček a makovička(#354) - IMraz	27976km2	6507652	AUTORITA	Fund	3976
+18.	Poruba(#1403) - OVninja	15369km2	6418336	10kgt	Kom	3980
+19.	Sherlock Holmes(#1739) - ListerD1	3889km2	6407948	Myst	Kom	3727
+20.	Nenázvuhodná prasečina(#570) - caramell	24171km2	6201997	AUTORITA	Robo	3840
+21.	Kuba Kubikula(#1132) - Juklik	23057km2	6173537	ZERO	Fund	3846
+22.	Rambastan(#118) - Lord Charley	20430km2	6040819	ToAn	Feud	3929
+23.	=-LH-=(#459) - zase jachym	24556km2	5944081	-=LH=-	Feud	3982
+24.	Bombing Ten hodný(#2884) - White Dead	11680km2	5911544	Bombing2	Demo	3960
+25.	Wake and Bake(#2608) - snasa1	29999km2	5782334	Tabáček	Feud	3981
+26.	Bijuu sněhový koule(#2474) - čempix	6404km2	5722911	cerveza	Utop	3893
+27.	AbSintH je moje DroGa :)(#2080) - Labbakan	20259km2	5629025	*`=/-.,	Robo	3969
+28.	Do důchodu daleko(#127) - Michal IX	20442km2	5615091	SPRITE	Demo	3975
+29.	Cre@tivní zem(#1494) - creative123	16805km2	5487070	*JT*	Dikt	3934
+30.	Kůň je jídlo, ne kamarád(#1023) - M1S73R	22501km2	5465152	ANAL	Rep	3954
+31.	Tataráček(#2696) - Wojxtier	17143km2	5421854	ToAn	Utop	3936
+32.	sniff some coke ?(#145) - Hardwell	20312km2	5410295	=wale=	Feud	3975
+33.	somveggieukrizujtema(#1345) - cejo the king	22182km2	5384021	*`=/-.,	Robo	3936
+34.	I-H8-U Hrošík s Brčkem(#2045) - Kedlubeni	21883km2	5373793	Nwu	Robo	3798
+35.	Famózní Análek(#800) - Dragon.Slayer	28350km2	5330346	Chlastám	Robo	3874
+36.	Saigoon(#2797) - Curil	17448km2	5271357	CPCB	Kom	3972
+37.	JSiMi-=LH=-oSTeJNyKRuPaNe(#1971) - FRAJER BARTICEK	21200km2	5257518	=T=	Demo	3928
+38.	Blondes(#1075) - Douglas Quaid	19221km2	5205396	CoverUni	Robo	3957
+39.	Ikuzák(#3294) - Borsug	17568km2	5184859	V...D	Tech	3893
+40.	Are u knedling me?(#628) - Ranger22	17337km2	5145114	FCL	Feud	3952

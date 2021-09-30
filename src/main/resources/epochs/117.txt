@@ -1,0 +1,42 @@
+117. VĚK
+#	Země	Rozloha	Prestiž	Aliance	Vláda	Kol
+1.	xiao pangzi(#40) - Topisek	25650km2	14496037	.L.O.S.	Utop	3600
+2.	Tak co, ubalíme?(#907) - Avgeropoulos	29370km2	13121441	Vancity	Demo	3889
+3.	[KL](#884) - 7000000	34111km2	12577777	KL	Feud	3679
+4.	miláčik, nie som tučná ?(#1294) - Poprask	27320km2	8968017	VT	Fund	3970
+5.	LEGIO GERMANA XI. VARJAGI(#576) - Lord Pug	22668km2	8628417	GERMANUS	Demo	3978
+6.	Pokus hokus(#787) - Aram Chroustal	22936km2	8448063	tpOwCh	Feud	3937
+7.	Conqueror študent(#640) - Mr. Sedlinno	15999km2	8269998	ČSLA	Kom	3767
+8.	the perfect medium rare(#477) - EmAChe	34444km2	8264610	ŽsN	Robo	3979
+9.	las palmas(#1440) - kema	13777km2	7818112	:O	Utop	3866
+10.	.:CZ-SK:.AK-47Pr0duceR(#883) - AKland	21219km2	6583335	ČSLA	Robo	3965
+11.	zmR3D(#866) - Deathwind	25046km2	5919123	KRIEGER	Demo	3979
+12.	sexwonder(#1489) - Lucky6186	21989km2	5780176	NBTN	Robo	3846
+13.	Zem esa Rimmra(#520) - Lord Kamzo	22364km2	5688061	KL	Kom	3978
+14.	Antikapitalista3(#78) - Prciik88	18612km2	5531610	NBTN	Robo	3969
+15.	Nagash(#52) - castropola	26439km2	5495734	SB	Feud	3942
+16.	Gotham(#628) - ListerD1	17056km2	5423284	Chlastám	Fund	3862
+17.	Moje Borůvka(#290) - green88	22908km2	5296030	)CD(	Rep	3972
+18.	Garda Hocus Pocus(#96) - StillDeadCZ	20172km2	5255345	MENSA	Feud	3961
+19.	GOAT(#1067) - Connor McJesus	16999km2	5146967	NF	Utop	3976
+20.	Pain Theory(#140) - Fingolfin Jas	14226km2	5131050	Theory	Kom	3970
+21.	7.62 Tokarev(#159) - Huktak	16341km2	5091754	VN	Robo	3978
+22.	-osn- land of immortals(#418) - Mydliak	16000km2	5072752	KL	Feud	3959
+23.	Redkox2017(#1640) - loon	21978km2	5035652	)CD(	Robo	3963
+24.	pumbik s.r.o.(#861) - pumbik	16501km2	5017111	uVaD	Utop	3962
+25.	Touha je zázrak, kámo...(#1130) - thordevil	12900km2	5010972	Anarchy	Utop	3976
+26.	Dont let me d0wn(#794) - Pietr00X	24999km2	4973563	DLMD	Robo	3893
+27.	Znojmo(#101) - Caballero	14552km2	4945916	LEGO	Robo	3941
+28.	Fake of lire(#662) - KURT	12123km2	4843632	*.dot	Utop	3970
+29.	usti(#927) - vachys39	15149km2	4781402	ALI1234	Demo	3960
+30.	SUXessfuII(#71) - LuisFigo	17269km2	4742977	SUX	Feud	3874
+31.	Don`t be boR3D(#867) - Deathwind	17033km2	4741542	KRIEGER	Utop	3973
+32.	Srbija(#961) - dejan	13472km2	4705011	.:ZO:.	Kom	3791
+33.	SUXessfulI(#68) - LuisFigo	20787km2	4688185	SOX	Feud	3960
+34.	NiP back in op(#989) - God si me	16279km2	4679861	VT	Kom	3964
+35.	.22 Long Rifle(#1498) - BlueOyster	15375km2	4656020	VN	Utop	3974
+36.	The Gang Bang Therapy(#564) - Arachnid	16272km2	4648541	StB	Feud	3921
+37.	Jsem z toho poplematený(#1131) - thordevil	13067km2	4645300	Anarchy	Utop	3976
+38.	Rebelem bez příčiny(#1044) - naivefighter	12777km2	4609825	R*n*R	Utop	3940
+39.	Veganstvím ke zdraví(#1547) - SOH	17893km2	4536216	)CD(	Kom	3728
+40.	PAN OCEAN(#1539) - Atlantik	16411km2	4457066	FuWG	Utop	3838

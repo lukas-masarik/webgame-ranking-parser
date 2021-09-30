@@ -1,0 +1,42 @@
+65. VĚK
+#	Země	Rozloha	Prestiž	Aliance	Vláda	Kol
+1.	\\(#4180) - cmelo	8888km2	18241402	/	Kom	3569
+2.	Nejneobhospodařovávanější(#531) - Martin858	20413km2	16076506	SIL	Kom	3506
+3.	paparazi.papanazi(#1371) - shishaman	13560km2	15915636	Legend	Kom	3546
+4.	Black smoke(#678) - Ivan IV	9999km2	15900000	EMP	Kom	3542
+5.	Atlan(#125) - Atlantik	15000km2	15500551	M	Utop	3580
+6.	I`m a little intoxicated(#1222) - Comanndos	23999km2	15475877	DEJAVU	Kom	3677
+7.	az25znakovTAKtoVYUZIJEM=D(#654) - Lord TROKS	13635km2	13857136	HOPRDOX	Utop	3547
+8.	slečinka de puta madre(#926) - red kox man	34513km2	13499841	ManG	Robo	3969
+9.	Modrý pták(#1033) - ridgeback	19623km2	13492690	LBL	Kom	3838
+10.	Honič ega(#4380) - .PinkPanther.	19999km2	13411062	AlkoholX	Kom	3782
+11.	INvinoVERITASinPIVOtaky(#630) - . . . . .	18809km2	12744608	=T=	Utop	3875
+12.	Maturita is coming(#2788) - Josefko	19999km2	12525000	=FF=	Utop	3868
+13.	David Lister(#962) - Mahtyon	18304km2	12001216	BFP	Kom	3840
+14.	Tears of the dragon(#1880) - .Baťa.	24793km2	11687659	-=ElW=-	Utop	3929
+15.	I Am The DESTRUCTOR(#5245) - coco king	37424km2	11100292	ALIEN	Dikt	3970
+16.	Hruška(#1163) - hurka	10692km2	10884839	cerveza	Kom	3942
+17.	VODKA a SLIVOVICA(#2661) - Rhoods	24888km2	10781121	1vs1	Utop	3549
+18.	Aurora_Borealis(#628) - Koryyy	28538km2	10746749	RAPTOR	Robo	3880
+19.	Dr. Zoidberg(#1283) - ftacik	19999km2	10710636	gg	Utop	3701
+20.	Komunisticke okenko(#833) - Elkor	20000km2	10687859	ICQ	Kom	3884
+21.	Dark Dreath Apeiron(#3187) - Scierx	24103km2	10064005	=*DC*=	Robo	3931
+22.	Pint of gold(#4280) - Pepemistr	33581km2	9882614	Wrath	Robo	3945
+23.	b(O_0))*awesome*(W_T)F(#4159) - jojkos	25444km2	9636335	Inn	Robo	3858
+24.	Hatatitla:D(#2426) - keksik	21128km2	9605411	=EF=	Demo	3834
+25.	.Aztec.(#3349) - .Aztec.	26001km2	9425537	NTH	Tech	3971
+26.	Hrabě Kočkin(#4379) - Namibi	24796km2	9153754	=*DC*=	Robo	3934
+27.	slečinka revoluce(#603) - d13	20134km2	9067853	.::VR::.	Tech	3823
+28.	Es schneit(#3113) - Smerfy	28626km2	8895993	.:V2R:.	Robo	3973
+29.	mastarie(#202) - martum	37709km2	8811376	*S2N*	Robo	3973
+30.	au(#109) - Joker16.	19760km2	8759441	Ganja	Kom	3941
+31.	2holby=4žajdlíky(#6033) - absoluteruler	4854km2	8726593	.:GO:.	Kom	3886
+32.	Landmaster.(#492) - Skorpík	18461km2	8660824	**CQR**	Utop	3934
+33.	Pointless Porno Producer(#546) - narkobarÓn	17318km2	8631378	SWINGERS	Tech	3649
+34.	Are You Experienced?(#2568) - Broot	21835km2	8590581	AWESOME	Utop	3952
+35.	Challenger(#4868) - Jiriss	26000km2	8462206	80`s	Anar	3842
+36.	Che Guevara(#1617) - H00L1G4N	22147km2	8451617	=*DC*=	Robo	3972
+37.	Johnny Práskač(#2269) - West007	18146km2	8312112	LPX	Utop	3750
+38.	YES CAMARAD(#5206) - ManFromHell	27156km2	8016435	YES	Robo	3974
+39.	Spyland(#296) - Casey62	17565km2	7909627	1923	Utop	3914
+40.	utramegamastidlo(#4512) - Čejník II	16999km2	7877233	.:V3R:.	Utop	3879

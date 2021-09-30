@@ -1,0 +1,42 @@
+84. VĚK
+#	Země	Rozloha	Prestiž	Aliance	Vláda	Kol
+1.	Palenka(#265) - Dr.hurka	23711km2	14587134	cerveza	Utop	3600
+2.	krásy měsíce se nedotkneš(#143) - martum	26999km2	11994149	M	Tech	3973
+3.	No Danger(#3274) - West007	19999km2	9548055	DF	Tech	3961
+4.	mostarie(#136) - martum	26999km2	9252077	NBS	Robo	3978
+5.	Milujem Aďku(#2566) - rybka es atrás	20000km2	9220526	.:?:.	Utop	3457
+6.	Maškaráda(#646) - .Grim.	32581km2	9100997	DDO	Robo	3977
+7.	.hunteRs. KRAKEN(#2647) - WORKHOLIK	25371km2	9058785	.hunteRs	Robo	3968
+8.	Svému Osudu Neutečeš..(#1735) - Dragon.Slayer	30250km2	8894465	NBS	Robo	3946
+9.	VALKAC THE BULLETPROOF(#2752) - inkvizitoor	18662km2	8848502	CIA	Demo	3978
+10.	už aby se sklízelo :)(#640) - Mrkvička777	18999km2	8765432	SUX	Demo	3977
+11.	Astičkov(#2037) - Asticka	23683km2	8162828	AHA	Utop	3975
+12.	Jára Cimrman(#1056) - Uaah	18255km2	8132704	Liptákov	Utop	3884
+13.	jedu co to da ...(#2208) - AshenShugar	16603km2	8051086	Lego	Utop	3845
+14.	Vtipné predané zápasy(#81) - Wlad	24297km2	8027844	VTIP	Tech	3979
+15.	Semrakovo(#2145) - M0rlik0	20114km2	7984425	DemoniC	Utop	3804
+16.	8B8B888B888BB88B8888B888B(#161) - Davac	26820km2	7984057	MK	Feud	3979
+17.	fz585j(#2278) - epicFAIL	14013km2	7966251	gto	Feud	3833
+18.	1H1TK1LL(#1274) - HeadShit	31357km2	7869810	SUX	Robo	3978
+19.	Peklo na zemi(#2156) - Josefko	19500km2	7798710	Bubáci	Robo	3966
+20.	Silent Hill(#150) - Eldudik	11673km2	7794950	-WG-	Feud	3806
+21.	Pozitívny dopad ,`-(#548) - H3LL M4KER	25026km2	7706069	DemoniC	Robo	3978
+22.	H13(#2858) - popland	23682km2	7212927	*`=/-.,	Robo	3979
+23.	ZalozimAleNeklikam(#3158) - Jiriss	21660km2	7066331	=L.O.T=	Demo	3966
+24.	D1KTATORIS(#1663) - Caesar159	24700km2	6903698	D1KTATOR	Robo	3878
+25.	ARCHANGEL - Eskimakovo(#2380) - Bonto	17378km2	6872355	A.N.D.	Utop	3760
+26.	Naumo(#2774) - FriedrichPaulus	15453km2	6721510	DF	Utop	3968
+27.	Astym Hefthyn(#595) - Lord Radimag	20678km2	6685227	PRDOX	Kom	3944
+28.	street spirit(#1379) - Beleriand	17985km2	6654149	TSŽ	Utop	3900
+29.	Legia(#1199) - ing.JimStreet	19097km2	6641443	S*K	Feud	3872
+30.	Get a Dollar and a Dream(#2817) - TECHWARRIOR	25999km2	6614097	GH	Demo	3789
+31.	Ego sum via veritas(#670) - podwratak	18214km2	6552409	Bubáci	Kom	3901
+32.	Dčko(#1785) - Discoworld 2	19699km2	6473503	T3R0R1ST	Kom	3975
+33.	OLYMPIC WARRIOR(#166) - JAMees.Sawyer	17053km2	6408320	*`=/-.,	Utop	3979
+34.	Nagashizzar(#2418) - castropola	12500km2	6379508	Stdd	Utop	3975
+35.	Vysoko v oblacích(#523) - ridgeback	25643km2	6376273	StB	Robo	3973
+36.	Impossible is Nothing(#678) - Vojtiiik	19589km2	6350897	D1KTATOR	Feud	3950
+37.	liška v noře kouří tchoře(#2755) - Seksymania	17909km2	6343701	Kevlar	Kom	3555
+38.	Buduj mír(#1844) - Wariorrwg	26156km2	6343669	DDO	Utop	3939
+39.	Harichovce(#2597) - shlimak6	18293km2	6226148	=HIV=	Utop	3707
+40.	Välkommen till Västerås(#279) - Milka I.	11999km2	6178796	ČOKO	Utop	3895

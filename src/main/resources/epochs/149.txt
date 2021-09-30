@@ -1,0 +1,42 @@
+149. VĚK
+#	Země	Rozloha	Prestiž	Aliance	Vláda	Kol
+1.	Finlandia(#399) - ftacik	27704km2	13790115	n1	Rep	3882
+2.	Farmář hledá ženu(#2000) - masterWG	21999km2	12460206	UNIQUE	Tech	3873
+3.	Mia Wallace(#818) - Telwin	26999km2	12063620	VN	Rep	3970
+4.	Aurora_Borealis(#940) - Koryyy	26350km2	11796759	WiL	Tech	3704
+5.	Hello empty future(#81) - hagg1d	26220km2	10329279	-4F-	Tech	3658
+6.	Pyj bigPynys(#845) - tadycaapek	28415km2	9749442	MaNTiNeL	Tech	3975
+7.	Tweedledumb(#1233) - FIZZYBUBLECH	20202km2	9562796	Duh	Tech	3979
+8.	suicide farmer(#1381) - Gornik	19830km2	9503235	NIGGA	Utop	3910
+9.	.::PKZ::. Moete Kita Zo(#628) - Kwasak	21899km2	9440568	PKZ	Demo	3938
+10.	Lasciate Ogni Speranza..(#602) - DieWalker	20512km2	8782655	EMP	Tech	3975
+11.	Vyklepany mozeq x)(#127) - LOtr cyru5	21186km2	8561666	-4F-	Utop	3931
+12.	Krabistán(#171) - blasticek	21024km2	8087313	(V)oo(V)	Feud	3939
+13.	eL.Diablo.(#1564) - sss	18827km2	7957379	BA	Kom	3441
+14.	Republic of Elv(#685) - mazereon	15905km2	7951603	USO	Demo	3967
+15.	westonlend(#364) - 123123123123	19880km2	7881340	.:YD:.	Rep	3972
+16.	Tak normálně(#1337) - j.o.h.n.y.s	19999km2	7654750	NEIROV	Kom	3747
+17.	Snědá tíseň(#198) - blasticek	19445km2	7633625	ganja	Feud	3962
+18.	Tottenham Hotspur FC(#863) - MAFline	12202km2	7618587	EPL	Utop	3830
+19.	-ALIVE- pepe ma kolecko(#440) - Luke the Great	14801km2	7472423	ALIVE	Utop	3773
+20.	Good Morning Night City(#142) - Martin858	14539km2	7427892	CZ	Utop	3933
+21.	The One Above All(#754) - Shrunke	17999km2	7399852	=T=	Utop	3971
+22.	viacúčelová bojová pálka(#620) - Leninus	24179km2	7328790	n1	Robo	3918
+23.	IL-10(#1149) - Brčo	17760km2	7302291	Pacifist	Utop	3835
+24.	Nevím(#1223) - Awermi	18863km2	7256705	CHKOK	Demo	3968
+25.	Ho un pene piccolo(#310) - pelizid	18245km2	7246623	UNIQUE	Utop	3648
+26.	CTK(#748) - Ctirad2	14098km2	7200123	n1	Tech	3958
+27.	Ruhmreichen Sieg(#675) - Dr.Memphisto	16566km2	7097528	.:?:.	Utop	3649
+28.	Hniloba tvojí mámy(#84) - Mrkew	15010km2	7068883	MÁMA	Utop	3938
+29.	Námezdní lovec Deus ex(#1101) - Deus	12657km2	7057310	ALIVE	Utop	3799
+30.	Milujem Aďku :-*(#346) - rybka es atrás	18570km2	6972534	-4F-	Robo	3976
+31.	Everybody lies(#814) - vanna	14440km2	6966802	EMP	Fund	3922
+32.	morov(#987) - M.O.R	20506km2	6808378	UNIQUE	Robo	3789
+33.	Club_of_addicts(#1387) - Pitel	21130km2	6778613	ganja	Feud	3963
+34.	.:.:.:.:.:.:.:.:.:.:.:.:(#497) - Thooom	18685km2	6730655	Bull	Robo	3943
+35.	Rob Zombie(#643) - StillDeadCZ	20000km2	6722513	Bull	Fund	3978
+36.	NO_brain(#1500) - hráčsjménem	15491km2	6676070	NO=b=ON	Utop	3959
+37.	Faster(#317) - Puaaaw	14999km2	6585495		Utop	3978
+38.	*-*-*-*(#161) - SpeRy	13999km2	6562917	*L*D*R*	Tech	3976
+39.	I`m Commander Shepard(#858) - Martin858	18141km2	6547324	EMP	Feud	3940
+40.	Kuzmič(#971) - Gen.Lasturnik	17108km2	6489112	spmndag	Utop	3967

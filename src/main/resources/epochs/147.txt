@@ -1,0 +1,42 @@
+147. VĚK
+#	Země	Rozloha	Prestiž	Aliance	Vláda	Kol
+1.	Dycky Valkáč(#1291) - Absurdaa	22810km2	13558336	Lotta	Demo	3680
+2.	hanasland(#608) - hanass	19751km2	11605692	MK2	Tech	3595
+3.	Ultima forsan(#1162) - XQG	14333km2	9548436	*UF*	Tech	3862
+4.	Converge(#142) - Broot	22590km2	9019018	Jukatáni	Tech	3963
+5.	Mandarin(#1071) - Deus	27478km2	8924629	ALIVE	Robo	3972
+6.	Carolina Reaper(#473) - hagg1d	19999km2	8852825	Chilli	Utop	3886
+7.	Babekanek Power(#294) - Krocan.V.Veliký	22999km2	8703335	UT	Utop	3974
+8.	Leo Bonhart(#1224) - hlidac3	10076km2	8666707	ENIGMA	Tech	3944
+9.	La nostra e la furia(#95) - stejski IX.	16529km2	8612949	Lotta	Tech	3974
+10.	Kupuj akcie(#89) - Lord Baal	16625km2	8024971	Most	Utop	3954
+11.	Harder Than You Think(#63) - Luke the Great	15194km2	7921758	ALIVE	Utop	3974
+12.	Dresser Rand(#61) - Luke the Great	24263km2	7900560	=L.O.T=	Rep	3954
+13.	Vitamin X(#146) - Broot	19676km2	7843594	ganja	Tech	3963
+14.	Pepper X(#93) - Supra1Soul5Play	19999km2	7783208	Chilli	Demo	3895
+15.	The Last Man Standing(#1902) - G.R.E.E.K	26999km2	7750000	TLD	Robo	3167
+16.	.::Gondor::.(#898) - .Aragornikk.	21996km2	7612672	BTC	Tech	3972
+17.	Země kůlů(#1329) - StillDeadCZ	21506km2	7331942	VZP	Fund	3942
+18.	Tavolníkovec jeřábolistý(#675) - koutb	18138km2	7201070	--.	Tech	3975
+19.	Dáme nějaký nálet ?(#924) - Soví hnízdo	19731km2	7045256	HEIST	Robo	3955
+20.	Ruhmreichen Sieg(#66) - Dr.Memphisto	22176km2	6991222	SPP	Rep	3959
+21.	Gondorik.rad.hladi:)(#1398) - .Aragornikk.	23863km2	6970569	.:W7R:.	Robo	3968
+22.	Sal Paradise(#9873) - Degee	15555km2	6808556	D1000	Utop	3975
+23.	CHŘIPKA-19(#896) - ScaryOwner	17000km2	6699669	WIpm	Utop	3940
+24.	Prérie(#333) - Kojot prérijní	18114km2	6580293	HEIST	Rep	3938
+25.	STEPHEN HAWKING(#112) - Sir Extrem	18607km2	6533767	MENSA	Utop	3963
+26.	Žid jaksfiňa(#595) - Christmess	20984km2	6466243	D1000	Feud	3957
+27.	Legendary Night Club(#715) - Archimonde73	20222km2	6400385	LW	Robo	3973
+28.	LOS made in Womb(#888) - ftacik	11157km2	6090055	.L.O.S.	Kom	3858
+29.	Coup de grace(#937) - Tornador	15000km2	5789731	Anarchy	Utop	3974
+30.	Brawczek Land(#1582) - Brawek	15727km2	5732844	CHOS	Utop	3975
+31.	uu ííííí u aáá(#1145) - Tattser	23497km2	5726273	IDD	Robo	3959
+32.	Good Morning Night City(#131) - Martin858	15135km2	5725080	CAR	Utop	3961
+33.	poďme si zaspievať(#1487) - esya	17369km2	5576263	SRanda	Utop	3827
+34.	copacapo(#428) - Nepochopisnikdy	13255km2	5481865	AHA	Tech	3972
+35.	peli e un muro(#108) - stejski IX.	20017km2	5403527	Vazelína	Tech	3937
+36.	Amoeba Boys(#3001) - Muffia	23370km2	5377551	SUX	Rep	3958
+37.	CoolStoryBOB(#450) - vhero	16286km2	5354163	CHOS	Utop	3687
+38.	Kudla v Zádech(#682) - Lord Rechleek	10840km2	5340172	*UF*	Tech	3918
+39.	Ukamenovat nechat se(#1385) - MC Booo	13499km2	5335689	-=NK=-	Tech	3967
+40.	Cpt.Spaulding(#1316) - StillDeadCZ	15109km2	5332281	D1000	Fund	4004

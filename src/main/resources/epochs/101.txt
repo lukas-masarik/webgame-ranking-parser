@@ -1,0 +1,42 @@
+101. VĚK
+#	Země	Rozloha	Prestiž	Aliance	Vláda	Kol
+1.	Valach v Praze(#384) - Aram Chroustal	21938km2	14223307	S*K	Kom	3403
+2.	Guess what, I am so hot(#752) - 2xcl.	29215km2	12287437	Titans	Feud	3648
+3.	Chuligán777(#1521) - FARR FARR AWAYY	10444km2	10979298	EMP	Tech	3471
+4.	HOP ŠUP :)(#1374) - Pattis IV.	28603km2	10507583	Across	Robo	3957
+5.	*************************(#1645) - MFFoA	29209km2	10438567	N-N-N	Utop	3982
+6.	Voloďa(#1581) - Siriuss	26000km2	10399052	Nedivoč	Utop	3970
+7.	Naumo(#67) - FriedrichPaulus	23000km2	8409428	DF	Utop	3980
+8.	plácání po pozadí pavlíny(#751) - Gubernator	14999km2	7707007	i.Q	Utop	3951
+9.	Up in the Air(#1769) - Unubis	11644km2	7203141	JJT	Kom	3337
+10.	Tetřev na palmě(#2066) - Masticora	19767km2	7092877	DDOVA	Demo	3983
+11.	Růženka(#1727) - Gubernator	9998km2	6887127	(.).(.)	Kom	3843
+12.	apiospopieipgjndefjsdajha(#1571) - Lucky6186	19503km2	6394444	-.-	Robo	3983
+13.	LOS made in Destroyer(#176) - BlackTears	18353km2	6263394	.L.O.S.	Rep	3977
+14.	euisoahdbskalxbsvzdidjsva(#902) - Duskooo	20540km2	6074679	-.-	Robo	3981
+15.	PROF. EXTREM CSc.(#628) - Sir Extrem	30393km2	6027325	MENSA	Dikt	3941
+16.	qwertzuIopasdfghjklyxcvbn(#394) - H3lp1k	21728km2	6000000	-.-	Kom	3980
+17.	Do důchodu daleko(#708) - Michal IX	19471km2	5967783	SPRITE	Feud	3969
+18.	A1ienk0(#2469) - alien407	15511km2	5914599	.nc.	Robo	3679
+19.	Tampa Bay Lightning(#925) - Uaah	27777km2	5713703	.LL.	Robo	3983
+20.	ChlastamLenCezVikendy(#556) - 5oplak	25261km2	5639286	-T-K-	Robo	3974
+21.	Horská výšina(#110) - nemam.te.rad	11821km2	5594171	x.x.x.	Utop	3970
+22.	Atlan(#48) - Atlantik	19303km2	5529581	M	Kom	3952
+23.	The One Above All(#1583) - Shrunke	18999km2	5504468	=wale=	Feud	3967
+24.	ImTheDoctor(#276) - Ersango	20915km2	5363313	nBd.	Robo	3981
+25.	Mam to na haku(#878) - Lets go	24494km2	5346469	S.D.E	Kom	3936
+26.	Vaikov(#1148) - ash2001	16474km2	5208344	S	Utop	3979
+27.	Ezžlqqvesqa to rikačapqor menz(#2056) - Chica	12999km2	5202556	M	Kom	3941
+28.	Chytam UFO, nerusit(#1975) - Nokiac	19888km2	5185000	.:eK:.	Fund	3980
+29.	all blue(#3081) - a1capo	11934km2	5170141	All	Kom	2342
+30.	-=DF=- Drunk fighter(#1844) - animaniak	15834km2	5108272	-=DF=-	Robo	3975
+31.	Arrakon(#104) - Topisek	17393km2	5091089	nBd.	Utop	3979
+32.	-=DF=- Crown Royal(#842) - comboy	16811km2	5076235	-=DF=-	Fund	3970
+33.	Inkoustový plameňák(#180) - Lord HAD	14352km2	5033094	Troppau	Kom	3936
+34.	Karolínka(#2384) - ...Kápo...	15000km2	5026686		Utop	3463
+35.	No Coment(#140) - Pattrikk	23529km2	4979996	NGB	Robo	3981
+36.	Metal Heart(#2050) - SiRvAcA	18836km2	4937695	DAG	Feud	3979
+37.	superman(#1027) - Shrunke	13532km2	4877199	Across	Utop	3966
+38.	panda(#444) - popland	20425km2	4820184	-.-	Fund	3978
+39.	***B***eran Pecik(#860) - 10987654321	14528km2	4693615	***B***	Demo	3897
+40.	Titania(#473) - Phoebe	17484km2	4654221	DF	Feud	3982

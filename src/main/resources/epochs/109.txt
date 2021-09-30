@@ -1,0 +1,42 @@
+109. VĚK
+#	Země	Rozloha	Prestiž	Aliance	Vláda	Kol
+1.	Weatherlight(#238) - Scalpelexis	26248km2	10964899	S.D.E	Kom	3825
+2.	omg(#1684) - ASA	23703km2	10141284	NN	Robo	3913
+3.	CONQUEROR VARAN VEGAN OP(#1064) - mara8	25944km2	9509148	**CQR**	Kom	3881
+4.	Nedistán(#191) - Milned	25066km2	9313311	DEJAVU	Utop	3970
+5.	????????????????????????(#1335) - H3lp1k	27999km2	9116391	???????	Utop	3926
+6.	dont.again(#82) - Canada	22777km2	7297486	ČSLA	Feud	3937
+7.	So mnou si neprehral(#919) - fagancek2	26992km2	7235805	*SnsrN*	Kom	3979
+8.	Do důchodu daleko(#1531) - Michal IX	19251km2	6894814	SPRITE	Rep	3950
+9.	Not Enough Minerals(#775) - sintik	17107km2	6529853	Across	Robo	3952
+10.	něžnější než tvá maminka(#936) - HI MOM	20377km2	6403509	HI`MOM	Robo	3948
+11.	.:.:...:...:::...:(#1222) - SkinnyBoy	14542km2	6155825	MENSA	Utop	3968
+12.	Valach v Praze(#61) - Aram Chroustal	25473km2	6121785	RAPTOR	Demo	3979
+13.	slez z toho lustru, Aláhu(#492) - KURT	17085km2	6116812	Tabáček	Robo	3979
+14.	So hot(#301) - 2xcl.	27721km2	6052099	IF	Robo	3920
+15.	in dubio pro reo(#517) - Lord Demokrat	16304km2	5998803	=BW=	Kom	3944
+16.	koleje(#361) - Martin poula	20896km2	5984287	IF	Robo	3904
+17.	maly uličník(#762) - trubkatrubkovic	17907km2	5875174	NN	Rep	3914
+18.	IMPERÁTOR(#72) - 7000000	21941km2	5864914	KL	Robo	3958
+19.	Syrius The Plane..(#121) - DieWalker	18657km2	5862919	APG	Utop	3974
+20.	Prostě rudý(#108) - JosefViserjonov	15191km2	5834307	MATKARUS	Robo	3974
+21.	Mame doma mecheche(#215) - Duke Ferdo	20976km2	5732900	vh74	Robo	3975
+22.	a bullet for everybody(#1129) - Teutul2	18150km2	5689427	1vs1	Utop	3898
+23.	Zima prichazi(#1450) - rybka es atrás	17524km2	5689163	.:?:.	Fund	3951
+24.	Eleanor Rigby(#375) - mutavault	20900km2	5642895	RAPTOR	Fund	3957
+25.	Bojím se izolepy(#1072) - labojse	18684km2	5609410	ČSB	Robo	3936
+26.	usti(#1201) - vachys39	14856km2	5589341	ALI1234	Demo	3938
+27.	Rentgen Tveho Stinu(#1472) - Kr3eSe3r	23624km2	5516101	MaNTiNeL	Feud	3844
+28.	Azati Prime(#429) - Paspartoe	20412km2	5503272	PEuuW	Robo	3942
+29.	Chlív(#1308) - SprávceChlívku	24519km2	5408840	Rafani	Demo	3978
+30.	Nemesis-009(#644) - 010Nemesis	9213km2	5343299	BOUNTY	Utop	3938
+31.	ubohá zem(#250) - Tifo	14514km2	5314122	-=ED=-	Kom	3898
+32.	Antikapitalista(#113) - Prciik88	17425km2	5301588	ALI1234	Robo	3977
+33.	Koudelka a 40 loupežníků(#1170) - Sjezdovka	15948km2	5227811	BOUNTY	Utop	3979
+34.	zeme plna sandalu(#47) - sir uriel	12955km2	5217334	RaD	Kom	3845
+35.	RAJ(#198) - Cirkus	16712km2	5185910	MATKARUS	Robo	3951
+36.	Mandylion(#289) - Dextrik	15127km2	5173693	vh74	Robo	3957
+37.	Imperial age(#1415) - Leooon	23209km2	5134546	MaNTiNeL	Feud	3955
+38.	GOOD DEADPOOL(#1428) - U.U	20418km2	5116653	**CQR**	Kom	3765
+39.	sex s macikom(#1144) - Lucky6186	19999km2	5115706	--2016--	Feud	3962
+40.	President Capybara(#1795) - Drunk3n	15230km2	5067944	MRUK	Utop	3837

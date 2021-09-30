@@ -1,0 +1,42 @@
+71. VĚK
+#	Země	Rozloha	Prestiž	Aliance	Vláda	Kol
+1.	Jedi Master Mace Windu(#2821) - Vojtiiik	30999km2	13248148	6812	Robo	3845
+2.	Hydri Hlava(#62) - XXXGrey	31489km2	12681523	Wrath	Fund	3967
+3.	Princeznina smetánka(#1698) - Smajdaalf	23300km2	12441609	-WG-	Utop	3759
+4.	Limonádový Joe(#231) - Skorpík	23523km2	11933323	-=GL=-	Fund	3868
+5.	Legenda.PEJSEKaKOČIČKA(#890) - PEJSEKaKOČIČKA	24291km2	11111111	BBB	Utop	3888
+6.	Brebta brebtá persky(#306) - Iskalon	20373km2	11035846	G.U.M.I.	Rep	3840
+7.	Zhulendrov(#1595) - Bigbosh2	19667km2	9433782	S*K	Utop	3935
+8.	Hustota pravděpodobnosti(#313) - Evzen Hyberny	13643km2	9395761	BFP	Utop	3367
+9.	Duško Kreken(#59) - gorbatčov	7153km2	9242471	PH	Utop	3769
+10.	Windkilerova derava hlava(#3886) - ppedrnikar	21212km2	8891743	*zoo*	Utop	3543
+11.	cejnik(#2641) - Čejník II	22231km2	8794276	.:V3R:.	Feud	3857
+12.	IBK Kubánský Klan(#1268) - Coav	21396km2	8780528	n1	Kom	3796
+13.	Vlhký klíneček(#1099) - Smajdaalf	27468km2	8727115	=*DC*=	Feud	3900
+14.	Landie(#1549) - Lem	22527km2	8702286	68	Utop	3849
+15.	Nemilosrdná Slečinka(#190) - c4u710n	22165km2	8456429	Valkaci	Feud	3927
+16.	znicena zem(#4565) - BlindJustice	16169km2	7801121	c0n	Utop	3537
+17.	:Live Together,Die Alone:(#2103) - Sef87	20081km2	7521352	Valkaci	Utop	3952
+18.	Bridge to Terabithia(#124) - A. Valverde	26589km2	7503720	6812	Robo	3978
+19.	WARLORDS.Benysh(#2013) - gymplákdave	18999km2	7456660	KDESHUK	Utop	3819
+20.	Lodoss(#661) - Netopier5	22616km2	7421773	Across	Rep	3959
+21.	Spirit in the sky(#266) - Sir Olmeca	10499km2	7343220	ŠVR	Feud	3892
+22.	WordCity(#252) - Sweetie1	16170km2	7290839	S.W.A.T.	Utop	3973
+23.	Lela Star(#1890) - Lord IVCO	17138km2	7206952	*zoo*	Utop	3971
+24.	why you so bad(#794) - ptak77	22068km2	7113013	SmeTop	Utop	3874
+25.	(Moloch)(#2390) - F0rsaken S0ul	24218km2	7022092	TP	Robo	3966
+26.	Fartville(#2971) - Pegas	24309km2	7021643	M	Robo	3966
+27.	modří(#2315) - blablador	15485km2	6876262	bdskt	Kom	3958
+28.	HnojobrazZaHnojantem(#4118) - Masticora	15880km2	6725391	HOT	Kom	3858
+29.	SZS kavamladi.cz(#50) - Pandrhola	20422km2	6667621	M	Kom	3946
+30.	we all for that paper(#4758) - TECHWARRIOR	19444km2	6638598	GH	Robo	3402
+31.	Siroteček(#3695) - BrankoStruper	23688km2	6631246	M	Robo	3890
+32.	Bukake(#170) - Ctirad2	13333km2	6627926	AotNW	Fund	3978
+33.	Art of Flight(#1391) - dzafa kri.	16999km2	6609869	DF	Utop	3951
+34.	.:cz-sk:.Zeus(#405) - Vladce Seanix	22015km2	6536754	cz-sk	Fund	3950
+35.	Pan Filuta se zlobí(#702) - Marzaus	27207km2	6516338	AotNW	Robo	3979
+36.	Kruhy v obili(#311) - Evzen Hyberny	13192km2	6429992	.::VR::.	Utop	3506
+37.	.:NW:. Pula(#1400) - castropola	14287km2	6406024	Ponorky	Utop	3762
+38.	Llama-dlak(#1552) - NerosiK	20280km2	6350836	AotNW	Robo	3950
+39.	Dr.Gonzo(#3648) - Lord IVCO	16611km2	6323681	para	Utop	3979
+40.	ARCHANGEL - Geralt(#1885) - sbotaz	15500km2	6322172	A.N.D.2	Utop	3953

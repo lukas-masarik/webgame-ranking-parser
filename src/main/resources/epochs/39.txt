@@ -1,0 +1,42 @@
+39. VĚK
+#	Země	Rozloha	Prestiž	Aliance	Vláda	Kol
+1.	Seznáš,že jméno mé je Bůh(#14189) - TomiB	21885km2	17369281	K1	Demo	3435
+2.	Jeansovo kritérium(#2173) - Makkinen	10999km2	17260670		Kom	3816
+3.	Akashe(#5483) - Dimmu.Borgir	23277km2	15518607	Euro	Robo	3727
+4.	P3X-7336(#246) - MaximusD.M.	34550km2	14444444	/BA/	Robo	3946
+5.	zavřete oči, odcházím(#16623) - clockwork orange	34532km2	13564782	OPEC	Utop	3812
+6.	šlapka psí:o)(#516) - adduktor	37531km2	12901039	ZEVLOUNI	Robo	3757
+7.	november alpha bravo(#1106) - G.A.Zjuganov	10856km2	11854535		Kom	3666
+8.	Blitz Krieg (6215)(#6642) - Redclaw	20701km2	11542660	B.K.	Utop	3915
+9.	:-))(#18496) - King of Komarov	25985km2	11514258	=(PPč)=	Robo	3881
+10.	Zem společná všem(#12584) - DANEČEK	37202km2	11500582	.:BP:.	Robo	3950
+11.	Maxikov(#998) - -MaX-	31464km2	11219298	Mgn	Kom	3958
+12.	Land of Diplomat(#14608) - OBB SpameR	26076km2	11041149	Etc.	Demo	3743
+13.	Mutha fu*ka Gangstar(#8869) - fucka	28627km2	10810284	DL	Robo	3758
+14.	Kofolof(#2457) - lokuf	23227km2	10775046	...EX...	Robo	3946
+15.	11II1I1I1I1II1I1I1I11I1I1(#12705) - imdeath	5755km2	10763136	11II1I1I	Kom	3540
+16.	Biocidní Králíček(#8562) - SirIndy	31401km2	10614394	NUKE	Robo	3958
+17.	S fackal jsem svého synka(#5950) - Lord Biry	19999km2	10536055	MPTTV	Kom	3788
+18.	znicena zem(#5612) - BlindJustice	28574km2	10207152	nsnk3	Kom	3889
+19.	mastarie(#8810) - martum	22503km2	10105800	*SN*	Kom	3794
+20.	Nukleární Králíček(#8556) - SirIndy	30068km2	10025310	NUKE	Robo	3958
+21.	NoWarLand(#9225) - Raciolky	17192km2	9881179	D1KTATOR	Robo	3931
+22.	GFK(#14202) - Frantisek.Krizik	29749km2	9631049	P.f.B	Kom	3877
+23.	Old Shatterhand(#9748) - .Toshiro.	24710km2	9581964	Howgh	Demo	3873
+24.	az25znakovTAKtoVYUZIJEM=D(#8075) - Lord TROKS	21515km2	9578857	D1KTATOR	Kom	3846
+25.	Rogi(#16201) - Ira	19799km2	9553221	*Ag*	Robo	3951
+26.	Slev1n(#2703) - Zozi	37559km2	9314830	-=BS=-	Robo	3955
+27.	ProfesorEskalator de`pňak(#12817) - eska	30764km2	9236523	FuWg	Kom	3945
+28.	Wassup ??(#5257) - Brutalist	35550km2	9130841	ZEVLOUNI	Robo	3725
+29.	GanG Karvinaá(#13749) - RosPal	19184km2	9061476	GanG	Kom	3899
+30.	eGalius Domesticus(#5912) - 3Gal	15997km2	8998196	HYENY	Tech	3687
+31.	Vysvětlite mi svět(#7851) - petek	23600km2	8828850	NS.	Kom	3748
+32.	Dont fu*k whit my heart(#7550) - Deathwind	17852km2	8749196	KBN	Kom	3936
+33.	ReGenesis(#314) - xxxBladexxx	20510km2	8653654	D1KTATOR	Kom	3861
+34.	HyeNa Polly Dolly(#1993) - Poncho	20431km2	8563234	HYENY	Tech	3866
+35.	hledam menu-dotace(#17223) - Walden r Gwendor	31999km2	8323496	OPEC	Utop	3946
+36.	Hell of Nupaky(#125) - Nupacak	26471km2	8301951	.:H-A:.	Robo	3932
+37.	SIL-Nargothrond(#5818) - Martin858	19381km2	8196809	SIL	Kom	3913
+38.	Eternal Land(#1006) - Windows Error	17723km2	8085571	ANP	Demo	3862
+39.	možem možem možem j3b4t(#16574) - TORCIS	12149km2	8007426	MPTTV	Utop	3857
+40.	_Balanar-BAŤA Stalker_(#168) - Baťa	20874km2	7974582	.SK	Kom	3913

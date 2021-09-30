@@ -1,0 +1,42 @@
+48. VĚK
+#	Země	Rozloha	Prestiž	Aliance	Vláda	Kol
+1.	Rampa McKvak(#605) - ...Kápo...	26952km2	18505378	Kačerov	Utop	3760
+2.	D3M3NC14 T0 15T1 :P(#3026) - diefirma	31685km2	14788452	MariňáK	Tech	3756
+3.	SOMEWHERE I BELONG(#3114) - .adm1n.	26314km2	13100000	/Fe4r/	Demo	3915
+4.	Neucim, ucim sa.(#2144) - XPskFyzik	27757km2	11460274	FYZ	Demo	3824
+5.	From my cold dead hands(#703) - General Honza	28773km2	11037511	SB	Demo	3941
+6.	salamista(#4832) - buko10	21938km2	10782158	cerveza	Kom	3869
+7.	mastarie(#135) - martum	19482km2	10496803	*SN*	Rep	3885
+8.	Jan Žižka z Trocnova(#5860) - Sjezdovka	18291km2	10396959	2v1	Utop	3689
+9.	It s gonna be LEGENDARY(#1720) - Malibuk	27076km2	10359002	SB	Feud	3960
+10.	Vojtiiik(#3403) - Vojtiiik	28373km2	10158598	SEX	Robo	3881
+11.	šikula(#750) - J.E.F.F.R.E.Y	22843km2	10113364	R-V	Demo	3863
+12.	Theory of chaos(#55) - t3latko	20694km2	9955379	Smečka	Rep	3926
+13.	.:CZ-SK:.Dum spiro,spero(#193) - KalinV	27882km2	9630698	ČSLA	Robo	3959
+14.	Bobr s maršmelákem(#1587) - 4M0K	28746km2	9514865	Ganja	Dikt	3560
+15.	Donkey monkey(#7716) - abudabi	21923km2	9230000	RAFANI	Kom	3845
+16.	Lenicka(#8319) - Namibi	20656km2	9210591	WG-elite	Utop	3801
+17.	Will of the Forsaken(#8016) - Pepemistr	24496km2	9093936	LuMeR	Robo	3912
+18.	Marche ou créve(#2962) - Adjudant chef	23045km2	9051635	RAFANI	Fund	3867
+19.	lets play cs mruks:D(#368) - Drunk3n	29999km2	9038624	P.f.B	Dikt	3974
+20.	Smrt.do.tvych.kouli(#8583) - .Misa.II.Veliky.	19459km2	8877666	.:AD:.	Demo	3959
+21.	Gorem smaží s Eliii(#86) - Joker16.	29175km2	8750063	Ganja	Robo	3974
+22.	.:CZ-SK:.Disneyland(#2699) - child	21912km2	8711838	ČSLA	Kom	3923
+23.	Catacomb dragon(#2066) - MorNar	27767km2	8550452	..D..	Robo	3974
+24.	Spleen And Hourly Idling(#404) - SAHI	29999km2	8544487	nEf	Kom	3970
+25.	Brkoland(#1041) - Drake18	29472km2	8520447	.:V10R:.	Robo	3973
+26.	Druhá zem o5 v akci xD(#206) - ttrtt	22850km2	8444000	=ex=	Kom	3885
+27.	země punku,sexu a piva(#739) - Joker16.	29166km2	8440054	LLS	Robo	3958
+28.	C60(#1835) - tehac	30205km2	8412714	Fuleren	Rep	3852
+29.	Uzenářství veverek(#3970) - Sir Robertini	31487km2	8350616	UVVB-1	Utop	3969
+30.	F0x R1v3r(#71) - Dezider	15818km2	8176519	R3D	Utop	3668
+31.	HaD MARK B and BLADE(#2704) - král urucskýý	15045km2	8126081	R3D	Demo	3717
+32.	Uživajúca si slečinka(#765) - van dame	30237km2	7946281	ManG	Rep	3906
+33.	METALlica - Welcome Home(#427) - JJura	22130km2	7849325	POVKO	Kom	3844
+34.	Bobr na hniličku(#1562) - 4M0K	26830km2	7787033	HoBŘ	Feud	3765
+35.	free your mind...(#5559) - Sef87	20289km2	7783216	N-N-N	Rep	3877
+36.	500km za cenu 10.25kč(#294) - XXXGrey	24439km2	7756105	*zoo*	Tech	3648
+37.	Proxima(#5443) - Gabriel Allon	19511km2	7683020	ThermX	Rep	3972
+38.	aj tak Vás porežem MUTERA(#1809) - džulio	28570km2	7678407	mutera	Robo	3963
+39.	Cinska sila(#7187) - StrongWall	39088km2	7542000	ČSS	Fund	3970
+40.	Immortal(#6525) - Xazax.Barbarian	18696km2	7516290	LMS	Rep	3950

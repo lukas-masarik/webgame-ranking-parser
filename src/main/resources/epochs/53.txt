@@ -1,0 +1,42 @@
+53. VĚK
+#	Země	Rozloha	Prestiž	Aliance	Vláda	Kol
+1.	Milujem ťa Imhot3p :)(#40) - Poprask	21826km2	18888888	VT	Kom	3748
+2.	.:BB:. Bushmills(#2173) - Jiriss	31000km2	12222222	80`s	Feud	3703
+3.	.:.:.:.:.:.:.:.(#2168) - Thooom	24050km2	11447534	.:.:.:.	Demo	3941
+4.	Mruk, hrající DOTU :P(#655) - Drunk3n	31639km2	11445762	Řezníci	Robo	3959
+5.	hmm:) milujem majku(#2757) - jack32	27303km2	11292167	:)MM(:	Kom	3885
+6.	Naddržená Veverka (#7060) - král urucskýý	17757km2	11015277	Veverky	Rep	3875
+7.	Forever young(#1133) - epicFAIL	33851km2	10551537	EMP/NUKE	Robo	3966
+8.	otec bambusiek(#4280) - K.N.M KoLLo	22222km2	10427548	Bambusky	Utop	3595
+9.	Rytíř světla(#272) - Pernic3k	27722km2	10266949	ŽsN	Kom	3875
+10.	Nejobhospodarovavanejsi(#3916) - Martin858	29638km2	9512712	Řezníci	Robo	3900
+11.	testovacia jazda(#7141) - Snapser	28468km2	9329179	ManG	Rep	3740
+12.	Superstar Shampoo boy(#2747) - M3mmOrY	26288km2	9064390	ThermX	Feud	3576
+13.	Ash and dust(#275) - Defender...SID	20981km2	8841878	.:V4R:.	Demo	3956
+14.	Sen noci mechojánské(#2252) - Noldren	29518km2	8762645	ZsH	Robo	3902
+15.	Bulánek chazyk(#4899) - chazy chaz	20242km2	8676564	=VB=	Robo	3841
+16.	The Golden Compass(#507) - A. Valverde	21930km2	8660791	Legends	Robo	3956
+17.	AlRybnik(#608) - ElKapr	25254km2	8573750	VODA	Robo	3974
+18.	Rest In Peace(#2349) - Inchuchuna	25443km2	8409421	OS	Robo	3884
+19.	wg i am missing you.. : /(#6903) - Sef87	20965km2	8407296	Valkaci	Tech	3974
+20.	No way back(#1476) - goodest	20727km2	8227586	DeFuckT0	Utop	3937
+21.	Esgaroth(#5545) - CrazyBob	32287km2	8214941	USB	Robo	3947
+22.	AUTORITA - EUBA(#1736) - ftacik	27101km2	8177488	AUTORITA	Utop	3616
+23.	KonecMystiky.JdeSeNaRyby(#993) - Aram Chroustal	20020km2	8082592	RAPTOR	Utop	3848
+24.	Byl jsem a budu Víťaz(#3190) - jedi malec	19244km2	8070775	VT	Demo	3868
+25.	RogerFedererSeVrátíNaTop1(#3503) - Vojtiiik	17701km2	8050869	D1KTATOR	Rep	3959
+26.	Veverka Středním Chemikem(#200) - Rehmen	13017km2	8027622	Veverky	Utop	3542
+27.	Málavika (striptérka)(#4930) - Dezider	24910km2	8017989	R3D	Robo	3957
+28.	Off the wagon(#5516) - Uaah	19996km2	7825517	mackoPU	Robo	3793
+29.	Země plná zelené(#309) - Joker16.	27706km2	7808433	Ganja	Robo	3968
+30.	Trosky(#294) - Erwin Rommel	21688km2	7803693	G	Demo	3974
+31.	Gilgaméš (vyhazovač)(#2418) - Escobarmafia	17013km2	7476182	R3D	Utop	3697
+32.	clovek rychlo zabuda...(#6141) - Unreal Maniak	22646km2	7468733	80`s	Utop	3901
+33.	Jiný prostor(#3129) - SiR KoufaR	23891km2	7431358	f-.-f	Robo	3962
+34.	-=Rebelem bez příčiny=-(#6362) - naivefighter	13866km2	7423052	REBEL	Demo	3927
+35.	Illyasviel von Einzbern(#1258) - Wildevil	22467km2	7307747	Demigods	Demo	3970
+36.	Lenicka(#5196) - Namibi	25041km2	7273071	WG-elite	Utop	3951
+37.	Mrtvoland.(#525) - px45	26903km2	7208207	Šneci	Robo	3974
+38.	AllRybnik(#614) - ElKapr	22903km2	7166680	VODA	Robo	3974
+39.	RECTANGLE(#6629) - Kvacinka	23016km2	7162187	nLnF	Robo	3974
+40.	2 Minutes To Midnight(#6448) - Kowacs	19646km2	7158989	Čoko	Demo	3947

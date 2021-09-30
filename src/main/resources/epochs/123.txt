@@ -1,0 +1,42 @@
+123. VĚK
+#	Země	Rozloha	Prestiž	Aliance	Vláda	Kol
+1.	Darkside(#631) - 641988	21362km2	13775249	:O	Utop	3595
+2.	Asian hookers(#1482) - Avgeropoulos	30620km2	11340524	FCoLG	Demo	3836
+3.	Země 1(#1479) - Darth Knight	23176km2	9640416	MARVEL	Robo	3966
+4.	Jožko Kukuricúdus(#164) - gorbatčov	11832km2	9511940	PH	Utop	3829
+5.	LOS made in Kitchen(#60) - Mr. Sedlinno	21399km2	9270456	.L.O.S.	Robo	3908
+6.	Lipan(#1167) - joker30	26322km2	8084091	brm	Robo	3979
+7.	Bloody Land Farma(#536) - D.r.a.k.	17001km2	7867849	VENDETA	Utop	3972
+8.	NlEsomSKILLERaleKILLNEMta(#1610) - Lord TROKS	12542km2	7816266	LBL	Utop	3841
+9.	Bloody Horsedog :)(#112) - Konopess	22288km2	7549711	VENDETA	Robo	3974
+10.	Brumla(#57) - Topisek	14631km2	7274703	*SST*	Demo	3959
+11.	KOALA (c)(#258) - koala59	15106km2	7222276	LW	Demo	3977
+12.	Valar Morghulis(#507) - Uaah	12999km2	6742532	.LL.	Utop	3965
+13.	Eror44(#424) - Eror11	24555km2	6728949	LW	Robo	3979
+14.	LOS made in je to nefér(#594) - God si me	13657km2	6567397	.L.O.S.	Demo	3939
+15.	LORDinace v RůžovéZahradě(#853) - Hrubej	17999km2	6526917	Lordi	Utop	3925
+16.	LOS made in Destroyer(#110) - BlackTears	16207km2	6375454	.L.O.S.	Rep	3897
+17.	Bengo detektiv(#1225) - .Nojmy	22938km2	6332561	SPRITE	Feud	3951
+18.	no time for dilly dally(#444) - Eknurhs	14864km2	6290820	=T=	Utop	3978
+19.	ImTheDoctor(#31) - Ersango	16018km2	6195271	RoboUtop	Utop	3979
+20.	latabar1(#1094) - Stinx	24661km2	6039996	FCoLG	Robo	3973
+21.	.::PKZ Pokazím ti vek::.(#555) - kiss for you	16258km2	5999106	PKZ	Robo	3907
+22.	Jožka je můj hrdina(#307) - ptak77	16002km2	5879348	=T=	Utop	3976
+23.	Bloody Njeco(#694) - LordZoltan	16407km2	5810926	VENDETA	Feud	3976
+24.	Red Viper(#77) - hlidac3	13799km2	5798415	.LL.	Utop	3944
+25.	Marcus Sergius Silus(#445) - castropola	13817km2	5775644	HISTORY	Utop	3972
+26.	Valar Dohaeris(#510) - Uaah	14999km2	5716906	.LL.	Utop	3965
+27.	LOS made in Pakistan(#870) - Mydliak	16274km2	5676555	.L.O.S.	Utop	3973
+28.	Amy Pond(#36) - Ersango	16210km2	5672182	-=DH=-	Utop	3979
+29.	Kralovna(#224) - H3lp1k	15789km2	5607711	*SST*	Robo	3938
+30.	Prófa(#547) - Eph3dr1ne	20406km2	5603244	*SST*	Fund	3977
+31.	smajdova manka(#442) - Eknurhs	15275km2	5598683	.LL.	Utop	3979
+32.	LOS made in TARDIS(#35) - Ersango	13765km2	5567922	HISTORY	Utop	3957
+33.	Bloody Greyova zahradka(#1174) - Windmouse	17322km2	5566189	VENDETA	Robo	3978
+34.	Captain Marvel(#799) - pan.karotka	19700km2	5496693	MARVEL	Robo	3979
+35.	NAVRAT ZTRACENE DCORY(#297) - Christmess	19062km2	5402557	REE	Feud	3930
+36.	NIEsomSKlLLERaleKILLNEMta(#1612) - Lord TROKS	13389km2	5397206	.LL.	Utop	3846
+37.	Bloody Moon(#181) - hagg1d	22222km2	5319316	VENDETA	Robo	3970
+38.	.-.-.(#646) - bukvicka13	18378km2	5226832	PhaMa	Utop	3978
+39.	.::PKZ Camel::.(#278) - Grafical	13484km2	5226523	PKZ	Feud	3880
+40.	Bloody Nieco(#691) - LordZoltan	14980km2	5223241	VENDETA	Fund	3978

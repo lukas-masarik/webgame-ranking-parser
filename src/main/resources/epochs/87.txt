@@ -1,0 +1,42 @@
+87. VĚK
+#	Země	Rozloha	Prestiž	Aliance	Vláda	Kol
+1.	Gufero(#2284) - Ctirad2	16934km2	9896340	cerveza	Tech	3777
+2.	Master of the Wild Hunt(#2687) - Uaah	24998km2	9746088	mcbp2	Robo	3960
+3.	Ad honorem Dei gloriam(#1222) - Tryskač Mckač	28376km2	9561633	.:EP:.	Demo	3907
+4.	nebojím se(#1774) - kousnu te lamo	24092km2	9314381	ČSB	Feud	3979
+5.	NoPainNoGain(#1685) - .Baťa.	30387km2	9095738	NBS	Feud	3842
+6.	mikulas(#2849) - epicFAIL	9999km2	8827396	gto	Tech	3440
+7.	Pati(#1193) - LeoDaVinci	24783km2	8538419	Statl	Demo	3979
+8.	Inderon(#2572) - Macek21	22450km2	8402238	B.K.	Demo	3973
+9.	Übermega feuerwerk(#3870) - nezbedny bohus	27047km2	8395638	=L.O.T=	Robo	3974
+10.	Realms(#1450) - Deus	27675km2	8313137	MK	Robo	3967
+11.	-=Sheep Uroboros=-(#792) - Big Hans	24444km2	8012168	.:ZO:.	Robo	3977
+12.	Chapo(#915) - .bruno.	26489km2	7799999	HAARP	Robo	3979
+13.	Svému Osudu Neutečeš..(#2643) - Dragon.Slayer	28443km2	7698106	NMNH	Kom	3941
+14.	orenburg(#147) - Jurgens	26077km2	7678692	=HIV=	Dikt	3971
+15.	Modré Hory(#108) - Wariorrwg	22198km2	7419031	LdlS	Utop	3960
+16.	Rogue state(#1213) - cachtan	24273km2	6902271	REDNECKS	Robo	3974
+17.	Mike Wazowski(#1209) - Defectorr	15973km2	6822955	T3R0R1ST	Tech	3953
+18.	OLYMPIC WARRIOR(#2512) - JAMees.Sawyer	27647km2	6751667	mcbp	Fund	3916
+19.	Bojím se či nebojím?(#271) - Milka I.	19967km2	6720411	ČSB	Robo	3946
+20.	Cejl(#549) - kratata	20641km2	6647882	MORB	Demo	3979
+21.	........................(#261) - LukO cZ	22855km2	6641075	FARMERS	Robo	3911
+22.	Hašiš Doupě(#1283) - Hašiš Díra	27999km2	6639969	.:YD:.	Feud	3978
+23.	Slecinka DF(#2307) - Hanz Guderian	21963km2	6621212	DF	Robo	3945
+24.	GifficiDimExhibitor(#1479) - ando	14748km2	6376314	FitH	Demo	3953
+25.	Tree(#159) - imha2	38517km2	6269107	Tabáček	Kom	3964
+26.	Wheeeeeee(#422) - maestrotech	19010km2	6251892	Hrajem	Robo	3966
+27.	Bauer Vapor APX(#519) - vaporXX	20206km2	6194521	BTB	Robo	3978
+28.	Gvajak lékařský(#3725) - .Baťa.	18168km2	6187638	GD	Robo	3929
+29.	Smradlavá nora(#1284) - Lapcakovo	21560km2	6075712	Statl	Robo	3979
+30.	to je sila(#3375) - Lucky6186	28544km2	6050970	.:V3R:.	Dikt	3954
+31.	Sleepy Hollow(#1027) - ListerD1	10201km2	6007376	W.?.R	Tech	3921
+32.	Highway to hell(#2285) - vanna	26643km2	5989705	**CQR**	Kom	3978
+33.	RAPTOR Fundove jsou dobri(#1847) - lostingheart	18261km2	5985495	S*K	Feud	3914
+34.	Atomic Bomberman(#42) - hiel	17675km2	5944612	Ganja	Robo	3973
+35.	jsem těhotný nekrofil(#3234) - johnny33	18012km2	5902267	B.K.	Tech	3979
+36.	zhulendrov(#2102) - Bigbosh2	14877km2	5860227	S*K	Utop	3861
+37.	Nádražník(#1855) - Talrik	21410km2	5804937	TESL4	Robo	3975
+38.	PUW Bombingzela(#884) - Vuvuzela	21428km2	5778945	Bombing2	Feud	3926
+39.	Zem tisíce demižónů(#2624) - ..Hanz..	19151km2	5766135	DF	Robo	3918
+40.	Ocelové Jeskyně(#1771) - Myffis	23283km2	5698881	HoFyLand	Feud	3889

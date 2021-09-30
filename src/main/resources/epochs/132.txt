@@ -1,0 +1,42 @@
+132. VĚK
+#	Země	Rozloha	Prestiž	Aliance	Vláda	Kol
+1.	SUXessfulI(#842) - LuisFigo	27962km2	10245503	SUX	Robo	3945
+2.	tell me something girl...(#33333) - rybka es atrás	29717km2	10074221	.:?:.	Feud	3978
+3.	Neverim(#1159) - blbcek	33212km2	9767483	WWW	Robo	3967
+4.	Syrius the Plane(#141) - DieWalker	16090km2	9653534	FETKA	Anar	3935
+5.	RU mová pralinka(#3003) - Ersango	21999km2	8945194	RoboUtop	Utop	3943
+6.	Archa(#86) - Deus	19178km2	8716184	SPRITE	Anar	3979
+7.	Vyvrženec Dr.Satan(#737) - StillDeadCZ	22002km2	8408356	VZP	Robo	3979
+8.	Big Mouth(#162) - trubkatrubkovic	23922km2	8407244	Across	Robo	3978
+9.	Make coffee not war(#45) - JimCurry	26225km2	8377403	VIR	Demo	3615
+10.	Fuzzy Lumpkins(#886) - Muffia	30631km2	8286873	PíPíBí	Feud	3978
+11.	ELON MUSK(#1065) - Reich Graf	28880km2	8263942	MENSA	Feud	3953
+12.	Marsellus Wallace(#1075) - Telwin	24083km2	8225098	SUX	Feud	3957
+13.	Rimmerland(#665) - Lord Kamzo	23431km2	7855863	-osn-	Utop	3978
+14.	EMPEDOKLES(#314) - sir Kopcem	20183km2	7578089	MENSA	Robo	3841
+15.	I mean it :)(#90) - LukO cZ	16338km2	7520976	SUX	Anar	3974
+16.	Annie Edison(#550) - Martin858	15999km2	7289234	AC/DC	Anar	3937
+17.	Havana club(#1441) - Tomino Gerino	19199km2	7087878	*WinDe*	Robo	3965
+18.	Skunkfield(#1147) - Method Man	18989km2	6951445	SUX	Robo	3961
+19.	Dycky Anarcha(#283) - ppedrnikar	17612km2	6875631	DEAD	Utop	3978
+20.	Thunderstruck(#556) - Martin858	14999km2	6853712	AC/DC	Anar	3944
+21.	STEPHEN HAWKING(#116) - Sir Extrem	16772km2	6799141	MENSA	Demo	3978
+22.	Chulimanga(#1183) - FR3EZY	24108km2	6737801	=T=	Demo	3872
+23.	HPMOR(#1179) - hlidac3	17111km2	6728915	*MAFIE*	Utop	3710
+24.	-DEAD- pepe neumi farmit(#277) - ppedrnikar	11251km2	6660083	DEAD	Anar	3978
+25.	Bič Mjůkenen(#298) - VooOool	21215km2	6640230	90`s	Robo	3875
+26.	facky na čelo(#1456) - Patovímentálove	23495km2	6594655	*WinDe*	Feud	3837
+27.	37373(#73737) - LuisFigo	24460km2	6514565	-THC-	Dikt	3944
+28.	VITAMIN X(#77) - Broot	24255km2	6477438	Across	Robo	3944
+29.	dopřipravuju(#107) - Walden r Gwendor	14799km2	6430421	AC/DC	Anar	3971
+30.	slivovica rum aj borovica(#1422) - deweon	20481km2	6329152	BEER	Robo	3898
+31.	Vyhlazuju idioty(#667) - Krutopepek	15985km2	6280378	AC/DC	Anar	3936
+32.	promidd nejde 2(#745) - promidd	21272km2	6260058	ČD	Robo	3973
+33.	T.N.T.(#480) - xkukx	15999km2	6219766	AC/DC	Anar	3964
+34.	Bigg_Boss_Land(#1358) - daoler	26175km2	6206479	-THC-	Dikt	3858
+35.	Chlastával jsem závodně(#1072) - Juklik	12852km2	6178431	AC/DC	Anar	3965
+36.	Combattere per sempre(#104) - M.O.R	19354km2	6167314	Lotta	Utop	3976
+37.	No man`s land(#1418) - .modran	14999km2	6095635		Anar	3950
+38.	-osn-ruzove v pive(#636) - D1N1AK	22997km2	6094974	-osn-	Rep	3973
+39.	White Koksers(#508) - JoservonOser	21659km2	6092208	CGHMN	Robo	3974
+40.	LOS made in PleskPoVajacH(#911) - P3terko	17417km2	5997593	.L.O.S.	Utop	3979

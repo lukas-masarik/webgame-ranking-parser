@@ -1,0 +1,42 @@
+60. VĚK
+#	Země	Rozloha	Prestiž	Aliance	Vláda	Kol
+1.	Teach Me How To Love(#3214) - Gxx	25325km2	14600934	DEJAVU	Utop	3464
+2.	BOH odpúšťa JA nie(#4202) - K.N.M KoLLo	27931km2	14506472	GanG	Kom	3767
+3.	Účtovník Baťa(#551) - .Baťa.	31324km2	13607940	-=ELW=-	Kom	3951
+4.	Dr.Gonzo(#2241) - Lord IVCO	28243km2	13466415	:ZotR:	Demo	3975
+5.	Flak canon(#4995) - Jiriss	32163km2	11914185	574ND4R7	Feud	3936
+6.	Nicky Reed(#3779) - Kazatel Havlis	25215km2	11777624	CHARITA	Kom	3946
+7.	symbianov(#218) - Nokiac	22444km2	11519865	KMB?	Kom	3867
+8.	Voloďa(#4216) - Siriuss	22222km2	11252443	Nedivoč	Utop	3520
+9.	Střechy jsou mi chodníkem(#79) - Dhany	25916km2	10765314	Narwhals	Robo	3968
+10.	Grandlehárna(#645) - Lord.droL	32400km2	10614144	ČSS	Robo	3979
+11.	Brkoland(#1708) - Drake18	19390km2	10590318	.:VR:.	Kom	3975
+12.	DUNASZERDAHELY(#1537) - Gazsi	29461km2	10053100	=SYNTIA=	Robo	3894
+13.	S hlemýžděm založ n. stát(#204) - KEPR	22222km2	10008904	Divočíme	Utop	3556
+14.	Nejneobhospodařovávanější(#4653) - Martin858	26551km2	9837887	MRUK	Kom	3952
+15.	Love Beer 8--)(#394) - H00L1G4N	17921km2	9722384	kamelot	Kom	3968
+16.	Land(#3847) - Lem	25124km2	9680682	68	Demo	3970
+17.	Tuer avec amour(#828) - Kefalin.	27606km2	9549173	INTR	Robo	3955
+18.	www.zvonimira.cz(#4894) - Nargan	28441km2	9117379	Chrudoš	Robo	1789
+19.	Bíďa se loučí(#145) - Hadrabator	30500km2	8916983	G.U.M.I.	Fund	3901
+20.	eska(#29) - eska	21247km2	8832361	FuWG	Kom	3972
+21.	1111001101010010101010101(#3531) - Corvin mc Grey	28999km2	8803948	B.D.	Rep	3890
+22.	Eidam evoluce(#1458) - d13	13553km2	8785006	větrník	Kom	3869
+23.	Ulrik von Juningen(#3521) - Lord Demokrat	22716km2	8766963	UTOPSE	Kom	3923
+24.	INvinoVERITASinPIVOtaky(#89) - . . . . .	21363km2	8576068	.::VR::.	Kom	3978
+25.	Bikatore(#849) - West007	22596km2	8440598	LPX	Kom	3772
+26.	Bijuu Orochimaru(#61) - marcellus II.	29854km2	8430911	Akatsuki	Feud	3968
+27.	Japonská slečinka(#141) - Šogun IV.	25389km2	8393934	ManG5	Rep	3979
+28.	.:.:ASSASSIN:.:.(#535) - Blackthunder	13480km2	8197118	.A.	Demo	3944
+29.	1337(#264) - epicFAIL	19999km2	8055153	gto	Utop	3571
+30.	Gerasimovka(#193) - Jurgens	20639km2	7899668	68	Utop	3973
+31.	Titania(#4613) - Phoebe	21029km2	7837412	-=:AR:=-	Robo	3950
+32.	Hamty hamty at nemam nic(#2899) - .Nojmy	27098km2	7709369	B.D.	Dikt	3945
+33.	Baron Waggit(#517) - Bad	27607km2	7424444	HOR	Robo	3862
+34.	KAZAŇ(#5142) - IngBadzo	28109km2	7418509	HOR	Robo	3864
+35.	I Bara Hezky Zuzla Kulky(#272) - klankosti	17443km2	7406688	Řezníci	Kom	3856
+36.	Aaaaaaach(#584) - .RudyJames.	19999km2	7325894	SR	Rep	3800
+37.	Awesome.(#2308) - imperial knight	17927km2	7305444	KULE7	Utop	3973
+38.	ránoMINERÁLKAaVODKA(#1302) - Rhoods	25840km2	7268466	574ND4R7	Robo	3739
+39.	Nikdy nebuť jedním z řady(#5238) - HouskaJeNejlepsi	19999km2	7146615	.::R::.	Demo	3789
+40.	Dalaj.lama(#4397) - XPskFyzik	22322km2	7121839	FYZ	Fund	3820

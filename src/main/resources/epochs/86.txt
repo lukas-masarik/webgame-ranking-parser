@@ -1,0 +1,42 @@
+86. VĚK
+#	Země	Rozloha	Prestiž	Aliance	Vláda	Kol
+1.	Rogan(#726) - Dezider	19191km2	22732049	LBL	Tech	3390
+2.	BRUTUS(#2844) - survival.	16339km2	22525759	SB	Utop	3565
+3.	Jeff Winger(#1112) - Martin858	13999km2	16228411	AC/DC	Kom	3425
+4.	Masias(#216) - Masias	26000km2	15262165	*`=/-.,	Utop	3880
+5.	Omnis Vita Supplicium Est(#3804) - DieWalker	27123km2	14705650	SB	Feud	3952
+6.	Peptický vR3D(#633) - Dezider	26629km2	13122666	R3D	Rep	3979
+7.	R3D Atlan(#2388) - Atlantik	26999km2	13029175	R3D	Utop	3780
+8.	be yourself(#1560) - Exot3	22666km2	12681135	MRUK	Kom	3803
+9.	DONT STOP ME NOW(#2778) - xkukx	22222km2	12134818	SB	Tech	3852
+10.	Svému Osudu Neutečeš..(#2616) - Dragon.Slayer	28358km2	11851479	NBS	Dikt	3968
+11.	From my cold dead hands(#439) - General Honza	29184km2	11645090	SB	Robo	3974
+12.	Bruno Ferrari(#1607) - Pegas	13333km2	11611583	Wrath	Tech	3379
+13.	Jacques de Molay(#31) - Trian	24905km2	11046606	*WG*	Utop	3941
+14.	LOS made in Destroyer(#92) - BlackTears	23029km2	10823765	.L.O.S.	Rep	3873
+15.	neklikám nemá to cenu(#967) - masterWG	22999km2	10583605	mcbp	Utop	3889
+16.	Měsíc utopie stačí drahoušku(#1154) - Hawkmoon	30270km2	10498915	M	Robo	3971
+17.	The best or nothing(#349) - jowood2	26132km2	10481847	WG-PROF	Demo	3787
+18.	Gloria Victis(#1082) - Lord Demokrat	25104km2	10461985	P.f.B	Kom	3952
+19.	No Danger(#2390) - West007	11100km2	10422361	AC/DC	Tech	3385
+20.	Dress rehearsal rag(#1443) - Pepemistr	14444km2	10368968	Wrath	Tech	3760
+21.	R3D Eyed Destroyer(#103) - BlackTears	21183km2	10249313	R3D	Robo	3941
+22.	Dark Conqueror(#350) - vanna	23232km2	10178853	**CQR**	Tech	3979
+23.	Push the R3D button(#388) - .Tommy33.	24969km2	10088203	R3D	Robo	3976
+24.	Scientia est potentia(#2089) - LeoDaVinci	26766km2	9670628	BAMBUSKY	Rep	3936
+25.	Slečinka de puta madre(#3241) - mara8	25646km2	9648602	PzL	Tech	3970
+26.	Aithhae(#2635) - Defender...SID	20895km2	9585046	.LL.	Demo	3976
+27.	Orier(#3292) - Deus	32187km2	9460393	MK	Robo	3945
+28.	Lovoland(#993) - Michalec8	22678km2	9234717	God	Demo	3979
+29.	Born to be R3D(#131) - sNufFk0.	23038km2	9187609	R3D	Feud	3938
+30.	Měsíc, dva a pak...sakra(#1006) - PEJSEKaKOČIČKA	23053km2	9162563	M	Utop	3949
+31.	Sen noci mechojánské(#2140) - Noldren	34999km2	9108760	MRUK	Robo	3915
+32.	Každý Měsíc alíky platím(#281) - Greenpower	25999km2	9076245	M	Robo	3979
+33.	Sárinka(#273) - .adm1n.	19149km2	9000000	ČSLA	Tech	3968
+34.	Unknown of piperazines(#706) - Hajnos	14088km2	8884404	Wrath	Kom	3591
+35.	Nebojím se polární záře(#3750) - Milka I.	13197km2	8860072	ČSB	Tech	3947
+36.	A bude se bušit(#1527) - ThoughtGuy	26866km2	8814629	**CQR**	Utop	3979
+37.	TEN NEJhezčí s NEJvětším(#1190) - Odi et amo	30122km2	8760768	NARCISI	Tech	3893
+38.	Technokratická obluda(#3010) - Q4z3R	16170km2	8685720	Across	Tech	3937
+39.	Mike Litoris(#493) - yuphon	23490km2	8647376	**CQR**	Feud	3978
+40.	.:AveCesar:.Human2.0(#2440) - ŠavlozubáVeverka	16288km2	8563058	AveCesar	Utop	3949

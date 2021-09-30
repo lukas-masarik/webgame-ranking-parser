@@ -1,0 +1,42 @@
+99. VĚK
+#	Země	Rozloha	Prestiž	Aliance	Vláda	Kol
+1.	Atlan(#907) - Atlantik	26999km2	10738093	M	Feud	3979
+2.	1000100101111111001100011(#67) - Mrkvička777	23456km2	10588929	=101=	Dikt	3858
+3.	Conqueror včera aj dnes(#1646) - mara8	19999km2	10426740	**CQR**	Tech	3597
+4.	Unknown Unknown(#390) - MFFoA	17777km2	10363937	UU	Utop	3595
+5.	My hero(#1170) - king000	25073km2	9424636	Wrath	Robo	3969
+6.	Oink(#1013) - reklamaop	12382km2	9267977	MACH	Kom	3937
+7.	děvky,bedny,fet(#1194) - ondrOx	23777km2	9082689	KULE7	Demo	3891
+8.	Bongo ? Nie radšej knihu(#621) - J0jk0zh	26002km2	8646495	BL	Demo	3966
+9.	Ash and dust(#1275) - Alduin	19329km2	7620485	LordsWG	Demo	3974
+10.	I Always Get What I Want(#1984) - Gxx	24318km2	7283140	Wrath	Robo	3968
+11.	.:MB:. .::.:::....::..::.(#606) - SkinnyBoy	19951km2	7208952	.:MB:.	Kom	3974
+12.	Titania(#1568) - Phoebe	20307km2	7068667	DF	Robo	3978
+13.	nJames(#184) - Canada	24333km2	7023681	kanarci	Robo	3898
+14.	Suším hríby autogénom(#529) - AKland	22417km2	6953984	DF	Robo	3977
+15.	Astičkov(#1551) - Asticka	13999km2	6935218	UTOPSE	Utop	3978
+16.	ranymok(#1255) - kiss for you	29826km2	6871739	Kefa	Feud	3966
+17.	Ponk(#1023) - reklamaop	12596km2	6815427	Lords	Utop	3913
+18.	Nine Cats(#960) - Tev42	16001km2	6686848	Lords	Utop	3925
+19.	Ceres(#1234) - P.e.CZ.y.11	23666km2	6582158	BE	Robo	3939
+20.	LOS made in kvantum world(#526) - toriC.O.C.K	22270km2	6273357	hchkrdtn	Kom	3845
+21.	Sekcia 9(#429) - Valsinarb	13710km2	6228026	SLMNDR	Kom	3969
+22.	U 48(#643) - OVninja	14738km2	6102528	Ponorky	Kom	3976
+23.	KGBland(#480) - teddykgb	23343km2	6048712	ShPr	Kom	3950
+24.	Sex s medvídkem Pú(#1376) - Wojxtier	16724km2	5954696	BOUNTY	Utop	3967
+25.	Astov(#2048) - Asticka	14646km2	5653951	UTOPSE	Utop	3977
+26.	Komický Conqueror(#2276) - ThoughtGuy	20898km2	5601090	**CQR**	Utop	3978
+27.	jú ár maj bezt frjend ;-)(#1421) - Bobinečko	18778km2	5548032	xD	Feud	3962
+28.	Dark Helpik(#379) - H3lp1k	21828km2	5481621	DF	Demo	3961
+29.	za mír a lásku(#289) - Prařeřichořezbář	13103km2	5451853	Lords	Utop	3957
+30.	The best of times(#1333) - .Sp3ct4t0R.	11999km2	5422841	UTOPSE	Utop	3938
+31.	Hattori Hanzō(#986) - Edron	11075km2	5402497	UTOPSE	Utop	3971
+32.	Země medvědů.(#2105) - Medvidek3000	15211km2	5392096	.:WWF:.	Utop	3908
+33.	PROF. RNDr. Reich, DrSc.(#1407) - Reich Graf	22999km2	5388988	MENSA	Feud	3769
+34.	obohaceny(#1097) - trubkatrubkovic	18228km2	5334970	Helijon1	Utop	3973
+35.	Daario Naharis(#1771) - Kumar10	18078km2	5329625	7King	Kom	3946
+36.	GifficiDimExhibitor(#1062) - ando	18497km2	5307771	PJ	Demo	3935
+37.	World of Mechs(#1739) - Glade	18837km2	5211003	škola	Feud	3978
+38.	Jsem z toho poplematený(#101) - thordevil	11098km2	5193008	H2O	Utop	3979
+39.	The One Above All(#243) - Shrunke	15147km2	5189672	S.S.T.	Utop	3979
+40.	Nepapučuj(#394) - Lord.droL	14340km2	5171597	S.S.T.	Utop	3912

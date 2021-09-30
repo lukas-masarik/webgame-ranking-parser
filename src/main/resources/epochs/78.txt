@@ -1,0 +1,42 @@
+78. VĚK
+#	Země	Rozloha	Prestiž	Aliance	Vláda	Kol
+1.	Duško Kreken(#1776) - gorbatčov	20000km2	14080903	PH	Utop	3543
+2.	Azarothe(#4044) - ghostslayer	25459km2	9472637	wohooo	Kom	3941
+3.	Marin(#338) - Vibromax	25136km2	9435898	P.f.B	Kom	3844
+4.	Fizzy bubblech(#3687) - daStan	22899km2	8087009	RQ	Utop	3653
+5.	Sweet dreams(#3157) - Harkeus	12926km2	8040624	TEF	Tech	3753
+6.	Black Widow(#451) - Hemelo	25108km2	7821149	SWINGERS	Kom	3936
+7.	YOLO(#500) - Warpufyn	22579km2	7700374	4EVER	Utop	3972
+8.	Pusinku pod pupíček(#2657) - Mrkvik	28468km2	7627595	JITRNICE	Robo	3947
+9.	hävittäjä(#3005) - Filip I	19999km2	7493217	OKNO	Fund	3953
+10.	Zouk(#3904) - forfunsalsa	27175km2	7360869	FFS	Dikt	3979
+11.	i am noobi.(#3617) - i am noobi	21332km2	7239042	NNFoF	Kom	3779
+12.	Krtek(#3801) - Lucky6186	20906km2	7114509	VVC	Demo	3978
+13.	Wheeeeeee(#2665) - maestrotech	22276km2	7077598	Hrajem	Robo	3978
+14.	Rebelem bez příčiny(#3507) - naivefighter	20315km2	6999622	KULE7	Robo	3976
+15.	Nonstop sabot :(#2034) - G.R.E.E.K	27900km2	6800000	*zoo*	Robo	3968
+16.	Ber nebo nech být(#134) - Gyriko	20000km2	6781055	Kevlar	Robo	3971
+17.	Silent Hill(#270) - Eldudik	19673km2	6694019	-WG-	Demo	3940
+18.	gágaji, táraji a prďúsi(#252) - schemo	19069km2	6439254	SR	Demo	3972
+19.	Landie(#2758) - Lem	24398km2	6271583	UVVB	Robo	3973
+20.	Čurbes(#1226) - Arrays	19999km2	6238585	OKNO	Fund	3928
+21.	potahám tě za předkožku(#1866) - ondrOx	24543km2	6202732	KULE7	Robo	3976
+22.	Blue World(#3907) - Plakala	17437km2	6192677	R*R	Demo	3979
+23.	..::DEAD SOULS::..(#3335) - Pattis IV.	20013km2	6135351	ChRTI	Kom	3874
+24.	Authority None(#235) - Gaučo	17701km2	6111087	WG	Demo	3936
+25.	Valar Morghulis(#967) - Jaqen Hghar	14476km2	6110885	E-is	Tech	3966
+26.	Pijem len na EX(#1702) - Andyyy	14393km2	6094192	.:NE:.	Demo	3979
+27.	iK:oNoKl4s aBu:DartHar(#1357) - Labbakan	20435km2	6064847	*`=/-.,	Robo	3956
+28.	Kibil Gathol(#1344) - thoradin	20663km2	6007650	KUK	Demo	3977
+29.	Bloody Foothills(#307) - Alandriel	21022km2	5978639	HO	Robo	3955
+30.	Kid`s got alligator blood(#2621) - ridgeback	26666km2	5976928	nLnF	Robo	3979
+31.	Shutdown Machine(#833) - deliqqemnt	20111km2	5807974	Nnbz	Robo	3979
+32.	worrmopool(#1595) - Wormin	18757km2	5759687	GIB	Robo	3977
+33.	Cloral(#3153) - its slick	12566km2	5747247	Havířov	Utop	3962
+34.	prosím o pár měďených(#2804) - kousnu te lamo	13158km2	5730887	*SR*	Utop	3963
+35.	liška v noře kouří tchoře(#604) - Seksymania	18034km2	5698105	Across	Utop	3970
+36.	Zoltanovo(#105) - Greenpower	19020km2	5690012	NJK	Utop	3979
+37.	Pedigree Scum(#3293) - Karolínka	20605km2	5644899	*`=/-.,	Robo	3977
+38.	Leader of men(#3314) - pukancek	16909km2	5625206	-DK-	Robo	3978
+39.	velkého prcka(#1919) - Artemi	25179km2	5545599	RAPTOR	Robo	3979
+40.	Létající cirkus(#74) - BeeMarin	18704km2	5485584	--Ni--	Utop	3796

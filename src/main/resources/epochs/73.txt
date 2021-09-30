@@ -1,0 +1,42 @@
+73. VĚK
+#	Země	Rozloha	Prestiž	Aliance	Vláda	Kol
+1.	Obbřízka(#1336) - OBB SpameR	20959km2	13660999	=*AS*=	Kom	3745
+2.	ThoseWhoKnowWillNotTell(#1299) - Pyromancer	22999km2	12569728	D1KTATOR	Utop	3838
+3.	Lodoss(#736) - Netopier5	20038km2	11445406	Across	Utop	3823
+4.	velke( * Y * ) mala(_,_)(#80) - Wlad	22552km2	10950672	=*AS*=	Kom	3885
+5.	Wish You Were Here(#314) - FriedrichPaulus	22999km2	9412051	D1KTATOR	Utop	3570
+6.	SiL ikONy 4EveR(#328) - klankosti	35539km2	9060750	PMCV	Robo	3879
+7.	az25znakovTAKtoVYUZIJEM=D(#1540) - Lord TROKS	15330km2	8801520	HOPRDOX	Utop	3696
+8.	Fight or Flight(#28) - A. Valverde	21999km2	8171420	D1KTATOR	Utop	3585
+9.	Fesdurius(#2063) - Kazatel Havlis	20000km2	8000614	CHARITA	Tech	3899
+10.	-=LLHHHLL=-(#1176) - zase jachym	23516km2	7832230	n1	Robo	3978
+11.	brain`s hive(#740) - br4insh4ker	22199km2	7499037	VÍCADMIN	Demo	3954
+12.	dorezem Vas MUTERA(#3871) - džulio	21649km2	7134404	MUTERA	Robo	3803
+13.	Fear of the D@rk(#467) - gýp	17232km2	6759931	*`=/-.,	Utop	3979
+14.	The Machine(#1532) - comboy	16734km2	6700438	TMA	Robo	3923
+15.	Seek and destroy(#1602) - erromasterr	19027km2	6629023	nLnF	Utop	3837
+16.	Mam kamaráta a.d.m.i.n.a.(#607) - Stredozem	20002km2	6551074	=*AS*=	Fund	3975
+17.	Satan Abaddon(#3472) - Dejvmark	16263km2	6500533	Lebky	Utop	3948
+18.	Je to jen hra(#370) - Drace	15954km2	6467344	*`=/-.,	Utop	3943
+19.	Slecinka_from_Hell(#1334) - GANYMEDES	22312km2	6329439	DF	Robo	3974
+20.	*Awesomeness*(#2711) - WickedStriker	21785km2	6319126	S*K	Utop	3869
+21.	BEJK(#2326) - PaRappa	21991km2	6255804	DF	Robo	3964
+22.	Lets do this. Aaaaaa:D(#834) - sharppp	15618km2	6206431	TMA	Robo	3911
+23.	Bloody Foothills(#29) - Alandriel	20791km2	6197206	HO	Robo	3948
+24.	Země(#1331) - DJ.Snowman	18116km2	6142089	ICE	Rep	3780
+25.	Alkáč, neboli alkoholik(#1859) - ..Hanz..	19132km2	6129552	Ganja	Kom	3918
+26.	Insanious(#3716) - inkvizitoor	19265km2	6071375	Valkaci	Utop	3892
+27.	we all for that paper(#292) - TECHWARRIOR	17523km2	6027036	GH	Anar	3945
+28.	Tvrdý jak poleno(#1174) - forio	20335km2	6010677	=*AS*=	Fund	3979
+29.	Artek(#124) - Jurgens	20604km2	6002462	.:V3R:.	Utop	3979
+30.	MegaSex:)(#1606) - Kovenant	19007km2	6001471	=*AS*=	Fund	3976
+31.	Radostný Vysokoškolák(#2242) - Wearh	14998km2	5976285	(RV)	Utop	3941
+32.	Bude to drsne(#3855) - .modran	17036km2	5955162	A.N.D.	Utop	3602
+33.	Todle si přečti kybliku(#82) - LuisFigo	19999km2	5905871	SUX	Robo	3964
+34.	necum(#707) - gorem	21767km2	5866498	queens	Fund	3977
+35.	And The Winner iiiiiiiiis(#294) - TECHWARRIOR	16777km2	5802949	n1	Robo	3877
+36.	za Ctirada, Doga, Dertira (72.(#57) - Gyriko	20199km2	5767925	=*AS*=	Fund	3960
+37.	Keller(#3933) - FoxSpy	19064km2	5765604	.:TUN:.	Robo	3700
+38.	Noisy Boy(#2788) - Sir Olmeca	18311km2	5715873	DF	Robo	3902
+39.	Arlandria(#395) - Naquadah	16961km2	5681042	Next	Robo	3945
+40.	LOS made in Božkov(#659) - Topisek	11000km2	5677541	.L.O.S.	Tech	3967

@@ -1,0 +1,42 @@
+141. VĚK
+#	Země	Rozloha	Prestiž	Aliance	Vláda	Kol
+1.	.Gavrilo Princip.(#236) - F0rsaken S0ul	21795km2	11867013	X	Tech	3944
+2.	Hurt Me Plenty(#1537) - ListerD1	21999km2	11551332	BRUNTAL2	Tech	3655
+3.	SUXessfulI(#138) - LuisFigo	24389km2	10757656	SUX	Tech	3973
+4.	-osn-ruzove v pive(#290) - D1N1AK	25818km2	10617788	-osn-	Rep	3979
+5.	Lamia(#981) - erny	20002km2	10047523	KTG	Utop	3944
+6.	Nevyplatí:::se:::ti:::to(#1212) - AzorAhai	22211km2	9708358	Tabáček	Tech	3975
+7.	neminem laedere(#877) - Lord Demokrat	16286km2	8978440	FETKA	Tech	3883
+8.	Corvus Glaive(#49) - Martin858	32778km2	8888879	SB	Robo	3943
+9.	To by se ti líbilo(#1067) - poMe	22321km2	8552010	MM	Demo	3966
+10.	Im Too Young to Die(#1653) - ListerD1	16439km2	8341524	=-KA-=	Tech	3732
+11.	Aegon Targaryen(#977) - Drunken	23433km2	8277954	VZP	Feud	3971
+12.	Jednou lama, navždy lama(#1742) - sir Blade	17383km2	8212216	H.T.	Demo	3938
+13.	Miluji Mišičku :-* :-p(#1688) - Homeerius	24180km2	8137422	N-N-N	Kom	3945
+14.	uu ííííí u aáá(#144) - Tattser	18798km2	7848159	Jukatáni	Tech	3961
+15.	Rimmerland(#1343) - Lord Kamzo	23976km2	7582842	-osn-	Rep	3972
+16.	Sento me ruggito(#495) - stejski IX.	17264km2	7565114	Lotta	Utop	3917
+17.	-osn- DonGenaroFlores(#1502) - KuXIV	21163km2	7498285	-osn-	Robo	3976
+18.	****?CEN?SO?RED?****(#645) - rybka es atrás	29229km2	7464554	.:?:.	Fund	3978
+19.	.:.:.:.:.:.:.:.:.:.:.:(#307) - Thooom	21681km2	7325163	:.:.:	Robo	3967
+20.	Bezľutosti:-(#10101) - G.R.E.E.K	14999km2	7320285	M	Tech	3941
+21.	-ALIVE-(#414) - ppedrnikar	14334km2	7149811	ALIVE	Utop	3936
+22.	Marsellus Wallace(#1366) - Telwin	25333km2	7136854	SUX	Feud	3861
+23.	Nevim proste(#883) - mulako	17517km2	7102074	.:oMg:.	Robo	3971
+24.	-osn- Kuvik-19(#131) - travnicek	19702km2	7035738	-osn-	Kom	3936
+25.	Cthulhu(#1450) - Jarin z Vidlakov	28499km2	6973955	CF	Robo	3978
+26.	Tak určitě..(#1300) - Fr33k1ll3r	21430km2	6973080	ALI1234	Robo	3965
+27.	Eelong(#1306) - its slick	19162km2	6939909	**SNK**	Utop	3974
+28.	Hrejsemnou(#1003) - AzorAhai	13661km2	6877945	PíPíBí	Tech	3968
+29.	Nízká hladina dopaminu(#463) - MC Booo	24699km2	6837450	KTG	Robo	3978
+30.	Klekni si....(#578) - Michellion	19203km2	6772876	MZA	Robo	3976
+31.	capocopa(#1109) - Nepochopisnikdy	17624km2	6657714	HIZBALAH	Rep	3888
+32.	0,98(#1681) - Edron	14336km2	6614649	MK	Utop	3937
+33.	Výstřiky do tmy(#927) - Ersango	12895km2	6520937	*SvT*	Tech	3978
+34.	Dunkelheit(#1518) - Piecemaker	13435km2	6504787	4pct	Kom	3858
+35.	Ilíippašra(#621) - Valkia	19465km2	6499878	LEGO	Utop	3948
+36.	Piko(#3344) - Topisek	13479km2	6479210	FETKA	Tech	3946
+37.	Bezalianční země(#1510) - Dimmu.Borgir	14999km2	6349790		Kom	3828
+38.	Šemmy Šem Jó(#1523) - P3terko	13999km2	6322481	HuPe	Tech	3966
+39.	Nevěř NIKOMU(#1021) - poMe	19999km2	6259190	.hack//	Feud	3979
+40.	Enforcer(#33) - Dr.Leckter	15106km2	6156018	*UF*	Tech	3956

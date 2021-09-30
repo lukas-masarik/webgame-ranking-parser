@@ -1,0 +1,42 @@
+57. VĚK
+#	Země	Rozloha	Prestiž	Aliance	Vláda	Kol
+1.	David M. Axelrod(#5057) - JaromirV	18169km2	24417275	Chrudoš	Kom	3427
+2.	salamista(#217) - buko10	23306km2	18567140	cerveza	Kom	3578
+3.	Before i forget(#4922) - goodest	20729km2	17000000	:ZotR:	Kom	3492
+4.	Autogramy až po tiskovce(#4896) - Vojtiiik	30516km2	15878813	D1KTATOR	Utop	3767
+5.	Brůča farmář z Nupak(#4589) - Nupacak	12291km2	13024793	G.U.M.I.	Kom	3801
+6.	I Always Get What I Want(#3791) - Gxx	25325km2	11407908	Wrath	Robo	3968
+7.	ThoseWhoKnowWillNotTell(#487) - Pyromnacer	22500km2	11297817	=EF=	Utop	3933
+8.	Mr.Successful(#4019) - Baťa	30868km2	9999999	-=ELW=-	Robo	3965
+9.	Veverka dělá BuBuBu(#2500) - Mr Shaman	18470km2	9934982	P-V	Rep	3839
+10.	Mruk, žeroucí GUTAR(#586) - Drunk3n	32000km2	9403086	SIL	Robo	3968
+11.	TOKYO-3(#4642) - Lord.Okkoto	23066km2	9316867	NERV	Demo	3980
+12.	Grande Motte(#4687) - Sjezdovka	23341km2	9264007	GOGO	Utop	3983
+13.	Lumen de Lumine(#1279) - index	30910km2	9245270	LUMEN	Robo	3983
+14.	Land(#4874) - Lem	22116km2	9236060	B.D.	Utop	3962
+15.	Tužina(#2942) - kullino	18536km2	9225759	.::B::.	Utop	3580
+16.	Velmi nebezpečné známosti(#305) - Karolínka	28390km2	9209952	PUNX23	Utop	3945
+17.	Zasněžená Alpinia(#4999) - Sjezdovka	22488km2	9144490	BOUNTY	Utop	3979
+18.	hmm:)(#46) - jack32	33519km2	9136326	:)MM(:	Rep	3946
+19.	Pepa Košíkář(#1964) - Fuhrer 1	26960km2	8841368	Lumíci	Demo	3894
+20.	***?C?ENSORE?D?***(#2273) - warshit lll	25256km2	8810517	EASY	Dikt	3908
+21.	a ide sa farmit :D(#1194) - MatkoFaka	21455km2	8774943	GOGO	Utop	3982
+22.	Skill And Highest Income?(#3304) - SAHI	21924km2	8707260	EoZ	Rep	3946
+23.	vietnamec(#1203) - vietnamci jsou z	23167km2	8586190	EASY	Robo	3974
+24.	krákorákov(#1007) - smažený.filé	28642km2	8520304	kapr	Robo	3965
+25.	awpland(#473) - DeathFilip	25145km2	8483942	JME	Robo	3943
+26.	R3D Veverka s 33 fousama(#2971) - Dezider	27390km2	8352816	Veverky	Rep	3983
+27.	AVE MARIA(#460) - SprávceChlívku	23494km2	8329354	Rafani	Kom	3877
+28.	waste land(#6126) - BlindJustice	22706km2	8233875	c0n	Kom	3943
+29.	Druidova pravá ruka(#610) - Nespravedlny	20000km2	8219676	P-V	Feud	3767
+30.	.:cz-sk:.Aiol0s(#2213) - fof0t	24237km2	8044345	cz-sk	Robo	3983
+31.	Piju jedine RadeQaST(#962) - H00L1G4N	21227km2	8020750	RQ	Kom	3688
+32.	Ace of Spades(#2978) - Dezider	22671km2	8014144	P-V	Rep	3928
+33.	Freedom is not for free(#253) - Temundzin	22766km2	8008888	GOGO	Utop	3834
+34.	Zářící Spasitel(#2325) - .DuKeLuKe.	17741km2	8002551	P-V	Tech	3424
+35.	Ferdova Beruška(#2394) - Mr Shaman	33542km2	7955697	Veverky	Dikt	3981
+36.	Maxikovo(#467) - -MaX-	7397km2	7940694	P-V	Utop	3777
+37.	Beruščí Trdýlko z Nýmandu(#289) - výpitson	27895km2	7931889	Veverky	Dikt	3983
+38.	Tuer avec amour(#785) - Kefalin.	20667km2	7927640	PRIDE	Rep	3873
+39.	Martind Forlon(#29) - Martind Forlon	22904km2	7910729	P-V	Feud	3980
+40.	lenicka miluje me:D(#935) - Masias	25778km2	7898494	*WiNDe*	Feud	3975

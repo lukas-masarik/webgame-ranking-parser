@@ -1,0 +1,42 @@
+43. VĚK
+#	Země	Rozloha	Prestiž	Aliance	Vláda	Kol
+1.	Nedistán(#8809) - Milned	23632km2	14998953	UVVB	Utop	3662
+2.	MaiŠedouIsLukingNice(#4905) - IceAnimal	30017km2	12873176	SNAFU	Kom	3846
+3.	Herr Jakub Hajánek(#682) - Pepemistr	28252km2	12451588	D3STROY	Demo	3973
+4.	mastarie(#361) - martum	32432km2	11584215	*SN*	Kom	3919
+5.	LETSgetTHE PARTY STARTED(#3654) - Lord TROKS	25555km2	11052925	-=enká=-	Demo	3865
+6.	Killcountry(#489) - .adm1n.	24463km2	10820859	Jop:-)	Demo	3844
+7.	reprezentuju TRUTNOV(#5289) - .Toshiro.	28496km2	9280399	Friends	Rep	3975
+8.	Antifarmář(#7405) - Ctirad2	6563km2	8936138	*FBI*	Kom	3543
+9.	Jak Vy k My, tak My k Vy(#7477) - RaMmy	33658km2	8781252	PRC	Robo	3922
+10.	Natííí :love: Zlatííí :-*(#467) - xkukx	25958km2	8624737	SB	Demo	3948
+11.	POINTS OF AUTHORITY(#222) - .adm1n.	20893km2	8519026	/Fe4r/	Kom	3813
+12.	.:Burning Crusade:.(#4181) - Tomes	25469km2	8222694	D3STROY	Robo	3959
+13.	forNOOBkill(#8167) - imdeath	14991km2	8186461	ZERO	Kom	3850
+14.	Elhaym Van Houten(#5817) - Kopacka	20125km2	8000000	X	Kom	3891
+15.	Vrchni podspamer Doggie(#246) - ...dog...	22281km2	7972614	SB	Kom	3702
+16.	Dont start a farmageddon(#2166) - Xaralis	15649km2	7812961	eK	Utop	3895
+17.	UM Mala Acoma(#9138) - Hoparo	26121km2	7693604	UM	Robo	3932
+18.	Trpaslík s vymytým mozgem(#5374) - Drunk3n	34358km2	7685912	TrPazÚsT	Robo	3968
+19.	The Strongest sperm(#3473) - millhouze	18182km2	7667103	SingerS	Kom	3882
+20.	Leckter THE DOCTOR wtf???(#11005) - Mr Shaman	23914km2	7643231	*UF*	Utop	3957
+21.	Kašiwazaki-Kariwa(#273) - Nespravedlny	27426km2	7640243	PRDOPEČ	Fund	3940
+22.	Slizoun Salazar(#6386) - davido	18350km2	7497820	anx	Demo	3975
+23.	boozi(#58) - bozi	24351km2	7442861	/Fe4r/	Demo	3876
+24.	Accommodation(#7269) - Leandrus	21818km2	7407722	trunks	Rep	3972
+25.	Loajální FEDAJKIN(#4035) - Murtis	31351km2	7343177	*K*	Utop	3898
+26.	.: Robokrat :.(#1024) - adolfscary	19289km2	7266820	.:tK:.	Robo	3963
+27.	Zem zebrakov(#9291) - pjotrik	19999km2	7107924	svk	Demo	3968
+28.	DISKO LISBOA(#12180) - Zodiak.	24535km2	7095997	svk	Kom	3886
+29.	UM Crydee(#9117) - Hoparo	25630km2	6903454	UM	Robo	3936
+30.	Duke(#506) - .DuKeLuKe.	23418km2	6898452	Bubáci	Robo	3961
+31.	Uzenářství veverek(#6006) - Sir Robertini	26378km2	6812669	UVVB1	Robo	3940
+32.	Voloďa(#5948) - Siriuss	21174km2	6809012	NEdivoč	Rep	3834
+33.	???????(#8784) - ejikovo	19900km2	6741143	????????	Kom	3912
+34.	Sveta Zem Allahova(#4565) - bongo bongo	29905km2	6650391	-=AV=-	Robo	3894
+35.	POZOR ZLÝ PES(#2388) - Lord.droL	20875km2	6648041	N3UTR1N0	Robo	3587
+36.	Charaso(#4758) - Felubik	17340km2	6627493	TtD	Demo	3890
+37.	Pod čiarov su lamy_______(#7140) - K.N.M KoLLo	13948km2	6538599	LLS	Rep	3965
+38.	Nenapadá mě název země...(#3555) - Zekusin	17203km2	6493879	VVK	Robo	3972
+39.	TOKAMAK(#691) - Eia	15075km2	6480374	*UK*	Kom	3967
+40.	LORDS OF THE BOARDS(#10017) - z3z0	30417km2	6473013	GGGAAA	Robo	3866

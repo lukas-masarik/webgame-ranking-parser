@@ -1,0 +1,42 @@
+35. VĚK
+#	Země	Rozloha	Prestiž	Aliance	Vláda	Kol
+1.	Victory is mine(#4650) - Kašpárek	29720km2	14065452	DooM	Kom	3684
+2.	Me , Myself and I(#6666) - mykl	25168km2	11983109	DooM	Kom	3711
+3.	solaris(#5435) - clockwork orange	32487km2	11415647	CdtC	Utop	3806
+4.	DevilLand(#10510) - Rukus.	33518km2	11085161	P.f.B	Kom	3744
+5.	Už v tom zase lítáme, ..(#14466) - Makkinen	10000km2	10868952		Tech	3302
+6.	Per aspera ad astra(#2617) - broookes	16284km2	10802775	*lamky*	Utop	3752
+7.	Vin Diesel(#19995) - .FeXeR.	37000km2	10762571	K-T-A	Robo	3269
+8.	Submisivní dívenka(#16114) - Dimmu.Borgir	25454km2	10560755	RAGE	Robo	3837
+9.	Seznás,že jméno mé je Bůh(#9904) - TomiB	20821km2	10423094	n-jedna	Demo	3777
+10.	Triumph des Willens(#7401) - Parcifal	20643km2	10068563	.::R::.	Utop	3653
+11.	R3d I-I0t Cl-l1l1 P3pp3r5(#4784) - Druny	24578km2	10059627	LaD	Kom	3671
+12.	LAND OF MANURE(#5481) - Haramheb 35	29861km2	9672313	SZV	Kom	3761
+13.	Nedistán(#16075) - Milned	32500km2	9484999	Mgn	Utop	3854
+14.	Urob ruiny(#7055) - Plechi	24524km2	9124367	n2	Kom	3636
+15.	Pivnaland(#3566) - Vojpivna	26418km2	9084341	49DR	Rep	3818
+16.	Dvě v leže(#5969) - Smajdaalf	27150km2	9019540	=*DC*=	Demo	3831
+17.	Tráby mojí báby(#73) - King Lear	14999km2	8780890	SKA	Utop	3647
+18.	Zirtek country(#1607) - Zirtek	26500km2	8775268	TESL4	Utop	3845
+19.	.,.,.,.,.,.,.,.,.,.,.,.,.(#6113) - KillerJohny	22854km2	8647201	DooM	Robo	3753
+20.	Tomušákov(#15978) - Děda Jaga	31698km2	8548394	Mgn	Tech	3832
+21.	Lama master(#4151) - ...Ufounek...	27018km2	8508900	P.f.B	Demo	3855
+22.	POBLIL SEM CRUSTIKUVO WC(#13999) - xkukx	19874km2	8503118	n-jedna	Tech	3696
+23.	Roman Tyčka(#4236) - Ďábel	28626km2	8494247	Listina	Rep	3859
+24.	Pozemkový úřad TRUTNOV(#4046) - Toshiro	24996km2	8389684	n2	Demo	3745
+25.	Hakuna Matáta(#1656) - Azhrei	21253km2	8369447	Zero	Demo	3859
+26.	Dont hate, appreciate(#431) - nonPhixion	22382km2	8299268	n-jedna	Demo	3644
+27.	NEX-TECHTLEMECHTLE(#5706) - j0k3r	23493km2	8256961	nex	Rep	3829
+28.	Aliuthin(#306) - wrYsp	20427km2	8103209	ganja	Demo	3858
+29.	Scrapheap(#16706) - Komrl	25166km2	8002298	P.f.B	Utop	3814
+30.	I see dead people(#14041) - nonPhixion	21793km2	7946867	n-jedna	Demo	3632
+31.	pr0toN-in-d4-cLub(#2558) - H3LL M4KER	23648km2	7915636	D3m0n1C	Demo	3837
+32.	Ir0n M4id3n(#178) - Dealler	24055km2	7889635	LaD	Demo	3624
+33.	Dráček Úchyláček(#833) - Ikonoklas	22326km2	7848048	D1KTATOR	Demo	3750
+34.	LeRoyaumeDesRevesÉternels(#6206) - Raciolky	21629km2	7847408	Asss	Rep	3854
+35.	Baila conmigo(#900) - LeosA	23557km2	7837879	*IQ*	Feud	3701
+36.	mam narozky,chci darek(#370) - Ivosh	22752km2	7797372	D1KTATOR	Demo	3843
+37.	-=Dale=-(#2022) - Reynevan	32180km2	7741643	VSL	Robo	3792
+38.	the other side(#9051) - Xingus	25224km2	7732096	=STB=	Fund	3857
+39.	Kartágo I.(#14752) - zullu	26168km2	7723558	=T=	Utop	3858
+40.	Mala Acoma(#6029) - Hoparo	33926km2	7672329	UM	Feud	3851

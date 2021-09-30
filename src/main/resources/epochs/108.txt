@@ -1,0 +1,42 @@
+108. VĚK
+#	Země	Rozloha	Prestiž	Aliance	Vláda	Kol
+1.	FIX YOU(#98) - ptak77	26779km2	21407788	=T=	Kom	3578
+2.	Kup si moje CD(#456) - Aram Chroustal	17594km2	13337168	RAPTOR	Utop	3747
+3.	IMPERÁTOR(#194) - 7000000	30955km2	12480110	KL	Feud	3691
+4.	Growing up in a ho_Od :((#1262) - extreme world	17266km2	9468558	ANG	Utop	3652
+5.	nJames(#74) - Canada	27299km2	8650416	ČSLA	Feud	3944
+6.	SUXessfulI(#104) - LuisFigo	27391km2	8512236	topka	Robo	3960
+7.	Nedistán(#1718) - Milned	17345km2	7494135	SUX	Robo	3880
+8.	Tajná myška věc(#141) - Lishka Rishka	24351km2	7347556	RAPTOR	Robo	3957
+9.	Dunwich(#1163) - Dhrakus	20507km2	7321600	=T=	Robo	3979
+10.	Calypso(#1436) - Scalpelexis	22810km2	7310994	=T=	Feud	3974
+11.	naXis(#372) - Field	24163km2	7264687	MK	Kom	3766
+12.	molekularni(#604) - molekularni	26137km2	7122988	DF	Robo	3901
+13.	Flight of the Conchords(#883) - shlimak6	19461km2	6829294	SUX	Robo	3961
+14.	Paldo bibim men(#1244) - Piši	22192km2	6666666	NDA	Robo	3962
+15.	Shadowfax(#1437) - Scalpelexis	17046km2	6180354	=T=	Kom	3978
+16.	strejda KURT může furt(#354) - ...Aláh...	24962km2	6170728	Tabacek	Feud	3788
+17.	Morozem(#981) - THEdread	18145km2	6167386	DF	Demo	3964
+18.	THROATED(#1224) - Mrkvik	27316km2	6157325	NTVDK	Robo	3959
+19.	KNoCKiNG oN HeaVeNS DooR(#217) - Herr rintintin	20007km2	6069960	=T=	Dikt	3946
+20.	neminem laedere(#426) - Lord Demokrat	26443km2	5845845	ZEN	Feud	3979
+21.	la100vička(#1070) - popland	19791km2	5826563	mcbp	Robo	3938
+22.	Valar Dohaeris(#271) - Uaah	19469km2	5817401	.LL.	Feud	3970
+23.	country of iraq(#703) - davess	22414km2	5790009	*taow*	Robo	3943
+24.	Titania(#559) - Phoebe	19934km2	5725078	DF	Robo	3961
+25.	Guernsey(#770) - imha	12928km2	5648455	Tabáček	Utop	3964
+26.	:::::Cover:::::(#160) - hagg1d	18888km2	5623889	.LL.	Tech	3979
+27.	pomáhat a chránit(#400) - Prařeřichořezbář	17378km2	5609956	G7	Robo	3946
+28.	Alibaba a 40 loupežníků(#1181) - Sjezdovka	16888km2	5598344	BOUNTY	Utop	3979
+29.	Technician(#1561) - golden.guy	21465km2	5529258	No4ever	Demo	3975
+30.	Osamělý tulák(#232) - Beduín	16529km2	5488613	pustina	Utop	3978
+31.	Hoy(#1834) - Deus	19453km2	5453874	Genocida	Robo	3641
+32.	HyChyKyRyDyTyNy(#75) - PanMaur	15546km2	5398165	DF	Kom	3979
+33.	=_Rx 777 Pancíř_=(#213) - cvachta	23949km2	5290384	ČD	Fund	3970
+34.	Winter is coming..(#125) - FR3EZY	16999km2	5169644	=T=	Kom	3976
+35.	PHENOMENAL(#1730) - Jiriss	10022km2	5168788	574ND4R7	Tech	3822
+36.	.:CZ-SK:.Joudinkov(#753) - joudinek	19615km2	5109506	ČSLA	Kom	3979
+37.	popelka(#771) - noobseibot	23609km2	5051425	S*K	Demo	3972
+38.	*KoH*(#704) - Cirkus	17350km2	5042593	THZ	Feud	3969
+39.	Day of the Dead(#100) - ptak77	20012km2	5021538	=T=	Dikt	3973
+40.	John Sníh(#55) - matto10	13615km2	4995541	ZSB	Utop	3955

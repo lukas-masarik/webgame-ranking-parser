@@ -1,0 +1,42 @@
+106. VĚK
+#	Země	Rozloha	Prestiž	Aliance	Vláda	Kol
+1.	Togepi na tripu(#148) - N4tive	18999km2	11896551	ZhuP	Demo	3842
+2.	/\(#384) - Marzaus	21409km2	9427264	Tabáček	Demo	3972
+3.	Sweet Nothing(#1609) - Hellion	28193km2	9398481	=T=	Feud	3935
+4.	SelfishJude xD(#2031) - extreme world	23629km2	8927891	SV	Demo	3790
+5.	What A Wonderful Boobs(#277) - laggar	23574km2	8489350	KUK1	Demo	3979
+6.	Už vážně nevím(#1376) - MrKony	18900km2	8411251	NFBO	Rep	3930
+7.	the GØD(#471) - Shrunke	26424km2	8235623	Across	Feud	3936
+8.	Conqueror * Dobyvatel(#97) - c4u710n	26817km2	8137892	**CQR**	Dikt	3979
+9.	White Widow(#41) - Mrkvička777	15555km2	8103313	VIR	Feud	3937
+10.	Milujem Aďku :-*(#88) - rybka es atrás	22863km2	7690393	-=F*A=-	Robo	3954
+11.	GetRektBro(#816) - QQmore	21574km2	6851784	4HEAD	Feud	3978
+12.	God of Mercy(#90) - jowood2	14163km2	6775432	GOD	Demo	3959
+13.	010001001001001100110100(#2088) - Kedlubeni	29843km2	6726567	nku	Robo	3796
+14.	EdieZell(#108) - 010Nemesis	23300km2	6634654	CBA	Robo	3977
+15.	DF petrklíč(#1593) - Topisek	20284km2	6560849	DF	Feud	3961
+16.	?(#1101) - Vibrace	28439km2	6501586	CBA	Dikt	3979
+17.	Bolo ti to treba?(#1235) - tUtkoFromIKAR	18426km2	6426184	Tabáček	Demo	3965
+18.	Paladin Unubis(#821) - Unubis	19999km2	6169154	=SBoS=	Robo	3957
+19.	Valar Dohaeris(#915) - Uaah	15799km2	6093591	-=F*A=-	Utop	3964
+20.	Za Stromy(#1556) - Instron	20274km2	6051368	*RPC*	Utop	3943
+21.	Kup si moje CD(#145) - Aram Chroustal	7976km2	5871102	tpOwCh	Tech	3718
+22.	Candrbal(#1463) - whammer10	27552km2	5849778	CBA	Robo	3942
+23.	Es ist vorbei(#198) - mehehehe	23172km2	5827842	SVK	Feud	3978
+24.	Valar Morghulis(#913) - Uaah	19343km2	5761671	-=F*A=-	Feud	3968
+25.	Day of the Dead(#375) - ptak77	18694km2	5749292	=T=	Robo	3800
+26.	něžnější než tvá maminka(#457) - HI MOM	18632km2	5740845	HI`MOM	Robo	3919
+27.	Lasciate Ogni Speranza..(#1673) - DieWalker	17471km2	5730132	APG2	Utop	3953
+28.	F0RSAKEN(#886) - 4saken	15956km2	5561068	tpOwCh	Robo	3979
+29.	Koaland(#491) - koala59	23252km2	5436488	KOALA	Demo	3874
+30.	:(#138) - Signalman	12836km2	5433508	ČSLA	Robo	3901
+31.	Kdo neskáče není Čech hop(#1394) - Greenpower	17302km2	5410939	NJK	Robo	3928
+32.	obohaceny ulicnik(#1799) - trubkatrubkovic	20734km2	5331631	COOL	Feud	3978
+33.	Arma del Genio(#1513) - 8ruk1z1	13734km2	5194000	BOUNTY	Utop	3979
+34.	země tenmých borců(#1132) - mrstr	18617km2	5101375	JIHAD	Kom	3967
+35.	country of afganistan(#1221) - davess	21515km2	5085968	aaaa	Robo	3967
+36.	Okolí anu klidné(#669) - BamBam the Great	17202km2	5085620	MS16	Utop	3955
+37.	Typkovic(#692) - Kennys	23111km2	5079315	*CN*	Demo	3979
+38.	+=+sun+=+(#1521) - happyguy	20985km2	5064474	*-:DE:-*	Robo	3770
+39.	Tomorrowland(#161) - Mulen	17280km2	5008827	(14)	Utop	3979
+40.	Aeon Flux(#342) - Hellion	17936km2	4962824	=T=	Kom	3977

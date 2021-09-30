@@ -1,0 +1,42 @@
+70. VĚK
+#	Země	Rozloha	Prestiž	Aliance	Vláda	Kol
+1.	Can U beat me?(#378) - Dzindzik	30211km2	11486483	Rounders	Robo	3938
+2.	Legenda.klankosti(#1706) - klankosti	22333km2	11013303	Legendy	Kom	3557
+3.	Would?(#114) - Leninus	22718km2	10800935	GST	Utop	3839
+4.	Silent Hill(#204) - Eldudik	24264km2	9550944	-WG-	Rep	3958
+5.	Oči v barvě nebe(#635) - maXtreme	26493km2	9287372	Auyan	Feud	3978
+6.	top100(#1845) - epicFAIL	19999km2	9236943	gto	Utop	3750
+7.	KKTZ(#3175) - ptak77	12039km2	8901555	S.D.E	Demo	3923
+8.	Lodoss(#604) - Netopier5	17710km2	8570518	Across	Demo	3978
+9.	Bíďa děkuje forákovi(#298) - Hadrabator	21835km2	8321473	G.U.M.I.	Robo	3957
+10.	LOLomouc(#2855) - Dhany	18999km2	8289030	-WG-	Utop	3942
+11.	Atlan(#594) - Atlantik	17600km2	8284860	FuWG	Utop	3780
+12.	Push the R3D button(#3264) - .Tommy33.	20000km2	8206128	R3D	Utop	3967
+13.	Boh(#814) - West007	19115km2	7594011	WG-PROF	Kom	3780
+14.	Nepřítel poluce(#708) - OBB SpameR	19999km2	7211807	P1	Tech	3979
+15.	Fox On The Run(#3301) - MasterZbýf	25239km2	6599517	WG-PROF	Robo	3965
+16.	mostarie(#54) - martum	15999km2	6575063	P1	Utop	3971
+17.	The Masterplan(#57) - FriedrichPaulus	27694km2	6547608	WHO	Robo	3943
+18.	sweetie you had me(#1438) - Teutul2	22832km2	6490229	PH	Robo	3979
+19.	Komplex ní čísla(#2203) - MotherFotr	22222km2	6470527	........	Utop	3842
+20.	Authority Zero(#1422) - MIG14	21959km2	6459170	WG	Robo	3927
+21.	HyeNa NeNažRaNá(#2835) - saiyajiNN	18785km2	6448941	HYENY	Demo	3916
+22.	Skyrim(#2862) - Windkiller	15999km2	6322630	P1	Utop	3976
+23.	Imperial age(#469) - Leoooooon	19226km2	6296277	BH	Utop	3979
+24.	Anální bukanýr,jak má být(#2600) - Cheater00	20960km2	6223921	=*ss*=	Robo	3979
+25.	Klikám, tedy jsem(#2832) - Piecemaker	20136km2	6183884	IF	Feud	3975
+26.	jsem z5 a o5 nesmrtelný(#679) - Štefíček.	14411km2	6112968	SDH	Utop	3931
+27.	Euforia(#3943) - sejam	19999km2	6092430	.war.	Utop	3978
+28.	Karak Ungor(#250) - HornikCZ	17514km2	6049975	-=P-6=-	Rep	3978
+29.	Desire(#38) - Tharwain Ukrutný	20149km2	6029570	=*ss*=	Robo	3962
+30.	A za kolik exp to bylo?(#1863) - Saturas	21947km2	6022671	.SE.	Fund	3966
+31.	cipcyp(#932) - Ctirad2	20129km2	6010612	=*ss*=	Robo	3973
+32.	Arya(#35) - Zagato	19239km2	5953977	J4F	Robo	3974
+33.	Bijuu sněhový koule(#2090) - čempix	17777km2	5903902	Akatsuki	Robo	3944
+34.	CR7 - better than Messi(#1383) - Keepa	19232km2	5879487	Ostrov	Robo	3975
+35.	fnuk fnuk :D(#2066) - Mikl.VI	19638km2	5870422	.:YD:.	Robo	3953
+36.	Bernard Black(#249) - hxtxxtxp	25488km2	5831489	=T=	Fund	3930
+37.	Chosen one(#108) - jowood2	15122km2	5734314	A.d.p	Utop	3871
+38.	OxigeniO(#3865) - OXI	18004km2	5642692	FG	Demo	3978
+39.	Vtipně kopem do koupí...(#158) - Gyriko	24130km2	5628384	=*ss*=	Fund	3979
+40.	The best or nothing(#128) - jowood2	19731km2	5625552	WG-PROF	Robo	3731

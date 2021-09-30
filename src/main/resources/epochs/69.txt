@@ -1,0 +1,42 @@
+69. VĚK
+#	Země	Rozloha	Prestiž	Aliance	Vláda	Kol
+1.	Vysoko v oblacích(#3342) - ridgeback	20907km2	16730809	Rounders	Utop	3907
+2.	Brůča z Nupak - cvičí psa(#1295) - Nupacak	26009km2	15119619	G.U.M.I.	Kom	3683
+3.	Bc.Baťa(#3595) - .Baťa.	29449km2	15100857	CGHMN	Utop	3582
+4.	No Skill(#2989) - CanisLupus	14999km2	14570468	FauxPas	Utop	3752
+5.	Klik sem klik tam(#96) - hojoho	20375km2	14245468	G-K	Utop	3955
+6.	Tento vek robím zle(#72) - Wlad	19153km2	11704919	LMD	Kom	3902
+7.	Fritéza na Hranolky(#2423) - VencaKroketka	24193km2	9945464	-=LH=-	Kom	3969
+8.	Lechtivá slečinka(#1869) - c4u710n	23728km2	9854263	ManG	Demo	3887
+9.	Silent Hill(#1059) - Eldudik	15102km2	9800000	-WG-	Kom	3859
+10.	Michael Phelps(#2201) - Ivan IV	8099km2	9172268	Chlívek	Dikt	3779
+11.	Anetin kus hlíny(#1206) - Wearh	13654km2	8765689	(RV)	Kom	3931
+12.	Milujem Kristínku(#1581) - Baro	22000km2	8725284	Chlívek	Utop	3547
+13.	Gerasimovka(#191) - Jurgens	16641km2	8503298	68	Utop	3797
+14.	Maškaráda(#856) - .Grim.	29767km2	8236935	PTT	Demo	3980
+15.	Bezpečnostno-právna vodka(#3041) - Rhoods	6157km2	8211725		Kom	3453
+16.	Black smoke(#2222) - Ivan IV	26599km2	8056600	EMP	Fund	3714
+17.	dokí(#613) - PEJSEKaKOČIČKA	20233km2	7988688	SmeTop	Utop	3978
+18.	Malibu Cyao Vodka Coco(#1270) - Lubos.H	21000km2	7939488	RD	Demo	3950
+19.	Ghost l4nd(#2920) - xghost	19876km2	7723081	DF	Kom	3963
+20.	Lord of the earring(#2982) - Mistr on	16282km2	7474789	Lordi	Utop	3967
+21.	SP,TD,KL,n1,-=KA=-,-=LH=-(#2866) - Walker	22358km2	7442355	-=vLH=-	Demo	3881
+22.	urielov(#235) - sir uriel	19944km2	7428929	DF	Robo	3980
+23.	.:YD:. Fundama bin Ladin(#367) - 1uglyduck1	22222km2	7373737	.:YD3:.	Tech	3865
+24.	pamparaaaaaaaaaaaaaaaaa(#2570) - AlpiNko	17755km2	7359584	.war.	Kom	3892
+25.	raggaMAFin(#637) - MAFline	23332km2	7346687	Wrath	Robo	3975
+26.	Landie(#746) - Lem	20767km2	7338553	68	Utop	3960
+27.	Slečinka?Nope,Chuck Testa(#2048) - mara8	20035km2	7315294	ManG	Robo	3967
+28.	SiL ikONy 4EveR(#1268) - klankosti	21670km2	7112022	IBHZK	Utop	3971
+29.	Dark Dreath Apeiron(#2078) - Scierx	23333km2	7066142	=*DC*=	Utop	3869
+30.	PokerStars.net(#2207) - Dupooooo	15631km2	7037147	DooM	Utop	3977
+31.	Dr34Ml1F3d035Nt`3Xi5T(#812) - Girox	27720km2	7030799	STORM	Utop	3981
+32.	executioner(#3318) - walrock	14305km2	6822903	=T=	Demo	3959
+33.	Tanky na BudaPESť(#448) - Paul.MuadDib	18000km2	6785164	.:PES:.	Utop	3983
+34.	Show me your skill.. Hic*(#2946) - mulako	19907km2	6754875	ZERO	Kom	3979
+35.	G@UN3R - sixth house(#2344) - Lord Dan	25905km2	6747782	Akatsuki	Robo	3973
+36.	Odvoz a likvidacia odpadu(#2743) - Franta Potrubar	19853km2	6736686	NJK	Utop	3981
+37.	Sonny Corleone(#848) - salam1	18753km2	6734181	FC	Utop	3957
+38.	Ab libidum(#1440) - uličník	19242km2	6683847	DooM	Kom	3982
+39.	Bídák Ken(#632) - d13	19251km2	6581361	.::vr::.	Utop	3853
+40.	.Gavrilo Princip.(#2325) - F0rsaken S0ul	16211km2	6503466	TP	Demo	3933

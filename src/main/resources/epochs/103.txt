@@ -1,0 +1,42 @@
+103. VĚK
+#	Země	Rozloha	Prestiž	Aliance	Vláda	Kol
+1.	spomienka Naumo(#93) - Dr.hurka	21275km2	11316798	Across	Utop	3586
+2.	American Horror Story(#556) - ListerD1	25508km2	9071813	-.-	Utop	3861
+3.	Troll(#1565) - Topisek	26051km2	8227352	nBd.	Feud	3979
+4.	Formicka od Aracha(#685) - Vibrace	19999km2	7092251	SR	Robo	3976
+5.	Story of Snuffed Slave(#1451) - Mrkvik	12677km2	6922616	.:LH:.	Utop	3808
+6.	dont.again(#125) - Canada	24011km2	6575924	ČSLA	Feud	3965
+7.	.:CZ-SK:.AK-47ProduceR(#994) - AKland	21727km2	6534517	ČSLA	Robo	3978
+8.	Nemilosrdná slečinka(#179) - c4u710n	9999km2	6497305	Bull	Kom	3880
+9.	Dr. Strange(#278) - Shrunke	16623km2	6290404	Across	Feud	3979
+10.	qwertzuIopasdfghjkIyxcvbn(#350) - H3lp1k	21605km2	6219521	-.-	Robo	3979
+11.	Slecinka DF(#343) - Hanz Guderian	20500km2	6178710	DF	Robo	3977
+12.	Líná Huba Břehy Mele(#1986) - leszek	20902km2	6139066	OKNO	Robo	3908
+13.	Am I right?(#60) - Supra1Soul5Play	22662km2	6101393	*`=/-.,	Demo	3971
+14.	Lechtivá slečinka(#178) - c4u710n	7298km2	6043805	:-*:-*	Utop	3936
+15.	Thira(#1061) - Alduin	15271km2	5908908	ALI1234	Demo	3976
+16.	KNoCKiNG oN HeaVeNS DooR(#89) - Herr rintintin	21221km2	5889723	=T=	Robo	3973
+17.	Titania(#1231) - Phoebe	17896km2	5842531	DF	Feud	3979
+18.	Proč ne(#1807) - God si me	14999km2	5650233	warcrime	Utop	3655
+19.	Bíďovo důležitý rok(#72) - Hadrabator	19999km2	5646877	G.U.M.I.	Demo	3977
+20.	Barbra Strause(#1582) - Titán Barbarosa	19999km2	5570611	VKV	Rep	3979
+21.	We are survivors(#2101) - Avgeropoulos	15618km2	5554902	S.S.T.	Demo	3978
+22.	:(#1243) - Signalman	15732km2	5554788	ČSLA	Feud	3865
+23.	obohaceny ulicnik(#942) - trubkatrubkovic	15515km2	5548524	COOL	Robo	3978
+24.	-FA- Ferda Alkoholik(#1037) - Defectorr	26460km2	5488832	-=F*A=-	Utop	3906
+25.	ŽÁDNEJ ROSOL(#2090) - Dupooooo	21782km2	5391242	OKNO	Kom	3929
+26.	wertzuop4sdfghjkLyxcvbn(#1148) - Duskooo	21495km2	5385573	-.-	Feud	3968
+27.	strejda KURT může furt(#1819) - ...Aláh...	26152km2	5357040	Tabáček	Robo	3855
+28.	usti(#1433) - vachys39	20398km2	5332496	ALI1234	Demo	3976
+29.	Měsíční zahrada(#1843) - Technopol	19424km2	5305167	-.-	Feud	3976
+30.	*CrissGunner*(#553) - Criss	17540km2	5286553	COOL	Rep	3979
+31.	rikudou sennin(#968) - Lucky6186	14661km2	5229736	:-*:-*	Utop	3978
+32.	Dong Ya Qian(#622) - Topisek	15475km2	5229373	S.S.T.	Utop	3977
+33.	1000100101111111001100011(#637) - Mrkvička777	9999km2	5213826	cerveza	Tech	3955
+34.	DF_Energy(#1420) - FH	15999km2	5134557	DF	Utop	3977
+35.	Bojím se v Everhood(#1008) - Icexxx036	20453km2	5102252	ČSB	Utop	3936
+36.	Mám hraniční stráže XD(#392) - forfunsalsa	27000km2	5085201	Bombing3	Feud	3920
+37.	Jen tak :-)(#398) - gerbera	24600km2	5046265	Bull	Robo	3936
+38.	DF_I could teach you(#57) - Mr. Sedlinno	15872km2	5013726	DF	Demo	3971
+39.	Valach v Praze(#143) - Aram Chroustal	16372km2	5005395	:-*:-*	Tech	3979
+40.	BZCompany(#180) - BON.zak	21212km2	4972736	ČSLA	Dikt	3972

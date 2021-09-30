@@ -1,0 +1,42 @@
+104. VĚK
+#	Země	Rozloha	Prestiž	Aliance	Vláda	Kol
+1.	Vesmirna kuna(#2154) - Borsug	18999km2	9025933	BumBum	Demo	3936
+2.	****?CEN?SO?RED?****(#138) - rybka es atrás	25922km2	8500787	.:?:.	Rep	3954
+3.	Adjustment Bureau(#744) - Houstičky	8501km2	8279677	ChPČ	Tech	3666
+4.	Daniel Negreanu(#1307) - c4u710n	7232km2	7714863	sP`	Anar	3874
+5.	Svazarm(#70) - Jurgens	19423km2	7466352	DDT	Utop	3979
+6.	Hasim žízeň(#1646) - no killer	20983km2	7321621	SPRITE	Demo	3978
+7.	slecinka 10xh13(#941) - Atlantik	25471km2	7280683	ManG	Feud	3972
+8.	R3D Eyed Destroyer(#385) - BlackTears	19355km2	6953317	.L.O.S.	Robo	3878
+9.	Dark Knight(#720) - ListerD1	17133km2	6890046	Ps.	Robo	3938
+10.	ToP 2(#2393) - Morfeus	21175km2	6727335	tejden	Robo	3845
+11.	nJames(#1984) - Canada	16790km2	6710393	Ganja	Utop	3845
+12.	MikMik(#1797) - kullino	12599km2	6699966	CHRP	Kom	3825
+13.	možno ty(#95) - skazinoska	14948km2	6657618	MK	Utop	3972
+14.	Mam Vás zabit?(#1890) - Brčo	17896km2	6623680		Utop	3859
+15.	Jsem z toho poplematený(#817) - thordevil	13013km2	6197718	Anarchy	Utop	3977
+16.	.:CZ-SK:.Kupis(#86) - Canada	19419km2	6175809	ČSLA	Kom	3978
+17.	BATYS(#494) - ...Kápo...	16666km2	6009031	zlobidlo	Utop	3783
+18.	Badum tssss(#570) - AKland	23590km2	5941224	DF	Kom	3952
+19.	The best or nothing(#2481) - jowood2	17475km2	5893244	WG-PROF	Robo	3432
+20.	Koaland(#2099) - koala59	20737km2	5876448	Koala	Robo	3922
+21.	Lechtivá slečinka(#152) - c4u710n	17440km2	5809233	ManG	Robo	3978
+22.	Mamberamo(#559) - Vibrace	23315km2	5618562	.:?:.	Robo	3799
+23.	Titantida(#1957) - amuel	11033km2	5580797	JTLH	Kom	3950
+24.	usti(#209) - vachys39	16022km2	5529930	ALI1234	Demo	3979
+25.	Bravik(#1977) - God si me	19899km2	5383333	Ps.	Tech	3976
+26.	miluji kathusku :-*(#2244) - Homeerius	12890km2	5313538	Nechtej2	Kom	3970
+27.	LOS made in Destroyer(#300) - BlackTears	19760km2	5282149	.L.O.S.	Robo	3854
+28.	BENCH_PRESS(#2032) - Zkusimto	14999km2	5251729	NMC	Utop	3957
+29.	.:BB:. Black Hole(#2000) - Bufon	16988km2	5245617	BumBum	Feud	3856
+30.	-osn- Občas Som Nahúlený(#2215) - VAGOUN	18265km2	5215436	-osn-	Feud	3943
+31.	Do důchodu daleko(#1902) - Michal IX	18242km2	5177245	SPRITE	Robo	3968
+32.	Barbra Strause(#993) - Titán Barbarosa	5707km2	5108245	VKV	Utop	3852
+33.	Protivin(#949) - Hagi100	19345km2	5051405	HAGI	Feud	3921
+34.	LOS made in Gallifrey(#36) - Ersango	14020km2	4914269	.L.O.S.	Robo	3974
+35.	Touha je zázrak, kámo...(#816) - thordevil	10824km2	4907485	Anarchy	Utop	3977
+36.	Hits from the bong(#1809) - snasa1	20696km2	4899746	Tabáček	Kom	3979
+37.	Beerceps(#1336) - ...Aláh...	22603km2	4889456	Tabáček	Kom	3960
+38.	.:S.S.T:. Možmed Kakabar(#986) - Nemrov	13186km2	4836653	S.S.T.	Utop	3956
+39.	B*E*S*A*R*A*B*I*A(#1531) - Abdul	15901km2	4824668	Bull	Robo	3959
+40.	Halóó, je tam někdo?(#647) - Pacik259	24445km2	4814333	Genocida	Robo	3946

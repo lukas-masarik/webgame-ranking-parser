@@ -1,0 +1,42 @@
+44. VĚK
+#	Země	Rozloha	Prestiž	Aliance	Vláda	Kol
+1.	ja jsem kulicka stesti:O)(#8278) - adduktor	26221km2	17903497	HaD	Demo	3567
+2.	Nedistán(#9725) - Milned	24978km2	15319019	UVVB	Utop	3568
+3.	Hannibal`s Underworld(#505) - Dr.Leckter	27206km2	13936251	*UF*	Demo	3877
+4.	Soul Society(#9698) - warecek	29808km2	13497412	SB	Utop	3568
+5.	Držgrešle Hamoun(#802) - JaromirV	20467km2	13081820	ZERO	Kom	2993
+6.	králíček playboy :P(#7981) - Walden r Gwendor	31499km2	12309226	ZERO	Demo	3737
+7.	RJAZAŇ(#10237) - IngBadzo	25536km2	11844136	DDO	Kom	3963
+8.	The Hybrid Theory(#4714) - Gxx	30221km2	11702626	Wrath	Robo	3926
+9.	kyrene(#11272) - myron	19669km2	10748282	HOLY	Kom	3861
+10.	Nukleární Králíček(#406) - SirIndy	42631km2	10606114	NUKE	Rep	3983
+11.	Brepta zvaný archeolog(#9349) - Iskalon	31072km2	10522959	G.U.M.I.	Robo	3893
+12.	Tomastán(#11291) - Děda Jaga	33390km2	10439917	UVVB	Utop	3965
+13.	Nejnenaexpovávanější země(#4890) - Drunk3n	21999km2	9750689	SZV	Kom	3873
+14.	Nightmare(#8891) - Dimmu.Borgir	26499km2	9484546	Bubáci	Rep	3835
+15.	Age of victory(#8803) - Juklik	22174km2	9366078	ZERO	Utop	3590
+16.	(2076)(#577) - Mista	17947km2	9312095	BFP	Demo	3871
+17.	Azarothe(#6415) - ghostslayer	24454km2	9236689	lipro	Kom	3980
+18.	Jujinecka :)(#6239) - .Zabrda.	18189km2	9159084	ZERO	Tech	3429
+19.	forNOOBkill(#10435) - imdeath	19960km2	9149960	ZERO	Demo	3653
+20.	Vlčák jak dobrman(#3145) - DOG of WAR	25731km2	9038927	OS	Kom	3914
+21.	j3rw(O.O)w1ce(#8168) - Jerwi	21673km2	9019474	HLAVA	Kom	3968
+22.	Astičkov(#11241) - Asticka	21754km2	9000279	.:BOBR:.	Tech	3928
+23.	S fackal jsem svýho synka(#5171) - Lord Biry	22827km2	8851050	D1KTATOR	Demo	3968
+24.	Moc Nečum (_,_)(#309) - Martenus	6468km2	8827876	PŠOUK	Kom	3773
+25.	svůdná brunetka(#7993) - Walden r Gwendor	23999km2	8527909	ZERO	Utop	3580
+26.	A dost(#6866) - Felubik	11903km2	8435972	TtD	Robo	3872
+27.	KOSMODROM(#2617) - GaGaRiN.cz	27406km2	8358577	KOSMOS	Demo	3941
+28.	Ghost of Ivory(#8049) - ivory ex	21781km2	8272889	..:EX:..	Tech	3974
+29.	Nukleární Dealer(#3739) - Battlewind	33037km2	8025327	NUKE	Rep	3982
+30.	HELIS(#8839) - Zadi	25027km2	7924658	999	Demo	3983
+31.	suit up(#4991) - hlidac3	21284km2	7797749	nevim:/	Kom	3973
+32.	Zeby farma :P(#3020) - UfonJakMaByt	19305km2	7790880	231	Robo	3967
+33.	Nicitel Generalov(#1618) - ..escape..	20501km2	7743922	D3m0n1C	Demo	3908
+34.	Salamista(#1272) - buko10	22911km2	7706956	BEER	Kom	3980
+35.	Out of Space(#371) - Yurnero	45054km2	7590091	DooM	Dikt	3982
+36.	Magina - The Anti-Mage(#792) - Lifik	10260km2	7583852	BFP	Dikt	3936
+37.	Dzindzinho is DA B3ST(#8113) - Dzindzik	19456km2	7561014	W.G.M	Demo	3945
+38.	Mumakyyyyyy(#1952) - Urenduil	16042km2	7534485	-SC-	Demo	3782
+39.	.:ScOrPiOnA-m-a-t-e-u-r:.(#5736) - van dame	20442km2	7432919	.:BB2:.	Demo	3711
+40.	Času je málo(#7070) - Sertus	24933km2	7402735	Heaven	Rep	3766

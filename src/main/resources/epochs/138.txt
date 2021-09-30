@@ -1,0 +1,42 @@
+138. VĚK
+#	Země	Rozloha	Prestiž	Aliance	Vláda	Kol
+1.	Lord Biry(#12) - Lord Biry	26812km2	23456789	CAR	Kom	3646
+2.	Defender(#40) - Dr.Leckter	26055km2	18720000	*UF*	Demo	3669
+3.	?(#1008) - Vibrace	20269km2	15144085	.:??:.	Utop	3661
+4.	Kimi Räikkönen(#348) - FARR FARR AWAYY	14506km2	15000000	FETKA	Tech	3458
+5.	Conqueror co má rád teror(#1464) - yuphon	19485km2	12884477	**CQR**	Tech	3776
+6.	Nedovo(#543) - Milned	27884km2	12746061	68	Kom	3794
+7.	Guloplesk(#858) - ttrtt	26600km2	11288188	=FF=	Robo	3955
+8.	OPUS(#629) - marv III	26876km2	10604494	CBA	Tech	3956
+9.	Devova zemicka(#1412) - trubkatrubkovic	21820km2	10372110	Jukatáni	Tech	3940
+10.	Bum bum bum buuuuuum(#734) - kagr15	18823km2	10323401	-VPK-	Kom	3926
+11.	STRAŠNEPEKNÝNÁSILNÍKEDKO(#466) - G.R.E.E.K	20299km2	10058269	T3R0R1ST	Kom	3955
+12.	God bless you(#810) - JimCurry	25418km2	9536043	CAR	Robo	3978
+13.	Velky uličník(#1392) - trubkatrubkovic	28403km2	8578023	Across	Utop	3973
+14.	Unavená(#118) - Facka	25064km2	7658272	Love	Robo	3979
+15.	Slammer(#230) - dlb	21947km2	7576907	*UF*	Rep	3963
+16.	Vyvrženec Dycky Most(#350) - Degee mDfK	9999km2	7566024	MRUK	Tech	3852
+17.	ŠTATL(#1140) - masterWG	20999km2	7393292	kdeshuk	Utop	3969
+18.	Nechci..nic(#1146) - Romulus.	17821km2	7322102	Rafani	Robo	3979
+19.	Amoeba Boys(#73) - Muffia	18902km2	7233244	*UF*	Robo	3975
+20.	Grýn(#330) - green88	21975km2	7165612	)CD(	Tech	3960
+21.	Liliana(#926) - Defectorr	24029km2	7139196	K	Dikt	3782
+22.	Rafan - KING is back(#240) - Vasulin	19466km2	7054726	Rafani	Feud	3977
+23.	ZaRoboskaTaVyBombiKluciRikali(#1234) - HeadShit	23135km2	6983400	*WinDe*	Robo	3966
+24.	Dwight Schrute(#52) - Martin858	28999km2	6961704	CAR	Kom	3975
+25.	nullum crimen sine lege(#994) - Lord Demokrat	22720km2	6961059	CAR	Kom	3965
+26.	Jaimie Lannister(#1772) - Drunken	15555km2	6789051	VZP	Utop	3594
+27.	FarmLand(#192) - Deus	10315km2	6788000	SPRITE	Tech	3960
+28.	Andrej Dadanko(#33) - hum4nic	27456km2	6656678	CAR	Kom	3978
+29.	Particles of light(#190) - Deus	10701km2	6440000	ALIVE	Tech	3977
+30.	*-).(#1266) - šalanboy	17777km2	6363661	SUX	Utop	3976
+31.	MiNioN(#138) - MiNioN	17186km2	6358821	MiNioN	Demo	3979
+32.	Alea lacta Est(#96969) - snasa1	19328km2	6128874	Tabáček	Tech	3979
+33.	RHODODENDRON(#539) - marv III	16082km2	6087967	Across	Kom	3953
+34.	Chlív(#135) - SprávceChlívku	19563km2	6046639	Rafani	Robo	3961
+35.	Druhe naj meno zeme(#500) - eLteu	17643km2	6028531	KaMiKaZe	Robo	3972
+36.	-ALIVE-Zrodila se Rigozda(#421) - ppedrnikar	11219km2	6010089	ALIVE	Tech	3979
+37.	atlan, milujeme ta(#1438) - N00N3	9999km2	5967007	CAR	Tech	3895
+38.	Aegon Targaryen(#1423) - Drunken	16000km2	5908817	MRUK	Utop	3937
+39.	ELON MUSK(#429) - Reich Graf	22021km2	5871940	MENSA	Fund	3979
+40.	:M.M.M: Kibil Gathol(#1224) - thoradin	17417km2	5825929	Xerox	Utop	3979

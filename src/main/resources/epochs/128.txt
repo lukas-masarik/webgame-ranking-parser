@@ -1,0 +1,42 @@
+128. VĚK
+#	Země	Rozloha	Prestiž	Aliance	Vláda	Kol
+1.	:X(#3333) - PLASTIK	30154km2	14814144	Across	Demo	3961
+2.	Dawe?(#1423) - Cenzor3d	23909km2	13632067	KL	Utop	3909
+3.	Bojím se náledí(#886) - SOH	28416km2	12649509	ČSB	Kom	3823
+4.	Dark Helpik(#182) - H3lp1k	21111km2	11970016	.::U::.	Utop	3780
+5.	Gogo Tanečník(#142) - Abile Cavaliere	35690km2	11615265	C.B.	Utop	3808
+6.	*Č*S*P* Crackonosh(#52) - kopl	21084km2	11442212	*Č*S*P*	Utop	3876
+7.	CTK(#63) - Ctirad2	25084km2	11416523	SB	Tech	3568
+8.	noobero uno(#11111) - mLn	19333km2	10351295	LBL	Utop	3744
+9.	WINNER TAKES IT ALL(#322) - .adm1n.	17176km2	10067488	LBL	Utop	3857
+10.	Pornstar(#562) - Kwasak	23863km2	9192853	KKZ	Demo	3927
+11.	Territory of death(#1269) - Baro	21444km2	8862643	MNKL	Demo	3815
+12.	Jožko Kunik(#515) - gorbatčov	11999km2	8547615	LBL	Utop	3784
+13.	Vyhazovač z cukrárny(#799) - mara8	11999km2	8530918	LBL	Utop	3841
+14.	Canada(#80) - Canada	24214km2	8116637	kanarci	Robo	3933
+15.	pasivka h13(#509) - Atlantik	11999km2	7882704	LBL	Utop	3840
+16.	HOCICO(#180) - VargVikernes	25280km2	7866456	NKL	Robo	3975
+17.	Modrý pták(#31) - ridgeback	12605km2	7717777	LBL	Utop	3806
+18.	Times Change(#820) - ptak77	20000km2	7603278	=T=	Anar	3958
+19.	karma nezapomíná(#1129) - Mrkvička777	23441km2	7592791	NKL	Robo	3972
+20.	Fhueiwkjxhdchhrka(#1202) - ridgeback	20999km2	7588888	Rounders	Utop	3876
+21.	I know, right?(#965) - karovanyhad	10999km2	7390938	JHFRMVRH	Utop	3861
+22.	Nemilosrdná slečinka(#1069) - c4u710n	9999km2	7318480	LBL	Utop	3840
+23.	Pickle Rick(#858) - Martin858	11999km2	7171717	LBL	Utop	3868
+24.	Scentless Apprentice(#1064) - Lord Kratos	20766km2	6940491	wW	Utop	3969
+25.	Rimmerland(#525) - Lord Kamzo	24558km2	6785036	NKL	Feud	3969
+26.	Uspech nebo neuspech(#833) - Sdalin	18485km2	6766962	Komplex.	Utop	3668
+27.	.::PKZ NatGEO::.(#850) - Bringstorm	14999km2	6734475	PKZ	Utop	3974
+28.	Abyss in Alice(#871) - bukvicka13	17524km2	6726077	PhaMa	Utop	3978
+29.	Orenburg(#37) - Jurgens	14999km2	6675739		Anar	3978
+30.	Gerasimovka(#35) - Jurgens	20124km2	6659435	68	Utop	3979
+31.	Svazarm(#39) - Jurgens	14999km2	6657517		Anar	3978
+32.	LORDinace v RůžovéZahradě(#1644) - Hrubej	17777km2	6515601	Lordi2	Anar	3971
+33.	Slipy s otvory(#1482) - amaj	14999km2	6485026		Utop	3936
+34.	n1P(#866) - God si me	11999km2	6455890	LBL	Utop	3842
+35.	Marsellus Wallace(#239) - Telwin	20507km2	6447795	SUX	Demo	3919
+36.	0000007(#333) - 7000000	29000km2	6423490	NKL	Dikt	3972
+37.	Pray for Mojo(#674) - JimCurry	14999km2	6422301		Utop	3979
+38.	Dark Conqueror(#1164) - vanna	13660km2	6362842	**CQR**	Utop	3912
+39.	Dobelice(#593) - Tinky binky ex	19318km2	6342677	ZERO	Feud	3966
+40.	-DEAD- pepe neumi farmit(#646) - ppedrnikar	12000km2	6242714	DEAD	Anar	3979

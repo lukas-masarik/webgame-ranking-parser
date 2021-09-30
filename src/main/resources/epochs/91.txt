@@ -1,0 +1,42 @@
+91. VĚK
+#	Země	Rozloha	Prestiž	Aliance	Vláda	Kol
+1.	CQR Zhul(#49) - dahulz.alpaca	23231km2	12558685	**CQR**	Demo	3938
+2.	Leonardo(#913) - LeoDaVinci	28299km2	10223873	D1KTATOR	Kom	3977
+3.	To neumíš co?:D(#2061) - mulako	23561km2	9935056	ZERO	Demo	3970
+4.	500 budov? pro Tebe moc..(#2434) - Nokiac	24222km2	9257954	S.M.R.T.	Kom	3880
+5.	Dawe(#373) - Cenzor3d	25555km2	8467328	QUANTUM	Rep	3868
+6.	Achnashellach(#1775) - Tomasius Velky	18916km2	8466058	VT	Feud	3955
+7.	Goodbye Lenin(#224) - Leninus	29873km2	8459129	ZORA	Robo	3840
+8.	NoPainNoGain(#540) - .Baťa.	18999km2	8408087	-=ELW=-	Utop	3825
+9.	Silent Hill(#196) - Eldudik	19328km2	8127209	-WG-	Dikt	3796
+10.	Californication(#1886) - ListerD1	3233km2	8064752	W.?.R	Utop	3649
+11.	The Left Hand of God(#688) - dan.co	20688km2	7943449	PJ	Utop	3861
+12.	ako ide život?(#1677) - .modran	28113km2	7610446	VT	Robo	3977
+13.	KRÁL DĚTSKÝCH diskoTEKK(#492) - ondrOx	21999km2	7502845	KULE7	Utop	3747
+14.	Stačilo se zeptat..(#44) - Atlantik	25198km2	7453572	VT	Feud	3883
+15.	Budulínkova zem(#2491) - Budulínek s.r.o	18459km2	7129273	Ganja	Demo	3872
+16.	Závidíš co?(#318) - PEJSEKaKOČIČKA	23539km2	7023131	M	Utop	3925
+17.	DONT STOP ME NOW(#135) - xkukx	10000km2	6990685	MSB	Kom	3865
+18.	Mocny Komunismus(#256) - xkukx	10000km2	6978634	MSB	Kom	3860
+19.	Jedi v akci(#1104) - D.r.a.k.	21123km2	6876650	VT	Feud	3874
+20.	sex trip(#2410) - Lucky6186	19293km2	6870281	.:V3R:.	Robo	3962
+21.	Měsíční zahrada II(#1247) - Vsevedecvseumel	28105km2	6795174	ZT	Feud	3979
+22.	sLeČinkA Olympia :-*(#1399) - Remor	19330km2	6753451	VT	Utop	3848
+23.	Bijuu sněhový koule(#1315) - čempix	23997km2	6710095	cerveza	Demo	3979
+24.	Menežeris(#126) - 010Nemesis	10000km2	6674816	MSB	Kom	3859
+25.	parkem po hlavě(#122) - Canada	25868km2	6531760	NT	Demo	3937
+26.	300(#2544) - TPR	18657km2	6452059	ETD	Rep	3947
+27.	agenty nemam(#1479) - maestrotech	21248km2	6444859	Hrajem	Robo	3945
+28.	Mike Litoris(#2443) - yuphon	22522km2	6441695	**CQR**	Rep	3941
+29.	Jan Čenský(#1426) - ThoughtGuy	22353km2	6434908	**CQR**	Utop	3931
+30.	Whatuuuup(#1245) - Shrunke	16500km2	6425771	ETD	Demo	3978
+31.	Mechuj nebo pojdi(#57) - Supra1Soul5Play	26047km2	6359433	*`=/-.,	Demo	3978
+32.	Rambastan(#387) - Lord Charley	21099km2	6309752	ToAn	Feud	3917
+33.	Rafan Krasavec v Audi :*(#769) - Vasulin	22656km2	6300261	Rafani	Feud	3978
+34.	Shizaru(#2171) - nemousek	19377km2	6299539	Gmnt	Robo	3946
+35.	je borec(#307) - SprávceChlívku	17582km2	6276051	Rafani	Robo	3977
+36.	Pro Verunku(#2132) - Fereofar	22999km2	6274473	VMCh	Robo	3966
+37.	Advocatus diaboli..(#1763) - DieWalker	10000km2	6266526	MSB	Kom	3896
+38.	Fargo(#1295) - ListerD1	18153km2	6122534	PS.	Dikt	3958
+39.	Hneda Betty(#1353) - VAGOUN	19835km2	6109704	FRINGE	Rep	3968
+40.	HCOONa Matata(#1313) - ThoughtGuy	10000km2	6003535	MSB	Kom	3893

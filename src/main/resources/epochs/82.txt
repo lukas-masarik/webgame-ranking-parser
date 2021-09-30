@@ -1,0 +1,42 @@
+82. VĚK
+#	Země	Rozloha	Prestiž	Aliance	Vláda	Kol
+1.	To tehdy padal déšť(#1369) - Déjà vu	35600km2	15643073	Valkaci	Robo	3640
+2.	Duško Kreken(#3061) - gorbatčov	13988km2	12650000	PH	Utop	3566
+3.	NoPainNoGain(#1048) - .Baťa.	15991km2	10777777	GanG	Kom	3915
+4.	Silent Hill(#170) - Eldudik	14999km2	10170515	Eldibi	Tech	3653
+5.	Pobodám Tě(#3151) - Eph3dr1ne	14999km2	9774329	RUM	Tech	3596
+6.	1mY0ursN3m3s1s(#1862) - .Zabrda.	16139km2	9677603	Zero	Tech	3853
+7.	Vtipná AbraKadabra(#42) - Wlad	31145km2	9467317	VTIP	Robo	3978
+8.	U Evženka Hyberného :P(#1374) - Krutinožka	3114km2	9242689		Utop	3025
+9.	Dealer(#1679) - Darth Knight	27975km2	9165190	Vendeta	Robo	3948
+10.	ZačnemŽit(#2474) - poMe	11215km2	9046093	NBS	Kom	3897
+11.	Hašiš Doupě(#630) - Hašiš Díra	20927km2	8760501	=OG=	Kom	3958
+12.	relax b****s(#2666) - mLn	26365km2	8355338	T3R0R1ST	Fund	3474
+13.	CMEPTb Vyacheslav Molotov(#370) - 7RuFiK7	22966km2	8311056	CMEPTb	Kom	3975
+14.	Better late than never(#2725) - Pegas	18917km2	7978732	Wrath	Tech	3845
+15.	Maškaráda(#2209) - .Grim.	20830km2	7954292	KL	Fund	3966
+16.	Gerasimovka(#86) - Jurgens	21465km2	7781787	UVVB	Utop	3979
+17.	.:AveCesar:.Human2.0(#1370) - ŠavlozubáVeverka	15296km2	7629751	AveCesar	Utop	3965
+18.	S fackal sem svyho synka(#139) - Lord Biry	21560km2	7481314	UVVB	Utop	3880
+19.	Morozem(#1829) - THEdread	23000km2	7439296	Korea	Demo	3969
+20.	Monchengladbach(#2492) - kullino	25240km2	7430970	=T=	Rep	3903
+21.	GifficiDimExhibitor(#1165) - ando	20424km2	7393083	PJ	Demo	3813
+22.	Gloria Victis(#995) - Lord Demokrat	21345km2	7289502	UVVB	Utop	3975
+23.	Zlatý štandard(#1891) - warlink	20669km2	7274050	Korea	Tech	3978
+24.	-FaLL3N- radsi moc necum(#639) - MasterDog	18164km2	7232926	-FaLL3N-	Kom	3976
+25.	Ali Baba a 40 loupežníků(#2549) - Sjezdovka	15396km2	7201012	BOUNTY	Utop	3941
+26.	Bylo nebylo(#244) - Milka I.	25888km2	7109104	ČOKO	Kom	3979
+27.	IwearYOURgrandDADSclothes(#3291) - yousux	22341km2	7065754	.::4N::.	Utop	3937
+28.	-FaLL3N- ránu pěstí(#257) - Sekác26	15634km2	7000000	-FaLL3N-	Utop	3977
+29.	Denník RSS(#1550) - RedmanE	20684km2	6897540	NTG	Robo	3969
+30.	Leoric+Barathrum+Magina(#3312) - SAHI	24090km2	6878943	.::4N::.	Robo	3908
+31.	CMEPTb Alexej P. Maresjev(#652) - Doktor Dušan	21367km2	6833015	CMEPTb	Robo	3979
+32.	-osn- Lolofon`s Guard(#1045) - Mydliak	16212km2	6802955	-osn-	Utop	3935
+33.	Epimétheus(#2603) - Ragan	12201km2	6799178	BOUNTY	Utop	3968
+34.	MUJ DÍROV(#1682) - ToM0	14900km2	6765064	=DS=	Kom	3832
+35.	Kartágo I.(#3463) - zullu	19243km2	6626312	-ID-	Demo	3957
+36.	R1PP3R(#2189) - xhammerx	13461km2	6600685	Ganja	Utop	3963
+37.	YOLO(#1380) - AAA auto .T.lama	21522km2	6539998	KULE7	Utop	3897
+38.	8B8B8B8B888B8888B8B88B88B(#2955) - Davac	19189km2	6417310	VL	Utop	3919
+39.	= ./remote-root.bin =(#2925) - r o o t b o t	19999km2	6415160	=1337=	Demo	3977
+40.	Wheeeeeee(#293) - maestrotech	22344km2	6271031	Hrajem	Robo	3953

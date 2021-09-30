@@ -1,0 +1,42 @@
+63. VĚK
+#	Země	Rozloha	Prestiž	Aliance	Vláda	Kol
+1.	Brdy(#76) - Look	29999km2	17444444	Legend	Utop	3567
+2.	Messi je lepší jak Cris..(#1378) - Ivan IV	9999km2	13000000	Chlívek	Utop	3794
+3.	B-Ball(#4132) - PEJSEKaKOČIČKA	18922km2	12033333	KMS	Utop	3802
+4.	urielov(#54) - sir uriel	25624km2	10919933	DF	Kom	3627
+5.	Bíďa píše bakalářku(#3140) - Hadrabator	20999km2	10772635	G.U.M.I.	Utop	3821
+6.	Brůča farmář z Nupak(#227) - Nupacak	20999km2	10765753	G.U.M.I.	Utop	3679
+7.	GRANKO-ProtožeRánoDěláDen(#2824) - leszek	26666km2	10658410	OKNO	Kom	3876
+8.	KAZAŇ(#3793) - IngBadzo	31717km2	10132325	DDO	Robo	3917
+9.	Modrý pták(#1119) - ridgeback	26321km2	10046132	LBL	Demo	3940
+10.	Farm them all(#2184) - Harkeus	13967km2	9584408	.::R::.	Utop	3839
+11.	Dalaj.lama(#3447) - XPskFyzik	24633km2	9472409	BEER	Fund	3894
+12.	Gallax K1LLER(#673) - JassonD	20887km2	8833501	*.:L:..*	Kom	3969
+13.	Alea iacta est(#2439) - Caesar159	27217km2	8723992	C.S.I.	Robo	3933
+14.	Defiant(#504) - Yamian	23923km2	8642663	CHRO	Rep	3975
+15.	Cien anos de soledad(#100) - podwratak	20465km2	8625688	StrakerS	Kom	3916
+16.	Hurá do toho(#2431) - Neprávem Smazán	29059km2	8501452	DDO	Demo	3973
+17.	Vagina(#121) - Skiller	24848km2	8470250	Vs	Demo	3930
+18.	tonight i wanna be stoned(#919) - Vytez	24237km2	8360214	D*n*B	Kom	3978
+19.	Brebta breptá s Ještěrkou(#2722) - Iskalon	20999km2	8335034	G.U.M.I.	Utop	3837
+20.	Manzanie(#158) - Sir Robertini	21252km2	8302638	UVVB	Utop	3971
+21.	Radeon(#1705) - Masterspik	22793km2	8252879	RAPTOR	Kom	3937
+22.	Richie Hawtin(#2253) - M3mmOrY	25545km2	8187569	C.S.I.	Robo	3927
+23.	...jáj...;](#2297) - a1capo	26721km2	8143753	:ZotR:	Robo	3976
+24.	Nýmandie(#1407) - výpitson	20239km2	8129288	HLUPCI	Demo	3958
+25.	Umři na mor(#2795) - Mrkvik	17799km2	8086887	NTVDK	Utop	3817
+26.	slečinka de puta madre(#924) - red kox man	33383km2	7867528	ManG	Robo	3969
+27.	Ježíš táhne na berlín(#1664) - narkobarÓn	26284km2	7790862	defky	Robo	3954
+28.	Legionář Pomsty(#65) - Anděl	25000km2	7742944	KULE7	Robo	3976
+29.	MILUJEM POPRASKA(#775) - imhot3p	16999km2	7735325	VT	Feud	3590
+30.	-club member-(#2551) - Los Heveros	19787km2	7511977	BOUNTY	Utop	3860
+31.	Dr.Sheldon Cooper PhD.(#79) - Comanndos	19999km2	7487552	DEJAVU	Fund	3960
+32.	Angelo Milli(#3163) - santa satan	13999km2	7456374	Shining	Utop	3947
+33.	..:Amazing:Shit:..(#330) - G.R.U.M.Y	22586km2	7425303	RsP	Rep	3978
+34.	Umělá hmota(#3773) - ridgeback	26186km2	7422476	1oM	Robo	3929
+35.	Moudrému stačí slovo(#4661) - naivefighter	18999km2	7393744	NováVlna	Demo	3939
+36.	Modrá(#104) - Look	19522km2	7117741	ČSS	Demo	3979
+37.	Aurora_Borealis(#4975) - Koryyy	25332km2	7113889	WG-PROF	Feud	3855
+38.	Šáršulka :-*(#3319) - 0portunity	21452km2	7108819	*AF-del*	Utop	3654
+39.	.::CSA::.(#4109) - Billywu	19879km2	6958797	***B***	Demo	3979
+40.	Krasomil Nádherný(#2169) - NiakarAn	21418km2	6874110	LLS	Demo	3939

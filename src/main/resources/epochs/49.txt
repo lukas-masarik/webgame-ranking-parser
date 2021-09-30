@@ -1,0 +1,42 @@
+49. VĚK
+#	Země	Rozloha	Prestiž	Aliance	Vláda	Kol
+1.	She is my sin(#3337) - warecek	24242km2	31053131	SB	Kom	3200
+2.	Michael Phelps(#654) - FARR FARR AWAYY	30060km2	19294872	SB	Robo	3767
+3.	1. zem nebyla založena.(#2044) - CrazyBob	24229km2	17978872	BE	Rep	3796
+4.	FF Discofil na dovolene(#1022) - Joe091	26800km2	13050000	=FF=	Demo	3519
+5.	LIVING NEXT DOOR TO ALICE(#238) - .adm1n.	27566km2	13000000	ČSLA	Kom	3683
+6.	salamista(#2327) - buko10	20423km2	12878063	cerveza	Kom	3772
+7.	The Lord of Maliciousnes(#5642) - Byrnjolf	23702km2	12247592	TMT	Demo	3872
+8.	HaD(ku)(#648) - král urucskýý	23190km2	11941554	HaD(i)	Rep	3551
+9.	Hilton Long Beach(#3643) - soltari	24830km2	11372084	/Fe4r/	Utop	3938
+10.	I hope you die(#4044) - Erethil II.	35000km2	10963396	ManG	Rep	3880
+11.	AUTORITA - EUBA(#3160) - ftacik	23027km2	10718952	AUTORITA	Utop	3744
+12.	Calm like a BOOMMB :boom:(#1364) - ...wrNdzo...	35597km2	10438823	*RATM*	Robo	3870
+13.	Hofbräuhaus München(#5234) - General Honza	33333km2	9890521	SB	Robo	3968
+14.	Metrix je všude(#4737) - Masias	30479km2	9257239	SEXMAT	Feud	3789
+15.	MUJ DÍROV(#835) - ToM0	22052km2	9076837	=DS=	Demo	3780
+16.	Sitno(#4773) - Cancour	27500km2	9071487	NeStraš	Robo	3918
+17.	Dobrotice(#1944) - werty1	18474km2	9060337	WG-elite	Utop	3344
+18.	LiCk mE liKE a LoLliPoP(#383) - Kosakk	19266km2	8789041	LEFT	Utop	3941
+19.	Seňor Jalapeňo(#1070) - OFC3	50456km2	8750000	čusíňu	Robo	3920
+20.	Nagelovaný Lovčík(#2438) - Battleruler	32522km2	8460219	R3D	Robo	3827
+21.	Skiller?? NE-E NooB(#47) - ...dog...	23552km2	8457687	KMS	Demo	3803
+22.	aj tak Vás porežem MUTERA(#207) - džulio	28310km2	8444652	mutera	Robo	3967
+23.	Kdo huli ten umi(#1465) - Bombadil	19202km2	8428286	VMCh	Utop	3639
+24.	Nápověda(#2860) - .Serious Sam.	25107km2	8361579	HeHe	Demo	3934
+25.	Devils child(#677) - chip..	25623km2	8224589	SB	Robo	3512
+26.	Thrasholm(#6519) - Fir3nz3	25213km2	8155588	(,,),	Tech	3974
+27.	NIGGA slečinka(#3185) - Gornik	22816km2	7692932	NIGGA	Rep	3974
+28.	(0n(0rD d4Wn(#7207) - Jiriss	20852km2	7621330	-=BaP=-	Rep	3967
+29.	Scrapheap(#5404) - Komrl	22329km2	7538945	POVKO	Robo	3753
+30.	Mazar-e Sharif(#6596) - King of Komarov	24875km2	7494948	SB	Robo	3979
+31.	Tabríz(#6598) - King of Komarov	25426km2	7483565	SB	Robo	3978
+32.	RušímePR jo jo(#3902) - AdamKracik	17273km2	7369371	-=LiB=-	Tech	3472
+33.	Am I a driver ?(#3952) - ghostos	23999km2	7352518	.:?:.	Rep	3951
+34.	W.G.Master player(#296) - Dzindzik	29871km2	7315782	W.G.M	Robo	3931
+35.	Mechanical Spin Phenomena(#4446) - Abbadon	18122km2	7276028	Metalord	Utop	3797
+36.	Mortal Vombat(#3288) - adduktor	25474km2	7266744	/Fe4r/	Robo	3772
+37.	Tráby mojí báby(#3513) - King Lear	18999km2	7148034	(.)(.)	Utop	3731
+38.	0101011011010111110101111(#736) - mat3jko	28194km2	7081081	B.D.	Robo	3979
+39.	UKAZp...DAMtiHRUSKU(#11297) - balin.	23670km2	7071883	SB	Robo	2703
+40.	.:*sakr*blee*:.(#1215) - assshot	19073km2	7031752	mmu	Kom	3894

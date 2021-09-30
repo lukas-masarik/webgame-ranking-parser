@@ -1,0 +1,42 @@
+89. VĚK
+#	Země	Rozloha	Prestiž	Aliance	Vláda	Kol
+1.	Almost Human(#391) - ListerD1	16000km2	16708888	PS.	Utop	3477
+2.	BeforeAttackingWatchP0rn(#320) - hlidac3	20000km2	14063922	ICE	Demo	3548
+3.	NorthCity(#2188) - forkys	18808km2	13453868	Lotta	Utop	3498
+4.	Silent Hill(#267) - Eldudik	10299km2	13131569	-WG-	Fund	3865
+5.	Hvězdné nebe nad tebou(#549) - Seksymania	27825km2	13049049	.LL.	Demo	3941
+6.	****?CEN?SO?RED?****(#44) - rybka es atrás	35682km2	12583117	Klobasky	Rep	3977
+7.	My life is porn(#792) - Defectorr	33777km2	11029199	COLD	Robo	3936
+8.	Mihawkův zločin(#1680) - kousnu te lamo	30677km2	10675244	ČSB	Robo	3979
+9.	Vůle k moci(#3500) - Bur.Kek	20836km2	10435330	Hilly	Utop	3952
+10.	mnu xD(#1147) - TheSokar	14184km2	9555555	xD	Kom	3937
+11.	velkého prcka(#1330) - Artemi	28701km2	9436981	.DaZ.	Robo	3979
+12.	.:AveCesar:.vČasovéTísni(#848) - ŠavlozubáVeverka	14052km2	8935003	AveCesar	Utop	3952
+13.	Delevingne(#447) - Huntter	30006km2	8728170	SOPHIE`S	Robo	3976
+14.	-=DF=- Tequila Blanco(#1089) - sharppp	17850km2	8243303	-=DF=-	Demo	3928
+15.	inseminatorek(#2153) - futuree	23167km2	8222461	ETD	Kom	3955
+16.	sLeČinkA Olympia :-*(#2052) - Remor	28915km2	8005581	ManG2	Robo	3968
+17.	God Hates Us All(#773) - Marshallin	23343km2	7812047	GoD	Demo	3979
+18.	Nepotopitelný potápěč(#2742) - Jokron	26503km2	7529260	ToAn	Robo	3951
+19.	suck my-hawk(#2213) - its slick	27535km2	7520560	ČSB	Feud	3744
+20.	nevimnecosemnapisajeto...(#2604) - king leonardo	20523km2	7368595	=L.O.T=	Robo	3975
+21.	Kurt Student(#2813) - Tomasius Velky	20250km2	7252562	B.K.	Fund	3979
+22.	Héros Mythique(#2906) - Siriuss	14900km2	7001008	Nedivoč	Kom	3580
+23.	MinatovsItachi?(#2465) - Hajnos	20000km2	6940000	Wrath	Feud	3890
+24.	SON OF A PREACHER MAN(#38) - HypnoticaL	23299km2	6864391	SOPHIE`S	Feud	3889
+25.	-FA- Fenomenální Anorexie(#2339) - Dragon.Slayer	30153km2	6819340	-=F*A=-	Robo	3944
+26.	Asíkov(#1528) - Asticka	25261km2	6785000	AHA	Robo	3972
+27.	Vozo-is-back(#128) - Vozicek	21594km2	6695986	*SnsrN*	Kom	3969
+28.	kilLAMAngaro(#2669) - GlobalDJ	14999km2	6610915	.DaZ.	Utop	3978
+29.	Harted(#861) - Marshallin	18043km2	6540306	CSR	Kom	3979
+30.	Muž z New Yorku(#1707) - uličník	19596km2	6498085	DooM	Kom	3966
+31.	Tomáš Campanella(#2756) - Kokoslav	21746km2	6477211	.DaZ.	Robo	3956
+32.	-FA- Funny Antrax(#1222) - D.r.a.k.	19625km2	6392782	-=F*A=-	Feud	3833
+33.	Česká země(#652) - Národní hrdina	30192km2	6386089	ETD	Kom	3855
+34.	bacha, tráva léčí raka(#1055) - AlpiNko	23187km2	6304790	ZeS	Robo	3892
+35.	Vesmirna kuna(#2904) - Borsug	12710km2	6275577	V...D	Tech	3961
+36.	-FA- Feťácký Abstinent(#2747) - Walker	14581km2	6197501	-=F*A=-	Tech	3966
+37.	Naštvanej králíček(#2927) - Budulínek s.r.o	15625km2	6091295	TSŽ	Demo	3871
+38.	.hunteRs.lady(#3193) - Simonof	11500km2	6004152	.hunteRs	Utop	3918
+39.	NoEndForTheDarkness(#81) - bosinek	14356km2	5974936	ICE	Utop	3976
+40.	středa, je ho tam třeba(#2897) - Kuboj	19826km2	5944986	HPN	Robo	3964

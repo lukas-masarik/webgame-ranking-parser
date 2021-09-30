@@ -1,0 +1,42 @@
+150. VĚK
+#	Země	Rozloha	Prestiž	Aliance	Vláda	Kol
+1.	Nenasytný Conquistador(#22428) - mara8	28417km2	21342813	**CQR**	Demo	3563
+2.	Farmář hledá ženu(#200) - masterWG	25084km2	19234129	UNIQUE	Tech	3663
+3.	Finlandia(#4447) - ftacik	23267km2	13838430	UNIQUE	Demo	3663
+4.	kde je moje dáv-=ka=-(#224) - Athara	25599km2	12277234	-=KA=-	Tech	3859
+5.	Puppet Master(#1070) - FARR FARR AWAYY	23333km2	12262974	EMP	Feud	3360
+6.	Snědá tíseň(#64) - blasticek	23698km2	12161879	ganja	Kom	3592
+7.	Jeskyňka(#848) - Atlantik	32617km2	11450062	M	Robo	3953
+8.	Advocatus diaboli(#302) - DieWalker	21111km2	11281024	AC/DC	Tech	3795
+9.	Chulimanga(#166) - FR3EZY	36485km2	11181068	=T=	Feud	3937
+10.	Its fridayy uhuu(#955) - skvost	22130km2	10984234	BumBum	Tech	3978
+11.	Little conqueror(#10104) - Sph1nx	20461km2	10924820	**CQR**	Tech	3565
+12.	KRABkonos(#710) - DeathFilip	18110km2	10376254	(V)oo(V)	Tech	3979
+13.	Olympic_succes(#1081) - Pitel	26065km2	10134139	queens	Tech	3978
+14.	Arach je Paľo -=LH=-abera(#1133) - esya	15678km2	9549996	-=LH=-	Utop	3976
+15.	KRABin Hood(#117) - zedna	20201km2	9000134	(V)oo(V)	Utop	3944
+16.	Bude lepšie(#160) - tvojasmrt	23399km2	8666666	M	Robo	3971
+17.	mor klati kapitanku(#373) - stejski IX.	16017km2	8656613	TLD	Utop	3655
+18.	-=KA=-nón na 180ky(#698) - Erwin Stahler	18935km2	8525231	-=KA=-	Rep	3979
+19.	Firelights(#1289) - Kataklysm1	13038km2	8502218	AC/DC	Utop	3761
+20.	Krabistán(#61) - blasticek	22529km2	8455415	(V)oo(V)	Feud	3976
+21.	Ty si hroznej šmloula,že?(#194) - Mrkvička777	19708km2	8447893	(V)oo(V)	Kom	3749
+22.	Rolling Thunder(#424) - Luke the Great	27076km2	8417837	.:?:.	Kom	3951
+23.	Jim Lahey(#276) - Chabi	20340km2	8214431	Randy	Rep	3942
+24.	John Constantine(#1068) - Comanndos	16971km2	7809503	SIL	Utop	3856
+25.	VELKÝ ČERNÝ KLACEK(#818) - Eph3dr1ne	18299km2	7722191	M	Robo	3934
+26.	.::Gondor::.(#171) - .Aragornikk.	21693km2	7700828	AC/DC	Utop	3946
+27.	-=LH=-ář No.1(#95) - hagg1d	23332km2	7699544	-=LH=-	Tech	3978
+28.	Lela Star(#532) - Lord IVCO	21508km2	7639210	queens	Robo	3701
+29.	Keltský zvyky tvojí mámy(#1178) - lugh	17180km2	7525594	SRAN	Utop	3711
+30.	Kevin Malone(#858) - Martin858	15555km2	7455555	ganja	Kom	3923
+31.	Bobanek:))(#997) - Prepaaac	21515km2	7404934	queens	Feud	3978
+32.	CoolStoryBOB(#1232) - vhero	14879km2	7388093	=T=	Utop	3960
+33.	GoDrunkOrGoHome(#842) - skvost	24557km2	7338221	-=KA=-	Kom	3978
+34.	westonlend(#264) - 123123123123	15874km2	7186788	S*K	Rep	3947
+35.	hudroxid sodný(#101) - Garithos	21230km2	7016188	AC/DC	Utop	3978
+36.	Samuraj sexu(#47) - pelizid	18879km2	7012720	TLD	Utop	3958
+37.	Tak normálně(#793) - j.o.h.n.y.s	11428km2	7007815	NEIRO	Utop	3841
+38.	Dr.Satan(#1246) - StillDeadCZ	21666km2	6853669	MENSA	Fund	3979
+39.	==..Kakánek Robotnik..==(#749) - Hornblower	15880km2	6843851	AveCesar	Utop	3969
+40.	N0_brain(#990) - hráčsjménem	15840km2	6753504	TLD	Utop	3969

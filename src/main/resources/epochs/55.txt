@@ -1,0 +1,42 @@
+55. VĚK
+#	Země	Rozloha	Prestiž	Aliance	Vláda	Kol
+1.	I won`t be ignored(#5611) - Gxx	25325km2	21391240	Wrath	Fund	3486
+2.	salamista(#195) - buko10	26805km2	17710144	cerveza	Kom	3658
+3.	v teto zemi padaj kola(#5731) - M4S3R	27942km2	16006133	V1K1NG	Demo	3592
+4.	The Holy Wikipedialand(#5802) - Orcidian	29593km2	13900000	BH	Utop	3583
+5.	Malilinkatý šneček(#3037) - king000	25816km2	13665664	Šneci	Demo	3690
+6.	Vedoucí FanKlubu(#3008) - Optyk	24181km2	12766666	FAaČ	Utop	3897
+7.	.:Ball Lightning:.(#2179) - DaMarkus	17270km2	11723135	KULE7	Utop	3895
+8.	D1KTATOR SKAlpik(#325) - SKAlpik	32120km2	11360345	BH	Kom	3958
+9.	MUJ DÍROV(#733) - ToM0	20263km2	11236770	=DS=	Utop	3640
+10.	NABUCCO(#1815) - SprávceChlívku	22278km2	11103291	RAFANI	Kom	3873
+11.	maxiLandiA(#261) - t3latko	24433km2	10885699	BOUNTY	Utop	3930
+12.	Tento způsobe léta zdá se(#5561) - Sjezdovka	22565km2	10735030	BOUNTY	Utop	3909
+13.	Paralenní svět(#59) - Biogoo	25200km2	10700701	Wrath	Utop	3552
+14.	gondolin(#2011) - Idril	25023km2	10555850	=STW=	Demo	3942
+15.	ahojdasonecek:-P(#2654) - ttrtt	21800km2	10521337	=FF=	Demo	3919
+16.	Spěcháme abysme čekali(#446) - Nespravedlny	20000km2	10066212	WG-elite	Utop	3673
+17.	lsengard(#2135) - Saruman.	19360km2	9823303	.:V6R:.	Demo	3967
+18.	Zvonky štěstí(#55) - cybi	20421km2	9446436	WG-elite	Utop	3938
+19.	Frnda frndu Frnde Frndam(#3798) - Ctirad2	32759km2	9426112	anx	Robo	3793
+20.	Illyasviel von Einzbern(#2463) - Wildevil	31032km2	9411289	CK	Robo	3941
+21.	EUROTRIP(#2322) - Mocný Karel	30796km2	9334523	.::VR::.	Robo	3955
+22.	Holiday on GRASS(#4530) - Joe091	28111km2	9290000	=FF=	Robo	3927
+23.	Raymond Curtis(#6670) - .DuKeLuKe.	11995km2	9105000	Bubáci	Utop	3081
+24.	::: DIVINE ::: Providence(#4763) - Karolínka	25023km2	9035267	DEJAVU	Utop	3900
+25.	archdevil land(#322) - TiHiC	23599km2	9008108	KLASIK	Kom	3740
+26.	010101010.UČITEL.10101010(#2995) - Corvin mc Grey	25074km2	8743473	B.D.	Tech	3965
+27.	Letní pauza(#5469) - Sjezdovka	20604km2	8734409	Anarchy	Utop	3979
+28.	-TX- Proxima(#5220) - Gabriel Allon	25385km2	8673235	ThermX	Rep	3978
+29.	Lakeland(#6621) - absoluteruler	18861km2	8642123	.::BR::.	Rep	3893
+30.	..:WG-PROFESSIONAL:..(#2122) - M3mmOrY	24345km2	8490147	.::BR::.	Feud	3247
+31.	0110001010100011101001011(#4738) - Dejvmark	28619km2	8472828	B.D.	Rep	3978
+32.	Brůča z Nupak(#2259) - Nupacak	17124km2	8423328	G.U.M.I.	Utop	3848
+33.	FARMÍM fest(#179) - ub3r.leAder	30000km2	8409585	FARMERS	Robo	3928
+34.	Tuer avec amour(#1745) - Kefalin.	20728km2	8327459	Love	Robo	3837
+35.	0nly lam1ng(#4311) - extreme world	15701km2	8255555	Tabáček	Demo	3936
+36.	Křišťálový Didlík(#101) - green88	25077km2	8171064	)CD(	Robo	3934
+37.	Spuchřelý HOLUBINEC(#3917) - Zumpa	13340km2	8165874	*LA*	Kom	3684
+38.	Lechtivá slečinka(#1591) - c4u710n	26740km2	8142727	ManG3	Rep	3979
+39.	Rychlokvaška(#3705) - Corvin mc Grey	24083km2	8137229	AA	Rep	3897
+40.	.:cz-sk:.Aiol0s(#1133) - fof0t	18891km2	8121718	cz-sk	Utop	3750

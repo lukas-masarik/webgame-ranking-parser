@@ -1,0 +1,42 @@
+61. VĚK
+#	Země	Rozloha	Prestiž	Aliance	Vláda	Kol
+1.	Land(#454) - Lem	34800km2	10827101	68	Robo	3966
+2.	Začněte klepnutím zde(#1100) - Romulus.	28757km2	10668708	H5N1	Kom	3880
+3.	ASA pravidlo 7(#802) - ....ASA....	40000km2	10632177	N-N-N	Robo	3976
+4.	GanG Pimp(#2802) - UsherBA	24579km2	10496201	GanG	Utop	3668
+5.	:LIVE TOGETHER,DIE ALONE:(#1462) - Sef87	26794km2	10313564	*zoo*	Robo	3969
+6.	honimír(#765) - futuree	23414km2	10079111	*GA*	Demo	3916
+7.	Phil Ivey(#1446) - Uaah	26523km2	10051046	FTP	Rep	3979
+8.	Cože? Cožeee?? Cožééééé??(#977) - SprávceChlívku	29269km2	9738862	Rafani	Kom	3910
+9.	THE ONE(#258) - Comanndos	31500km2	9421333	CHARITA	Robo	3973
+10.	Lighthouse(#3959) - StrongWall	23368km2	9215909	Legend	Fund	3973
+11.	Budvar(#144) - Bufon	23843km2	9027173	EPJ	Kom	3889
+12.	Arctic Monkey(#1472) - Beleriand	26552km2	8847732	TSŽ	Robo	3947
+13.	mYpEAcEmAkEr(#2780) - Mihall	18937km2	8342010	CGHMN	Utop	3745
+14.	lalaal(#3238) - BrankoStruper	32991km2	8087496	MŽV	Robo	3942
+15.	Black smoke(#2168) - Ivan IV	27588km2	7548174	EMP	Robo	3970
+16.	Modrý pták(#571) - ridgeback	27000km2	7522154	LBL	Robo	3971
+17.	momák(#4691) - .modran	18180km2	7350015	MoM	Utop	3957
+18.	Miss Cocaine(#4972) - Kowacs	20417km2	7313036	Čoko	Feud	3857
+19.	PGSK(#600) - PGSK	19999km2	7173517	PGSK	Demo	3979
+20.	Křovák Jiriss(#1726) - Jiriss	26949km2	6900000	Křováci	Robo	3908
+21.	Svému Osudu Neutečeš...(#1030) - Dragon.Slayer	21702km2	6896109	Agrese1	Robo	3700
+22.	prof. Cristianko Ronaldo(#2133) - Vasulin	25220km2	6848804	DEJAVU	Feud	3946
+23.	Seznáš,že jméno mé je Bůh(#4338) - TomiB	13109km2	6783109	K1	Demo	3947
+24.	Silesia Empire(#3607) - Lord Demokrat	22638km2	6762257	ČSLA	Robo	3958
+25.	xhammerx(#21) - xhammerx	18394km2	6669776	HKPAO	Utop	3791
+26.	*Mandate of Heaven*(#4041) - naivefighter	12542km2	6571093	KULE7	Utop	3821
+27.	Sleeping Sun(#3230) - Black.Smith	24620km2	6563943	LLS	Feud	3978
+28.	Annihilation(#936) - Xenocide	15435km2	6537544	CZ	Utop	3977
+29.	Zem tisíce demižónů(#91) - ..Hanz..	19391km2	6468194	.::VR::.	Rep	3979
+30.	Co sem mam ako napisat?(#2818) - Davac	24755km2	6439267	W	Rep	3971
+31.	643766384(#2375) - ...Don of War...	30000km2	6404355	W	Robo	3978
+32.	mr. peRFect(#2354) - Vojtiiik	34051km2	6359819	SEX	Robo	3928
+33.	ThoseWhoKnowWillNotTell(#452) - Pyromnacer	18250km2	6333049	-=LH=-	Utop	3946
+34.	Za Cyru5a(#1455) - reklamapodruhý	19673km2	6316200	VT	Utop	3951
+35.	2 Minutes To Midnight(#4786) - Kowacs	19864km2	6282551	Čoko	Feud	3954
+36.	Arendiel(#1725) - Aestiel	20120km2	6250405	:bum:	Robo	3979
+37.	Kang(#2139) - Instron	17626km2	6233580	*RPC*	Utop	3831
+38.	zeme plna sandalu(#128) - sir uriel	15471km2	6195879	CZ	Utop	3977
+39.	Odvoz a likvidacia odpadu(#1263) - Franta Potrubar	19047km2	6188673	AUTORITA	Utop	3979
+40.	Persia(#251) - Xerxes55	22694km2	6176804	=PA=	Kom	3979

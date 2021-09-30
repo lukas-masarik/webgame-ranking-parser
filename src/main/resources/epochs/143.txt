@@ -1,0 +1,42 @@
+143. VĚK
+#	Země	Rozloha	Prestiž	Aliance	Vláda	Kol
+1.	Air....(#81) - kill666	28906km2	22222222	*UF*	Tech	3648
+2.	Madagaskar(#1287) - ratatatatatata	28704km2	21751165	Afrik	Utop	3591
+3.	Advocatus diaboli(#137) - DieWalker	32548km2	20500000	SB	Utop	3841
+4.	Whisky(#1292) - Dr.hurka	21225km2	18706604	*EnDe*	Utop	3323
+5.	.:P:.UNx NOT DEAD(#501) - Skillgannon	25823km2	16229782	-=DH=-	Demo	3599
+6.	Keťas(#567) - tadycaapek	25405km2	14883776	MaNTiNeL	Tech	3867
+7.	Toss a coin to UR winner(#107) - F0rsaken S0ul	23456km2	13500000	CRY	Tech	3863
+8.	Dak Helpik(#746) - H3lp1k	32100km2	12854809	W	Demo	3929
+9.	Enforcer(#59) - Dr.Leckter	30267km2	12052315	*UF*	Robo	3979
+10.	JOHN FORBES NASH(#1171) - Reich Graf	23048km2	11806623	MENSA	Demo	3936
+11.	peli je zid(#483) - stejski IX.	19753km2	11691217	Lotta	Tech	3825
+12.	Velky uličník(#962) - trubkatrubkovic	22113km2	11526181	ganja	Tech	3975
+13.	Liliana(#814) - Defectorr	25273km2	10934218	*WinDe*	Utop	3935
+14.	Kirov reporting(#54321) - TheChosenOne	24614km2	10553159	RedAlert	Kom	3558
+15.	Optimal(#1055) - ridgeback	10999km2	10100000	FETKA	Tech	3572
+16.	:E(#18888) - jack32	23751km2	9778084	:)MM(:2	Tech	3913
+17.	MiNioN://(#626) - MiNioN	22502km2	9575980	FATHERS	Kom	3955
+18.	Eiger Extreme(#384) - Edron	20333km2	9301881	MK	Utop	3964
+19.	Chulimanga(#409) - FR3EZY	24513km2	9220571	=T=	Tech	3969
+20.	Sento me ruggito(#421) - stejski IX.	26070km2	8888888	Lotta	Robo	3969
+21.	podvodník(#8846) - 641988	17777km2	8832533	MENSA	Anar	3967
+22.	Muso oa Lesotho(#1024) - XQG	23931km2	8676710	Afrik	Robo	3975
+23.	Hindenburg(#1915) - Lopik511	18005km2	8330178	TTOC	Tech	3871
+24.	Vyvrženec Rufus(#385) - StillDeadCZ	22768km2	8294796	VZP	Fund	3977
+25.	Sunshine Regiment(#88888) - hlidac3	13333km2	8291869	GC	Utop	3655
+26.	Elon Musk jr.(#533) - Drunken	19555km2	8225478	SB	Kom	3975
+27.	CTK(#489) - Ctirad2	16240km2	8006758	CE	Rep	3978
+28.	Trevor(#637) - Jimlahey	19322km2	7985885	MK	Utop	3952
+29.	-DEAD-livingdead.blogspot(#837) - StillDeadCZ	15374km2	7935959	DEAD	Utop	3946
+30.	ROZTOMILÉ K0ŤÁTKO(#1175) - Seksymania	27999km2	7899870	PíPíBí	Tech	3977
+31.	Urvu_ti_slezinu(#1295) - Pitel	18540km2	7861264	ganja	Demo	3913
+32.	Malá Koala(#858) - Bota007	21763km2	7625181	MK	Utop	3959
+33.	hanasland4(#6666) - hanass	19342km2	7524531	MK	Utop	3956
+34.	STEPHEN HAWKING(#126) - Sir Extrem	20164km2	7406914	MENSA	Fund	3968
+35.	Burundi(#65) - Dr.Leckter	14259km2	7235275	Afrik	Tech	3648
+36.	Memento mori(#1019) - XQG	19356km2	7225544	*UF*	Demo	3971
+37.	A za kolik expu to bylo?(#1418) - Saturas	15000km2	7225326	queens	Utop	3977
+38.	Vyvrženec jo Bejby(#696) - StillDeadCZ	17458km2	7203166	VZP	Utop	3977
+39.	usti(#304) - vachys39	17987km2	7169836	ALI1234	Demo	3979
+40.	-osn- Kuvik-19(#310) - travnicek	19183km2	7134601	-osn-	Kom	3950

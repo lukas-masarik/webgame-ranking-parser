@@ -1,0 +1,42 @@
+137. VĚK
+#	Země	Rozloha	Prestiž	Aliance	Vláda	Kol
+1.	Pečené koleno u Vodoucha(#2332) - Mr. Sedlinno	24000km2	15628552	MRUK	Rep	3667
+2.	Jason Bourne(#40) - Comanndos	22333km2	13891087	DEJAVU	Demo	3729
+3.	Vyhulím Ťa(#3182) - Remor	18999km2	13666683	C.B.	Tech	3006
+4.	Whisky(#57) - Dr.hurka	23822km2	12870109	Across	Demo	3972
+5.	3 from Hell(#1343) - StillDeadCZ	25599km2	12641042	VZP	Demo	3938
+6.	Adam Hložek(#122) - Martin858	20000km2	11461288	ZERO	Utop	3779
+7.	Syrius the Plane(#168) - DieWalker	21473km2	11391865	FETKA	Tech	3872
+8.	Cholericky.Hater(#1246) - karovanyhad	19999km2	11229629	SNAKES	Utop	3765
+9.	Vtipný Tomáš(#280) - hagg1d	21506km2	11215294	CoverUni	Utop	3749
+10.	Dark energy(#1016) - Koryyy	20999km2	11164105	WiC	Tech	3802
+11.	Mas rad tmu?(#90) - o.O.oDin	27000km2	10278006	MRUK	Demo	3969
+12.	CzechtheWorld.com(#830) - Coav	18605km2	10160093	P.f.B	Utop	3936
+13.	Kdo leží, neběží(#1055) - FARR FARR AWAYY	7999km2	10000000	FETKA	Tech	3648
+14.	Ethan Hunt(#123) - Martin858	16666km2	10000000	MRUK	Utop	3751
+15.	Advocatus diaboli(#163) - DieWalker	39235km2	9850035	SB	Robo	3940
+16.	MiNioN(#172) - MiNioN	19999km2	9334442	MiNioN	Utop	3978
+17.	Fuzzy Lumpkins(#31) - Muffia	20000km2	9086371	PíPíBí	Utop	3936
+18.	Vyvrženec 80megaTRUMP(#665) - Klimovec	18000km2	8984563	VZP	Utop	3740
+19.	Mathieu van der Poel(#552) - Comanndos	18858km2	8551752	CAR	Kom	3926
+20.	JOHN FORBES NASH(#1111) - Reich Graf	16286km2	8144978	MENSA	Utop	3978
+21.	Nešťastník :-(#1687) - G.R.E.E.K	32699km2	8100000	T3R0R1ST	Robo	3426
+22.	Velky uličník(#612) - trubkatrubkovic	17416km2	7969305	Across	Tech	3979
+23.	před popravčí četou(#394) - kajfokiaf	22294km2	7968825	Across	Utop	3977
+24.	Altdorf(#351) - Cerix	19777km2	7952879	-=SCS=-	Utop	3978
+25.	omakalamehonakanapi(#260) - jckl	19647km2	7924360	PhaMa	Feud	3974
+26.	Guélor Kanga(#121) - Martin858	22000km2	7891387	SB	Utop	3881
+27.	uu ííííí u aáá(#1101) - Tattser	27136km2	7814245	Jukatáni	Robo	3923
+28.	Malibu Vodka Coco(#1447) - Lubos.H	18996km2	7796873	WMYQ	Utop	3898
+29.	do not mind me(#722) - .modran	16500km2	7782413	SUX	Utop	3844
+30.	Zavrene opicky v kleci(#80) - Homeerius	19737km2	7615317	Nechtej	Utop	3978
+31.	-ALIVE-Zrodila se Rigozda(#699) - ppedrnikar	16509km2	7602055	ALIVE	Utop	3973
+32.	.:P:.UNx NOT DEAD(#231) - Skillgannon	15342km2	7574367	-=DH=-	Utop	3951
+33.	Particles of light(#1187) - Deus	12216km2	7544000	SPRITE	Tech	3968
+34.	in dubio pro reo(#1005) - Lord Demokrat	23079km2	7539708	CRY	Robo	3969
+35.	ELON MUSK(#2222) - Reich Graf	16308km2	7399331	MENSA	Utop	3978
+36.	Elpro-EnergoTransformator(#115) - král urucskýý	14872km2	7257986	FETKA	Utop	3709
+37.	nullum crimen sine lege(#1008) - Lord Demokrat	21683km2	7201606	MRUK	Kom	3976
+38.	Trn v patě(#69) - Lord Rechleek	14268km2	7190262	Afrik	Tech	3783
+39.	-osn- DonJuanMatus(#1448) - KuXIV	17370km2	7145654	-osn-	Utop	3964
+40.	Air....(#9696) - kill666	19999km2	6993244	PaTo	Rep	3971

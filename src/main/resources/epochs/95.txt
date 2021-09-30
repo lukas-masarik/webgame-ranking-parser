@@ -1,0 +1,42 @@
+95. VĚK
+#	Země	Rozloha	Prestiž	Aliance	Vláda	Kol
+1.	Labor vincit omnia(#188) - Dzindzik	28054km2	17248248	S.D.E	Kom	3963
+2.	ThoseWhoKnowWillNotTell(#1857) - Pyromancer	24000km2	13651865	Wrath	Utop	3490
+3.	Karl Koks 1800,- per gram(#1232) - Defectorr	27899km2	13481367	*`=/-.,	Kom	3947
+4.	War kills people(#1126) - golden.guy	24500km2	10818587	warcrime	Feud	3899
+5.	Cidaris(#138) - Scalpelexis	22633km2	9263120	ToAn	Demo	3973
+6.	Vyzývám k revoluci...(#212) - KEPR	24999km2	8995001	EASY	Utop	3948
+7.	Fargo(#937) - ListerD1	15689km2	8837680	---	Utop	3972
+8.	Voloďa(#2333) - Siriuss	20000km2	8682169	VT	Utop	3793
+9.	Giovanni Seredovanni(#1990) - Desmont	18488km2	8381716	-.-	Kom	3970
+10.	Dawe(#962) - Cenzor3d	24516km2	8239765	*`=/-.,	Robo	3892
+11.	Boh(#838) - West007	23765km2	7623275	-=EMP=-	Robo	3982
+12.	Tvé lži jsou jako banány(#665) - MAFline	20645km2	7340706	Junkyard	Robo	3983
+13.	IBK Kubánský Klan(#1765) - Coav	17735km2	7264776	IBK	Feud	3898
+14.	Ponk(#966) - reklamaop	10066km2	7132634	MACH	Utop	3906
+15.	Restitutio in integrum(#657) - Wlad	24999km2	7045333	cerveza	Feud	3982
+16.	píšudiplomku_nerušit(#1943) - .winter.	24635km2	6576073	študáci	Feud	3947
+17.	Mam to na lehatku(#1276) - Lets go	27843km2	6364001	-=LH=-	Dikt	3948
+18.	Spratkův pindík rád děti(#1243) - Lord Radimag	29596km2	6205760	PRDOX	Feud	3961
+19.	a ide sa farmit :D(#387) - MatkoFaka	22000km2	5929592	SFP	Robo	3978
+20.	Dawe?(#2613) - Cenzor3d	19310km2	5722356	*`=/-.,	Feud	3812
+21.	Rogan(#362) - Dezider	18622km2	5627321	LBL	Feud	3964
+22.	Trochu Horko, Co?(#54) - Telcontarr	22775km2	5623906	OLT	Kom	3983
+23.	Mimoňov(#1343) - Sta Lin	24522km2	5561199	BumBac	Feud	3982
+24.	Titania(#1438) - Phoebe	17734km2	5427267	Lofas	Robo	3944
+25.	Přejedl jsem se cukroví(#330) - Tev42	16040km2	5401539	Lords	Feud	3982
+26.	Bombing Hero(#1930) - the last Hero	15342km2	5349921	Bombing	Utop	3935
+27.	War Criminal - Aggression(#761) - KEPR	20519km2	5321412	warcr1me	Kom	3979
+28.	Braveheart(#398) - Tomasius Velky	20252km2	5284051	LBL	Feud	3967
+29.	PLANET-X Orbit of Nemesis(#422) - ZUMOTRIX	17968km2	5278172	UFO	Utop	3977
+30.	Dezova mamina(#1298) - Caesar159	15399km2	5260099	LBL	Robo	3940
+31.	Yraxis(#2188) - K4st4n	19276km2	5237021	.:YD:.4	Robo	3980
+32.	Sex on the beach(#77) - .adm1n.	18754km2	5206929	.:V3R:.	Rep	3928
+33.	Planet of the Apes(#3104) - Pajanec7	20109km2	5198250	=HASH=	Robo	3874
+34.	Caesarova babka(#1711) - Dezider	17051km2	5120872	LBL	Fund	3933
+35.	Always vložka(#1685) - Nicotkin	16683km2	5115321	LsM	Robo	3850
+36.	Bibi in da Kromeriz(#878) - King Bibi 666	19555km2	5025635	FCT	Robo	3960
+37.	ShinobiItachi(#374) - Hajnos	15697km2	5005133	Wrath	Robo	3968
+38.	upio(#457) - Spettro	19374km2	5004909	dementi	Robo	3724
+39.	-=DF=- Absolut Vodka(#178) - Michal44	18430km2	4980680	-=DF=-	Robo	3981
+40.	Dolph Ziggler(#895) - KingSixx	14734km2	4919092	x.x.x.	Utop	3930

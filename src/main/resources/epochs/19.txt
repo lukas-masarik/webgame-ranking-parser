@@ -1,0 +1,42 @@
+19. VĚK
+#	Země	Rozloha	Prestiž	Aliance	Vláda	Kol
+1.	Alvar(#437) - Pepo	19509km2	8978930	M*A*S*H	Utop	3833
+2.	Inkvizitor(#2013) - ZuLus	24538km2	8555983	tAoW	Kom	3789
+3.	Pivnaland(#790) - Vojpivna	18908km2	7339729	M*A*S*H	Robo	3050
+4.	AURUM POTESTAS EST(#1440) - Meril	1000km2	6967393	UFD	Utop	3687
+5.	Pejskov(#4014) - DOG of WAR	23018km2	6710640	OS	Kom	3158
+6.	Pretoria(#1158) - ARiES.	20323km2	6611272	3P	Demo	3763
+7.	Stex(#105) - Cadlo The Great	22461km2	6440109	NOE	Utop	3697
+8.	Crusherland(#575) - CrusherBr	22811km2	6358261	Břez	Kom	3777
+9.	WORLD OF WHITE WARRIORS(#1624) - musoliny	23738km2	6310081	OS	Kom	3688
+10.	Dragostea Din Tei(#41) - Zex	8971km2	5633118	INTR	Demo	3702
+11.	Vubec(#355) - KiToS	1000km2	5616133	INTR	Kom	3762
+12.	Land of Tydytko(#671) - O typos	23402km2	5607461	/Y-X-T/	Demo	3749
+13.	Beze slov(#804) - Paskvileček.	25848km2	5502212	Břez	Dikt	3827
+14.	Bouranice(#96) - Facka	5741km2	5444243	INTR	Kom	3765
+15.	Samba(#254) - RC	21243km2	5409975	NOE	Feud	3752
+16.	www.q3nutp.fotomodelka.cz(#1518) - eeeee	19781km2	5396225	TFC	Utop	3865
+17.	Holubí dům(#856) - Holub	23213km2	5364352	Břez	Kom	3811
+18.	Uroboros(#626) - loki	29529km2	5183170	P-V	Kom	3768
+19.	Tech Land(#984) - Stemba	17875km2	5098464	NOE	Robo	3689
+20.	MP`s Flying Circus(#1415) - hacho	19383km2	5075200	MP-FC	Kom	3531
+21.	STYLEWAR(#616) - ACHILES	19170km2	5041213	H-P-SF-O	Kom	3470
+22.	Freedom of Speech(#546) - K4prik	23295km2	5000000	M*A*S*H	Kom	3802
+23.	Alternativa(#3091) - McCloud	10658km2	4962679	T	Kom	3227
+24.	S.one(#431) - Suram	15994km2	4961844	T	Robo	3703
+25.	Joeikov(#86) - Joe the Ruler	18978km2	4947963	R.I.P.	Robo	3684
+26.	Angel Empire(#2028) - Angelos	13340km2	4929311	3P	Utop	3558
+27.	Decimace(#1241) - Patrik666	19830km2	4907613	Břez	Robo	3807
+28.	Past(#152) - Past	19811km2	4858264	RDA	Demo	3667
+29.	Light(#2457) - Brian	1000km2	4853784	INTR	Demo	3715
+30.	Avalon(#1726) - Lord Aragorn	12986km2	4842089	T	Utop	3648
+31.	ChsM(#605) - lubisekus	17485km2	4765950	RDA	Robo	3790
+32.	IndaHouse(#946) - Austin	16999km2	4734191	NOE	Utop	3701
+33.	...let the gun do talking(#1533) - safi	18818km2	4717863	H-P-SF-O	Kom	3739
+34.	Zeme Velkeho Misaka I.(#1585) - misak	18262km2	4714665	MP-FC	Kom	3645
+35.	Avanil(#1842) - Hondo	19307km2	4712452	NOE	Demo	3362
+36.	Anonyme Imperialism(#101) - Anonyme	15710km2	4690949	FUTURAMA	Demo	3682
+37.	Haegemonia(#729) - Phoboss	17090km2	4661249	H.C.D.Z.	Robo	3649
+38.	Tar Ancalimon(#1591) - system71	18079km2	4659984	M*A*S*H	Kom	3432
+39.	Almerland(#779) - Almer	18921km2	4659896	NOE	Feud	3658
+40.	B a n i k O s t r a v a(#677) - 13enifi	1000km2	4624460		Demo	3849

@@ -1,0 +1,42 @@
+27. VĚK
+#	Země	Rozloha	Prestiž	Aliance	Vláda	Kol
+1.	Submisivní dívenka(#12143) - Dimmu.Borgir	19945km2	13091211	.::R::.	Demo	3484
+2.	Dance of marionettes(#834) - Bink z Osviceni	26677km2	11498647	MoSc	Kom	3621
+3.	KIRNER(#333) - Irenet Afen	18071km2	11294374	.::R::.	Demo	3655
+4.	Satalice(#12) - Rehmen	27038km2	11164520	3rdWorld	Utop	3729
+5.	Avalon(#1350) - steamroller	27777km2	10846037	.::R::.	Robo	3730
+6.	Omingo Djú(#325) - Irenet Afen	19017km2	9699076	=DS=	Demo	3660
+7.	Thrudvagnar(#6667) - Charlemagne	23586km2	9538435	THOR	Robo	3857
+8.	Rio Ollie Parker(#158) - .DuKeLuKe.	23364km2	9268089	BH	Demo	3648
+9.	Pán pánů pán(#6065) - Morfeus	25739km2	9233086	BH	Rep	3808
+10.	Shinji kun(#526) - Philman	27901km2	9183954	=DS=	Robo	3635
+11.	?ekvicovice(#5398) - .FeXeR.	14999km2	9176813	MK	Utop	3676
+12.	Mikawa(#12458) - Yohan	21970km2	9163634	BH	Demo	3792
+13.	Mamberamo Skript(#6421) - ..Riki..	33678km2	9147584	VK	Rep	3579
+14.	FSB Bruiser(#1547) - OhneR	20000km2	8971529	D1KTATOR	Demo	3855
+15.	MUJ DÍROV(#2286) - ToM0	19999km2	8950984	=DS=	Demo	3672
+16.	Garry Owen(#1456) - OhneR	19881km2	8912921	D1KTATOR	Demo	3855
+17.	VeYRoN(#4782) - .FeXeR.	19840km2	8729382	D1KTATOR	Demo	3734
+18.	Betelgeuze(#258) - Stanislav III.	21228km2	8714402	THOR	Robo	3851
+19.	ECho from darkneSS(#3130) - H3LL M4KER	19964km2	8639399	-=KA=-	Demo	3798
+20.	Psilocybe arcana(#581) - Plechi	20219km2	8579781	n1	Robo	3768
+21.	...:::Evil Islands:::...(#3898) - Deus	19886km2	8299035	D1KTATOR	Demo	3727
+22.	Bramborka(#1897) - Mandelinka Bram.	23816km2	8257003	BH	Demo	3855
+23.	XX(#17) - Dívka	23000km2	8000000	MoSc	Demo	3838
+24.	Do not disturb...(#393) - Zorg	18312km2	7973499	MK	Tech	3584
+25.	Střízlivé nás nedostanou(#3666) - Mr. Neo	19212km2	7757939	.:NN:.	Demo	3786
+26.	/bin/zsh(#1631) - Zorg	18338km2	7713837	GPL	Rep	3853
+27.	Budeš vilně mrousat(#1773) - Razor	20998km2	7654483	VK	Kom	3810
+28.	Porco Rosso(#513) - Philman	19587km2	7527239	=DS=	Demo	3667
+29.	Sekaný olovo(#2058) - Krlesh The Big	20000km2	7478914	BUM	Utop	3847
+30.	Rivvia(#918) - rivvy	20112km2	7414964	Sleepers	Utop	3846
+31.	Nejsom reper, som writer(#796) - .RudyJames.	18726km2	7366629	-=KA=-	Robo	3641
+32.	CAMERON DIAZ(#52) - xkukx	17843km2	7172985	SK	Demo	3856
+33.	BESARABIA(#591) - Abdul	23099km2	7170234	.::R::.	Robo	3844
+34.	Probe of Destruction(#8889) - Grandor	20433km2	7105070	-=KA=-	Demo	3824
+35.	Hradiště(#11769) - vonhonzik	22467km2	7095180	Kpwd2	Demo	3804
+36.	Salaš(#5154) - Gazda	20000km2	7088611	digi	Utop	3798
+37.	Cyber Knight Bohemia(#2171) - General.Payton	20993km2	7049830	BOBR	Kom	3839
+38.	Access Granted(#212) - WEBmaser	20000km2	6987628	BUM	Utop	3850
+39.	Kalíme a fetujem(#3396) - Erwin Stahler	20000km2	6927621	MK	Rep	3854
+40.	az25znakovTAKtoVYUZIJEM=D(#2015) - Lord TROKS	19126km2	6864668	.::R::.	Demo	3821

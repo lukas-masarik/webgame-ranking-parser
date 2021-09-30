@@ -1,0 +1,42 @@
+83. VĚK
+#	Země	Rozloha	Prestiž	Aliance	Vláda	Kol
+1.	UTRISIPUSU :P(#1082) - ftacik	21363km2	15280345	cerveza	Kom	3864
+2.	Kash qoy qoyi thira disse(#1043) - Khal Drogo	31526km2	12850203	Dothraki	Robo	3979
+3.	Maxikovo(#167) - -MaX-	20605km2	12734378	UVVB	Tech	3942
+4.	Atlan je nový Měsíc :-D(#253) - martum	28644km2	12030674	M	Robo	3954
+5.	Vyhlad mě, prosííím(#239) - PEJSEKaKOČIČKA	21312km2	11918480	NBS	Kom	3588
+6.	lOVEloulinek(#2399) - poMe	24999km2	11216171	Ganja	Feud	3748
+7.	New Found Glory(#2375) - Pepa Bechr	11179km2	10111662	cz-sk	Utop	3641
+8.	.:W:. Myš pod peřinou(#317) - Revelation3	17762km2	10072379	*WiNDe*	Utop	3920
+9.	mostarie(#245) - martum	21149km2	10005037	NBS	Rep	3978
+10.	Mechatronic(#1630) - martin026	25679km2	9824324	KABAT	Feud	3972
+11.	The Moon Maniac(#413) - Hawkmoon	26999km2	9721166	M	Robo	3970
+12.	=) + =) = =)=)(#986) - sparke	21030km2	9381816	sP`	Kom	3954
+13.	Svému Osudu Neutečeš..(#1919) - Dragon.Slayer	17500km2	9304504	NBS	Utop	3968
+14.	VTIP O Hadovi a Zajacovi(#129) - hlubik	15867km2	8976736	VO	Utop	3977
+15.	Atlan si ho měsíc nemyl:)(#2120) - Darth Knight	22939km2	8678318	M	Robo	3959
+16.	Zmizík Měsíční(#477) - Sandra...	21359km2	8645021	M	Feud	3904
+17.	UM Loki(#2255) - FoxSpy	23581km2	8513260	UM	Robo	3964
+18.	Jíjánek Farmánek(#2050) - forák	16715km2	8475273	CHAOS	Utop	3961
+19.	Bylo nebylo(#279) - Milka I.	14101km2	8385266	ČOKO	Utop	3970
+20.	.:W:. Alea_Iacta_Est(#738) - wind	23456km2	8313942	*WiNDe*	Robo	3961
+21.	Dawe(#1519) - Cenzor3d	19092km2	8207380	T3R0R1ST	Kom	3832
+22.	.:W:.iNDávačka(#2155) - SAHI	21375km2	7882557	*WiNDe*	Feud	3941
+23.	Nedistán(#941) - Milned	28166km2	7820110	UVVB	Robo	3979
+24.	Opičí dráha(#1553) - Zarputin	17111km2	7797389	MK	Demo	3962
+25.	arma del genio(#183) - 8ruk1z1	24796km2	7639709	I.H	Feud	3979
+26.	Corruscant(#193) - Dart.Kanne	12404km2	7556988	TemLeg	Utop	3892
+27.	Legionář Zapomění(#217) - Anděl	18000km2	7532882	KL	Rep	3978
+28.	1000100101111111001100011(#1674) - Mrkvička777	24634km2	7499267	Across	Robo	3979
+29.	Pochybný Hráč(#290) - Katcheena	23247km2	7495921	UP	Demo	3979
+30.	akjldfsl(#866) - imdeath	15387km2	7371540	Zero	Kom	3506
+31.	To neumíš co?:D(#1166) - mulako	21818km2	7350545	.:oMg:.	Feud	3912
+32.	Goodbye(#2858) - Melanie Brown	14674km2	7334517	SG	Demo	3907
+33.	vsetky oci na mne(#846) - rybka es atrás	20000km2	7329023	PíPíBí	Utop	3652
+34.	Střechy jsou mi chodníkem(#532) - Dhany	22028km2	7326810	Ganja	Robo	3943
+35.	Lechtivá slečinka(#3789) - c4u710n	26128km2	7292232	ManG	Robo	2687
+36.	LOS made in Božkov(#398) - Topisek	26749km2	7265563	.L.O.S.	Feud	3972
+37.	VALKAC VON CHOŽOV(#1419) - jesper	15902km2	7101333	-=NF=-	Utop	3969
+38.	... Musíš začít cvičit...(#1003) - Zkusimto	20657km2	7084374	COOL	Demo	3969
+39.	No pain, no Gain(#2367) - ListerD1	3313km2	6987993	ČD	Utop	3616
+40.	Maškaráda(#924) - .Grim.	19393km2	6980718	KL	Demo	3974

@@ -1,0 +1,42 @@
+42. VĚK
+#	Země	Rozloha	Prestiž	Aliance	Vláda	Kol
+1.	S fackal jsem svýho synka(#9462) - Lord Biry	25470km2	13016323	StrakerS	Kom	3874
+2.	Flying Without Wings(#1388) - Raciolky	23645km2	12415938	BIRACEK	Kom	3870
+3.	Chcem cislo zeme 25 :D(#192) - Konopess	27671km2	10618872	VENDETA	Demo	3945
+4.	Dvě v leže(#5985) - Smajdaalf	23967km2	10321309	BIRACEK	Demo	3900
+5.	Rabid fanatic(#5001) - Hyperactiv	27851km2	10290212	-SC-	Demo	3976
+6.	Brutal Beton 2007(#2206) - Zilos	19222km2	10042450	A*o*B	Kom	3714
+7.	WarLord(#11898) - Muty	24959km2	9032807	=P*A=	Robo	3945
+8.	Dionisos-God of Wine(#4171) - KEPR	16000km2	8960385	Olympie	Kom	3837
+9.	NEX.varaC(#137) - varaciO	25015km2	8912104	WRS	Kom	3734
+10.	pcheeeeeeeeeeee(#9986) - .Zabrda.	14128km2	8520308	Sadomaso	Utop	3856
+11.	Drátovaný HYPER(#7342) - Urenduil	24592km2	8231517	-SC-	Demo	3875
+12.	Indiansky tanecnik 8-)(#11896) - Walden r Gwendor	24499km2	8163332	GAYBAR	Utop	3971
+13.	M+generálové = 19999,-Kč(#789) - golmy	20647km2	8148344	CASHgame	Demo	3975
+14.	Bartholomew Jo-Jo Simpson(#6961) - Aster0	21212km2	8122850	.:MTF:.	Kom	3886
+15.	Vectran+Spectrum=Biry(#968) - Lord Biry	24397km2	8086412	BIRACEK	Demo	3978
+16.	Antonov An-225 Mrija(#15960) - popadinec	15905km2	8071756	.::R::.	Utop	3382
+17.	I never forget(#9370) - goodest	24998km2	7975452	KÚ	Kom	3908
+18.	BEZ NÁZVU(#6893) - PajinXXX	20204km2	7886828	paa	Kom	3927
+19.	mamPodělanejPcAsiNehraju(#8866) - ptak77	18258km2	7886017	-=BOSS=-	Kom	3798
+20.	Su-35 Super Flanker(#4112) - steamroller	21276km2	7862804	ALFA	Kom	3890
+21.	Snakes(#2970) - Chica	22354km2	7651434	SNAKES	Demo	3947
+22.	ZEMĚ ZABLEŠENÝCH OPIC(#1051) - PÁN OPIC	21666km2	7613682	J.J	Kom	3957
+23.	Uzenářství veverek(#10156) - Sir Robertini	20540km2	7592994	UVVB-1	Demo	3945
+24.	Scrapheap(#6886) - Komrl	25555km2	7513280	*EC*	Demo	3977
+25.	SVĚT PODLE NIKIHO DARXE(#6179) - .NeoGothic	22137km2	7407613	KEVLAR	Demo	3974
+26.	Drátovaný portviš(#5090) - Urenduil	15859km2	7381617	=MZ=	Demo	3872
+27.	Hot WingsIrrecoverable ..(#1097) - King Forever	19999km2	7256141	BUTIK	Tech	3906
+28.	Skola je na piiiiiiiiiiip(#7963) - Joker16.	27132km2	7154320	ganja	Robo	3972
+29.	Die Bitch(#3973) - Sir air soft	24042km2	7126449	FLS	Demo	3917
+30.	PrD3ln1 Vr3D(#4872) - klankosti	14557km2	7091657	/Fe4r/	Kom	3574
+31.	tsssssssssss(#9983) - .Zabrda.	13012km2	7039686	Sadomaso	Utop	3851
+32.	Ďáble ty Lumpe...(#91) - thordevil	24071km2	7037698	LE	Demo	3979
+33.	klokotina(#8445) - Senmen	23325km2	6908502	null	Robo	3907
+34.	Lmaoland(#12712) - Jerwi	22499km2	6877748	Kulišáci	Kom	3848
+35.	Tyrande(#11461) - H2Ok	28996km2	6804752	Kalimdor	Tech	3945
+36.	Prašné duny(#2320) - click01	31387km2	6765088	Milenci	Robo	3971
+37.	Bez skillu nejsou koláče(#12635) - Romulus.	30674km2	6715621	-,-	Robo	3970
+38.	MOJE DÍRA(#6036) - ToM0	26000km2	6645868	n-jedna	Robo	3830
+39.	HellGuard of TrupyLend(#6004) - FARR FARR AWAYY	24943km2	6575972	NUKE	Demo	3971
+40.	Pekelne Nebicko(#756) - Pouštní liška	18213km2	6395392	R.W.A.	Robo	3951

@@ -1,0 +1,42 @@
+21. VĚK
+#	Země	Rozloha	Prestiž	Aliance	Vláda	Kol
+1.	MaloCasuNaKlikanie :/(#5504) - Tan X.	22118km2	15295393	SR	Utop	3767
+2.	Gaborn Vel Orden(#4020) - ParaZit	19238km2	10551760	HOR	Robo	3827
+3.	Perun(#221) - Libor	31272km2	8807885	tAoW	Robo	3849
+4.	Kromanonsko(#1233) - Nabuchonodozor	28620km2	8656731	tAoW	Robo	3842
+5.	Modrá Zátoka(#2332) - EddA	38657km2	8614720	tAoW	Robo	3870
+6.	Matura=Farma=TOP1(#2852) - Boss33	29248km2	8518425		Robo	3818
+7.	S.one(#88) - Suram	28314km2	8226106	tAoW	Robo	3858
+8.	Uroboros(#181) - loki	27406km2	8218710		Robo	3747
+9.	Inkvizitor(#1848) - ZuLus	34602km2	7855841	tAoW	Robo	3859
+10.	Elodrádo(#266) - alu	26367km2	7855388	AYES	Robo	3846
+11.	Sputnik I(#6566) - .Ufounek.	20101km2	7540587		Demo	3800
+12.	.LamerskyFarmar.(#7410) - manisback	25388km2	7268753		Utop	3432
+13.	Rumland(#7728) - Zaribel	11668km2	7130586		Demo	3216
+14.	ChsM(#994) - lubisekus	27538km2	7128097	RDA	Robo	3839
+15.	matka predstavena(#3899) - kamikadze10	18971km2	6756008	SR	Rep	3766
+16.	Threat(#45) - Slaughter	28273km2	6631644	tAoW	Kom	3825
+17.	Leoland(#4713) - Sexpert	28232km2	6579842	M.T.	Robo	3811
+18.	Mumu Land(#3885) - Brujerizzmo	26300km2	6500959	M.T.	Demo	3769
+19.	Magicland(#514) - Hurd	19436km2	6367213	SR	Kom	3834
+20.	Liberty(#6053) - alu	22365km2	6195683	AYES	Demo	3825
+21.	West Springfield(#6353) - Bart Almighty	25154km2	6038259	SZVM	Robo	3783
+22.	Pivnaland(#739) - Vojpivna	20157km2	5962036		Demo	3853
+23.	Halloween(#996) - Axxxxis	19297km2	5863520	AYES	Robo	3798
+24.	Mufland(#191) - MUFAN	17951km2	5747441	D:Mages	Utop	3849
+25.	Mimas(#2566) - Keeldon	21560km2	5746312	RDA	Demo	3851
+26.	Kamelot Reloaded(#5365) - Artuš II	11195km2	5614719	MOSAD	Tech	3085
+27.	Huhulakof fon gumos(#295) - Sanysek	26697km2	5545143	tAoW	Kom	3857
+28.	country of afganistan(#3836) - davess	25676km2	5524709	tAoW	Kom	3848
+29.	Algerothova Citadela(#2213) - Toshiro	17271km2	5484290	OS-VH	Robo	3838
+30.	Massacre(#1231) - Komplic	20177km2	5480345		Rep	3849
+31.	Fast and Furious(#4228) - Sepie	18778km2	5464805	HOR	Robo	3842
+32.	www.aventia.dk(#2899) - Brian	20410km2	5419554		Robo	3855
+33.	Roar Ljoekelsoey(#1264) - ginobili	16995km2	5399151	UED	Kom	3859
+34.	Imodium(#6777) - lubisekus	19363km2	5388668	RDA	Robo	3737
+35.	Ta?ka farmář(#4207) - Arbi	27317km2	5343796	tAoW	Kom	3676
+36.	Smetisko(#307) - Puklica	20567km2	5333964	SR	Kom	3825
+37.	Jamabushi(#5978) - JNK	23318km2	5314691		Kom	3852
+38.	offroad(#4191) - hummer	19914km2	5244966	AYES	Robo	3800
+39.	sKiLLeR FaRmA :D(#1944) - anjelik	17141km2	5155271	=sKiLL=	Kom	3857
+40.	RimmerLand(#107) - arrimmer	22115km2	5104125	RDA	Kom	3860

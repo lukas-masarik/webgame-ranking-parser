@@ -1,0 +1,42 @@
+80. VĚK
+#	Země	Rozloha	Prestiž	Aliance	Vláda	Kol
+1.	Skill And Highest Income?(#3441) - SAHI	21925km2	10737970	VÍCADMIN	Demo	3841
+2.	Bude lepe a lepe(#3318) - ghostslayer	26797km2	9921459	c0n	Kom	3977
+3.	Sexbomba od vedle(#3723) - Verunka3	23227km2	9356324	VD	Kom	3571
+4.	regio glutea(#3381) - Dragon.Slayer	14999km2	9062814	=FF=	Kom	3887
+5.	Serious Sam(#1763) - .Serious Sam.	23999km2	8791794	SUX	Utop	3978
+6.	????????????????????????(#1721) - Rhoods	27048km2	8698643	RAF	Robo	3979
+7.	INvinoVERITASinPIVOtaky(#2725) - . . . . .	30642km2	8651095	Mexicans	Robo	3978
+8.	Mania(#3284) - Hawkmoon	25433km2	8568214	Ganja	Robo	3841
+9.	Svému Osudu Neutečeš..(#2914) - Dragon.Slayer	14999km2	8546530	NBS	Fund	3938
+10.	Bravurně bombící beránek(#1410) - .Hellboy.	19576km2	8415339	Krutor	Utop	3979
+11.	Wolverine.:(#1288) - Sir Olmeca	12333km2	8341709	-DK-	Tech	3936
+12.	.hunteRs. KRAKEN(#2464) - WORKHOLIK	18527km2	8207296	.hunteRs	Robo	3957
+13.	Pojeby, klamstva a omyly(#1897) - snasa1	20591km2	7911497	*UL*	Kom	3858
+14.	Guma wybil OKNO(#2301) - leszek	19000km2	7802592	KS	Tech	3578
+15.	Mám jednu nohu dlouhou(#441) - Dhany	21554km2	7531458	Ganja	Robo	3951
+16.	Artek(#109) - Jurgens	23225km2	7517476	68	Utop	3979
+17.	Neviditeľna ruka trhu(#3005) - sekacpp	26110km2	7403874	PDHT	Robo	3956
+18.	Sláva, už je sníh(#2722) - Sjezdovka	17906km2	7326658	BFP	Utop	3650
+19.	Farma s H12 není hřích(#1420) - HeadShit	31878km2	7235606	RAPTOR	Robo	3946
+20.	A s kým?(#747) - marcoss	18091km2	7068455	.:H-A:.	Rep	3948
+21.	Darkout(#2720) - Jnao	25602km2	6959898	=/M/=	Robo	3977
+22.	Can U beat me?(#3176) - Dzindzik	18216km2	6954266	W.G.M	Demo	3945
+23.	Dčko(#324) - Discoworld 2	22087km2	6930343	RAPTOR	Kom	3979
+24.	Battlefield Earth(#187) - Živočich	21747km2	6833040	PDHT	Kom	3955
+25.	Příroda je neklidná(#223) - Milka I.	17723km2	6441074	ČOKO	Utop	3978
+26.	LOLomouc(#3849) - Dhany	13108km2	6428826	TSŽ	Utop	3932
+27.	Don`t talk, just kiss(#3008) - su1c1der	12746km2	6366674	ČD	Tech	3969
+28.	Khazad-dum(#843) - gugoslav	15317km2	6329088	(RV)	Utop	3977
+29.	Sedláčkovo Kvarteto(#3467) - Aram Chroustal	14324km2	6243208	RAPTOR	Kom	3964
+30.	NIEsomSKILLERaleKILLNEMta(#3799) - Lord TROKS	22423km2	6183454	HOPRDOX	Kom	3927
+31.	Naštvanej králíček(#2902) - Budulínek s.r.o	19414km2	6158533	queens	Rep	3949
+32.	Ancient City of Giruvegan(#650) - AnYoNe	13000km2	6101378	*DP*	Utop	3654
+33.	de lege ferenda(#2164) - gerbera	29583km2	6032198	=HASH=	Robo	3976
+34.	A za kolik expu to bylo?(#2064) - Saturas	16030km2	6024042	A.C.S.	Utop	3936
+35.	Trimonium(#663) - Instron	13030km2	6022602	*RPC*	Kom	3963
+36.	NO PAIN NO GAIN(#2008) - skusim	20443km2	6000674	RAPTOR	Feud	3972
+37.	WTF Zoidberg?(#498) - Juve60	23483km2	5947902	HyeNy	Fund	3978
+38.	The Wicked Symphony(#2751) - iamKenji	25265km2	5936796	*`=/-.,	Robo	3978
+39.	New Found Glory(#2471) - Pepa Bechr	25380km2	5923831	cz-sk2	Dikt	3766
+40.	boheMISTA(#206) - Mista	15151km2	5900317	BFP	Utop	3945

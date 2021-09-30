@@ -1,0 +1,42 @@
+122. VĚK
+#	Země	Rozloha	Prestiž	Aliance	Vláda	Kol
+1.	War Criminal(#941) - Remor	32644km2	24794250	HiB	Utop	3623
+2.	Túrin Turambar(#1802) - hlidac3	27500km2	15548260	KOZA	Kom	3706
+3.	Gang bang(#1579) - Masias	31601km2	11593072	HiB	Feud	3682
+4.	Pobodám Tě(#869) - Eph3dr1ne	23333km2	9677387	Afrik	Kom	3944
+5.	Firefly(#1428) - Uaah	15999km2	9359689	LBL	Utop	3967
+6.	... Chceš být fit ...(#1347) - Zkusimto	20324km2	8452046	COOL	Utop	3671
+7.	pasivka h13(#1198) - Atlantik	15999km2	8435766	LBL	Utop	3936
+8.	Blood Runs Cold(#946) - ridgeback	15919km2	8332316	LBL	Utop	3884
+9.	Prasopysk(#1063) - Kwasak	23472km2	8196623	KZ	Demo	3976
+10.	Spittal of Glenmuick(#1001) - ridgeback	24333km2	8113223	M	Robo	3976
+11.	VM agency(#1092) - rybka es atrás	30505km2	7897359	Bali	Robo	3792
+12.	:((#1825) - Duskooo	21903km2	7849335	.LL.	Robo	3954
+13.	Gotham(#245) - ListerD1	30947km2	7712049	DF	Demo	3807
+14.	moze byt?(#376) - Stinx	28038km2	7595408	Genocida	Robo	3901
+15.	Igor kmeto(#1406) - sWEde	23077km2	7594562	-osn-	Kom	3937
+16.	LOS made in u mě doma(#1174) - God si me	21853km2	7582320	.L.O.S.	Rep	3888
+17.	.:.:.:.:.:.:.:.:.(#554) - Thooom	21460km2	7475530	Across	Feud	3979
+18.	NIEsomSKILLERaleKILLNEMta(#401) - Lord TROKS	17152km2	7428534	LBL	Utop	3888
+19.	LOS losí masíčko naprudko(#906) - StillDeadCZ	18432km2	7377730	.L.O.S.	Demo	3979
+20.	Ještě jedno prosím(#67) - FR3EZY	17406km2	7148274	TMBK	Utop	3969
+21.	Slepá mapa na parketu :((#1363) - mara8	15888km2	7081820	LBL	Utop	3878
+22.	tyto znaky *`=/+-,:())(#584) - ....dog....	15401km2	7012462	LBL	Utop	3877
+23.	Corleone(#279) - tvojasmrt	17613km2	7001522	LBL	Utop	3936
+24.	pohodicka(#292) - sir Kopcem	12147km2	6947664	MENSA	Utop	3885
+25.	Harichovce(#1177) - shlimak6	14193km2	6898512	68	Utop	3969
+26.	Jsem z toho poplematený(#116) - thordevil	14266km2	6666155	Junkyard	Utop	3978
+27.	Čajna(#1124) - Falkus.	22066km2	6647870	D3V1L5	Feud	3971
+28.	M. R. Štefánik(#403) - Lord Kamzo	19604km2	6482237	HISTORY	Utop	3979
+29.	Vendula Chalánková(#226) - marv III	21977km2	6472531	Across	Dikt	3889
+30.	LOS made in Argentina(#165) - Mr. Sedlinno	17958km2	6436255	.L.O.S.	Feud	3955
+31.	Mamberamo(#317) - Vibrace	13866km2	6362624	Bali	Kom	3831
+32.	Taconafide(#47) - leszek	16054km2	6361953	LBL	Utop	3888
+33.	LOS made in Bum Shake Bam(#726) - BlackTears	17365km2	6325975	.L.O.S.	Utop	3964
+34.	Měsíční mužíček(#988) - Eph3dr1ne	21323km2	6287150	M	Feud	3978
+35.	GØD(#1767) - Eknurhs	15661km2	6195626	TMBK	Utop	3940
+36.	Psychedelic Hill(#56) - GanjaCore	22999km2	6086959	M.S.K.	Rep	3957
+37.	Eror22(#213) - Eror11	21207km2	6054265	LW	Robo	3978
+38.	..........EVE..........(#1550) - DarkOrme	12509km2	6037496	68	Utop	3904
+39.	Red Viper(#1083) - hlidac3	26539km2	6028100	.LL.	Robo	3976
+40.	Paroubkův fanboy(#136) - Adeptek	15559km2	6001662	ltf	Utop	3926

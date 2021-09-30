@@ -1,0 +1,42 @@
+46. VĚK
+#	Země	Rozloha	Prestiž	Aliance	Vláda	Kol
+1.	Můžu otěhotnět sPavoukem?(#4304) - Francimor Veliký	34771km2	30033333	1000	Utop	3482
+2.	WARRIOR from mastarie(#2878) - martum	29220km2	13187974	Zoo*LWB	Rep	3961
+3.	UcanSEEmeINaPORSCHEgt(#9503) - serre	28502km2	12807505	n-jedna	Demo	3959
+4.	Ufonek .adm1n.(#4168) - .adm1n.	25591km2	12222222	=DS=	Kom	3677
+5.	.:CZ-SK:.Disneyland(#6870) - child	31253km2	12202756	ČSLA	Kom	3936
+6.	-TX- Bet You Bit a Clum(#5585) - hum4nic	24999km2	11955889	ThermX	Kom	3665
+7.	Můžu otěhotnět s koněm?(#11475) - ...Kápo...	22000km2	11836597	Prof.	Utop	3577
+8.	Submisivní dívenka(#9510) - Dimmu.Borgir	29592km2	11799585	P-V	Kom	3747
+9.	MaturaTakzeNaWGMaloCasu(#270) - van dame	28158km2	11762225	H5N1	Utop	3570
+10.	Bartholomew Jo-Jo Simpson(#4545) - Aster0	22845km2	10560532	SF,	Kom	3863
+11.	Never Forget....(#71) - Anox	44019km2	10423697	čusíňu	Robo	3705
+12.	....... takže asi tak..;)(#7097) - a1capo	24444km2	10383554	VMCh	Demo	3958
+13.	Al Isra(#9766) - lowkey	20385km2	10284670	=AI=	Demo	3912
+14.	KILLER eska ciSLAPKAhezka(#125) - eska	25580km2	10193713	KL	Kom	3957
+15.	Dobelice(#4473) - Tinky binky ex	20621km2	9794313	...EX...	Kom	3927
+16.	Spleen And Hourly Idling(#9789) - SAHI	21582km2	9204972	nEf	Demo	3861
+17.	Zewl Land(#677) - Windows Error	22470km2	9117440	////////	Robo	3847
+18.	AnalnyOtvorcek(#7069) - Zilos	16564km2	9110259	R.D.	Demo	3842
+19.	ItsAlongWayToTHeToP(#2348) - Grunt7	24600km2	9058348	OKNO	Tech	3881
+20.	Serious_Sam(#136) - .Serious Sam.	22110km2	9024460	lvl8	Demo	3975
+21.	UZnefetujuLASKYmoje(#3184) - Temundzin	21755km2	8997228	TnD	Demo	3968
+22.	00000000000000000000(#3686) - Darth Knight	28163km2	8943672	Tabáček	Feud	3734
+23.	mám kámoše emzáka(#2712) - Wožungrush	25028km2	8932011	ÚDéHá	Robo	3937
+24.	zima este len pride(#1360) - absoluteruler	17539km2	8899673	KEVLAR	Rep	3873
+25.	Rover(#7760) - rucklu	25238km2	8737938	sKs	Demo	3951
+26.	Harem no Jutsu:(#365) - Tradhorn	34601km2	8658554	=(PPČ)=	Robo	3791
+27.	thank to all my friends(#3074) - melOG	17971km2	8621304	BFP	Demo	3870
+28.	BUG MORTALBAD(#2363) - MORTALBAD	21252km2	8555447	RAF	Tech	3418
+29.	SIL PrD3ln1 Vr3D(#12010) - klankosti	29522km2	8368583	IBHZK	Feud	3838
+30.	Lam(p)a(#3773) - Romel999	20019km2	8313058	RAF	Robo	3919
+31.	ŠliDvaATřetíZakop:)(#3778) - Romel999	26586km2	8182851	RAF	Robo	3975
+32.	znicena zem(#10643) - BlindJustice	23330km2	8168158	c0n	Tech	3821
+33.	Tanzanian Magic(#4064) - O.v.e.r.L.o.r.D	25942km2	8127263	-GW-	Kom	3897
+34.	Bombím(#110) - Garithos	32881km2	8089436	bombím-e	Robo	3975
+35.	Rusky snajpr I. KUDELIN(#69) - Dr.Leckter	29539km2	7988014	*UF*	Kom	3820
+36.	Ž14D/V4 F4RM4 1B4 5K1LL(#5595) - diefirma	24959km2	7951384	KEVLAR	Demo	3941
+37.	Lamer gothicman(#5744) - M4S3R	17960km2	7903443	D(o-o)B	Kom	3951
+38.	Tomušákov(#445) - Děda Jaga	37308km2	7866461	LLS	Utop	3968
+39.	Metrix je všude(#879) - Masias	24378km2	7829273	*Winde*	Demo	3810
+40.	KILLERhammerTOjeSPAMER(#663) - xhammerx	18597km2	7818189	KL	Utop	3972

@@ -1,0 +1,42 @@
+77. VĚK
+#	Země	Rozloha	Prestiž	Aliance	Vláda	Kol
+1.	Déjà vu(#1671) - Déjà vu	27406km2	13221098	*SN*	Tech	3850
+2.	Evženkovo duchnička(#680) - Evzen Hyberny	10416km2	11238760	.::VR::.	Utop	3324
+3.	Naumo(#286) - FriedrichPaulus	25323km2	10537281	Legend	Utop	3687
+4.	KREATOR-PhantomAntichrist(#3270) - SiRvAcA	28371km2	9020900	POVKO	Robo	3975
+5.	zeme plna sandalu(#1741) - sir uriel	26253km2	7845086	DF	Kom	3575
+6.	I Reform People(#1909) - ridgeback	24709km2	7789136	Rounders	Robo	3968
+7.	Colgate total war(#2876) - Krocan.II.Veliký	26124km2	7742058	:KaM:	Robo	3942
+8.	Registrace nové země 2(#2759) - nothing left	9999km2	7731748	VVC	Robo	3846
+9.	R3S93K7 SiL ikONy 4EveR(#2183) - klankosti	24334km2	7611979	PMCV	Feud	3941
+10.	Gloria Victis(#2638) - Lord Demokrat	25579km2	7536756	ŠvR	Robo	3899
+11.	Good cop.(#1638) - imperial knight	18794km2	7442445	L.O.S.	Tech	3976
+12.	Milujem Aďku:-*(#438) - rybka es atrás	19999km2	7222222	.:?:.	Dikt	3797
+13.	Pedigree Scum(#2360) - Karolínka	27547km2	7112885	*`=/-.,	Robo	3978
+14.	SZS Legenda(#2463) - BrankoStruper	18873km2	7006132	SZS	Fund	3924
+15.	St4r3j Z4rK4vI j3 t4dY :D(#2224) - LuisFigo	17839km2	6904265	SUX	Utop	3945
+16.	Attero Dominatus(#792) - Unubis	21578km2	6860178	BFP	Rep	3978
+17.	Slečinka Art of Flight(#2935) - dzafa kri.	17777km2	6859861	.:PES:.	Demo	3902
+18.	1011110001001011010100110(#3752) - HeadShit	23918km2	6804942	RAPTOR	Robo	3958
+19.	SheldonCooper(#2108) - Vibromax	24403km2	6721757	STARS	Kom	3968
+20.	Ahonic(#2682) - FoxSpy	20122km2	6702087	BFP	Robo	3976
+21.	Arménská zahrádka(#566) - Aram Chroustal	17852km2	6648069	RAPTOR	Utop	3775
+22.	Georgioland(#1858) - Georgio	27230km2	6545533	DAoSW	Demo	3958
+23.	Jožko Kukuricúdus(#412) - gorbatčov	22734km2	6527330	PH	Robo	3898
+24.	.:AveCesar:.Šnek_in_Black(#1645) - ŠavlozubáVeverka	17222km2	6498042	AveCesar	Utop	3964
+25.	Krtek(#3340) - Lucky6186	23004km2	6440126	VVC	Fund	3885
+26.	Artek(#65) - Jurgens	18900km2	6332109	ToAn	Utop	3959
+27.	Karak Dum(#652) - Reich Graf	15690km2	6314345	Sex	Kom	3936
+28.	Leo-šustič-Beránek(#444) - Gyriko	18800km2	6299999	BBB	Utop	3922
+29.	Nová doba...(#1493) - jackub	21767km2	6286126	ALIEN	Fund	3975
+30.	Chuck hádže kockou 7-ičky(#1981) - Mr. Sedlinno	20599km2	6233913	ALIEN	Rep	3964
+31.	.:AveCesar:.Řím(#467) - Ares65	15615km2	6160646	AveCesar	Utop	3978
+32.	New Bodhum(#1559) - paladin Uther	17416km2	6086363	ULoT	Utop	3973
+33.	Chrudoš(#4312) - Nargan	21598km2	6075832	Chrudoš	Robo	1218
+34.	kuřbuřtazduř(#2300) - labojse	20000km2	6036974	FMTUJ	Robo	3978
+35.	fakt už nevím(#1841) - masterWG	26350km2	5994817	*GM*	Robo	3961
+36.	Hannibal`s Underworld(#1792) - Dr.Leckter	14998km2	5979660	::U::	Utop	3819
+37.	Čaroděj ze země (k)oz(#2454) - nezbedny bohus	17176km2	5915997	PORNO	Robo	3936
+38.	TakA teď Vás zničímVšecky(#1093) - nicitel multaku	22746km2	5891935	::SoF::	Fund	3951
+39.	velkého prcka(#768) - Artemi	23898km2	5872489	RAPTOR	Robo	3979
+40.	nelibi se me tvoje zeme(#1827) - abraxas	30000km2	5864630	.:Z:S.:	Robo	3978

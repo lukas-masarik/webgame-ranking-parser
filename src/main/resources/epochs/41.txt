@@ -1,0 +1,42 @@
+41. VĚK
+#	Země	Rozloha	Prestiž	Aliance	Vláda	Kol
+1.	GanG Robo FarmA no.1(#8442) - Baťa	28579km2	14665598	-=ELW=-	Robo	3889
+2.	Ema mele maso(#6843) - xSkarx	15555km2	14343390	WG-elite	Kom	3771
+3.	Brůča se učí na státnice(#4497) - Nupacak	30316km2	13375857	G.U.M.I.	Kom	3924
+4.	Warriors(#3777) - Eia	18759km2	13116727	**WAR**	Kom	3949
+5.	Achaea(#464) - LeosA	25503km2	12982559	KKA	Robo	3794
+6.	A dost(#9705) - Felubik	19057km2	12308976	KRBV	Robo	3888
+7.	Zbraně Antiků(#766) - napoveda	25769km2	11495541	V,D,...	Robo	3935
+8.	say_BFP_plz(#842) - Mista	21693km2	11089000	s-BFP-p	Demo	3835
+9.	J@R3M M3 J3N T@K N3SUNDÁŠ(#3891) - Omastek88	28875km2	11016386	Lame	Demo	3958
+10.	kevlar for Funning Chaos(#5793) - diefirma	38698km2	10898680	:KEVLAR:	Kom	3955
+11.	symbianov(#14298) - Nokiac	31569km2	10811360	KDZ	Robo	3857
+12.	Ivoshi ty lamo...(#11972) - .Zabrda.	16001km2	10653304	Sadomaso	Tech	3800
+13.	Sometimes I hate myself(#9996) - serre	24399km2	10230271	n-jedna	Demo	3848
+14.	AbYsInIeCoDoSiAhOl(#479) - Thooom	20806km2	10155924	/Fe4r/	Demo	3776
+15.	Drum`n`Bass(#9041) - Pepemistr	22230km2	10120178	D3STROY	Kom	3938
+16.	Piviště(#168) - 4M0K	25875km2	10052907	DNJ	Utop	3858
+17.	reprezentuju TRUTNOV(#12571) - .Toshiro.	25235km2	10000377	574ND4R7	Demo	3829
+18.	Hell Hound(#5214) - Romel999	10823km2	9548884	Pokémon	Demo	3841
+19.	Damnatio memoriae(#11152) - nonPhixion	46531km2	9000466	n-jedna	Robo	3913
+20.	Mistr Rozjebavac č.hr. 94(#14395) - Galactica	38148km2	8765849	*RtH*	Robo	3952
+21.	J.J Donkey monkey(#4375) - abudabi	29027km2	8739135	J.J	Robo	3956
+22.	Desolater(#6602) - Darth Knight	19765km2	8724583	V1K1NG	Demo	3808
+23.	P3X-7336(#221) - MaximusD.M.	20756km2	8631010	/BA/	Robo	3940
+24.	Gryff z Erathie I(#1055) - ZapasnikII	17700km2	8433015	GRF	Utop	3758
+25.	Love Don`t Let Me Go(#10787) - Pepemistr	32143km2	8417969	D3STROY	Robo	3959
+26.	Gryff z Erathie II(#1056) - ZapasnikII	16843km2	8391241	GRFII	Utop	3756
+27.	Bloody Vengeance(#3554) - Zekusin	27158km2	8354382	VVK	Robo	3950
+28.	Už zase zapáchám plazmama(#3504) - Sertus	31369km2	8327116	Heaven	Robo	3946
+29.	cmelicka s plazmami(#14132) - cmelo	18049km2	8243139	cmelicka	Utop	3926
+30.	Rather dead than second(#290) - Nespravedlny	28672km2	8227621	WG-elite	Dikt	3927
+31.	Famer Johnatan(#2022) - Arjaho	26488km2	8146264	GanG	Robo	3932
+32.	.:CZ-SK:.disneyland(#2220) - child	28934km2	7941995	ČSLA	Utop	3949
+33.	Fishwagen(#2982) - KillerJohny	23225km2	7928802	pařmeni2	Demo	3875
+34.	The Lord of Darkness(#10613) - Insolitus	21439km2	7743606	TMT	Robo	3879
+35.	Oláá oLáá sKlÁdAčKa VoLáá(#7286) - predator xxl	28000km2	7718546	*A-A*	Robo	3947
+36.	Vilík(#5721) - Tradhorn	24742km2	7717656	=(PPČ)=	Robo	3945
+37.	Age of paranoia(#7348) - Nargan	19215km2	7692139	FaTeJs	Demo	3851
+38.	SAS Commando(#7053) - Hromaďák	27128km2	7684777	SAS	Robo	3937
+39.	RAMPA MC KVAK(#8804) - Razer INC.	25513km2	7670648	KACEROF	Robo	3948
+40.	SMRŤOVA ŘÍŠE(#12013) - Nerv	25438km2	7662178	*RIMOR*	Robo	3958

@@ -1,0 +1,42 @@
+29. VĚK
+#	Země	Rozloha	Prestiž	Aliance	Vláda	Kol
+1.	Revenge of the Siths(#14002) - Charlemagne	20620km2	11343645	THOR	Kom	3845
+2.	RAZER(#27) - Dannyboy	24814km2	10025656	=RAZER=	Robo	3719
+3.	Submisivní dívenka(#1661) - Dimmu.Borgir	19999km2	9949456	Apatie	Tech	3710
+4.	Stairway to Heaven(#4675) - nagga	16571km2	9822732	MEC	Utop	3823
+5.	Hannibalovo podsvětí(#13475) - Dr.Leckter	23508km2	9760838	MK	Kom	3825
+6.	Lentilka land(#16330) - BELOK	13465km2	9479235	NERO	Kom	3830
+7.	BIOS(#5260) - King Petr	21056km2	9414586	BIOS	Robo	3822
+8.	Hříbkovice(#103) - Klouzek.cz	19992km2	9331195	LPH	Robo	3851
+9.	Sendí Svět(#14594) - .Dosty.	12852km2	8888888	-=SS=-	Kom	3852
+10.	Bamboocha(#56) - soltari	7089km2	8681053		Utop	3630
+11.	GANGSTER`S PARADISE(#6108) - Gangster.	22022km2	8606760	=GANG=	Robo	3814
+12.	HTTP://WWW.WEBGAME.CZ/(#6868) - Mulen	14066km2	8580516		Utop	3811
+13.	Psylocibe arcana(#1315) - Plechi	25765km2	8399495	MK	Robo	3834
+14.	Dont even try it(#670) - nonPhixion	22500km2	8360961	n1	Demo	3685
+15.	The Great Ice Kingdom(#4505) - Whitelord	24000km2	8352605	SQUAD	Demo	3856
+16.	HORSEFEATHERS(#1543) - Huntter	23867km2	8254201	motyka	Demo	3761
+17.	oP3r4cI4 J4StR4b(#1871) - ray	20749km2	8219534	SmPr	Utop	3816
+18.	S brekem domu(#8183) - .endarion.	19923km2	8118100	-I-J-F-	Demo	3855
+19.	Brano Mojsej(#14517) - Wlad	23869km2	8100342	sry	Demo	3845
+20.	Nedistán(#1172) - Milned	30288km2	8094526	LLS	Robo	3858
+21.	Lord of Hatred(#4622) - DarkCrew	24628km2	8083879	IBL2	Robo	3850
+22.	dáŠ, nedáš nA KUráž(#14261) - SiDiX	17806km2	8000000	IBHZK	Demo	3813
+23.	HoriaciLes(#630) - HoriaciLes	17902km2	7961430	M.O.T.S.	Demo	3857
+24.	Klouzkoland(#32) - Klouzek.cz	17043km2	7912037	LPH	Robo	3851
+25.	Still doing my thang...(#13098) - funghistan II.	20641km2	7707025	DP	Robo	3793
+26.	Kleppel(#8460) - Bartoloměj	22463km2	7495214	OPPV	Utop	3858
+27.	Tularean Forest(#16372) - Hondo	31436km2	7485713	Alik	Utop	3859
+28.	STEAM(#4393) - pushTheTempo	25000km2	7419563	nex	Rep	3822
+29.	Blood and Honour(#2240) - Rankin	28993km2	7368152	INTR	Demo	3846
+30.	Tuer avec amour(#4329) - Kefalin	20020km2	7335599	aaaa	Demo	3790
+31.	Rupik`s Hell(#2120) - Rupik	10536km2	7322326	=MSR=	Robo	3822
+32.	RedbullRampage(#4487) - suck	24999km2	7319965	FRB	Utop	3859
+33.	Wait for the Siren s call(#1901) - Johncomp	23704km2	7299155	STOP	Rep	3847
+34.	TruePac(#6608) - Tpac..	24443km2	7283601	LLS	Utop	3857
+35.	Rohan.(#18084) - .Master.	19952km2	7238539	=EU=	Robo	3715
+36.	AlRybnik29 Zatravňovač(#346) - ElKapr	30076km2	7233172	VODA	Robo	3848
+37.	Země spálených prasat(#6362) - dave67	24999km2	7199481	FRB	Utop	3859
+38.	Mamberamo(#12203) - ..Riki..	10019km2	7196239	VK	Demo	3634
+39.	www.animecon.biz(#3367) - Andree	17857km2	7146723	MANGA.SK	Rep	3858
+40.	NaZahradeZeliRoste(#7410) - manisback	24327km2	7124011	SmPr	Robo	3840

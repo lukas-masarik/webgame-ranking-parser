@@ -1,0 +1,42 @@
+51. VĚK
+#	Země	Rozloha	Prestiž	Aliance	Vláda	Kol
+1.	Astičkov(#43) - Asticka	34964km2	16358653	AHA	Robo	3886
+2.	X-men.Storm(#7671) - Ikonoklas	24479km2	13831989	X-men	Utop	3570
+3.	Miluji Tě Zlatínko:love:(#279) - Alakar	21957km2	13683468	SK	Tech	3898
+4.	Veverky nadopované heliem(#723) - Mr Shaman	33333km2	12870953	Veverky	Robo	3847
+5.	No Drill - No Skill(#731) - CanisLupus	25555km2	12459248	ŽsN	Rep	3725
+6.	Velmi malo charakterny(#1174) - wiliam walace II	25999km2	12005779	VMCh	Utop	3585
+7.	Kořen(#378) - ACmilan	21144km2	11514318	Veverky	Rep	3764
+8.	Míšenka :c)(#5035) - Pepemistr	33947km2	11241535	Wrath	Demo	3978
+9.	Ivrin Falls(#280) - Idril	30845km2	11239163	=STB=	Utop	3960
+10.	Chelsea(#3506) - .Serious Sam.	23465km2	10652615	FARMERS	Demo	3951
+11.	.:KS-NiTraM Dr.Ol:.(#5325) - martin026	26151km2	10645891	KABAT	Utop	3852
+12.	Snížek tu je(#167) - NiakarAn	18241km2	10513191	UFO	Utop	3649
+13.	salamista(#1016) - buko10	25444km2	10279181	cerveza	Kom	3828
+14.	3313(#3107) - the bestest	33333km2	10003963	Kovárna	Robo	3932
+15.	Prunus Cocomilia(#4106) - Ukurusamba1	23909km2	9853250	TS	Kom	3713
+16.	Čvachtavé zvuky opodál(#700) - Haramheb 35	24840km2	9591188	*UF*	Rep	3902
+17.	SUD SOUND SYSTEM(#4250) - Panda urozeny	23951km2	9345478	UFD	Rep	3860
+18.	Vilík(#7799) - Tradhorn	22789km2	9086104	=(PPČ)=	Demo	3917
+19.	Uvidíme,co z toho bude?(#508) - Comanndos	29999km2	9006000	DEJAVU	Robo	3970
+20.	*GA* - krutý ušní lalůček(#5999) - futuree	22086km2	8799444	*GA*	Demo	3951
+21.	dO yOU rEmEmbEr mE At All(#709) - Lord Sesshomaru	26750km2	8587234	LEFT	Robo	3873
+22.	porežem Vás MUTERA(#345) - džulio	30349km2	8539990	ČSS	Robo	3978
+23.	24. Október 1924(#1353) - Aeon Craft	18564km2	8452946	.:V12R:.	Rep	3871
+24.	Jongens Ante Portas(#10267) - jongens1	25655km2	8315223	MEZIHRA	Feud	3807
+25.	princeznička najkrajŠia(#2594) - AliasKAKAO	34395km2	8226335	HyeNy	Robo	3953
+26.	Peace(#6529) - C.u.j.o	19380km2	8217700	ŽsN	Utop	3893
+27.	***?CENS??ORED?***(#2870) - mTj s.	22518km2	8078004	.:?:.	Kom	3947
+28.	????????????????????????(#10113) - Rhoods	19999km2	8059320	RAF	Utop	3581
+29.	Tak...znáš to(#4510) - BlackVarior	30000km2	8042422	S.O.S.	Feud	3517
+30.	MaSS DNM(#7632) - král urucskýý	24407km2	7857375	CMUS	Robo	3973
+31.	Mechanical Spin Phenomena(#4635) - Abbadon	22753km2	7762701	DaZ	Robo	3949
+32.	Až tě chytim, tak tě snim(#699) - Temundzin	13039km2	7721904	OST3	Kom	3765
+33.	Hej ja hraju jen 25dni(#13064) - Romel999	22791km2	7703761	RAF	Robo	2725
+34.	HellGuard of P.f.B(#422) - JJura	24632km2	7619205	GOTH	Robo	3974
+35.	F(r)iend(#5359) - sasa12224	24816km2	7599446	WG	Robo	3973
+36.	Tričko mám efektní(#2603) - Achran	13279km2	7512326	UFO	Demo	3960
+37.	. . . . . . . . . . . . .(#340) - van dame	26174km2	7491921	CMUS	Kom	3630
+38.	*******(#2905) - wostrič	26693km2	7405987	.:V8R:.	Robo	3979
+39.	Prasečí farma(#11549) - prasátko Buzi	15537km2	7330713	.:V2R:.	Utop	3185
+40.	Rozvojova Ukrajina(#620) - Wisnowiecky	23903km2	7321802	*UF*	Utop	3867

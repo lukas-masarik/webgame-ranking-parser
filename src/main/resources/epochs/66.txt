@@ -1,0 +1,42 @@
+66. VĚK
+#	Země	Rozloha	Prestiž	Aliance	Vláda	Kol
+1.	HistoryIsWrittenByVictors(#558) - Pyromnacer	20249km2	19917050	Wrath	Utop	3420
+2.	Successful ONE(#1337) - .Baťa.	27209km2	16484734	Řezníci	Utop	3543
+3.	Ticho nad oblakmi(#1475) - ridgeback	19999km2	14992305	LBL	Kom	3868
+4.	Nedistán(#1947) - Milned	24499km2	14029758	68	Utop	3501
+5.	Speak Of The Devil(#5401) - ptak77	28246km2	13221103	-=EK=-	Utop	3509
+6.	Dark Dreath Apeiron(#2406) - Scierx	27500km2	12509994	=*DC*=	Demo	3794
+7.	Gerasimovka(#189) - Jurgens	24805km2	12462596	68	Utop	3552
+8.	Banánový Joe(#540) - Joe The Boss	24920km2	11836001	=*DC*=	Tech	3785
+9.	Tori Black(#684) - Kazatel Havlis	23999km2	11700004	SIL	Demo	3936
+10.	SiL ikONy 4EveR(#1315) - klankosti	35059km2	11286840	SIL	Robo	3954
+11.	Brůča má loveckýho psa(#3805) - Nupacak	29163km2	10578639	sk-4	Robo	3926
+12.	Gallax Killer(#796) - JassonD	17777km2	10100000	*.:L:.*	Utop	3955
+13.	Coming undone(#1355) - Sir Olmeca	19168km2	10062525	-DK-	Demo	3953
+14.	Za Skeonka(#1555) - Temundzin	11245km2	9933555	Bourárna	Utop	3698
+15.	XmaXtremeX(#3331) - maXtreme	32607km2	9332930	Auyan	Robo	3979
+16.	Královské sídlo U Dřeváka(#991) - Joker16.	20031km2	9217527	Ganja	Utop	3977
+17.	Korzhenevskaya(#4091) - ksandys	20001km2	9162752	RQ	Utop	3868
+18.	Cry now, laugh later...(#1833) - Grunt7	19999km2	9161567	=*DC*=	Demo	3774
+19.	Nejobhospodarovavanejsi(#121) - Martin858	36301km2	8787878	UPS	Robo	3978
+20.	veverčí farma(#1286) - atticus.	31747km2	8580294	:)MM(:	Robo	3961
+21.	mi si accappona la pelle(#2303) - Prefik	22497km2	8545056	Lotta	Utop	3940
+22.	Che Guevara(#1763) - H00L1G4N	30363km2	8527337	RQ	Robo	3976
+23.	not Famous just Pro(#3136) - Gxx	23800km2	8385349	Wrath	Rep	3967
+24.	Techy(#1048) - Temundzin	14581km2	8133875	Bourárna	Utop	3325
+25.	Angels(#2174) - Skunky.	25624km2	8083366	H5N1	Utop	3970
+26.	Modrý pták(#811) - ridgeback	32899km2	8023805	Auyan	Robo	3912
+27.	Nejneobhospodařovávanější(#97) - Martin858	30505km2	8017552	SIL	Robo	3973
+28.	zla Veverka(#2565) - král urucskýý	14999km2	7702432	Veverky	Utop	3556
+29.	ThoseWhoKnowWillNotTell(#547) - Pyromnacer	21533km2	7593851	KL	Utop	3813
+30.	Are you Afraid x)(#2361) - N4TH4N13L	20129km2	7569410	-=HK=-	Demo	3978
+31.	Eski Girl(#3633) - Dhany	25821km2	7504081	Ganja	Robo	3953
+32.	Donne chiesa cornea(#2443) - stejski IX.	21569km2	7484750	Lotta	Utop	3889
+33.	You tread on my dreams(#434) - Eccentric	17327km2	7437044	Bourárna	Utop	3977
+34.	GanG Pimp(#5557) - UsherBA	30993km2	7167653	GanG	Robo	3939
+35.	Anonymous(#2577) - Wearh	17843km2	7149790	Lordi	Utop	3866
+36.	?????????????????????????(#1540) - Rhoods	25043km2	7088879	HOR	Robo	3570
+37.	NUKE LONGER(#35) - Štístko	25095km2	7084304	.:NUKE:.	Feud	3969
+38.	I Bara Hezky Zuzla Kulky(#1310) - klankosti	22173km2	6957147	Řezníci	Robo	3872
+39.	signal RedDwarf:STD_LOGIC(#3486) - BeeMarin	21693km2	6820486	RedDwarf	Robo	3946
+40.	KOSMODROM(#3863) - GaGaRiN.cz	21593km2	6796728	=T=	Demo	3961

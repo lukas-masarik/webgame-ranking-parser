@@ -1,0 +1,42 @@
+111. VĚK
+#	Země	Rozloha	Prestiž	Aliance	Vláda	Kol
+1.	After all this time? Alway...(#655) - ListerD1	32214km2	26927606	:O	Utop	3683
+2.	Modrý pták(#737) - ridgeback	24999km2	21740101	TOB	Kom	3509
+3.	1000100101111111001100011(#76) - Mrkvička777	24999km2	20510109	VIR	Demo	3481
+4.	nJames(#491) - Canada	29638km2	8227623	ČSLA	Rep	3952
+5.	...............(#74) - Sample	14719km2	7991835	V3ND3TA	Utop	3959
+6.	něžnější než tvá maminka(#437) - HI MOM	19748km2	7497361	HI`DAD	Robo	3936
+7.	Kdo je tvůj taťka?(#418) - DruhyPokus	22222km2	7315109	Bflmpsvz	Robo	3975
+8.	Orenburg(#1008) - Jurgens	21518km2	7108513	XL650v	Rep	3978
+9.	Gerasimovka(#1007) - Jurgens	23489km2	7076575	68	Rep	3978
+10.	Morozem(#1120) - THEdread	18024km2	6988619	ItNofS	Demo	3979
+11.	Dormamu I came to bargain(#1760) - Shrunke	22620km2	6897926	BTK	Feud	3947
+12.	.:cz-sk:. zem v Protekci(#584) - .Nojmy	24797km2	6893862	cz-sk	Feud	3975
+13.	cococomamannnndooosss(#1565) - ASA	26584km2	6859630	VIR	Rep	3977
+14.	Kakaťklysm(#2010) - Zilos	20849km2	6746136	A*o*B	Demo	3877
+15.	Dark Helpik(#305) - H3lp1k	22999km2	6622793	?	Kom	3977
+16.	Nazdar(#186) - ...a naposled...	23563km2	6480451	COOL	Robo	3979
+17.	Flank(#1119) - tvrdík	20054km2	6462516	ALI1234	Robo	3978
+18.	New meta(#127) - ptak77	28207km2	6366728	-=KK=-	Dikt	3964
+19.	Flank.(#1143) - tvrdík	21618km2	6291130	HUN	Robo	3951
+20.	Love Love Love(#1570) - golden.guy	20672km2	6277070	=BW=	Feud	3771
+21.	Jsem z toho poplematený(#107) - thordevil	15302km2	6199508	Anarchy	Utop	3979
+22.	meum tempus ueniet(#1757) - xr3d	16070km2	6018615	Chlastám	Utop	3931
+23.	Dobrý den, vepře ven(#164) - Temundzin	25796km2	6006666	Rounders	Demo	3965
+24.	.:cz-sk:.T0p0ne43v3r(#149) - no killer	25807km2	5971256	cz-sk	Robo	3978
+25.	nesnasim a nicim(#1352) - abraxas	19144km2	5931822	PR	Robo	3978
+26.	Syrius The Plane..(#1339) - DieWalker	17641km2	5859161	APG	Utop	3945
+27.	Jeho Ignorantstvo(#63) - ...Aláh...	6059km2	5850678	Tabáček	Utop	3858
+28.	Skunkfield(#594) - Method Man	20402km2	5836005	-THC-	Demo	3979
+29.	latys88(#1304) - latys88	22468km2	5807268	-=KK=-	Feud	3978
+30.	Ztracen v inspiracich(#227) - humans	19418km2	5776470	PhaMa	Demo	3962
+31.	Antikapitalista2(#88) - Prciik88	21436km2	5722973	ALI1234	Feud	3978
+32.	Touha je zázrak, kámo...(#105) - thordevil	14076km2	5721969	Anarchy	Utop	3979
+33.	zasluzenydochodok:)(#514) - .Aragornikk.	25664km2	5714052	-=LH=-	Robo	3978
+34.	John Targaryen Sníh(#1022) - matto10	11548km2	5684700	ZSB	Utop	3841
+35.	NesnášimStranuZelených(#175) - Misak1893	10103km2	5659351	Tabáček	Utop	3952
+36.	Lotrando a 40 loupežníků(#1302) - Sjezdovka	16968km2	5542773	PRD	Utop	3978
+37.	Kdo neskáče není Čech hop(#1535) - Greenpower	24499km2	5503763	*AW*	Rep	3978
+38.	I-H8-U Hrošík s Brčkem(#1715) - Kedlubeni	30238km2	5452114	NKU	Robo	3978
+39.	Jersey(#374) - imha	16834km2	5447057	sp	Tech	3974
+40.	NedráždiBosouNohuKobrou(#1491) - Yurnero	20804km2	5440362	PR	Feud	3870

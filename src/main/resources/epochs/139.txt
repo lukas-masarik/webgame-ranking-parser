@@ -1,0 +1,42 @@
+139. VĚK
+#	Země	Rozloha	Prestiž	Aliance	Vláda	Kol
+1.	Kimi Räikkönen(#611) - FARR FARR AWAYY	19999km2	27096941	AC/DC	Tech	3490
+2.	.:W:. Masias(#1358) - Masias	24790km2	19874159	*WinDe*	Tech	3202
+3.	DONT STOP ME NOW(#233) - xkukx	24199km2	18927063	SB	Tech	3456
+4.	Whisky(#180) - Dr.hurka	28144km2	18165359	Across	Kom	3616
+5.	Jason Bourne(#56) - Comanndos	25777km2	17491048	DEJAVU	Utop	3778
+6.	Dark Conqueror(#682) - vanna	23900km2	16555555	**CQR**	Tech	3649
+7.	-DEAD-DanikNeniLadikPepek(#237) - Diák	27266km2	16416023	DEAD	Kom	3663
+8.	Paradox(#142) - Deus	25809km2	15093800	SPRITE	Kom	3941
+9.	Batýsek(#377) - ...Kápo...	21000km2	13800000	?	Utop	3560
+10.	auffídrzen(#338) - bojovnik14	24256km2	13286264	Tabacek	Tech	3717
+11.	RANDALOVA KARAVANA III.(#456) - RANDAL	20000km2	11456424	-=DH=-	Utop	3863
+12.	AMSTAFF(#613) - snasa1	26111km2	11130795	Tabacek	Kom	3943
+13.	70mg_Efedrinu+850mgCofe(#34) - Eph3dr1ne	26397km2	10342673	-=DH=-	Robo	3970
+14.	37373(#73737) - LuisFigo	27320km2	10252406	COVER	Robo	3945
+15.	:3(#196) - PLASTIK	19650km2	9871216	Epson	Utop	3653
+16.	RigorJeZabijakSnu(#239) - Diák	19937km2	9688847	Binks	Kom	3878
+17.	Dawe?(#1400) - Cenzor3d	14911km2	9582945	Epson	Tech	3638
+18.	Čaroděj ze země (i)oz(#598) - nezbedny bohus	15318km2	9529864	Across	Utop	3304
+19.	-osn-ruzove v pive(#569) - D1N1AK	26107km2	9505959	-osn-	Rep	3974
+20.	Juárez(#1373) - Rigor Mortiz	24999km2	9363490	DEAD	Feud	3978
+21.	KAPITAN VESMIRU(#1494) - veganporno	20745km2	9326503	MK	Utop	3977
+22.	Stvrte naj meno zeme(#567) - eLteu	23878km2	9094481	ThermX	Rep	3949
+23.	Alkáč, neboli alkoholik(#1119) - ..Hanz..	24764km2	8879267	Ganja	Feud	3871
+24.	Lipous(#178) - Joker16.	23835km2	8852886	Ganja	Robo	3970
+25.	Petr Švancara(#1470) - Jiriss	19992km2	8697777	574ND4R7	Demo	3976
+26.	Bumerang(#96) - Martin poula	19289km2	8477099	.:?:.	Tech	3854
+27.	Šalingrad(#398) - masterWG	21200km2	8467106	Epson	Demo	3977
+28.	Temporal Paradox(#1413) - Deus	14712km2	8429346		Tech	3670
+29.	Nie som kreatívny(#1705) - sebito333	16981km2	8351023	N.n.n	Utop	3972
+30.	hanasland2(#117) - hanass	18400km2	8285235	MK	Utop	3978
+31.	Vyvrženec Sal Paradise(#627) - Degee mDfK	14905km2	8274518	VZP	Tech	3962
+32.	Vyvrženec Albert Hirsch(#260) - MC Booo	16333km2	8271005	VZP	Utop	3978
+33.	Bastard`s office(#1042) - Pitel	18838km2	8043605	queens	Utop	3938
+34.	.22 Hornet(#147) - Nicole Kidmann	21000km2	7857538	COVER	Utop	3977
+35.	Devova farmicka(#1310) - trubkatrubkovic	13612km2	7778717	CBA	Tech	3974
+36.	Jak se hraje technokrat?(#65174) - Bota007	24944km2	7547316	MK	Tech	3978
+37.	Castamere(#340) - AzorAhai	17622km2	7511144	Ganja	Demo	3979
+38.	smuggler(#412) - .HARKOMEN.	13934km2	7471554	HRNCE	Rep	3759
+39.	Hopelessly Coping :)(#681) - LukO cZ	18627km2	7428616	FARMERS	Demo	3877
+40.	Particles of light(#141) - Deus	12050km2	7406242	ALIVE	Tech	3946

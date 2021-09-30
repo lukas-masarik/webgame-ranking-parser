@@ -1,0 +1,42 @@
+146. VĚK
+#	Země	Rozloha	Prestiž	Aliance	Vláda	Kol
+1.	John Wick(#326) - Comanndos	32523km2	35320985	SIL	Utop	3552
+2.	před popravčí četou(#1503) - kajfokiaf	30999km2	35307409	**CQR**	Kom	3657
+3.	Nuket(#1324) - ridgeback	28999km2	30080914	ČSB	Kom	3474
+4.	Enforcer(#53) - Dr.Leckter	28043km2	23033333	*UF*	Tech	3648
+5.	Tormund Giantsbane(#450) - hlidac3	24165km2	22824334	M	Tech	3483
+6.	Jožko Kukuricúdus(#1178) - gorbatčov	27713km2	19278583	MUL	Utop	3482
+7.	-DEAD-Rest in pieces(#694) - Diák	29095km2	18015594	M	Utop	3667
+8.	Im Too Young to Die(#1417) - ListerD1	28999km2	16810716	.L.O.S.	Kom	3866
+9.	Dělám infy za kredity(#1258) - masterWG	25142km2	16793782	=T=	Kom	3670
+10.	Aeternum Vale..(#135) - DieWalker	25093km2	15687354	SIL	Utop	3936
+11.	Anti Koblížek(#446) - c4u710n	13333km2	14472545	=L.O.T=	Utop	3854
+12.	Hello empty future(#723) - hagg1d	26354km2	12678339	Chilli	Tech	3887
+13.	Bill Ackman(#10000) - Drunken	23700km2	12584599	SIL	Rep	3955
+14.	Muso oa Lesotho(#997) - XQG	15484km2	11760722	Afrik	Tech	3552
+15.	Elon Musk jr.(#5000) - Drunken	22222km2	11708256	D1000	Rep	3976
+16.	Kajsmentke(#1575) - .Aragornikk.	15999km2	11549930	=L.O.T=	Utop	3874
+17.	Valkac The Nahradnik(#1635) - Absurdaa	19553km2	11431183	ALIVE	Tech	3794
+18.	Easy target,feelin this?(#1236) - Mrkvička777	19999km2	11421871	AHA	Tech	3888
+19.	BUM.BAC(#936) - nik1	20570km2	11256674	M	Utop	3968
+20.	Mojasmrt(#213) - tvojasmrt	14999km2	11111111	=L.O.T=	Utop	3790
+21.	*-*-*-*(#220) - SpeRy	20179km2	9392268	-osn-	Kom	3792
+22.	P_znamená_posvačiť(#471) - .Grim.	14999km2	9340429	TLD	Utop	3679
+23.	Jde to ale dře to(#1603) - Honzík	19167km2	9322770	A.N.D.	Tech	3956
+24.	Inspiro(#49) - dentitios	31230km2	9260956	Bubáci	Robo	3892
+25.	Vězeň ve vlastní duši(#88888) - mara8	11042km2	8487378	=L.O.T=	Utop	3832
+26.	Velky uličník(#658) - trubkatrubkovic	22449km2	8392061	ganja	Tech	3877
+27.	MILK.ZERO(#466) - nik1	19366km2	7631316	M	Demo	3871
+28.	hanasland4(#445) - hanass	24597km2	7488490	ganja	Robo	3958
+29.	Isshin the Sword Saint(#1589) - MatějIX	17000km2	7464585	EREBOS	Utop	3978
+30.	Born To F1GHT(#1728) - jasson	15600km2	7444444	PELIKÁNI	Utop	3785
+31.	Soudím knihu podle obalu(#2000) - noo	17820km2	7311959	CBA	Utop	3829
+32.	7_tylov_a_potom_doby(#222) - .G.R.U.M.Y.	17224km2	7306682	TLD	Tech	3923
+33.	1000km za 1kc(#1203) - ppedrnikar	17293km2	7269393	queens	Utop	3978
+34.	:E(#799) - jack32	28423km2	7253622	:)MM(:2	Dikt	3903
+35.	hm(#797) - jack32	21224km2	7234679	vzuum	Fund	3844
+36.	dostaneš flákanec(#983) - M4S3R	22338km2	7200037	M	Dikt	3979
+37.	Aj_bombenie_je_taktika(#1010) - .Grim.	15801km2	6948499	TLD	Tech	3936
+38.	Utáhneme_i_6_válek(#142) - masterWG	16999km2	6809945	TLD	Utop	3936
+39.	Flákanec tvojí mámy(#695) - Prometheuss	13914km2	6806602	MÁMA	Utop	3935
+40.	Babekanek Power(#803) - Krocan.V.Veliký	18021km2	6795344	.:AD:.	Demo	3941

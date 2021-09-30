@@ -1,0 +1,42 @@
+105. VĚK
+#	Země	Rozloha	Prestiž	Aliance	Vláda	Kol
+1.	Všem DĚKUJI za gratulace(#1817) - Zorg	25000km2	10004465	Ancient	Robo	3978
+2.	Nikki Quand(#1554) - Avgeropoulos	27998km2	8852808	Vancity	Robo	3953
+3.	Draco dormiens numquam ti(#1909) - Dzindzik	18273km2	8834169	Roxor	Kom	3935
+4.	FIX YOU(#1619) - ptak77	25312km2	8829062	=T=	Feud	3884
+5.	Boris Brejcha(#1167) - marv III	23526km2	8769702	Across	Robo	3908
+6.	LOS made in China(#48) - Topisek	16881km2	8712987	.L.O.S.	Utop	3977
+7.	Predátor2(#119) - Vlasic III	26741km2	8437788	WG-PROF	Kom	3905
+8.	West Coast(#1844) - bimbam01	26932km2	8016699	DVEŘE	Robo	3974
+9.	dura lex, sed lex(#386) - Lord Demokrat	18999km2	7715859	OKNO	Utop	3958
+10.	Titantida(#967) - amuel	22870km2	7559434	JTLH	Demo	3978
+11.	We do not sow(#1320) - Carcin	13465km2	7111111	DEJAVU	Utop	3939
+12.	Obi-Wan Kenobi(#185) - Comanndos	31333km2	7018980	EMP	Robo	3977
+13.	GifficiDimExhibitor(#1893) - ando	20629km2	6977629	-T-K-	Utop	3958
+14.	VARAN má rád KAHAN(#1279) - Mrk3v	14574km2	6971815	VKVSL	Utop	3941
+15.	Krcil500DoKajotuStrcil(#348) - Charlie Sheen	18140km2	6832778	*23*	Fund	3870
+16.	Da Hulz(#235) - dahulz.alpaca	17887km2	6776226	---	Feud	3975
+17.	VARAN Z HOR(#688) - U.U	13500km2	6762163	VKVSL	Utop	3947
+18.	*Čiré Zlo*(#452) - Wicked.Striker	21641km2	6752101	***PV***	Feud	3956
+19.	Dark Knight(#723) - ListerD1	25530km2	6641005	KUK	Robo	3840
+20.	GetRektBro(#1836) - QQmore	19160km2	6626763	NoSPAM	Demo	3979
+21.	LOS made in Destroyer(#367) - BlackTears	16297km2	6556155	.L.O.S.	Robo	3910
+22.	=) =) =) =)(#1117) - sparke	6712km2	6502940	OPVV	Utop	3837
+23.	Badum tssss(#442) - AKland	20000km2	6491656	ČSLA	Utop	3974
+24.	=-LH-=(#2068) - zase jachym	23697km2	6269246	-=LH=-	Robo	3945
+25.	VARAN KRÁLOVSKÝ(#148) - mara8	9999km2	6241336	VKVSL	Utop	3840
+26.	Foxtrot Uniform Charlie K(#1949) - VanHelsing111	18944km2	6220686	Start	Robo	3956
+27.	-FA- Fallen Angel(#1357) - hagg1d	20299km2	6220500	HNOJ	Feud	3977
+28.	Do důchodu daleko(#1382) - Michal IX	15947km2	6198247	SPRITE	Robo	3963
+29.	Hyperion(#741) - predator xxl	23192km2	6182678	KUK	Robo	3967
+30.	Denpasar 2020(#1419) - laggar	18000km2	6148667	KUK	Rep	3968
+31.	Spolkla mě Tvoje máma ...(#303) - Hardwell	22970km2	6137617	574nd4r7	Robo	3955
+32.	WG is corrupted(#1972) - golden.guy	19410km2	6075336	K-K-K	Feud	3912
+33.	Ať žije WP, android sucks(#888) - svatkalon	17981km2	6062861	x.x.x.	Utop	3957
+34.	Klikam pro radost(#954) - m1nI	18992km2	5962676	Vancity	Robo	3799
+35.	Mládí v hajzlu(#1380) - Michal IX	18402km2	5952770	SPRITE	Robo	3971
+36.	neBudu dojit(#49) - Topisek	17659km2	5941793	nBd.	Utop	3973
+37.	Když žid se židem snídá(#1868) - Lets go	23121km2	5916919	Ancient	Robo	3854
+38.	Piši ruší zem, kradnite kým ta(#1130) - Duskooo	19499km2	5866551	K-K-K	Rep	3978
+39.	Chci uprchlíka do bytu(#901) - Piši	9651km2	5866360	OPVV	Utop	3842
+40.	BENCH_PRESS(#1659) - Zkusimto	18347km2	5854014	COOL	Demo	3940

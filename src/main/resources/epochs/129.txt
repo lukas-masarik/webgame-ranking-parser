@@ -1,0 +1,42 @@
+129. VĚK
+#	Země	Rozloha	Prestiž	Aliance	Vláda	Kol
+1.	Duško Kreken(#8888) - gorbatčov	18999km2	20007282	MUL	Utop	3573
+2.	Vesmirna kuna(#1374) - Borsug	29550km2	15620344	=T=	Tech	3691
+3.	Bloody Koňopes(#841) - Konopess	27571km2	13378917	VENDETA	Demo	3973
+4.	Bloody Transsexual(#1331) - Konopess	18236km2	11333508	VENDETA	Utop	3978
+5.	Times Change(#175) - ptak77	25810km2	10317368	=T=	Feud	3953
+6.	Mythwinter(#74) - kaamilko	27091km2	9788453	-WoW-	Robo	3968
+7.	Jet Set Radio Future(#23232) - Lord Kratos	26923km2	9543205	KL	Demo	3964
+8.	Conqueror co má rád teror(#1236) - yuphon	26743km2	8422486	**CQR**	Robo	3836
+9.	Jan-Kláda Van Dal(#997) - imperial knight	17386km2	8245252	queens	Demo	3930
+10.	Marsellus Wallace(#539) - Telwin	22999km2	8233239	SUX	Utop	3972
+11.	Pan hovínko(#45) - Topisek	14999km2	8182577	=MMA=	Utop	3940
+12.	Dead man walking ...(#356) - Hardwell	25000km2	7559780	.L.O.S.	Feud	3946
+13.	Bumerang(#1502) - Martin poula	15111km2	7468753	L.O.S.	Utop	3849
+14.	Demokracie je přežitek.(#9994) - imperial knight	20222km2	7307385	Ganja	Demo	3963
+15.	MasérŠtyk(#1200) - ppedrnikar	15099km2	7229158	-H-	Utop	3691
+16.	Eror22(#768) - Eror11	17262km2	7187940	-WoW-	Utop	3976
+17.	.......,,,,,,,......(#271) - HolubíAgresor	12728km2	7076970	LEGO	Utop	3949
+18.	XXXX(#902) - Roger	18010km2	7011438	-=SCS=-	Utop	3978
+19.	zero f*cks given(#472) - LordZoltan	19665km2	7003345	VENDETA	Robo	3951
+20.	Laco Majster Slova(#1628) - marv III	16986km2	6984136	-=KA=-	Kom	3938
+21.	Mamba(#870) - Joker16.	23803km2	6961121	queens	Robo	3974
+22.	kilL ORDer(#499) - Hrubej	15360km2	6888090	LORDI	Utop	3954
+23.	Pray for Mojo(#70) - JimCurry	14999km2	6866998		Utop	3978
+24.	Teletabis(#146) - Tinky binky ex	20400km2	6816578	ZERO	Fund	3974
+25.	miluji kathusku :-* :-p(#1683) - Homeerius	17298km2	6777748	SUX	Utop	3896
+26.	Bojím se ČSB(#1423) - Veriax	14884km2	6690226	ČD	Utop	3760
+27.	Fishthrone(#48) - Diesi	17752km2	6648022	queens	Anar	3961
+28.	IBK Kubánský Klan(#105) - gorem	14745km2	6613548	Ganja	Anar	3979
+29.	Jerry(#872) - Joker16.	22322km2	6571605	ZERO	Robo	3972
+30.	73737(#941) - LuisFigo	14620km2	6554044	-THC-	Robo	3914
+31.	Kebab House(#1570) - FR3EZY	19999km2	6513419	TMBK	Anar	3970
+32.	Ty si hroznej šmloula,že?(#777) - Mrkvička777	13849km2	6441186	BLOOD	Utop	3922
+33.	Khoiba(#743) - Kazan	14999km2	6425477		Utop	3961
+34.	...:)...(#705) - Koryyy	14999km2	6408386	WiL	Utop	3672
+35.	NeublizujteMiProsim(#343) - HromikSir	19025km2	6301353	CBA	Feud	3973
+36.	LOS made in B3D(#1049) - BlackTears	15385km2	6286718	L.O.S.	Utop	3942
+37.	Gerasimovka(#122) - Jurgens	15422km2	6202662	68	Utop	3978
+38.	HiGHROLLER(#103) - MIKE330	14999km2	6173039		Utop	3932
+39.	oh là là(#416) - gloriousleader	29071km2	6118430	KR3W	Robo	3978
+40.	SUXessfulI(#480) - LuisFigo	20790km2	6071853	SUX	Rep	3962

@@ -1,0 +1,42 @@
+116. VĚK
+#	Země	Rozloha	Prestiž	Aliance	Vláda	Kol
+1.	SZAMAN(#224) - ridgeback	21182km2	16294160	OKNO	Utop	3515
+2.	Sexuolog(#338) - AndreFox	29910km2	13307401	.:V3R:.	Demo	3978
+3.	Abdullah Ocalan(#1412) - FriedrichPaulus	34487km2	12410325	Twiins	Robo	3960
+4.	dr.Gonzo(#882) - Lord IVCO	29957km2	10741316	Bull	Demo	3978
+5.	SUXessfulI(#217) - LuisFigo	23769km2	9343748	SUX	Feud	3938
+6.	Nagashizzar(#202) - castropola	25448km2	9327279	DF2	Demo	3979
+7.	?(#1095) - Vibrace	21151km2	8175878	Chlastám	Robo	3979
+8.	zmR3D(#1540) - Deathwind	16016km2	8152317	KRIEGER	Utop	3968
+9.	PoHoDa(#894) - B1T1	22518km2	7989431	Nechtej	Utop	3957
+10.	sexwonder(#1070) - Lucky6186	21043km2	7911119	.:V3R:.	Robo	3974
+11.	Míša je můj kamarád(#677) - Krocan.II.Veliký	21632km2	7833244	..:AD:..	Demo	3964
+12.	Sexualná nebezpečná(#168) - PEpecek	22304km2	7493830	.:V3R:.	Robo	3979
+13.	neminem laedere(#986) - Lord Demokrat	25835km2	7350372	OKNO	Robo	3974
+14.	Moje Borůvka(#1531) - green88	26911km2	7203123	)CD(	Robo	3975
+15.	Yn3v3rSt0pm3(#161) - no killer	20341km2	6926618	Chlastám	Kom	3972
+16.	7.62 Tokarev(#141) - Huktak	16980km2	6839630	VN	Utop	3979
+17.	ToP 1(#759) - Morfeus	15568km2	6594011	D1R1GENT	Kom	3794
+18.	Zillionaire ft. Zorg(#114) - xr3d	19345km2	6512762	Chlastám	Fund	3774
+19.	Karaz-a-Karak(#795) - Reich Graf	23164km2	6431170	.::R::.	Feud	3977
+20.	Znojmo(#390) - Caballero	18643km2	6399103	LEGO	Robo	3957
+21.	Dong Yaqian(#949) - Topisek	24220km2	6385224	C.B.	Feud	3826
+22.	PrometheuS(#571) - hagg1d	25081km2	6331728	C.B.	Feud	3971
+23.	KOALA(#44) - koala59	25241km2	6315435	KOALA	Feud	3979
+24.	Sheldon Lee Cooper(#1576) - Michal IX	25972km2	6294685	C-Men	Dikt	3732
+25.	Bojím se ČSOB(#904) - MARTiJACK	20112km2	6289574	ČSB	Rep	3966
+26.	___O_o_o____O__o----o_o_O(#1027) - Garithos	22000km2	6283718	.::R::.	Robo	3979
+27.	zorgzorgzorgzorgzorgzorg(#1028) - Garithos	20274km2	6252340	Chlastám	Kom	3979
+28.	Mike Litoris(#1201) - yuphon	16970km2	6251247	**CQR**	Utop	3938
+29.	Don`t eat yellow snow(#113) - xr3d	16193km2	6237039	Chlastám	Utop	3897
+30.	LOS made in Destroyer(#42) - BlackTears	16806km2	6219030	Chlastám	Feud	3835
+31.	Animae fidelium(#138) - travnicek	19864km2	6110041	Onlybest	Kom	3933
+32.	... Chceš být fit ...(#1290) - Zkusimto	15961km2	6055045	COOL	Utop	3949
+33.	Valar Dohaeris(#915) - Uaah	21499km2	6050436	VN	Feud	3939
+34.	LEGIO GERMANA IX. VICTRIX(#86) - dr.antrax	20055km2	5965304	Chlastám	Robo	3967
+35.	Sexuální Mág(#781) - Záchodové prkno	17831km2	5906472	.:V3R:.	Feud	3978
+36.	koleje(#1100) - Martin poula	19947km2	5890141	Chlastám	Kom	3726
+37.	Redkox2017(#361) - loon	27809km2	5851944	333	Robo	3979
+38.	.:CZ-SK:.BZCompany(#92) - BON.zak	16711km2	5818986	ČSLA	Rep	3961
+39.	usti(#841) - vachys39	19559km2	5811334	ALI1234	Feud	3972
+40.	Flank(#1185) - tvrdík	20043km2	5807712	ALI1234	Robo	3971

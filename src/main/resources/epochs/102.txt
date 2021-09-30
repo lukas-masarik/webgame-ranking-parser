@@ -1,0 +1,42 @@
+102. VĚK
+#	Země	Rozloha	Prestiž	Aliance	Vláda	Kol
+1.	Hello World(#1354) - .Py	23600km2	17945764	PR	Kom	3697
+2.	.::Gondor::.(#1431) - .Aragornikk.	23333km2	13654862	BE	Utop	3932
+3.	.:BB:.GoDrunkOrGoHome(#1443) - skvost	19999km2	11742141	Řezník	Utop	3683
+4.	R3SP3K7(#453) - switch edimax	18851km2	11523862	-=F*A=-	Kom	3935
+5.	19MINO94(#87) - 19MINO94	26643km2	10836286	:O	Demo	3976
+6.	Are you kidding me?(#2003) - poMe	24592km2	10500220	Ganja	Feud	3749
+7.	Karolínka(#848) - ...Kápo...	25000km2	10365612	-=LH=-	Utop	3752
+8.	Red Dwarf(#963) - ListerD1	19999km2	10309552	Ps.	Utop	3467
+9.	Conqueror maskot(#666) - .Hellboy.	18594km2	10299999	**CQR**	Utop	3973
+10.	Pojd na me od lesa(#62) - Aram Chroustal	16699km2	10010082	S*K	Utop	3849
+11.	...:)...(#987) - Koryyy	24999km2	8739116	KULE7	Utop	3946
+12.	PSČ CREW...(#297) - gerbera	32547km2	8492757	DF	Robo	3979
+13.	Daenerys Targaryen(#911) - 3135468764364568	23319km2	8115587	N-N-N	Feud	3966
+14.	FIX YOU(#1318) - ptak77	28138km2	7673074	-=EK=-	Robo	3977
+15.	Bigballs(#227) - Zgerbos	15961km2	7437488	B.K.	Kom	3922
+16.	Zem malinkej spionky(#2237) - tUtkoFromIKAR	24265km2	7277004	-osn3-	Feud	3962
+17.	qwertzuIopisdaghjkIyxcvbk(#1676) - Lucky6186	19466km2	7207860	-.-	Robo	3977
+18.	rikudou sennin(#1664) - Lucky6186	19999km2	7124083	VVC	Robo	3977
+19.	Titania(#574) - Phoebe	22358km2	7053007	DF	Feud	3977
+20.	qwertzuIopasdfghjkIyxcvbn(#450) - H3lp1k	24785km2	6983070	-.-	Feud	3979
+21.	U cant see me(#1374) - Kirtan	19000km2	6893836	JN	Kom	3866
+22.	Quick-Instalater..(#2489) - TCK	20526km2	6619976	SM	Demo	3795
+23.	Milujem Aďku(#1261) - rybka es atrás	28435km2	6534868	-=F*A=-	Utop	3976
+24.	Frag Out(#1727) - baltik	14360km2	6523455	UTOP-X	Utop	3936
+25.	Thala(#836) - Alduin	17204km2	6475610	LordsWG	Demo	3978
+26.	Som proste sefinko(#2125) - S3FKO	25889km2	6453511	Chilli	Robo	3964
+27.	Nemilosrdná slečinka(#205) - c4u710n	22367km2	6378258	S	Feud	3929
+28.	Monitorovací totem VARAN(#1765) - Mrk3v	18222km2	6234046	JčV	Utop	3745
+29.	.:W:. Velký buddha(#720) - DiGER	20760km2	6158303	*WiNDe*	Feud	3978
+30.	Arrakon(#51) - Topisek	17290km2	6119548	nBd.	Utop	3952
+31.	nJames(#206) - Canada	25206km2	6010700	ČSLA	Demo	3937
+32.	Winter is coming..(#50) - FR3EZY	17343km2	5990729	=T=	Utop	3876
+33.	Choke artist(#1720) - baltik	14225km2	5954291	UTOP-X	Utop	3942
+34.	Destructor(#216) - High Warlord Rxz	14007km2	5916662	Bull	Utop	3978
+35.	Na dovolene s Bernardem(#1114) - Nokiac	19333km2	5899981	BE	Robo	3959
+36.	End of Gravity(#1036) - Dzindzik	15701km2	5862486	-=LH=-	Utop	3906
+37.	GifficiDimExhibitor(#1576) - ando	18302km2	5745360	SOPHIE`S	Robo	3867
+38.	LOS made in Jinan(#48) - Topisek	18056km2	5740912	.L.O.S.	Robo	3979
+39.	.:CZ-SK:.AK-47ProduceR(#173) - AKland	20445km2	5740767	ČSLA	Robo	3974
+40.	Prdy(#760) - king leonardo	15115km2	5724197	M	Utop	3977

@@ -1,0 +1,42 @@
+67. VĚK
+#	Země	Rozloha	Prestiž	Aliance	Vláda	Kol
+1.	Někdo tam nahoře se dívá(#209) - podwratak	24682km2	16836918	OKW	Utop	3456
+2.	hra skončila hoši(#3856) - Čejník II	15946km2	15000000	S.P.K.	Utop	3566
+3.	Dones Corgoňa, Šimon(#546) - Leninus	25000km2	14348758	HalóHaló	Utop	3766
+4.	Dr. Zoidberg(#144) - ftacik	27249km2	14149736	ŽsN	Kom	3750
+5.	Voloďa(#105) - Siriuss	27999km2	13842184	Nedivoč	Rep	3659
+6.	Sarinka(#2615) - .adm1n.	20822km2	12643736	=DS=	Utop	3463
+7.	Lesofilie(#3405) - SiRvAcA	24824km2	11638585	SIL	Demo	3876
+8.	Veltlínské červené rané(#3302) - KEPR	24999km2	11571360	EASY	Kom	3666
+9.	Lord Biry(#30) - Lord Biry	27859km2	11047298	D1KTATOR	Utop	3829
+10.	Forever young(#1413) - Krystof Jindra	25208km2	9942664	VTIP	Kom	3836
+11.	ů(#3100) - epicFAIL	34926km2	9707001	gto	Robo	3970
+12.	Arogantný a sarkastický(#40) - Angelos	23329km2	9401512	H5N1	Utop	3685
+13.	Anonymous(#1014) - Wearh	18993km2	9118243	Lordi	Utop	3798
+14.	Kopacka je zavistivec(#1851) - Ctirad2	25000km2	8821670	D1KTATOR	Robo	3960
+15.	Awesome.(#211) - imperial knight	25411km2	8768260	Chlastám	Kom	3795
+16.	Candátek(#339) - septima	19926km2	8734788	Klucí	Demo	3938
+17.	JenTakProRadost...(#131) - ACmilan	27024km2	8685086	D1KTATOR	Demo	3961
+18.	Země medvědů(#276) - Medvidek3000	20502km2	8580662	.:WWF:.	Demo	3978
+19.	Make It Real(#4007) - Jiriss	27777km2	8500000	574ND4R7	Fund	3856
+20.	nic jakože převratného :)(#2835) - ttrtt	18999km2	8427973	ne	Utop	3934
+21.	slečinka de puta madre(#2076) - red kox man	34014km2	8409888	ManG	Robo	3964
+22.	Che Guevara(#617) - H00L1G4N	11854km2	8155555	RQ	Kom	3934
+23.	Každý den radost MÁM(#3582) - Walker	25420km2	8000000	D1KTATOR	Rep	3966
+24.	Keira Knightley(#284) - Zagato	29615km2	7811758	Co.	Robo	3898
+25.	Cien anos de soledad(#75) - podwratak	24444km2	7805015	D1KTATOR	Utop	3979
+26.	Let the Dream Come True(#4002) - Jiriss	23418km2	7777777	80`s	Dikt	3805
+27.	Slivovica(#1144) - hurka	20309km2	7547061	OKW	Fund	3744
+28.	Chulimangan(#140) - Phoenyks	16416km2	7474656	S.P.K.	Utop	3850
+29.	Salamis(#1284) - Xerxes55	28131km2	7431157	=PA=	Robo	3979
+30.	Já(#238) - proutenik2	17777km2	7343039	AUTORITA	Utop	3939
+31.	Curveball(#3981) - kullino	19999km2	7290799	Tučko	Utop	3944
+32.	Wotan(#1184) - Kolchoz	23738km2	7274000	STORM	Fund	3965
+33.	-DEAD-..................(#437) - PenachyM	20392km2	7260800	DEAD	Kom	3842
+34.	Indeed(#2766) - king leonardo	28747km2	7252913	WG-PROF	Dikt	3956
+35.	Appetite for Destruction(#2345) - .Grim.	24953km2	7203221	*HMM*	Robo	3979
+36.	Ararat(#4678) - zullu	18881km2	7183830	=T=	Utop	3979
+37.	od Prasivej po Certovicu(#461) - Hemelo	24711km2	7124728	Akatsuki	Kom	3899
+38.	Yekaterina Klimova(#294) - Kenshin Himura	20154km2	7061044	GANJA	Feud	3892
+39.	Silent Hill(#411) - Eldudik	19888km2	7053515	-WG-	Utop	3919
+40.	In the name of ...(#510) - Defender...SID	18734km2	7010879	Chlastám	Rep	3979

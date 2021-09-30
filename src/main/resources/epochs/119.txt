@@ -1,0 +1,42 @@
+119. VĚK
+#	Země	Rozloha	Prestiž	Aliance	Vláda	Kol
+1.	PEJSEKaKOCICKAmáKOCICKU(#984) - ....dog....	34799km2	13019579	M	Robo	3926
+2.	Valar Dohaeris(#605) - Uaah	29831km2	12790902	B.E.D.	Feud	3965
+3.	whatISdeadMAYneverDIE(#853) - F0rsaken S0ul	19750km2	12322105	RAPTOR	Demo	3752
+4.	Trolejbus(#612) - Martin poula	27869km2	12025433	ŽsN	Kom	3814
+5.	LOS made in Destroyer(#266) - BlackTears	23182km2	12019348	.L.O.S.	Demo	3964
+6.	SexPatron(#107) - StillDeadCZ	29728km2	11520543	.:V3R:.	Demo	3972
+7.	Gutalax Popokatepetl(#1097) - forbidden	23957km2	9606683	*FF*	Rep	3963
+8.	Trinidad Scorpion Moruga(#164) - Sir Extrem	24011km2	9266689	MENSA	Feud	3979
+9.	Vyzývám k revoluci...(#1085) - KEPR	30214km2	9259355	M	Feud	3862
+10.	.::PKZ Moete kita zo::.(#1452) - Kwasak	21659km2	8710491	PKZ	Demo	3976
+11.	Kebab House(#815) - FR3EZY	19999km2	8409672	=T=	Utop	3972
+12.	LOS made in Moonlight(#1102) - BlackTears	19532km2	8211395	B.E.D.	Robo	3964
+13.	IKnowYourSecret(#709) - hlidac3	22124km2	8036778	P.f.B	Utop	3937
+14.	LOS made in Slovakia(#1128) - sNufFk0.	20966km2	8027627	.L.O.S.	Feud	3914
+15.	Who wants to live forever(#576) - Zorg	30005km2	7646279	.:V3R:.	Robo	3923
+16.	SUXessfulI(#244) - LuisFigo	21000km2	7398412	SUX	Robo	3957
+17.	Ararat(#474) - zullu	19151km2	7204590	=T=	Demo	3979
+18.	LOS made in de Winter(#1095) - BlackTears	19639km2	7071907	B.E.D.	Demo	3958
+19.	Hasim žízeň(#1364) - no killer	20316km2	7021821	SPRITE	Robo	3932
+20.	Drak úřaduje(#600) - D.r.a.k.	18554km2	7013167	VENDETA	Utop	3972
+21.	rockstar jseš v čechách(#1597) - Adyemus	20806km2	6890972	SPRITE	Robo	3978
+22.	Do důchodu daleko(#1356) - Michal IX	17257km2	6879275	SPRITE	Robo	3928
+23.	Legendary Night Club(#370) - Archimonde73	17999km2	6832519	LW	Utop	3976
+24.	FULL OF HELL(#81) - Broot	24619km2	6831975	NIC	Robo	3978
+25.	přes víkend rockstar jsem(#777) - Adyemus	19998km2	6805987	SPRITE	Robo	3965
+26.	Vyvrženec Dr.Satan(#116) - StillDeadCZ	24123km2	6132054	tpOwCh	Robo	3944
+27.	Mr.Kvicka(#455) - kema	22333km2	6076243	Krutor	Robo	3893
+28.	DeToX(#1124) - srs14	25371km2	6028788	OS	Fund	3917
+29.	LOS made in Zhongguo(#31) - Topisek	16689km2	5896729	.L.O.S.	Robo	3963
+30.	LOS made in Bum Shake Bam(#271) - BlackTears	15739km2	5893226	.L.O.S.	Utop	3974
+31.	sir Idontgiveashitalot(#451) - Hollandan	18113km2	5870286	MOVITS	Utop	3976
+32.	Bloody Horsedog(#513) - Konopess	16315km2	5859168	VENDETA	Demo	3975
+33.	.:CZ-SK:.Kupis(#93) - Canada	24606km2	5841438	ČSLA	Rep	3758
+34.	Green Lantern(#1435) - Lucky6186	21062km2	5698936	.:V3R:.	Dikt	3978
+35.	the perfect medium rare(#779) - EmAChe	18288km2	5694978	ŽsN	Demo	3976
+36.	Arrakon(#34) - Topisek	19541km2	5608192	B.E.D.	Utop	3967
+37.	One day(#661) - golden.guy	24634km2	5559012	Veverky	Feud	3914
+38.	Jersey(#1169) - imha	10021km2	5479725	Tabáček	Utop	3962
+39.	Mládí v hajzlu(#1355) - Michal IX	15081km2	5477033	SPRITE	Demo	3956
+40.	Grýn(#267) - green88	21111km2	5453053	)CD(	Feud	3968

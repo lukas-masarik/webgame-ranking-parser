@@ -1,0 +1,42 @@
+114. VĚK
+#	Země	Rozloha	Prestiž	Aliance	Vláda	Kol
+1.	Valar Dohaeris(#1111) - Uaah	27169km2	8807949	=101=	Demo	3970
+2.	Azati Prime(#51) - Paspartoe	29845km2	8434904	PhaMa	Demo	3967
+3.	Grandlehárna(#157) - Lord.droL	15381km2	7610331	**CQR**	Utop	3979
+4.	Show Me The Way(#1736) - leszek	24950km2	7445083	Across	Robo	3957
+5.	Zem esa Rimmra(#293) - Lord Kamzo	24213km2	7435775	-osn-	Kom	3979
+6.	Tenochtitlán(#130) - Githes	23009km2	7345638	=202=	Feud	3978
+7.	LEGIO GERMANA XI. FERRATA(#1279) - Lord Pug	20189km2	6948973	GERMANUS	Tech	3978
+8.	zmR3D(#1204) - Deathwind	13526km2	6929983	zmR3D	Utop	3979
+9.	Bydlim na Sosně(#1845) - leszek	18344km2	6877767	/GA/	Robo	3924
+10.	Počkej kámo(#264) - N4tive	14205km2	6853882	zzz	Utop	3972
+11.	B52(#1294) - tvrdík	22121km2	6786555	ALI1234	Robo	3969
+12.	Nouzový režim(#498) - Caballero	20328km2	6769353	ZERO	Robo	3958
+13.	SUXessfuII(#138) - LuisFigo	19681km2	6713716	SOX	Utop	3856
+14.	-)MTG(- Asi vítr(#785) - SOH	19999km2	6704385	MTG	Rep	3966
+15.	.:CZ-SK:.AK-47ProduceR(#989) - AKland	22354km2	6133561	ČSLA	Demo	3975
+16.	KOALA(#1440) - koala59	18784km2	6103917	MWGA	Robo	3940
+17.	Thor(#1068) - kaiman	16576km2	6072297	THZ	Rep	3965
+18.	tebe jebe :D(#762) - sweetlollipop	20996km2	6002503	.:FaK:.	Feud	3960
+19.	Conqueror labužník(#553) - Mr. Sedlinno	13999km2	5969129	**CQR**	Utop	3953
+20.	Legendary Night Club(#89) - Archimonde73	20304km2	5957963	DF2	Demo	3975
+21.	SUXessfulI(#106) - LuisFigo	15999km2	5952772	SUX	Robo	3906
+22.	alkymi(#1074) - kiss for you	20280km2	5921411	PKZ	Feud	3956
+23.	Antikapitalista2(#1443) - Prciik88	20158km2	5879439	ALI1234	Feud	3979
+24.	maestro(#1785) - mt334	23492km2	5838558	zzz	Robo	3868
+25.	Easy Googey Cinnamon Roll(#838) - Mrkvik	23761km2	5815121	NTVDK	Kom	3942
+26.	-osn- Land of Sorrow(#576) - Mydliak	12677km2	5734977	-osn-	Utop	3976
+27.	Only EXP(#1333) - OMGshit	14542km2	5668705	BZNH	Utop	3979
+28.	Hasim žízeň(#252) - no killer	31000km2	5633748	Legen...	Robo	3978
+29.	Conqueror co má rád teror(#1475) - yuphon	13350km2	5586356	**CQR**	Utop	3966
+30.	Conqueror Tajfuj(#1823) - ThoughtGuy	15395km2	5582461	**CQR**	Dikt	3872
+31.	Strandmon(#1532) - shlimak6	18386km2	5567449	SUX	Robo	3941
+32.	Warcrime - Renegade(#1841) - James Veliky	17387km2	5558442	-a....l-	Robo	3922
+33.	Ked myslis(#484) - elhuron	23896km2	5544539	SUX	Robo	3945
+34.	Erich von Manstein(#1718) - castropola	21764km2	5541663	DF	Robo	3924
+35.	Turecká říše(#1627) - Stalin2	18567km2	5509943	MOVITS	Feud	3943
+36.	Velky uličník(#458) - trubkatrubkovic	19537km2	5474418	EVERS	Rep	3976
+37.	Antikapitalista4(#1646) - Prciik88	20185km2	5474027	NBTN	Robo	3974
+38.	-)MTG(- Everything ends(#538) - happyguy	22076km2	5470983	MTG	Feud	3950
+39.	Dark Pimpo(#862) - pmtiep	13999km2	5457691	C	Utop	3974
+40.	Už fakt netuším(#1859) - Mr. Sedlinno	20060km2	5395826	ČSLA	Robo	3884

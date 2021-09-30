@@ -1,0 +1,42 @@
+144. VĚK
+#	Země	Rozloha	Prestiž	Aliance	Vláda	Kol
+1.	Conqueror of the universe(#10103) - Sph1nx	20329km2	18019483	**CQR**	Tech	3746
+2.	Hello empty future(#57) - hagg1d	27020km2	16563647	-4F-	Tech	3685
+3.	Marhula(#401) - Dr.hurka	21282km2	15843633	.:?:.	Tech	3944
+4.	Conqueror ochutnávač(#103) - Mr. Sedlinno	21399km2	14964044	**CQR**	Demo	3650
+5.	WINNER TAKES IT ALL(#360) - .adm1n.	17978km2	13293986	LBL	Tech	3856
+6.	njn(#952) - .HARKOMEN.	25933km2	11951302	PaTo	Rep	3915
+7.	Modrý pták(#68) - ridgeback	16666km2	11477596	LBL	Tech	3584
+8.	GOLD Krésa(#931) - o.O.oDin	23175km2	10278209	MRUK	Demo	3945
+9.	Leo Bonhart(#30000) - hlidac3	13000km2	10105656	HPMOR	Tech	3680
+10.	Vzdejto(#1040) - AzorAhai	20433km2	10041818	PíPíBí	Utop	3972
+11.	Show me your skills(#413) - pmtiep	20177km2	8783692	JT	Tech	3978
+12.	Palime Hlinu - V utorok(#547) - poMe	16999km2	8735596	GTI	Utop	3936
+13.	Plameňákopelo(#985) - esya	18474km2	8539826	SRanda	Utop	3942
+14.	Particles of light(#169) - Deus	15650km2	8319764	ALIVE	Utop	3889
+15.	IzdeMuzeBytVaseReklama(#204) - Elkor	16999km2	8278517	CIQ	Utop	3936
+16.	Gennaro Gattuso(#1381) - FARR FARR AWAYY	16949km2	8032200	LBL	Tech	3976
+17.	Air...(#67) - kill666	20996km2	7777777	*UF*	Robo	3979
+18.	To čumíš na mě?(#844) - Romulus.	13637km2	7777777	NEVER	Feud	3865
+19.	Jupiter Jones(#163) - marv III	22345km2	7721328	Across	Utop	3951
+20.	M.O.R.state(#780) - M.O.R	18999km2	7675208	Lotta	Tech	3936
+21.	Evetric(#120) - dentitios	20396km2	7668690	EZ	Demo	3979
+22.	Conquerror Zafod Bíblbrox(#336) - mara8	14699km2	7610162	**CQR**	Utop	3937
+23.	RTX 3080(#858) - Martin858	16000km2	7461395	LBL	Tech	3955
+24.	Mamberamo(#983) - Vibrace	19736km2	7241034	.:?:.	Robo	3954
+25.	La nostra e la furia(#1362) - stejski IX.	12961km2	7219206	Lotta	Tech	3846
+26.	NO TIME TO HATE(#375) - mara8	17142km2	7184636	LBL	Tech	3948
+27.	Rolling Thunder(#304) - Luke the Great	14608km2	7089391	.:?:.	Demo	3934
+28.	dopřipravuju(#1440) - Walden r Gwendor	18377km2	7067197	LBL	Tech	3956
+29.	Lasciate Ogni Speranza..(#208) - DieWalker	16602km2	7046444	FETKA	Tech	3936
+30.	mam chlupatou PRD3L(#1706) - Kamail	28556km2	6934374	OMG	Robo	3865
+31.	Budulínkův dvojník :D(#198) - ..Hanz..	23884km2	6877211	SUX	Robo	3944
+32.	beee(#1664) - jack32	16764km2	6850369	:)MM(:	Tech	3941
+33.	John Wick(#949) - Comanndos	14444km2	6715297	LBL	Tech	3930
+34.	smeták(#6488) - 641988	15555km2	6599210	LBL	Tech	3688
+35.	Ho un grosso cazzo(#49) - pelizid	18789km2	6592601	Lotta	Dikt	3977
+36.	maly uličník(#291) - trubkatrubkovic	22833km2	6548223	ganja	Robo	3979
+37.	Syrius the Plane(#209) - DieWalker	14873km2	6485387	LBL	Tech	3958
+38.	Conqueror Andrej Adrejevič Vla(#1274) - James Veliky	18822km2	6476993	**CQR**	Robo	3978
+39.	Combattere per sempre(#809) - M.O.R	18192km2	6476002	Lotta	Robo	3978
+40.	Conqueror co má rád teror(#1032) - yuphon	18702km2	6421434	**CQR**	Feud	3951

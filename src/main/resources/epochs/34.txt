@@ -1,0 +1,42 @@
+34. VĚK
+#	Země	Rozloha	Prestiž	Aliance	Vláda	Kol
+1.	::..::..::..::..::..::(#9502) - Am I Evil	24999km2	15152928	DP	Demo	3605
+2.	Bohem požehnaný(#3258) - Yurnero	26165km2	14823524	HOPRDOX	Kom	3753
+3.	Syrius the Lame(#15074) - DieWalker	27701km2	14242618	SB	Kom	3726
+4.	Tularean Forest(#16772) - Hondo	44076km2	13965741	Bubáci	Rep	3829
+5.	Vilém Bauer(#16668) - I am the Future	20140km2	13060974	GJH	Kom	3757
+6.	Canibal Corpse(#6024) - Druny	29773km2	12547307	-`,-	Demo	3618
+7.	Gerasimovka(#16643) - Jurgens	30971km2	12407985	SWK	Robo	3810
+8.	LeRoyaumeDesRevesÉternels(#817) - Raciolky	23707km2	12317100	D1KTATOR	Kom	3739
+9.	Nehraju, piste si o hospy(#4444) - xkukx	23127km2	12205397	SB	Demo	3775
+10.	Já? Nápověda?(#10077) - broookes	9549km2	12151713	GHD	Utop	3411
+11.	Ooopen your eyes O.o(#11908) - Romulus.	24500km2	11922663	:love:	Kom	3696
+12.	Gertruda Steinová(#10000) - I am the Future	21658km2	11318021	SB	Demo	3759
+13.	The Nerubian Assasian(#2528) - HLAVATYS	22283km2	11244734	Achaja	Kom	3539
+14.	Black Stronghold(#4597) - Black Warrior	37188km2	10374131	VTN	Rep	3732
+15.	Dont hate, appreciate(#587) - nonPhixion	26213km2	10299072	SB	Demo	3648
+16.	Mitazzz(#577) - kuliver	26351km2	10233762	HYMEN	Demo	3652
+17.	PaRaDoX(#5492) - BuRKo	28444km2	10072852	-`,-	Demo	3645
+18.	Manhattan(#9392) - Deus	18822km2	10070264	BaL	Robo	3672
+19.	Temný Prorok(#4931) - .DuKeLuKe.	30779km2	9982876	Bubáci	Robo	3828
+20.	Registrace nové země(#866) - imdeath	13913km2	9879106	VSL	Demo	3638
+21.	pryc s KSCM:-/(#11026) - Tharwain Ukrutný	24768km2	9686301	O	Kom	3770
+22.	Nebuď labuď(#14273) - adduktor	23872km2	9675057	HOPRDOX	Rep	3645
+23.	Tel Shak Onak(#794) - Battleruler	19325km2	9621502	Daidalos	Demo	3664
+24.	Lovoland(#7774) - Tipecek	31944km2	9422270	-=TH=-	Rep	3855
+25.	AveJuve-(#7950) - Peater.001	17949km2	9413519	M.s.b.	Kom	3726
+26.	Zip a Gejitka(#10496) - zolina	21368km2	9336315	R*R	Utop	3770
+27.	Unit Fractions(#16732) - Philman	9000km2	9335480	=DS=	Utop	3504
+28.	Zlato 2 stribra a bronz(#6093) - balin.	19655km2	9240363	SB	Demo	3730
+29.	smula velka(#16809) - Redclaw	21235km2	9215234	HOPRDOX	Rep	3826
+30.	ThE InFiNiTe(#6418) - Gazda	27165km2	9211119	HOPRDOX	Demo	3709
+31.	Košice(#7810) - Rukus.	20950km2	9182725	TREANT	Demo	3802
+32.	Walpurgis III(#15520) - Mablung	25184km2	9155156	=T=	Rep	3790
+33.	Kartágo I.(#2360) - zullu	26026km2	9066491	=T=	Utop	3830
+34.	Hymenista Kuli(#2121) - kuliver	26478km2	8892960	D1KTATOR	Demo	3676
+35.	Aploid(#10380) - Odoaker	17081km2	8835046	.:DD:.	Kom	3447
+36.	reprezentuju TRUTNOV(#11564) - Toshiro	23911km2	8773410	D1KTATOR	Demo	3710
+37.	LAND OF MANURE(#9167) - Haramheb 35	19999km2	8616193	SZV	Demo	3540
+38.	Dráček Úchyláček(#493) - Ikonoklas	18508km2	8582056	PRD-HH	Rep	3820
+39.	HellGuard of Noffub(#152) - sir Blade	27985km2	8520373	H.T.	Demo	3855
+40.	Kelevar(#13891) - Reincarnation	17832km2	8519052	HOPRDOX	Rep	3742

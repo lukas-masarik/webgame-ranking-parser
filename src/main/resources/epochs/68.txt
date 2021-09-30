@@ -1,0 +1,42 @@
+68. VĚK
+#	Země	Rozloha	Prestiž	Aliance	Vláda	Kol
+1.	Denny Crane(#859) - Naumo	24999km2	16481000	Legend	Utop	3548
+2.	Pody je najlepsi(#534) - .Aragornikk.	24602km2	11552417	vícadmin	Utop	3469
+3.	aaaaasi nehrajuuu(#2171) - Zorg	19999km2	11411777	MK	Utop	3744
+4.	This is gonna hurt(#999) - sebek33	21387km2	10504035	Metalord	Demo	3843
+5.	HistoryIsWrittenByVictors(#2081) - Pyromancer	24335km2	10101010	Etc.	Utop	3550
+6.	urielov(#504) - sir uriel	16789km2	10084128	IMMP	Kom	3755
+7.	Do the Evolution(#1550) - Exot3	26098km2	10037990	ska-P	Kom	3767
+8.	nEvEr mOrE(#1646) - F0rsaken S0ul	20599km2	9255551	CGHMN	Demo	3978
+9.	IBK Kubánský Klan(#1074) - Coav	26800km2	9102844	PíPíBí	Kom	3839
+10.	Landie(#1061) - Lem	25472km2	9022155	68	Robo	3968
+11.	Vtipný jak Cyp(#308) - Ctirad2	20999km2	8892158	VTIP	Utop	3653
+12.	Tashidelek(#3856) - abudabi	23404km2	8095987	RAFANI	Kom	3417
+13.	LOLomouc(#1370) - Dhany	26835km2	8040577	=VB=	Robo	3975
+14.	Hannibal`s Underworld(#1794) - Dr.Leckter	21519km2	8000059	PíPíBí	Demo	3959
+15.	Victoria aut mors(#268) - Lord Pug	18980km2	7969926	Germanus	Tech	3979
+16.	Duško Kreken(#204) - gorbatčov	11256km2	7899272	PH	Tech	3561
+17.	..per aspera ad astra..(#1637) - Seksymania	24958km2	7815471	seks	Kom	3781
+18.	Aurgelmi(#305) - dr.antrax	18222km2	7777777	CGHMN	Utop	3977
+19.	Milovaná Alenka Marková(#241) - Ph0en1x	21835km2	7740432	PíPíBí	Rep	3956
+20.	Veverka z Nýmandie(#216) - výpitson	22592km2	7726632	Veverky	Kom	3846
+21.	VŠB(#1838) - Josefko	20000km2	7665000	=FF=	Kom	3841
+22.	Siroteček :P(#1494) - BrankoStruper	24999km2	7401414	Ganja	Robo	3940
+23.	zeme plna sandalu(#2682) - sir uriel	19443km2	7367901	DF	Utop	3979
+24.	rockenrolla(#1305) - dzafa kri.	17777km2	7292327	ManG3	Utop	3783
+25.	-=LH=- RullezZ(#2237) - Galactic	24416km2	7192840	-=LH=-	Kom	3885
+26.	do močálu se močí(#2090) - adduktor	12188km2	7156647	ZEVL	Utop	3840
+27.	výbornej makovej čaj(#3011) - naivefighter	16280km2	7123671	SKAndáál	Tech	3969
+28.	.:WWF:. Země medvědů(#1124) - Medvidek3000	23618km2	6974546	.:WWF:.	Kom	3863
+29.	Bijuu Tobi(#325) - Lordisko	26666km2	6924969	Akatsuki	Feud	3961
+30.	Budulínkova zem(#1696) - Budulínek s.r.o	18330km2	6914501	Ganja	Robo	3948
+31.	alebo aj takto sa da(#2352) - Bl4H3s	18478km2	6819089	cz-sk	Utop	3948
+32.	1 EURO(#1400) - walrock	15617km2	6754539	=T=	Demo	3942
+33.	Monster_Dark_Energy(#1334) - FH	19016km2	6667675	DF	Utop	3979
+34.	RYCINA - da best poka`(#2121) - Muffia	24293km2	6637231	PíPíBí	Robo	3975
+35.	Eski Girl(#814) - Dhany	16222km2	6597520	Ganja	Robo	3978
+36.	White Koksers(#1973) - JoservonOser	24718km2	6378279	CGHMN	Robo	3962
+37.	Successful ONE(#1307) - .Baťa.	24581km2	6335165	gg	Feud	3847
+38.	RJAZAŇ(#2370) - IngBadzo	31775km2	6316333	HOR	Robo	3928
+39.	The best or nothing(#1622) - jowood2	22123km2	6295419	WG-PROF	Utop	3800
+40.	kuřbuřtazduř(#1082) - labojse	22328km2	6191209	ČSB	Robo	3979

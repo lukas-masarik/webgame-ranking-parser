@@ -1,0 +1,42 @@
+56. VĚK
+#	Země	Rozloha	Prestiž	Aliance	Vláda	Kol
+1.	..Mazlík Terka..(#5456) - Nargan	14328km2	18900000	Chrudoš	Kom	3528
+2.	tsst,vy to redite jo...(#1462) - Brearos	36469km2	9675424	Áčko	Robo	3979
+3.	Forever young(#666) - epicFAIL	25000km2	9341449	gTo	Feud	3547
+4.	porežem Vás MUTERA(#2411) - džulio	29035km2	9009061	mutera	Robo	3976
+5.	.:TheOneWayIsTheUpWay:.(#3923) - Sef87	30787km2	8535785	BP	Robo	3979
+6.	lama per pialla(#324) - 8ruk1z1	20294km2	8523098	I.H	Utop	3966
+7.	OpenSolaris.cz(#3565) - Jiriss	21266km2	8478597	574ND4R7	Kom	3925
+8.	A jakej z toho mas pocit?(#235) - Saturas	17455km2	8435508	.SE.	Rep	3971
+9.	Land(#5754) - Lem	21882km2	8405270	B.D.	Rep	3859
+10.	art] White Castle(#1679) - bbananasovv	23527km2	8231379	RAFANI	Demo	3979
+11.	awpland(#4616) - DeathFilip	25499km2	8175768	JME	Robo	3918
+12.	1+1=3(#4955) - Zorg	21244km2	8112947	MUF	Kom	3956
+13.	01010101.PROFESOR.0101010(#2703) - Corvin mc Grey	26560km2	8045826	B.D.	Demo	3945
+14.	Lodoss(#2847) - Netopier5	19223km2	7993740	Across	Utop	3331
+15.	Rumburakovo království(#4420) - Sjezdovka	22005km2	7944054	BOUNTY	Utop	3977
+16.	alpic nema digestor :D:D(#3364) - ttrtt	23500km2	7855555	=ex=	Demo	3940
+17.	Keksikovo(#6363) - keksik	20526km2	7719591	=EF=	Demo	3742
+18.	Kyperské království(#2478) - steamroller	20409km2	7665877	.::R::.	Demo	3978
+19.	Perestroika(#782) - jongi	21197km2	7591446	LPX	Kom	3963
+20.	Bublex The Bibiš Master(#2518) - Joe The Boss	17512km2	7368390	=*DC*=	Kom	3934
+21.	archdevil land(#372) - TiHiC	19339km2	7330984	.::BR::.	Kom	3822
+22.	Are You Experienced?(#3760) - Broot	20150km2	7273264	ŽsN	Demo	3979
+23.	Růžový Slon(#542) - Krten	18094km2	7203313	LLS	Kom	3882
+24.	Komplex strachu(#414) - NiakarAn	20492km2	7188763	.::VR::.	Demo	3967
+25.	Cholerik v2.0(#785) - Scared Slayer	18208km2	7134681	NHKG	Utop	3887
+26.	Run To The Hills(#1633) - Boníček	24753km2	6976237	BFP	Feud	3979
+27.	NiakarAn(#39) - NiakarAn	32603km2	6973736	LLS	Robo	3962
+28.	Paroubek je tele tlusty(#2794) - VargVikernes	20436km2	6892412	HU1V4T1	Robo	3962
+29.	Analny Otvorcek(#3869) - Zilos	25361km2	6872879	.:NUKE:.	Robo	3946
+30.	.::Ona je mrtvá::.(#3195) - XXXGrey	20639km2	6763886	TE	Robo	3769
+31.	Cirkus Alien(#393) - Karolínka	28299km2	6752714	PUNX23	Utop	3975
+32.	Tuer avec amour(#961) - Kefalin.	21878km2	6662061	Love	Robo	3938
+33.	The Holy Wikipedialand(#149) - Orcidian	23486km2	6623978	EMP	Robo	3941
+34.	Ten jehož žena není živá(#210) - FARR FARR AWAYY	26580km2	6601823	EMP	Feud	3870
+35.	Windkiller(#28) - Windkiller	10353km2	6575255	Etc.	Utop	3521
+36.	Whisper From the Darkness(#2322) - paladin Uther	18649km2	6528036	ULoT	Kom	3965
+37.	Dr. Gonzo(#1563) - Lord IVCO	27725km2	6506810	PARA	Utop	3979
+38.	Princess Tigress(#1223) - Sahlepik	15486km2	6478134	Tygers	Utop	3746
+39.	B*E*S*A*R*A*B*I*A(#3618) - Abdul	23225km2	6472663	Bubáci	Robo	3954
+40.	Functionality Land(#1952) - FoxSpy	25498km2	6462372	BFP	Feud	3972

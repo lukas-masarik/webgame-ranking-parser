@@ -1,0 +1,42 @@
+32. VĚK
+#	Země	Rozloha	Prestiž	Aliance	Vláda	Kol
+1.	NIEsomSKILLERaleKILLNEMta(#10090) - Lord TROKS	27888km2	14002845	CE	Demo	3553
+2.	Mitazzz(#1563) - kuliver	25049km2	12441970	CE	Demo	3614
+3.	A.Iverson je mizera(#5373) - Am I Evil	22810km2	11714991	Mizerové	Demo	3643
+4.	Tuer avec amour(#4547) - Kefalin	18300km2	11160500	PRIDE	Demo	3522
+5.	Krvavá láska /F/(#8068) - Deus	26230km2	11082947	*LZWG*	Robo	3556
+6.	Fremen the Pulpfighter(#5479) - Nacochata	23471km2	10948884	WG-elite	Utop	3850
+7.	Midgard(#2789) - Charlemagne	20935km2	10872073	THOR	Kom	3628
+8.	Zos kia culthus /F/(#397) - Dimmu.Borgir	18556km2	10816040	.::R::.	Tech	3566
+9.	Fu Lengs` Legion(#4791) - ...matej...	22929km2	10742252	D3m0n1C	Demo	3853
+10.	Undekanol(#12941) - Malý Chemik	25899km2	10696397	D3m0n1C	Demo	3764
+11.	Phantom of death(#952) - Plechi	24202km2	9917306	CE	Robo	3740
+12.	Shadowlands(#4674) - ...matej...	23931km2	9606351	D3m0n1C	Demo	3814
+13.	No safety,surprise,TheEnd(#15056) - Facka	22896km2	9528889	PRIDE	Demo	3456
+14.	Borg Queen(#3546) - IhateMICRO	25743km2	9388985	BORG	Demo	3856
+15.	My T3rR1t0rRy(#2678) - H3LL M4KER	24248km2	9269158	D3m0n1C	Demo	3773
+16.	Ja asi odpadnem(#14689) - PedroFuture	20417km2	9108329	D3m0n1C	Demo	3627
+17.	Hannibal`s underworld(#631) - Dr.Leckter	21738km2	9021264	.-JT-.	Demo	3544
+18.	Thomas A. Anderson(#8709) - Schmutzka	21475km2	8951623	BORG	Demo	3838
+19.	DevilLand(#11763) - Rukus.	21335km2	8921705	P.f.B	Demo	3834
+20.	-=LOL=-NECHCU DO ALI(#14938) - Mr. HECTOR	7055km2	8900091	STFUNOOB	Utop	3510
+21.	Artek(#13521) - Jurgens	23000km2	8887599	68	Rep	3806
+22.	Dodekanol(#15039) - Malý Chemik	24780km2	8798297	D3m0n1C	Demo	3752
+23.	SEAL 6(#12551) - NietzscheV	26664km2	8707652	UP	Kom	3713
+24.	SUXXXsessful land(#12774) - Mr. HECTOR	29749km2	8641790	DRACO	Demo	3857
+25.	Košice(#11762) - Rukus.	21592km2	8507152	P.f.B	Demo	3822
+26.	KDO NEKALÍ NENÍ MORAVÁK(#666) - xkukx	24726km2	8476688	n-jedna	Demo	3722
+27.	Gerasimovka(#13518) - Jurgens	23000km2	8381950	68	Rep	3805
+28.	The Butterfly Effect(#3027) - SonnyDark	26074km2	8332847	:13:	Robo	3831
+29.	zátoka pláňat(#5090) - clockwork orange	25918km2	8330761	COx	Tech	3762
+30.	Lístočky v Lesíku(#1712) - .Coobiaq.	22000km2	8311977	Lesík	Demo	3858
+31.	Skillz(#136) - nonPhixion	27452km2	8300300	n-jedna	Demo	3659
+32.	reprezentuju TRUTNOV(#1325) - Toshiro	20082km2	8209536	CE	Robo	3766
+33.	Nehul tolko, kolko ja(#4336) - Slick Rick	13394km2	8197368	C.J.	Demo	3720
+34.	Am I Evil je mizera(#2971) - A.Iverson	15371km2	8156919	Mizerové	Demo	3626
+35.	Borg Drone 1 of 9(#5722) - Yurnero	18181km2	8122901	BORG	Utop	3817
+36.	Lena Katina(#67) - Death Imperator	25200km2	8119778	G	Rep	3834
+37.	HKEY..CVOKAL..USER(#13145) - SiDiX	19075km2	8111778	IBHZK	Robo	3718
+38.	Funterra(#12299) - Sufun	22976km2	8070525	G	Demo	3820
+39.	.Nenapadna.Lama./F/.(#4136) - Robotickiller	15294km2	8057695	.-JT-.	Demo	3745
+40.	Antrim(#15465) - Abdul	27420km2	8010333	.::R::.	Robo	3391

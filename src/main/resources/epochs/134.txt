@@ -1,0 +1,42 @@
+134. VĚK
+#	Země	Rozloha	Prestiž	Aliance	Vláda	Kol
+1.	Kimi Räikkönen(#655) - FARR FARR AWAYY	12303km2	16041419	AC/DC	Demo	3848
+2.	LOS made in noname(#3344) - Topisek	27601km2	11643417	L.O.S.	Robo	3912
+3.	Jdu si takhle okolo(#595) - mulako	22285km2	11036661	...EX...	Tech	3849
+4.	Zavrene muchy v kleci(#1092) - Homeerius	19999km2	10100000	SUX	Utop	3949
+5.	Vysabotím ťa keď chceš(#71) - tvojasmrt	29239km2	9366030	ManG	Robo	3868
+6.	Bojím se izolepy(#1761) - labojse	20000km2	9092822	PRD	Kom	3841
+7.	Nepovyšuj se(#428) - ridgeback	17999km2	8555555	WG-Elite	Utop	3965
+8.	flámy už mě nebaví(#130) - Walden r Gwendor	17222km2	8372765	AC/DC	Tech	3970
+9.	Chulimanga(#249) - FR3EZY	21099km2	8284489	=T=	Tech	3955
+10.	Advocatus diaboli(#181) - DieWalker	14132km2	8140595	AC/DC	Tech	3963
+11.	LOS made in Vyhladzovac(#779) - P3terko	28323km2	8003253	L.O.S.	Fund	3973
+12.	Odpolední šlofíky(#1299) - Krutopepek	17199km2	7941602	AC/DC	Utop	3973
+13.	T.N.T.(#812) - xkukx	15079km2	7848873	AC/DC	Utop	3744
+14.	Dwight Schrute(#203) - Martin858	15999km2	7831259	AC/DC	Utop	3910
+15.	Ilyiasviel(#877) - Darth Athen	17305km2	7813898	SB	Demo	3958
+16.	.::PKZ::. nový svet(#1135) - kiss for you	27118km2	7385604	PKZ	Robo	3966
+17.	The One Above All(#720) - Shrunke	14876km2	7360578	PRDOX	Utop	3966
+18.	Orier(#1237) - Deus	21088km2	7272586	SPRITE	Robo	3977
+19.	Highway to hell(#1163) - vanna	18454km2	7155172	AC/DC	Utop	3912
+20.	Peace or War(#912) - kagr15	15038km2	6949198	(CD)	Kom	3955
+21.	.....l-l..........o..O(#1014) - Garithos	18264km2	6864389	FETKA	Tech	3979
+22.	Krušovice 12(#150) - .HARKOMEN.	18499km2	6857866	HRNCE	Demo	3978
+23.	Pardeeho vlna(#1020) - Michellion	18843km2	6543586	MZA	Utop	3855
+24.	něžnější než tvá maminka(#952) - HI MOM	17435km2	6490043	HI`MOM	Robo	3950
+25.	HeadShot do Hlavy(#1707) - VeNoNeeK	17928km2	6455869	BLOOD	Utop	3971
+26.	KOALA(#883) - koala59	20251km2	6380670	VN	Robo	3967
+27.	Dunningův-Krugerův defekt(#1184) - mara8	14179km2	6353657	**CQR**	Utop	3970
+28.	Marsellus Wallace(#369) - Telwin	19999km2	6347073	SUX	Demo	3933
+29.	-DEAD- pepe neumi farmit(#375) - ppedrnikar	12621km2	6302026	DEAD	Utop	3969
+30.	Messi lepší než Ronaldo(#461) - ..caramell..	22112km2	6280787	AUTORITA	Demo	3966
+31.	Bloudíme tmou...(#169) - thordevil	14997km2	6236729	Farmář	Utop	3977
+32.	UwU(#967) - Matex	19313km2	6153521	PhaMa	Utop	3966
+33.	.:BB:. 19MINO94(#978) - 19MINO94	12954km2	6036032	PRDOX	Utop	3971
+34.	MCBP(#1693) - j.o.h.n.y.s	20999km2	6035882	KW	Utop	3960
+35.	The Winter Hill Gang(#194) - Wojxtier	18251km2	6035066	KL	Utop	3975
+36.	Sunshine Regiment(#88) - hlidac3	27314km2	6029714	VZP	Feud	3970
+37.	Gayshame(#1638) - Spratek	18740km2	5900502	PRDOX	Utop	3954
+38.	Sorry, to jsem se uklik(#1045) - Saturas	13668km2	5819521	queens	Utop	3978
+39.	Lasciate Ogni Speranza..(#188) - DieWalker	20556km2	5794303	AC/DC	Dikt	3965
+40.	Tinky binky(#579) - Tinky binky ex	11677km2	5731955	ZERO	Dikt	3770

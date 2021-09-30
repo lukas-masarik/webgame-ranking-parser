@@ -1,0 +1,42 @@
+107. VĚK
+#	Země	Rozloha	Prestiž	Aliance	Vláda	Kol
+1.	Why so Seeriiioouuuuus???(#155) - eska	27742km2	16928157	KL	Kom	3956
+2.	What A Wonderful World(#1138) - Zorg	28463km2	16688793	IF	Kom	3979
+3.	LazyMexican xD(#794) - extreme world	17999km2	10000000	Bull	Kom	3913
+4.	Lechtivá slečinka(#101) - c4u710n	12698km2	9744008	M	Fund	3882
+5.	Valar Dohaeris(#1064) - Uaah	27999km2	8192286	MARVEL	Robo	3909
+6.	Nech si kecy na koledu(#537) - Yo.momma	25900km2	8022021	S*K	Robo	3962
+7.	naXis(#781) - Field	22788km2	7694739	MK	Kom	3945
+8.	Nech mě nestíhám nevím...(#1598) - JJura	14529km2	6790771	NNMN	Utop	3637
+9.	SUXessfuII(#578) - LuisFigo	24512km2	6710653	SUX	Robo	3948
+10.	neBudu d(#1434) - Topisek	21904km2	6428487	nBd.	Feud	3969
+11.	ImTheDoctor(#573) - Ersango	19681km2	6175876	-=DH=-	Feud	3947
+12.	Sunshine(#90) - Anchor	23554km2	6159587	G7	Kom	3979
+13.	Krteček a rakvička(#1617) - IMraz	12656km2	5959093	KRTEČEK	Utop	3945
+14.	nejdeem(#655) - ek nejvetsii	10458km2	5925640	nBd.	Utop	3844
+15.	Veduci je s3fko(#1330) - S3FKO	11795km2	5861370	SEFKO	Kom	3929
+16.	strejda KURT může furt(#882) - ...Aláh...	7675km2	5812928	ZSB	Utop	3673
+17.	Warlord DestruCtoR(#748) - High Warlord Rxz	17586km2	5739026	LordsWG	Utop	3977
+18.	Mame doma dobry matros(#332) - Dextrik	14707km2	5688818	vh74	Utop	3960
+19.	Já všecko v peytchi mám(#845) - V A L A C H	18062km2	5667691	IF	Robo	3910
+20.	nejdem(#653) - ek nejvetsii	9999km2	5638209	nBd.	Utop	3846
+21.	ahoj.(#1801) - Atlantik	18137km2	5588449	IF	Feud	3905
+22.	Pistolník(#1806) - laggar	21111km2	5554300	VzP	Rep	3961
+23.	PcetseR(#419) - sintik	24998km2	5503130	FBI	Dikt	3976
+24.	Velky uličník(#1540) - trubkatrubkovic	20976km2	5404493	Helijon1	Robo	3525
+25.	Dagobah(#392) - gustil	20072km2	5390241	SQA	Feud	3979
+26.	Conqueror co má rád teror(#1331) - yuphon	16361km2	5387697	**CQR**	Utop	3967
+27.	Sarkasmus je moje milá(#751) - mara8	4999km2	5376189	**CQR**	Utop	3649
+28.	Kup si moje CD(#100) - Aram Chroustal	20111km2	5347759	RAPTOR	Kom	3979
+29.	?(#557) - Vibrace	15699km2	5333632	IF	Demo	3966
+30.	Valach v Praze(#104) - Aram Chroustal	15623km2	5320764	RAPTOR	Demo	3979
+31.	Měsíční zahrada(#1095) - Technopol	21620km2	5262895	Q(-,-(Q	Feud	3897
+32.	neBudu dávat půdu zdarma(#950) - VAGOUN	18166km2	5243427	nBd.	Robo	3979
+33.	Bangolia(#1820) - Dan del Mendoza	14226km2	5144858	**CQR**	Utop	3900
+34.	K100(#250) - Fristi	18394km2	5139880	RAPTOR	Kom	3976
+35.	Lingines(#1228) - LordBlsan	21064km2	5132643	MMO	Robo	3963
+36.	FIX YOU(#77) - ptak77	18575km2	5104960	=T=	Fund	3956
+37.	Conqueror (Hugo) Boss(#1898) - vanna	7999km2	5055171	**CQR**	Utop	3816
+38.	LOS made in China(#631) - Topisek	18393km2	5029564	=T=	Utop	3914
+39.	Mamberamo(#556) - Vibrace	13922km2	5008425	IF	Utop	3976
+40.	.:CZ-SK:.AK-47ProduceR(#165) - AKland	18809km2	4992482	ČSLA	Kom	3964

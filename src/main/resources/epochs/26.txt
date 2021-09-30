@@ -1,0 +1,42 @@
+26. VĚK
+#	Země	Rozloha	Prestiž	Aliance	Vláda	Kol
+1.	Alpakova VibračníSouprava(#86) - Tan X.	21106km2	13543384	SR	Demo	3708
+2.	hunter(#1177) - Lanka	14678km2	11656818	SR	Demo	3537
+3.	Tanove rotopelo(#163) - Ekstudzi	21380km2	9999403	SR	Demo	3799
+4.	neskodna(#12041) - blumik	10047km2	9825288	WG-Elite	Utop	2986
+5.	kazatel(#2728) - schemo	18503km2	9570681	n1	Demo	3536
+6.	Discaret wjú(#5676) - Irenet Afen	6236km2	9454393		Utop	3472
+7.	Malý Teraformer(#5429) - Sekory	16149km2	9387876	SENO	Kom	3654
+8.	KIRNER(#10497) - Irenet Afen	20000km2	9293899	.::R::.	Demo	3839
+9.	matka predstavena(#347) - kamikadze10	18073km2	9002955	n1	Demo	3637
+10.	.iZdEmUzEbYtVaSeReKlAmA.(#358) - Elkor	3927km2	8618044	ICQ	Anar	3318
+11.	Pevnost Bulo(#9041) - GeRoNiMo.	22286km2	8295804	SR	Demo	3770
+12.	Astopia(#305) - Asticka	11960km2	8141336	UTOPSE	Utop	3763
+13.	Castelo de Deus(#2201) - xammax	21071km2	7867799	k9	Kom	3691
+14.	Territory(#295) - orgasmatron	25019km2	7450592	3rdWorld	Demo	3859
+15.	Thrudvagnar(#4000) - Charlemagne	19696km2	7370315	THOR	Robo	3859
+16.	Zhulená země(#1171) - Plechi	22599km2	7330561	SR	Robo	3684
+17.	209593016(#350) - Elkor	24311km2	7293003	ICQ	Utop	3843
+18.	Betelgeuze(#235) - Stanislav III.	19999km2	7212496	THOR	Utop	3859
+19.	KAMI MAS LUXUSNI KAKAC :D(#7463) - pyroman	16760km2	7189660	n1	Demo	3668
+20.	119310584(#847) - Black Warrior	24574km2	7157358	ICQ	Rep	3830
+21.	Spálená země(#7130) - Qanaaa	13261km2	7036494	Lamak	Utop	3769
+22.	Lachtánkova země(#4166) - mergant	21351km2	7000000	s.d.e	Rep	3859
+23.	Satalice(#12) - Rehmen	24514km2	6951040	3rdWorld	Rep	3860
+24.	Face.To.Face(#9081) - gang	18071km2	6852041	n1	Tech	3591
+25.	Magic rotopelo(#7988) - Hurd	19386km2	6829761	SR	Demo	3681
+26.	Skillz(#3222) - nonPhixion	20455km2	6698259	n1	Demo	3660
+27.	Lentilka(#10213) - BELOK	19325km2	6573901	nex	Robo	3850
+28.	pošta(#712) - šeková poukážka	17720km2	6560990	SR	Demo	3753
+29.	Mikeeland(#9845) - Mikee	18164km2	6508399	V.V.V.	Demo	3799
+30.	Rumunsko(#6332) - alu	18740km2	6491358	AYES	Robo	3854
+31.	Zex(#1449) - Facka	21106km2	6434038	INTR	Demo	3845
+32.	Killer(#5668) - ...matej...	23319km2	6359721	3rdWorld	Rep	3860
+33.	503422971(#6584) - PATRIARCH.	20571km2	6357759	ICQ	Utop	3782
+34.	Voice of War(#5847) - Besh	20323km2	6339894	WG-Elite	Utop	3452
+35.	Crushers land(#5796) - crusher666	17361km2	6225691	n1	Demo	3692
+36.	Kačer Donald(#3337) - Mr. Neo	17794km2	6216807	GST	Robo	3812
+37.	Kriza Vedomia Riot(#5629) - esya	16708km2	6206627	SR	Kom	3791
+38.	Slunce, seno a pár raket(#3838) - Makkinen	9852km2	6133105	k9	Anar	3811
+39.	Parsifal(#2967) - steamroller	21459km2	6078380	.::R::.	Robo	3860
+40.	Klekí petra(#267) - Kleky	19001km2	6073433	k9	Anar	3860

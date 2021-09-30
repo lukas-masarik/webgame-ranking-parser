@@ -1,0 +1,42 @@
+17. VĚK
+#	Země	Rozloha	Prestiž	Aliance	Vláda	Kol
+1.	Nordic Thunder(#568) - Rien Satori	29905km2	9785488	H2	Demo	3647
+2.	Serious Sam(#1772) - 11Gladiator11	29131km2	9145165	UFD	Demo	3357
+3.	Midgar(#60) - falu	17309km2	8894667	H2	Utop	3643
+4.	Paskvil je pokusná krysa(#594) - Paskvileček.	21266km2	8473133	H2	Tech	3447
+5.	Crusher`s land(#1861) - crusher666	28755km2	8332070	Břez	Demo	3626
+6.	CrusherLand(#7) - CrusherBr	27559km2	8236745	Břez	Kom	3670
+7.	Alcatraz(#116) - Kala	26811km2	8133679	USOK	Kom	3671
+8.	Evil Devil Fowl(#32) - Meril	28528km2	8045048	USOK	Kom	3441
+9.	Krovax(#12) - Krovax	26650km2	7914074	UFD	Kom	3554
+10.	Mysidia(#25) - Kurtz	17518km2	7615963	H2	Demo	3666
+11.	Drakkar(#3) - The Bozena	28581km2	7329288	USOK	Utop	3670
+12.	Megalomania(#30) - xgeorgo	27371km2	7281982	Břez	Kom	3670
+13.	Mikawa(#835) - Yohan	22393km2	6857752	UFD	Utop	3663
+14.	Hard Lines(#1046) - Lone Wolf	27320km2	6717748	UFD	Utop	3662
+15.	Holubí dům(#1687) - Holub	24961km2	6626266	Břez	Kom	3669
+16.	Bossovina(#368) - bossuno	24301km2	6548731	Břez	Kom	3642
+17.	The Chaos Sanctuary(#21) - Boss33	24461km2	6539473	UFD	Utop	3661
+18.	Bouranice(#70) - Facka	20329km2	6527816	Břez	Kom	3671
+19.	Still Destruction Land(#732) - LordDePraga	18722km2	6470884	TD	Kom	3641
+20.	Black Stronghold(#467) - Black Warrior	25558km2	6390938	UFD	Utop	3549
+21.	Alpaka(#1) - Alpaka	18433km2	6363847	USOK	Utop	3361
+22.	Hlucinsko(#587) - McCall	27039km2	6131109	USOK	Feud	3597
+23.	Destruction(#574) - Boromir	22820km2	6025077	H2	Demo	3649
+24.	x(#130) - Noname	27097km2	5931214	H2	Demo	3664
+25.	all what you want(#135) - dali	21372km2	5912107	H2	Feud	3647
+26.	Dark Kangaroo(#117) - Lion	22919km2	5740365	USOK	Utop	3543
+27.	Tree of Břez(#78) - Silent	21340km2	5681907	Břez	Kom	3615
+28.	..::Světakovýjakýje::..(#192) - Plachý..Medvěd	18825km2	5660183	UFD	Demo	3609
+29.	CCCP(#59) - Nerevarine	18913km2	5659588	TD	Kom	3612
+30.	až 25 znaků(#1189) - BONE the Great	18505km2	5650324	TD	Rep	3603
+31.	Hybrid Theory(#785) - Zachata	12322km2	5500055	UFD	Robo	3571
+32.	Země Česká(#604) - Alenkaa	19028km2	5434849	USOK	Kom	3670
+33.	Desítka je báječná(#999) - Stradivarius	18036km2	5300000	PRISTAV	Demo	3723
+34.	Bird of Prey(#154) - anklebiter	17575km2	5203761	Břez	Kom	3626
+35.	Shitland(#540) - Shitmorr	19047km2	5137353	USOK	Utop	3642
+36.	Dracovo(#1387) - Draco	22254km2	5089249	USOK	Feud	3568
+37.	Namek(#1079) - SSJVegeta	16188km2	5087171	H2	Demo	3671
+38.	Kocovina(#933) - Herr Becher	17316km2	4977172	PRISTAV	Demo	3613
+39.	brave(#505) - kinyo	14738km2	4866317	Břez	Kom	3596
+40.	RISHADAN PORT(#119) - Jouza Makičký	17012km2	4857488	H.M.S.	Utop	3669

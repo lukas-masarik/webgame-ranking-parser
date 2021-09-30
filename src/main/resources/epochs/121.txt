@@ -1,0 +1,42 @@
+121. VĚK
+#	Země	Rozloha	Prestiž	Aliance	Vláda	Kol
+1.	Valar Dohaeris(#666) - Uaah	24872km2	14547974	.LL.	Utop	3867
+2.	Who wants to live forever(#156) - Zorg	23943km2	13983054	=wale=	Tech	3850
+3.	slecinka 10xh13(#1319) - Atlantik	25691km2	13080040	ManG	Utop	3584
+4.	Duško Kreken(#697) - gorbatčov	22455km2	13000000	OKNO	Utop	3542
+5.	koleje(#1344) - Martin poula	28259km2	11737239	Kombajn	Robo	3902
+6.	dont.again(#449) - Canada	22964km2	10448316	VZP	Utop	3839
+7.	Karak Dum(#426) - Reich Graf	22555km2	9758401	MENSA	Demo	3979
+8.	-.-.-.-.-.-.-.-.-.-.-.-.-(#379) - H3lp1k	32129km2	9071873	-.-	Feud	3977
+9.	Unavená slečinka(#371) - hemendex	24367km2	8780048	ManG	Feud	3979
+10.	.:CZ-SK:.Kupis(#99) - Canada	26226km2	8077365	ČSLA	Feud	3914
+11.	Jersey(#1343) - imha	25576km2	7671417	Tabacek	Feud	3979
+12.	-.-.-.-.-.-.-.-.-.-,-.-(#63) - ListerD1	26410km2	7520845	-.-	Robo	3821
+13.	SUXessfulI(#597) - LuisFigo	21160km2	7144698	SUX	Robo	3965
+14.	Conqueror študent(#1680) - Mr. Sedlinno	13899km2	7049930	**CQR**	Utop	3939
+15.	už nejsem na icq(#991) - čempix	16537km2	6799010	ALI1234	Demo	3979
+16.	I can change the weather(#803) - LTB	17608km2	6736604	Across	Robo	3881
+17.	No(#1256) - Vibrace	21874km2	6641006	Kombajn	Kom	3974
+18.	-DEAD-Sjel sem Tě po druh(#143) - Diák	17368km2	6608468	DEAD	Feud	3809
+19.	Guernsey(#1611) - imha	26394km2	6476376	Tabacek	Robo	3979
+20.	Grýn(#860) - green88	23163km2	6381330	)CD(	Robo	3870
+21.	Atlan(#742) - Atlantik	15999km2	6379922	M	Utop	3955
+22.	Měsíční mužíček(#559) - Eph3dr1ne	15103km2	6348642	M	Utop	3956
+23.	Conqueror labužník(#1679) - Mr. Sedlinno	13299km2	6258407	**CQR**	Utop	3881
+24.	8472...(#580) - sir Kopcem	22701km2	6239904	MENSA	Feud	3849
+25.	(*`=/+-.,:())(#145) - Diák	18999km2	6142646	Binks	Kom	3768
+26.	-DEAD-PocemKamJdeš(#294) - DaniCZeK	17667km2	6092386	DEAD	Utop	3973
+27.	Mamberamo(#1245) - Vibrace	18018km2	5994475	Kombajn	Robo	3978
+28.	So hot(#317) - 2xcl.	15999km2	5925412	M	Utop	3979
+29.	Atlanova defka(#888) - ridgeback	19444km2	5888888	M	Utop	3976
+30.	Marsellus Wallace(#945) - Telwin	22999km2	5882174	M.S.K.	Demo	3977
+31.	:o)(#1508) - Master WG	14882km2	5794758	BOUNTY	Utop	3821
+32.	EarlyBirds(#45) - Poisoindlovo	16072km2	5731602	ltf	Kom	3979
+33.	.:.:.:.:.:.:.:.:.:.(#322) - Thooom	16735km2	5730451	Across	Feud	3966
+34.	.:CZ-SK:.StrongerThanLove(#1359) - DwarfLord	14387km2	5729698	ČSLA	Utop	3936
+35.	Red Dwarf(#35) - ListerD1	25099km2	5689181	COOL	Utop	3868
+36.	Veganstvím ke zdraví(#135) - SOH	18245km2	5619829	THZ	Kom	3888
+37.	Osn1(#1833) - Lord Kamzo	21072km2	5558204	-osn-	Feud	3941
+38.	Co chces?(#1926) - ridgeback	22352km2	5555555	CDWT	Robo	3866
+39.	TOTALUS(#1474) - svet	15841km2	5471651	THZ	Utop	3978
+40.	:(#1314) - Signalman	12585km2	5433083	ČSLA	Robo	3964

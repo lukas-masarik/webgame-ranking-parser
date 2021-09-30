@@ -1,0 +1,42 @@
+28. VĚK
+#	Země	Rozloha	Prestiž	Aliance	Vláda	Kol
+1.	Fena ...(#15282) - Irenet Afen	24310km2	13123612	coRp	Tech	3739
+2.	Mamberamo(#15634) - ..Riki..	29382km2	12782485	VK	Rep	3557
+3.	Rytíř Avalon(#589) - steamroller	20000km2	12119653	.::R::.	Demo	3517
+4.	KIRNER(#14244) - Irenet Afen	8527km2	12000071		Utop	3404
+5.	Deňňě vožřalej(#2938) - Achran	17406km2	11489859	UFO	Kom	3610
+6.	Axiom(#265) - Stanislav III.	21494km2	11186135	THOR	Demo	3685
+7.	XCOM(#8952) - steamroller	15555km2	10798441	KREV	Robo	3549
+8.	Hairy truck driver(#428) - nonPhixion	21670km2	10289473	KREV	Demo	3789
+9.	WeyRoN(#4964) - .FeXeR.	30347km2	10133571	D1KTATOR	Demo	3868
+10.	Psilocybe arcana(#1467) - Plechi	25514km2	10068394	D.P.	Robo	3634
+11.	Sbohem, a diky za ryby(#6027) - Aegi	22442km2	9804011	D.N.A.	Robo	3852
+12.	Los Alamos(#15220) - CREASON	21571km2	9362934	AF	Demo	3868
+13.	TheSiegeIII ..coming soon(#5781) - Lord Veneticuss	32240km2	9351672	H2	Dikt	3962
+14.	cOO1 w4w3(#15137) - Dr.Gillette	23434km2	9348171	KREV	Demo	3748
+15.	Kofolov(#15643) - Pokstefl	11695km2	9299222		Utop	3393
+16.	Fay, Ed and Ein(#604) - Philman	28263km2	9007059	=DS=	Robo	3808
+17.	FSB Charlie(#5167) - OhneR	26606km2	8894792	D1KTATOR	Rep	3859
+18.	Mauretania Caesariensis(#15698) - Orcidian	16050km2	8750242	SWK	Utop	3842
+19.	Pif, paf, bum(#11756) - kinbub	19882km2	8715519	ODPO	Robo	3638
+20.	The Empire Of Metal(#9595) - Kito666	22531km2	8609028	MORRIS:1	Demo	3850
+21.	Spike and Jet(#587) - Philman	28861km2	8438431	=DS=	Robo	3866
+22.	MICHAEL JORDAN(#191) - warecek	20000km2	8373344	SK	Utop	3730
+23.	Běžně do řiti lezu Něžně(#15347) - Razor	28930km2	8294153	VK	Utop	3864
+24.	VENIR , VER , VENCER(#9688) - xkukx	18633km2	8137964	coRp	Demo	3854
+25.	Garry Owen(#4976) - OhneR	25784km2	8137130	D1KTATOR	Rep	3859
+26.	MUJ DÍROV(#3879) - ToM0	26819km2	8128939	=DS=	Robo	3867
+27.	KrataCoolWorld(#962) - mistrWG	27440km2	8085194	=DS=	Robo	3724
+28.	TAX(#3448) - Rhodan	14311km2	8078098	H2	Utop	3631
+29.	Chlpatá vodička kamionu(#375) - esya	16197km2	8042725	n1	Demo	3559
+30.	OCHO(#9182) - survival.	28291km2	7956215	ICQ	Demo	3860
+31.	Land of Dark Soldiers(#4567) - wgBurak	17468km2	7953204		Demo	3864
+32.	Submisivní dívenka(#1406) - Dimmu.Borgir	23784km2	7839649	Apatie	Tech	3709
+33.	Tvoj tato(#443) - nonPhixion	28053km2	7813909	KREV	Robo	3868
+34.	Nameless Planes(#403) - votty	17551km2	7754457	=-RŠ--	Demo	3720
+35.	Thrudvagnar(#7787) - Charlemagne	22309km2	7744462	THOR	Robo	3866
+36.	Košice(#1574) - Rukus.	14023km2	7725316	def	Utop	3826
+37.	Noricum(#23) - Martuv	22711km2	7723113	KKA	Demo	3868
+38.	il camionista pelato(#43) - kamikadze10	4856km2	7702347	n1	Demo	3446
+39.	Astičkov(#12325) - Asticka	8235km2	7646957		Utop	3220
+40.	Poslední pustina(#10917) - Karel XVI	20354km2	7615696	coRp	Rep	3830

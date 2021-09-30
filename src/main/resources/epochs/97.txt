@@ -1,0 +1,42 @@
+97. VĚK
+#	Země	Rozloha	Prestiž	Aliance	Vláda	Kol
+1.	-=DF=- Absolut Vodka(#694) - Michal44	25873km2	12488252	-=DF=-	Demo	3975
+2.	I am become death(#1977) - Avgeropoulos	23456km2	9992284	Vancity	Demo	3979
+3.	WINNER TAKES IT ALL(#1052) - .adm1n.	19687km2	9967533	Wrath	Robo	3974
+4.	Valkac The .:.(_,_).:.(#3205) - Absurdaa	29142km2	9695468	:))	Robo	3820
+5.	Ikuzák(#2640) - Borsug	20617km2	9556795	V...D	Fund	3927
+6.	yzwc8r(#1347) - Bíbou	25308km2	9492780	M	Kom	3868
+7.	Where The Trail Ends(#2554) - .troublemaker.	30747km2	9091973	KULE7	Robo	3972
+8.	Vona jenom slzy roní(#1325) - Mrkvik	24343km2	8804659	NTVDK	Demo	3806
+9.	-FA- FlyleAf(#1482) - Uaah	15999km2	8100000	-=F*A=-	Utop	3890
+10.	Requiescat in Pace(#841) - Martin858	15000km2	7733070	SB	Feud	3857
+11.	Al Paca(#701) - dahulz.alpaca	16876km2	7699882	---	Utop	3942
+12.	Bude lepe a lepe(#433) - Piši	25211km2	7553157	Chilli	Feud	3970
+13.	BOROVIČKA(#147) - Pattis IV.	24005km2	7156654	ETD	Rep	3979
+14.	Aeon Flux(#932) - Hellion	19999km2	7131332	Wrath	Robo	3936
+15.	Destiny(#1070) - Vis Maior	14463km2	7125133	(ŠL)	Kom	3862
+16.	To neumíš co?:D(#2612) - mulako	30597km2	7053589	VSL	Feud	3979
+17.	Bullkovo(#2161) - lulkovec	24401km2	7042349	-T-K-	Utop	3840
+18.	Heart one(#2701) - Tomes	19999km2	6731715	Wrath	Robo	3944
+19.	vyplac sa mi do posty :)(#1227) - Duskooo	19579km2	6635657	F4F	Demo	3966
+20.	Sperma ins Gesicht(#523) - devilLH	23772km2	6623533	ToAn	Feud	3963
+21.	Dergonie(#1186) - Dergon	23500km2	6623158	D*n*B	Feud	3979
+22.	comming rase G.E.B.lytton(#1655) - nepriatelSystemu	27141km2	6526767	TES	Kom	3952
+23.	Miluju Bau(#192) - tvojasmrt	23930km2	6154300	=L.O.T=	Feud	3974
+24.	U kralika Bernarda(#111) - Nokiac	19099km2	6047074	Wrath	Robo	3940
+25.	kefovač tvojej manky(#1642) - nepriatelSystemu	18244km2	6025175	TES	Rep	3939
+26.	Vozo is back(#81) - Vozicek	15585km2	5998105	-osn2-	Kom	3976
+27.	KKD 1200/130(#1415) - 666puky	20795km2	5995936	H.T.	Demo	3854
+28.	Dezov tatino(#955) - Caesar159	20525km2	5995875	Wrath	Robo	3841
+29.	PRD3L(#1073) - PRD3L	17358km2	5949392	B17	Utop	3976
+30.	Psyclops Carnival(#1461) - 1437DAG	16999km2	5770680	DAG	Kom	3957
+31.	Ad astra(#1151) - Boreas	17716km2	5573764	MARS	Feud	3935
+32.	No Coment(#304) - Pattrikk	19355km2	5553481	NGB	Robo	3961
+33.	alkymi(#2038) - kiss for you	20134km2	5446356	KEFA	Feud	3950
+34.	Se mnou si nepocital(#1029) - Brhel	24421km2	5428563	*SnsrN*	Feud	3943
+35.	hoMostajl(#453) - Spratek	25412km2	5416270	nBd.	Dikt	3974
+36.	lop2(#1926) - Tučňák	18672km2	5394266	TES	Robo	3976
+37.	Jsem z toho poplematený(#467) - thordevil	14555km2	5387977	H2O	Utop	3971
+38.	Siddhártha Guatama Buddha(#618) - Ilydann	27514km2	5314844	ISIS	Fund	3942
+39.	Nápis mi tajomstvo (:(#1215) - Duskooo	17822km2	5161937	-.-	Feud	3837
+40.	ja nato mam(#2753) - Lucky6186	14999km2	5136775	MATPRO	Feud	3975

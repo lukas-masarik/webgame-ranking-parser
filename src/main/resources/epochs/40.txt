@@ -1,0 +1,42 @@
+40. VĚK
+#	Země	Rozloha	Prestiž	Aliance	Vláda	Kol
+1.	Dvě v leže(#4572) - Smajdaalf	25852km2	12521550	Tabáček	Kom	3876
+2.	ReSpEcTeD oNe(#143) - eska	25946km2	12096074	FzS	Kom	3918
+3.	Mortician(#6665) - Wulfgar	25663km2	11930050	IBHZK	Demo	3928
+4.	Nedistán(#14345) - Milned	26383km2	11710589	HOPRDOX	Rep	3950
+5.	Jukloprdka(#9557) - Juklik	21407km2	11339761	Heaven	Utop	3860
+6.	Nukleární Králíček(#9312) - SirIndy	35766km2	11312310	NUKE	Robo	3954
+7.	Nepřítel anti-Pikačuků(#230) - .Tommy33.	24000km2	11232864	Friends	Demo	3944
+8.	Inside Of My Soul(#723) - Windows Error	21182km2	10819496	RoBo-Šou	Robo	3900
+9.	MY NEW EARTH(#12722) - Black Rider	31302km2	10557400	s.v.a	Robo	3940
+10.	Malý Chemik(#13040) - Rehmen	31205km2	10254930	BMF	Rep	3926
+11.	znicena zem(#15158) - BlindJustice	25499km2	10202719	B4E	Robo	3906
+12.	Duke(#10129) - .DuKeLuKe.	31146km2	10199864	Bubáci	Robo	3785
+13.	Bohatov(#15294) - Devil Hydra	36401km2	9590884	Fedder	Robo	3932
+14.	End Justifies The Means(#11145) - ZmAsteR.	26294km2	9561066	HOPRDOX	Tech	3852
+15.	Krakonoš(#10530) - .Toshiro.	21779km2	9547899	KP	Demo	3903
+16.	Nepřítel farem(#1160) - Dezider	27777km2	9491747	Friends	Robo	3927
+17.	Hot Wings(#12314) - King Forever	26355km2	9490679		Kom	3930
+18.	Made in Taiwan :-)(#10499) - husty	24444km2	9220135	//CRS//	Robo	3912
+19.	AntiLand(#9404) - hxtxxtxp	17245km2	9128079		Tech	3732
+20.	Vlčák jak dobrman(#1761) - DOG of WAR	26508km2	8988181	OS	Robo	3850
+21.	Berte a vychutnávejte(#656) - mixhail	22032km2	8940250	MoM42	Demo	3854
+22.	THE CLEFT OF SHADOW(#17391) - Farmer Dobyvatel	28789km2	8865978	DEMONI	Robo	3954
+23.	///TentoVekSaNeFarmii///(#10430) - Frederic	29413km2	8841718	U	Robo	3897
+24.	Miki Z Mora SR Hop - Hip(#5375) - Bosi	29004km2	8809906	-=M.M=-	Robo	3953
+25.	Touha je zázrak kámo...(#8480) - thordevil	11111km2	8773914		Kom	3842
+26.	Crusader(#703) - Garithos	50810km2	8771849	KCN	Robo	3955
+27.	owned(#1315) - ghostslayer	27177km2	8738261	NsNk	Demo	3954
+28.	Satalice(#13038) - Rehmen	24596km2	8688529	BMF	Rep	3919
+29.	AllRybnik(#18164) - ElKapr	25981km2	8672524	VODA	Robo	3907
+30.	Bumla-Dráček Úchyláček(#10096) - Ikonoklas	26686km2	8634288	G.U.M.I.	Demo	3908
+31.	Tr3b1tCH a1m3rS - Head(#17431) - LORD Apache	19653km2	8613007		Kom	3525
+32.	Bloody Vengeance(#2148) - Zekusin	24998km2	8577410	Dr.Z	Robo	3918
+33.	evoluce je nesmysl(#15116) - Sir Kl of Kl	31328km2	8557366	CIRCLES	Robo	3949
+34.	mamSVOJplanNAnomZAKLADAM(#10540) - Huntter	32832km2	8464334	T.F	Robo	3923
+35.	Zase zapáchám plazmama(#11510) - Sertus	30533km2	8276334	Hell	Robo	3912
+36.	velmi nevhodný název ???(#2168) - PajinXXX	20611km2	8276253		Tech	3905
+37.	CALCIUM 500mg generica(#4209) - .HARKOMEN.	8869km2	8264607	HRNCE	Robo	3853
+38.	Hamborger a Cheeseborger(#10668) - husty	23245km2	8250460	//CRS//	Robo	3911
+39.	S fackal jsem svého synka(#6041) - Lord Biry	14991km2	8246858		Utop	3835
+40.	Asylum(#7253) - Enas Yorl	23230km2	7993628	BMF	Rep	3948

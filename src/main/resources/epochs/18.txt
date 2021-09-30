@@ -1,0 +1,42 @@
+18. VĚK
+#	Země	Rozloha	Prestiž	Aliance	Vláda	Kol
+1.	Borobudur(#521) - Lone Wolf	31581km2	16810415		Utop	3836
+2.	Black Stronghold(#209) - Black Warrior	28331km2	16692649	UFD	Rep	3811
+3.	Narwain(#20) - oggi	28925km2	11409566	TH	Demo	3837
+4.	Ufounek(#652) - .Ufounek.	17967km2	10840406	TH	Utop	3764
+5.	Viper Empire(#6) - Viper	28759km2	9825146	TH	Kom	3840
+6.	Kamelot Reloaded(#2352) - Artuš II	17985km2	9765629	MOSAD	Demo	3816
+7.	Brloh(#226) - Me2d	25505km2	9260051	MA	Rep	3848
+8.	Pif,paf,bum(#1485) - kinbub	30163km2	8694115	TH	Demo	3744
+9.	Dravá(#433) - Troskol	29268km2	8177288	TH	Demo	3813
+10.	Land of Dark Rose(#345) - Lady Dark Rose	25723km2	7843542	MA	Demo	3822
+11.	EVIL DEVIL FOWL(#1401) - Meril	17448km2	7788815	USOK	Utop	3816
+12.	Proxima(#429) - Oxan	24069km2	7662585	MA	Utop	3865
+13.	Horné Grgy(#76) - Rammstick	24137km2	7658734	MA	Demo	3841
+14.	Pivnaland(#470) - Vojpivna	23334km2	7570019	M*A*S*H	Demo	3844
+15.	dům zapálim, krám vykradu(#218) - Ďábel	26915km2	7556192		Dikt	3863
+16.	===========(#1998) - IlIlIlIlIlIlIlIl	19558km2	7481815	NATO	Demo	3646
+17.	Saiyajins(#1719) - SSJVegeta	19029km2	7466150	PRISTAV	Demo	3867
+18.	Moria(#1672) - Balrog	22524km2	7378187	MA	Kom	3767
+19.	Ruins of Mordor(#1738) - Crusad	21688km2	7244919	MA	Demo	3627
+20.	Ústa plné čokolády(#2939) - Tan X.	15997km2	7207527	SR	Utop	3415
+21.	Sir of aliance(#650) - manisback	22358km2	7204509	cz-sk	Kom	3709
+22.	Startiwalo, murtolalo soe(#1495) - Makkinen	24880km2	7142324	M*A*S*H	Demo	3862
+23.	energy(#206) - ray	22788km2	7090118	cz-sk	Kom	3859
+24.	CURELAND(#199) - CURE	24319km2	7006259	MA	Demo	3855
+25.	Tlamolep Empire(#141) - Scrl	25353km2	6862600	TC	Rep	3866
+26.	lamalangos(#2215) - lamalangos	21635km2	6833530	MA	Kom	3809
+27.	MS2004 Praha CZE 1:6 JAP(#1878) - safi	20799km2	6782636	SP	Kom	3851
+28.	Jesus,he knows me(#577) - Mateo.	27695km2	6691091	SB	Demo	3853
+29.	ch.D.p...oki...://(#2537) - anjelik	4999km2	6664125	cz-sk	Kom	3284
+30.	Vyhlazovací útok(#2221) - mike	21035km2	6636358	SP	Kom	3642
+31.	Mysidia(#1609) - Kurtz	12919km2	6630885	FF	Utop	3862
+32.	Xenocida(#1568) - antaran	16920km2	6595685	GLA1	Kom	3629
+33.	Samba(#58) - RC	16177km2	6586525	NOE	Feud	3810
+34.	Desítka je báječná(#884) - Stradivarius	16821km2	6581993	PRISTAV	Demo	3857
+35.	Guardian of Dreams(#1473) - Pepo	20147km2	6577386	M*A*S*H	Demo	3868
+36.	Blackland(#1326) - sidewinder	25003km2	6526619	MA	Demo	3744
+37.	THE EARTH(#550) - survival.	26168km2	6471540	SB	Demo	3857
+38.	Cardiff(#2749) - Peroshovo	25846km2	6391389	SB	Demo	3864
+39.	Kingdom of Přístav(#795) - Phaser	20346km2	6368714	PRISTAV	Kom	3735
+40.	Alekzandria(#115) - Alekzander	18545km2	6336660	GLA1	Kom	3817

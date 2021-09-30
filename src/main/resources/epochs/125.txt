@@ -1,0 +1,42 @@
+125. VĚK
+#	Země	Rozloha	Prestiž	Aliance	Vláda	Kol
+1.	-FA- Franta Alkoholik(#61) - hagg1d	25768km2	15866349	-=F*A=-	Demo	3587
+2.	Zeme velikonocnich koz(#1254) - Sample.	33880km2	15396115	C.B.	Kom	3836
+3.	Evžen dostal bludišťáka(#719) - Evzen Hyberny	19020km2	12789213	Ganja	Fund	3692
+4.	RU ská zmrzlina(#57) - Skillgannon	22785km2	10361722	RoboUtop	Demo	3961
+5.	WINNER TAKES IT ALL(#551) - .adm1n.	20396km2	9810852	SIL	Utop	3939
+6.	Anarkiller(#1412) - ASA	21095km2	9076499	L.O.S	Utop	3744
+7.	Budulinek je tLama :D(#100) - ..Hanz..	20739km2	8638617	ZERO	Utop	3741
+8.	Farma s H12 není hřích(#939) - HeadShit	33131km2	8302767	PhaMa	Robo	3956
+9.	Mia Wallace(#852) - Telwin	18761km2	8039059	L.O.S	Utop	3928
+10.	Eva Máziková(#207) - marv III	26551km2	7517526	Across	Rep	3937
+11.	Bastard`s office(#388) - Pitel	17876km2	7408252	Ganja	Demo	3979
+12.	Soul of a lion(#1668) - .G.R.U.M.Y.	27167km2	7266778	SEFKO	Robo	3543
+13.	bobanek:)(#407) - Prepaaac	26222km2	7120690	.:TN:.	Feud	3976
+14.	PRASIM ROZVEDKOU(#802) - Christmess	14999km2	6852603		Utop	3707
+15.	Eror33(#533) - Eror11	21625km2	6677729	Bull	Robo	3977
+16.	End of Gravity(#644) - Dzindzik	19267km2	6338664	Roxor	Robo	3970
+17.	R.I.P(#1393) - Fr33k1ll3r	21028km2	6116682	ALI1234	Robo	3963
+18.	Can you beat me?(#1307) - Dzindzik	16669km2	6112900	W.G.M	Utop	3919
+19.	GifficiDimExhibitor(#1543) - ando	14999km2	6072913	PJ	Utop	3660
+20.	usti(#341) - vachys39	19956km2	5980232	ALI1234	Demo	3979
+21.	CATCH M3 IF YOU CAN(#145) - Sir Extrem	25755km2	5900190	MENSA	Dikt	3947
+22.	nevim nestihám nech mě(#292) - JJura	15298km2	5863121	SB	Utop	3901
+23.	pohodicka(#132) - sir Kopcem	17721km2	5783066	MENSA	Robo	3933
+24.	detektiv norman(#1341) - MiNioN	14999km2	5782361		Utop	3976
+25.	n1P(#1448) - God si me	9999km2	5723584	FETKA	Utop	3768
+26.	Proslulý potížista(#1194) - naivefighter	15989km2	5700844	KULE7	Utop	3902
+27.	VITAMIN X(#115) - Broot	22988km2	5564858	ILW	Robo	3939
+28.	2 + 2 = 9(#109) - skazinoska	18111km2	5475195	D1000	Feud	3977
+29.	Legendary Night Club(#1018) - Archimonde73	19999km2	5449226	NW	Rep	3838
+30.	Chlastám 1.ligu(#104) - skazinoska	14384km2	5446978	SOCH	Utop	3942
+31.	Ondřej(#1340) - MiNioN	14999km2	5428304		Feud	3976
+32.	Lets go brat všech čobolů(#83) - 19MINO94	20140km2	5361048	C.B.	Fund	3947
+33.	Scruffy and wash bucket(#231) - eLteu	18231km2	5350573	KaCHaCH	Utop	3972
+34.	PRASIM ARMADOU(#897) - Christmess	14999km2	5313348		Utop	3629
+35.	Rick and Morty(#293) - ListerD1	5999km2	5293800	mXt	Utop	3704
+36.	Nech mě nestíhám nevím...(#294) - JJura	16060km2	5081604	SB	Utop	3872
+37.	Kolikmam(#1549) - jointik	14999km2	5062138	Pi	Utop	3767
+38.	špatnej Wliw(#811) - m1nI	24157km2	5029885	.Ganja.	Dikt	3972
+39.	Mič Bjůkenen(#560) - VooOool	18304km2	4973164	90`s	Rep	3932
+40.	X(#103) - Caballero	18087km2	4918325	90`s	Robo	3943

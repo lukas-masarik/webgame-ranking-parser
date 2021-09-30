@@ -1,0 +1,42 @@
+126. VĚK
+#	Země	Rozloha	Prestiž	Aliance	Vláda	Kol
+1.	In Memoriam Kaery(#1171) - pmtiep	25382km2	11329472	-O-	Demo	3974
+2.	hráč Naumo(#167) - Dr.hurka	19604km2	11218858	Bull	Utop	3684
+3.	Zdravím lidi v Jablunkově(#1811) - Profesor Drahoš	29665km2	10578406	N-N-N	Robo	3597
+4.	Lets talk about it(#498) - Duskooo	28864km2	9280830	N-N-N	Feud	3975
+5.	Pohodář z Jablunkova(#1810) - Profesor Drahoš	25267km2	9097726	N-N-N	Robo	3600
+6.	ty jedna mrňavá (#764) - JimCurry	18388km2	9004415	FLF	Utop	3763
+7.	Drakovo(#616) - D.r.a.k.	16054km2	8913313	VENDETA	Utop	3939
+8.	hop trop(#825) - Master77	33133km2	7784415	Vejlon	Robo	3739
+9.	Karak Dum(#414) - Reich Graf	14750km2	7468155	MENSA	Utop	3977
+10.	Ferrari F12 Berlinetta(#741) - Clarkson	20500km2	7310000	.:YD:.	Robo	3978
+11.	Fifina(#979) - Joker16.	25300km2	7277528	ZERO	Robo	3969
+12.	Zářící Spasitel(#538) - .DuKeLuKe.	23300km2	7192373	PRDOX	Utop	3979
+13.	Friday(#925) - lady sweet	23025km2	7132326	DF2	Feud	3914
+14.	KUnaSVOUtyčkuDÁMkaždouPIČ(#1415) - xxxBladexxx	15733km2	7081373	GPACH	Utop	3633
+15.	Programator(#1750) - diefirma	15877km2	6725418	SIGP	Demo	3777
+16.	Karak Azul(#992) - Reich Graf	14999km2	6631892		Utop	3969
+17.	Vyvrženec RufusDwirefald(#206) - StillDeadCZ	22244km2	6630162	Zkratka	Fund	3950
+18.	KOALA Vítěz 126.věku :D(#1262) - koala59	20945km2	6374634	MAJK	Demo	3978
+19.	xwderfhrtizogvldkncyxkcop(#1665) - Lord.of.Europe	21459km2	6161611	Valkac	Robo	3947
+20.	SUXessfulI(#919) - LuisFigo	19744km2	6122877	SUX	Feud	3945
+21.	LOS made in Losos(#1430) - .Devilmen.	21092km2	5952810	L.O.S.	Rep	3884
+22.	Budulinek je tLama :D(#725) - ..Hanz..	15825km2	5949331	ZERO	Demo	3945
+23.	Slivka(#159) - Dr.hurka	23702km2	5930748	Bull	Kom	3893
+24.	.::PKZ Pokazím ťa::.(#873) - kiss for you	19445km2	5926442	PKZ	Feud	3977
+25.	A za kolik expu to bylo?(#983) - Saturas	16111km2	5706405	Ganja	Robo	3968
+26.	Nevinný vánek(#1187) - Cernunnos	14999km2	5687552		Demo	3943
+27.	Vrchní Masýrovač(#1096) - MaserTveDcery	21916km2	5640852	M.S.R	Feud	3978
+28.	Cenzura ukrývá informace(#455) - Marsaxlokk	15015km2	5631307	27	Utop	3978
+29.	Rozpravkovo(#1454) - amuel	25241km2	5625905	Skuska	Utop	3978
+30.	In time(#1660) - Leooon	14999km2	5622104		Utop	3963
+31.	Karak Zorn(#418) - Reich Graf	15967km2	5484010	MENSA	Utop	3977
+32.	7.62 Tokarev(#909) - Huktak	16895km2	5438046	VN	Feud	3979
+33.	.::PKZ slušný název::.(#931) - lord big	15936km2	5365621	PKZ	Utop	3978
+34.	.700 Nitro Express(#664) - Matex	14269km2	5348966	VN	Anar	3978
+35.	LOS made in Cambodia(#1324) - imperial knight	24599km2	5339445	L.O.S.	Feud	3978
+36.	ZASA TATO BANDA DEFEKTOV ?(#767) - imhot3p	24786km2	5328043	VENDETA	Feud	3964
+37.	Jaime Lannister(#1123) - castropola	21863km2	5300857	LW	Feud	3978
+38.	Znojmo(#227) - Caballero	17966km2	5296369	ZERO	Robo	3975
+39.	-DEAD-Diak nema Penachym(#449) - ppedrnikar	15000km2	5209942	DEAD	Utop	3973
+40.	Fakin Hobol(#1342) - smudlas	14180km2	5185483	-=PINP=-	Utop	3954

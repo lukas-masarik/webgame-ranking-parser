@@ -1,0 +1,42 @@
+36. VĚK
+#	Země	Rozloha	Prestiž	Aliance	Vláda	Kol
+1.	Kowalski from Madagascar(#10001) - Makkinen	18119km2	12613279		Demo	3670
+2.	From my cold dead hands(#7673) - General Honza	21430km2	11879754	ZIZU	Kom	3734
+3.	Sore Throat-Grind forever(#10878) - Adipocir3	26225km2	10911622	IBHZK	Demo	3854
+4.	Toxicity(#5475) - fucka	30711km2	10284145	NERV	Tech	3729
+5.	Owning(#9468) - TomiB	24212km2	10143594	K1	Demo	3744
+6.	=-daeron je UCHYL-=(#16490) - werty1	21237km2	9811591	JFF	Kom	3393
+7.	Dark Division(#9855) - BuRKo	28978km2	9691889	D1KTATOR	Kom	3855
+8.	Tanga sněhurčiny(#4070) - Ctirad2	23715km2	9617980	VENDETA	Demo	3727
+9.	reprezentuju TRUTNOV(#5191) - Toshiro	24468km2	9510979	n1	Demo	3747
+10.	Rakeťák nejhustějšejší(#11676) - MORTALBAD	18206km2	9122687	RRrr..	Tech	3581
+11.	Společenstvo Tentononcu(#6959) - Smajdaalf	23000km2	9074479	Tabacek	Demo	3810
+12.	Maladrim(#8791) - Aillas	15423km2	8682763	-=DH=-	Kom	3664
+13.	Maxikovo(#15381) - -MaX-	27709km2	8639834	Mgn.	Rep	3814
+14.	školou povinný(#12617) - 3Gal	36000km2	8562844	U.I.	Kom	3736
+15.	Rafan touDě.kou oklamán(#8219) - SprávceChlívku	31728km2	8469509	Netušim	Robo	3821
+16.	Touch Like Angel Of Death(#15250) - Alfiq The Great	18085km2	8214964	Atrax.R	Rep	3586
+17.	The Goblin Techies(#16515) - HLAVATYS	21120km2	8086016	*DW*	Utop	3807
+18.	Lama master(#7399) - ...Ufounek...	26183km2	7985457	D1KTATOR	Kom	3839
+19.	obb(#13200) - OBB SpameR	23938km2	7814831	R3Ds	Demo	3828
+20.	negotiorum gestio(#9900) - Malibuk	21836km2	7774637	MJK	Kom	3824
+21.	Zluta karta(#6236) - Stanislav III.	24946km2	7717106	.:Sú:.	Tech	3857
+22.	PRIVATE CONQEROR of SVK(#14724) - CONQEROR	14858km2	7468636	*A*O*C*	Rep	3620
+23.	TuPedale(#7501) - Frederic	22749km2	7382631	ROBO	Robo	3641
+24.	cuis regio, eius religio(#8443) - Dzindzik	23963km2	7362102	IMBA	Demo	3841
+25.	ReGenesis(#791) - xxxBladexxx	23449km2	7355017	D1KTATOR	Kom	3851
+26.	Lexor(#15293) - hurah	25035km2	7286641	R3D	Rep	3746
+27.	Let`s Dance(#16998) - FlyGon	21215km2	7264211	*lamky*	Utop	3607
+28.	Árjůem(#960) - Smetac	19128km2	7225035	5uck..m3	Utop	3776
+29.	MY EARTH(#16028) - Black Rider	23791km2	7197598	jeden	Rep	3850
+30.	Porodim velkou priseru(#903) - Ivosh	18870km2	7137571	n1	Demo	3765
+31.	== owning ==(#17508) - just mozeg	45523km2	7133959	enforix	Robo	3711
+32.	Mala Acoma(#509) - Hoparo	27052km2	7123645	UM	Feud	3858
+33.	Mechwarior(#10074) - donaldd	22632km2	7098372	U.F.O.	Demo	3855
+34.	PriMaR CuJo(#13229) - C.u.j.o	20098km2	7058385	KLiNiKa	Kom	3691
+35.	Pudge===================c(#9042) - SAHI	20658km2	7041473	5uck..m3	Demo	3843
+36.	Red October(#904) - achooj	24287km2	6956203	PU	Demo	3847
+37.	Japonská slečinka(#422) - Šogun IV.	22759km2	6935102	ManG	Rep	3859
+38.	MY NEW EARTH(#9448) - Black Rider	19828km2	6900594	heechee	Rep	3676
+39.	Nedistán(#16376) - Milned	34056km2	6880145	Mgn.	Robo	3857
+40.	Země kakaa(#17913) - DANEČEK	14664km2	6853468	Tabacek	Utop	3571

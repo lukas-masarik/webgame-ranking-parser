@@ -1,0 +1,42 @@
+140. VĚK
+#	Země	Rozloha	Prestiž	Aliance	Vláda	Kol
+1.	Beerbongs and Bentleys(#44) - ridgeback	18991km2	25784645	42	Tech	3469
+2.	*Cthulhu*(#840) - Jarin z Vidlakov	27999km2	22760499	N-N-N	Utop	3523
+3.	Tormund Giantsbane(#252) - hlidac3	27500km2	22567746	*RtH*	Kom	3445
+4.	Czech the World(#1176) - Coav	27930km2	17999937	Ganja	Demo	3676
+5.	Za hordu život položím(#993) - GIMME	22683km2	15632047	TLD	Kom	3661
+6.	Alter ego(#278) - Luke the Great	24991km2	14856000	.:?:.	Kom	3672
+7.	Pray for Mojo(#300) - JimCurry	35374km2	13512734	ThermX	Robo	3979
+8.	SATAN KEBAB(#480) - veganporno	26279km2	12758391	MK	Utop	3889
+9.	Bottle of Water(#1562) - Jiriss	28416km2	12520040	MDMA	Tech	3869
+10.	Našlapuj opatrně(#85) - Alzer	24842km2	12121212	1vs1	Rep	3951
+11.	Valkac The Nahradnik(#1504) - Absurdaa	18374km2	12106946	Valkáči	Kom	3634
+12.	VALKAC 5S MAN(#1713) - Lord.of.Europe	19056km2	12085887	Valkáči	Tech	3848
+13.	SUXessfulI(#204) - LuisFigo	30400km2	11888202	SUX	Robo	3974
+14.	Liška v noře kouří tchoře(#379) - Seksymania	19411km2	11516661	ThermX	Anar	3685
+15.	NORDIC SPIRIT(#264) - snasa1	20981km2	11158582	Tabacek	Tech	3851
+16.	.:S3rVuS:.Bro(#159) - Charles king	26428km2	10944826	MK	Utop	3938
+17.	SVOBODA JE OTROCTVÍ(#1395) - mara8	26229km2	10305629	42	Dikt	3698
+18.	maslakmaslovityobecnyXXX(#804) - ratatatatatata	20295km2	10195662	Afrik	Utop	3706
+19.	Všude sami exot(#850) - Martin poula	20499km2	10151429	.L.O.S.	Utop	3874
+20.	-osn-ruzove v pive(#663) - D1N1AK	27555km2	10122235	-osn-	Rep	3972
+21.	Hrejsemnou(#962) - AzorAhai	19724km2	9932584	Tabacek	Tech	3970
+22.	Gold nafurt.(#431) - demonstrate.	21246km2	9878933	SPRITE	Demo	3978
+23.	.::PKZ::. Dattebayo(#1225) - Kwasak	20594km2	9622383	PKZ	Demo	3953
+24.	RoyalGuard(#1025) - Deus	14704km2	9517928	Tabacek	Tech	3876
+25.	Moonbase(#1348) - hum4nic	18255km2	9333333	HP	Tech	3845
+26.	The Last Dance(#2020) - masterWG	20000km2	9322377	TLD	Demo	3979
+27.	KONNICHIWA(#384) - U.U	23083km2	9312419	HP	Tech	3979
+28.	LOS made in Destroyer(#991) - BlackTears	18398km2	8878650	.L.O.S.	Demo	3952
+29.	no km = XP(#530) - G.R.E.E.K	14999km2	8607299	TLD	Utop	3583
+30.	Return of the Farmer(#370) - Dimmu.Borgir	16000km2	8581172	DANCE	Utop	3691
+31.	LOS made in Tequila(#1258) - BlackTears	17185km2	8542504	L.O.S.	Robo	3976
+32.	Lipous(#997) - Joker16.	23528km2	8541476	Ganja	Robo	3976
+33.	Velky uličník(#1835) - trubkatrubkovic	20543km2	8433233	Jukatáni	Tech	3961
+34.	EVIL BOY(#1199) - N00N3	22322km2	8409244	L.O.S.	Robo	3978
+35.	Agador Spartacus(#107) - hum4nic	15999km2	8333333	PhaMa	Utop	3864
+36.	Memento mori(#1246) - XQG	11499km2	8318232	Jukatáni	Utop	3870
+37.	Particles of light(#130) - Deus	23400km2	8313962	ALIVE	Rep	3967
+38.	-ALIVE-(#183) - ppedrnikar	17664km2	8310586	ALIVE	Utop	3970
+39.	LOS made in LOS(#4455) - Topisek	20778km2	8272690	L.O.S.	Robo	3944
+40.	uu ííííí u aáá(#866) - Tattser	20626km2	8254873	Jukatáni	Robo	3954

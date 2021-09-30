@@ -1,0 +1,42 @@
+120. VĚK
+#	Země	Rozloha	Prestiž	Aliance	Vláda	Kol
+1.	S fackal sem svyho synka(#1290) - Lord Biry	28425km2	17000000	StrakerS	Kom	3690
+2.	Sbohem, a díky za ryby(#1637) - mara8	27391km2	13068071	**CQR**	Feud	3864
+3.	One shot. One Kill.(#429) - Martin858	25359km2	12891628	MRUK	Demo	3669
+4.	Hollywood(#433) - ptak77	17001km2	9283785	.L.O.S.	Utop	3937
+5.	Karak Zorn(#930) - Reich Graf	24900km2	9142567	MENSA	Robo	3962
+6.	tedy ... drž hubu(#1258) - Josefko	25400km2	9113687	=FF=	Robo	3962
+7.	Aedd Cáerme(#1678) - ThoughtGuy	21454km2	8611793	**CQR**	Utop	3977
+8.	Half Dead(#627) - leszek	20180km2	8567862	-osn-	Demo	3960
+9.	the perfect medium rare(#279) - EmAChe	27000km2	8418118	ŽsN	Demo	3975
+10.	Bloody Horsedog :)(#98) - Konopess	25108km2	8416049	VENDETA	Robo	3970
+11.	Voloďa(#1281) - Siriuss	23760km2	8336985	Nedivoč	Demo	3951
+12.	.:CZ-SK:.Kupis(#353) - Canada	26585km2	7959499	ČSLA	Feud	3943
+13.	PaNoPTiKuM(#1371) - zullu	17371km2	7134027	HOPRDOX	Kom	3979
+14.	.:CZ-SK:. Enemy of God(#986) - DwarfLord	18652km2	6955436	ČSLA	Kom	3968
+15.	SUXessfulI(#43) - LuisFigo	22222km2	6954945	SUX	Robo	3975
+16.	-DEAD-PenachyM(#693) - Diák	19759km2	6953710	IF	Kom	3953
+17.	Prosim ne Bechera(#1604) - ptak77	25241km2	6672936	Tabacek	Robo	3880
+18.	Bloody New Year(#91) - Konopess	15560km2	6596957	VENDETA	Utop	3974
+19.	Trpasličí pornohereček(#330) - DwarfLord	17977km2	6434609	ALI1234	Utop	3967
+20.	Klekni si....(#525) - Michellion	20405km2	6414803	MZA	Rep	3961
+21.	(*`=/+-.,:())(#727) - Diák	13852km2	6066836	IF	Demo	3908
+22.	VTIP o politicích(#471) - hmnt	16342km2	6027604	VTIP	Demo	3939
+23.	Bloody Dragon(#127) - D.r.a.k.	21841km2	6011043	VENDETA	Feud	3968
+24.	Oberyn Martell(#735) - hlidac3	19925km2	6006676	MRUK	Robo	3979
+25.	Túrin Turambar(#1055) - hlidac3	19999km2	5959934	h15	Kom	3759
+26.	I-H8-U Hrošík s Brčkem(#999) - Kedlubeni	27855km2	5954882	nku	Feud	3691
+27.	SexyDomina(#74) - Cardínek	17701km2	5789241	.:V3R:.	Fund	3973
+28.	Manfred von Richthofen(#1699) - castropola	17999km2	5652040	Chlastám	Feud	3958
+29.	Corleone(#1580) - tvojasmrt	20667km2	5555555	=L.O.T=	Robo	3952
+30.	Dong Yaqian(#48) - Topisek	17097km2	5516882	L.O.S.	Utop	3953
+31.	Bloody Greyův_milaček(#860) - Windmouse	18357km2	5508610	VENDETA	Feud	3944
+32.	LOS made in Gallifrey(#190) - Ersango	17043km2	5489377	L.O.S.	Feud	3978
+33.	Uka kozy(#965) - Hardwell	17697km2	5448843	=L.O.T=	Utop	3972
+34.	Oink(#528) - reklamaop	20552km2	5345294	MACH	Demo	3979
+35.	Snorri_Killa(#1205) - Method Man	20727km2	5314068	-THC-	Kom	3978
+36.	Syrius the Plane(#1086) - DieWalker	17357km2	5285119	APG2	Utop	3884
+37.	Bloody Greyova zahradka(#861) - Windmouse	19148km2	5234983	VENDETA	Rep	3979
+38.	Vicinity of Obscenity(#1434) - Merugrin	18700km2	5198830	MZA	Fund	3898
+39.	.:CZ-SK:.BZCompany(#927) - BON.zak	15019km2	5181968	ČSLA	Demo	3920
+40.	HyeNa LW No.1(#946) - Poncho	14000km2	5179356	HyeNy	Utop	3975

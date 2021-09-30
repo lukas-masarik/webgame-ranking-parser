@@ -1,0 +1,42 @@
+38. VĚK
+#	Země	Rozloha	Prestiž	Aliance	Vláda	Kol
+1.	pWd bY harDrocK and meTaL(#9906) - zRudy	25899km2	12735144	FuWg	Kom	3726
+2.	Vindicate(#9650) - Scalpelexis	20192km2	12699110	*VzP*	Utop	3674
+3.	je MI z TEBE na BLITÍ...(#8955) - DANEČEK	23472km2	12588326	-=EŽU=-	Robo	3840
+4.	Muž z Acapulca(#72) - uličník	28186km2	12073450	DooM	Kom	3891
+5.	Temný Prorok(#15197) - .DuKeLuKe.	22763km2	11907213	Bubáci	Demo	3573
+6.	Székezferhévar(#4150) - KillerJohny	30391km2	11890165	pařmeni	Demo	3844
+7.	Sefer Jezira(#8863) - Parcifal	23316km2	11423976	CRUX	Demo	3764
+8.	Kvetinky v Lesíku(#6546) - .Coobiaq.	30001km2	11338779	Demons	Demo	3942
+9.	NIEsomSKILLERaleKILLNEMta(#5594) - Lord TROKS	31178km2	11246961	3P	Demo	3740
+10.	Nedistán(#11281) - Milned	34401km2	10896859	FsT	Robo	3932
+11.	Thrudvagnar(#74) - Charlemagne	24889km2	10830328	THOR	Robo	3959
+12.	World of MORTALBAD(#1706) - MORTALBAD	24233km2	10748939	-=EŽU=-	Tech	3545
+13.	Mortician(#2895) - Wulfgar	25682km2	10696643	IBHZK	Demo	3958
+14.	Axiom(#726) - Stanislav III.	23499km2	9779181	THOR	Utop	3958
+15.	O lásce šeptal tichý mech(#4469) - Francimor Veliký	12399km2	9685370		Robo	3654
+16.	HyeNa NeNáSytNá(#398) - Urenduil	30075km2	9650186	HyeNy	Demo	3944
+17.	mám Ideé fixe(#1103) - Sir Kl of Kl	34081km2	9635662	9mm	Robo	3955
+18.	V mechu v kapradí(#7548) - Děda Jaga	33667km2	9569653	Mgn	Robo	3955
+19.	Lama No.1(#8895) - Hyperactiv	29365km2	9516318	WebLame	Demo	3959
+20.	Uzenářství veverek(#2800) - Sir Robertini	26308km2	9476048	UVVB-1	Robo	3936
+21.	MOJE DÍRA(#2742) - ToM0	29230km2	9236967	n-jedna	Robo	3829
+22.	Mr. Pokuston(#10411) - Hondo	22605km2	9210648	Bubáci	Rep	3941
+23.	Adamante durior(#6288) - Nerv	37596km2	9207393	VV	Robo	3946
+24.	Hannibal`s Uderworld(#7893) - Dr.Leckter	30322km2	9188200	*UF*	Fund	3920
+25.	YNWA(#6207) - Ludovit XIII	22208km2	9138006	*VzP*	Utop	3896
+26.	Klííd(#728) - Stanislav III.	30307km2	9003757	Mgn	Robo	3959
+27.	Nukleární Králíček(#6098) - SirIndy	29456km2	8956954	NUKE2	Rep	3958
+28.	Caisse Depargne(#3665) - A. Valverde	24927km2	8941705	Balears	Robo	3959
+29.	sry neni cas-flakarna(#818) - adduktor	29688km2	8921591	HOPRDOX	Feud	3563
+30.	You Could Be Mine(#13650) - Iojzza	20973km2	8777826	UHKskill	Robo	3893
+31.	Level 2 :D(#8163) - Redclaw	31889km2	8764059	0-o	Feud	3919
+32.	Farma feudalska(#168) - Charlemagne	27549km2	8655555	FFW	Feud	3959
+33.	Pučmeloud(#2818) - LordKazisvet	20318km2	8653092	=(PPč)=	Kom	3931
+34.	Království medunek(#7595) - marinak.cz	23068km2	8634992	DIEUSA	Robo	3932
+35.	Kalokagatia(#8353) - Antiprotekt	23960km2	8620300	Dr4m4	Tech	3945
+36.	Účetní(#11632) - Druny	26910km2	8517349	AoA	Demo	3937
+37.	Halúzka(#14400) - VoDqA	33530km2	8499494	WG-PROFI	Robo	3943
+38.	Hell of Kaufinolka (-_-)(#10348) - Lomykar	17894km2	8497483	.:H-A:.	Robo	3863
+39.	kubansky agent(#418) - Viper	37000km2	8485004	Alík	Robo	3959
+40.	svacina + svacina company(#2801) - ulkas	19598km2	8466020	A51	Kom	3790

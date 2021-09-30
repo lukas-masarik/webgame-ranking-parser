@@ -1,0 +1,42 @@
+135. VĚK
+#	Země	Rozloha	Prestiž	Aliance	Vláda	Kol
+1.	-DEAD- Frosted Perspeks(#828) - Rigor Mortiz	25391km2	13767346	DEAD	Demo	3963
+2.	LOS made in Nezmarko(#9911) - P3terko	27139km2	13471591	L.O.S.	Utop	3649
+3.	S fackal sem svyho synka(#589) - Lord Biry	20068km2	12917217	WG-Elite	Utop	3800
+4.	Sophie Deveraux(#1280) - Avgeropoulos	27581km2	12311874	Conflict	Tech	3801
+5.	1234(#242) - goodest	22603km2	11753125	NERO	Demo	3969
+6.	Aeternum Vale..(#130) - DieWalker	20834km2	11001675	FETKA	Tech	3874
+7.	Trautenberk(#1100) - Jiriss	27734km2	10956199	574ND4R7	Utop	3897
+8.	Lipous(#1009) - Joker16.	24396km2	10726502	DEAD	Rep	3982
+9.	Dark Conqueror(#407) - vanna	30384km2	10041365	**CQR**	Robo	3926
+10.	come on(#1080) - Ctirad2	18213km2	9281272	FETKA	Tech	3696
+11.	MelounBananaCocoPomelo(#1732) - bosinek	24213km2	9105555	-.-	Robo	3980
+12.	Temporal paradox(#891) - Deus	15620km2	8892811	C-Men	Tech	3965
+13.	Liliana(#1757) - Defectorr	22533km2	8599809	C.B.	Robo	3914
+14.	1987 to byl krasny rok(#1114) - Atlantik	31202km2	8527421	M	Robo	3773
+15.	Nenázvuhodná prasečina(#256) - ..caramell..	32014km2	8439050	AUTORITA	Robo	3983
+16.	Willy the Kid(#1216) - FARR FARR AWAYY	9333km2	8397318	NUKE	Tech	3457
+17.	Elpro-Energo(#86) - král urucskýý	20524km2	8305039	FETKA	Tech	3624
+18.	Palm Shot(#1014) - Duskooo	22783km2	8264627	-.-	Robo	3957
+19.	Limitless(#660) - duriel	9999km2	8253750	ENDGAME	Utop	3797
+20.	Bumla Dráček Úchyláček(#562) - Ikonoklas	19535km2	8130497	X-men	Utop	3971
+21.	Cab je mula(#1006) - Joker16.	22839km2	8061490	ZERO	Robo	3933
+22.	SofterThanAFeather(#615) - hlidac3	18602km2	7943098	GC	Tech	3584
+23.	Žeru děcka(#1617) - Spratek	18027km2	7523303	WG-Elite	Tech	3979
+24.	může za to biry(#1447) - Atlantik	20202km2	7447257	WG-Elite	Utop	3904
+25.	Viva la Colombia(#153) - Erwin Stahler	17016km2	7424639	FETKA	Tech	3655
+26.	Fetuj jako ponrava(#480) - Estetik	14871km2	7298271	FETKA	Tech	3673
+27.	Mambo(#1004) - Joker16.	20919km2	7019811	Ganja	Robo	3961
+28.	-ALIVE- kde mam tuhac ?(#594) - ppedrnikar	15678km2	6975600	ALIVE	Utop	3980
+29.	FARMALAMA(#123) - Chujo	16708km2	6894893	*WinDe*	Utop	3982
+30.	Wimpův poskok(#1139) - Banlord	19037km2	6859664	WG-Elite	Demo	3902
+31.	karma nezapomíná(#711) - Mrkvička777	28739km2	6845387	POV	Robo	3941
+32.	.::PKZ::. nový svet(#767) - kiss for you	22731km2	6700093	PKZ	Robo	3902
+33.	Autumn(#459) - Deus	25000km2	6682269	SPRITE	Robo	3971
+34.	:_:Siomena:_:(#1237) - karma12	14999km2	6563553	GOOD	Utop	3939
+35.	Jenom buldoci(#1667) - JosefViserjonov	13828km2	6553660	Temnota	Robo	3970
+36.	Chulimanga(#805) - FR3EZY	20615km2	6518094	=T=	Tech	3976
+37.	.....l-l..........o..O(#933) - Garithos	17054km2	6508615	FETKA	Tech	3982
+38.	Slava Ukrayini(#450) - Athara	15555km2	6501631	FETKA	Tech	3656
+39.	Pavilon 8 AHC(#788) - gorem	15610km2	6481807	queens	Utop	3980
+40.	Ponrava(#474) - Estetik	16506km2	6472460	FETKA	Tech	3682

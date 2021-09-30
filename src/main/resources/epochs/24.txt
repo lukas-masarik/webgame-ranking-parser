@@ -1,0 +1,42 @@
+24. VĚK
+#	Země	Rozloha	Prestiž	Aliance	Vláda	Kol
+1.	Hříbkovice(#5357) - Klouzek.cz	29020km2	10665092		Robo	3844
+2.	HAPPY DAY(#4613) - survival.	16420km2	10647296	SB	Robo	3740
+3.	Klouzkoland(#5356) - Klouzek.cz	33101km2	9345030		Robo	3853
+4.	Nemám rád války ani farmy(#5055) - chupa chups	29746km2	9021460		Demo	3826
+5.	Terran SCV(#3189) - Grandor	27143km2	8602881		Demo	3647
+6.	Dark Zone(#2484) - ShaKe	16540km2	8150843		Tech	3504
+7.	Do not disturb...(#798) - Zorg	25000km2	8039020	MK	Demo	3858
+8.	Bathory(#3613) - Dimmu Borgir	23166km2	7646695	coRp	Demo	3825
+9.	Betelgeuze(#6578) - Stanislav III.	19999km2	7562490	THOR	Utop	3835
+10.	Blackfire Thunder(#8093) - Rien Satori	7952km2	7514825		Demo	3304
+11.	Maxíkova zemička(#6948) - Max von Sydow	14165km2	7478521	NV	Demo	3678
+12.	The VIDLÁKOV(#551) - Franta Vopršálek	25244km2	7467730		Utop	3857
+13.	crushers land(#2755) - crusher666	19501km2	6872459	tAoW	Demo	3857
+14.	Království Dobyvatele(#576) - Kofi37	17609km2	6870308	coRp	Robo	3722
+15.	Helldorado(#4699) - Cornugon	18564km2	6738367	S.D.E	Robo	3851
+16.	Alone(#1040) - Brian	17216km2	6532360		Tech	3759
+17.	.::VoDkA::.(#5737) - emblem	19638km2	6519640	MK	Demo	3771
+18.	Mega Farma(#255) - Boss33	18578km2	6503724	P-V	Rep	3755
+19.	MavicSL(#3796) - Mavic	25273km2	6447938	WoW	Kom	3828
+20.	Land of wolves(#481) - Arnarmo	19328km2	6358632	KM	Kom	3859
+21.	Náčelník(#4024) - Běžící Oblak	17270km2	6203819		Utop	3771
+22.	Pedynov(#532) - Dolli	21548km2	6186953		Utop	3854
+23.	Kadící Kačenka(#216) - Razor	17032km2	6170020	VK	Kom	3858
+24.	?ekvicovce(#2611) - .FeXeR.	11701km2	6112031	MK	Utop	3559
+25.	FORTRESS(#2610) - Elkor	1988km2	6072000		Tech	3445
+26.	Asas Vedar(#6589) - Mateo.	15957km2	6006301	SB	Utop	3820
+27.	Pravda lež nikdy nedohoní(#251) - BOB DYLAN	17761km2	5853964	MK	Demo	3829
+28.	Vše za 39Kč(#6571) - Past	18398km2	5835951	KGB	Robo	3842
+29.	Planescape(#535) - Angeluss	18559km2	5820685	OS-VH	Robo	3736
+30.	Krajina večneho ohňa(#548) - Prochorovka	16331km2	5786253	SoL	Demo	3857
+31.	Aquadilla(#145) - Bruster	19999km2	5728305	MK	Rep	3856
+32.	Vyfajcim za UFO(#669) - Natrhnuta Rozeta	19613km2	5707771	VK	Kom	3778
+33.	S.one(#4459) - Suram	20304km2	5701796	tAoW	Kom	3787
+34.	Vykúrený zajko(#93) - Tan X.	21521km2	5682967	SR	Kom	3815
+35.	nazdarek(#1068) - Loob	18600km2	5658479	MK	Feud	3728
+36.	Den of Forlon(#661) - Martind Forlon	20741km2	5645247	P-V	Demo	3854
+37.	El Dorado(#8357) - alu	18315km2	5631309	AYES	Robo	3521
+38.	Bloody Tempest(#1008) - Ball.Lightning	16518km2	5628297	DToA	Utop	3837
+39.	Guardian of Freedom(#2492) - Serg H.sv	17642km2	5609315	FFW	Utop	3761
+40.	Shuckey(#6978) - Mavic	24577km2	5599076	HOPRDOX	Demo	3840

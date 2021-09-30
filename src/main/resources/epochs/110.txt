@@ -1,0 +1,42 @@
+110. VĚK
+#	Země	Rozloha	Prestiž	Aliance	Vláda	Kol
+1.	Micina(#702) - Seksymania	21331km2	13159919	mňau	Feud	3589
+2.	Registrace nové země(#1100) - ptak77	11626km2	9135083	-=EK=-	Kom	3902
+3.	Chulimanga(#131) - FR3EZY	27393km2	8903514	=T=	Demo	3982
+4.	neminem laedere(#823) - Lord Demokrat	22898km2	8672988	=BW=	Kom	3840
+5.	koleje(#792) - Martin poula	21600km2	8331284	HISHE	Kom	3936
+6.	maly uličník(#339) - trubkatrubkovic	25148km2	8199004	Genocida	Robo	3982
+7.	Nech mě nestíhám nevím...(#1389) - JJura	18044km2	7918300	NMNN	Utop	3880
+8.	p1(#328) - Unreal Maniak	6574km2	7783240	WG-PROF	Utop	3505
+9.	Gerasimovka(#122) - Jurgens	22360km2	7014011	68	Rep	3982
+10.	Do not Surrender(#1347) - skvost	23294km2	6850910	-=FE=-	Kom	3962
+11.	LOS made in Destroyer(#101) - BlackTears	16127km2	6848593	.L.O.S.	Robo	3976
+12.	Milujem Aďku :-*(#451) - rybka es atrás	18999km2	6834432	-=F*A=-	Robo	3906
+13.	LOS made in China(#653) - Topisek	20692km2	6817014	.L.O.S.	Feud	3969
+14.	Floutkov(#1033) - Bigbosh2	21975km2	6595728	S*K	Feud	3955
+15.	Morozem(#835) - THEdread	18781km2	6591722	ItNofS	Demo	3983
+16.	Why so serious?(#1753) - snasa1	21160km2	6524274	Tabáček	Robo	3928
+17.	panther 9(#248) - i am the one	23099km2	6487591	S*K	Robo	3980
+18.	Karaz-a-Karak(#44) - Reich Graf	17544km2	6442334	NW	Kom	3650
+19.	-osn- Land of Immortals(#497) - Mydliak	16971km2	6403303	-osn-	Utop	3965
+20.	Svazarm(#124) - Jurgens	21063km2	6262637	XL650v	Feud	3983
+21.	molekularni(#623) - molekularni	18988km2	6258758	VALASI	Kom	3979
+22.	BECAUSE IM BATMAN(#759) - Wožungrush	18939km2	6173050	HISHE	Utop	3929
+23.	Cringe(#1345) - Chabi	17499km2	6099462	-=FE=-	Rep	3976
+24.	ghdfhfgfdg(#530) - Adyemus	19888km2	6097303	jhg	Rep	3981
+25.	Zem esa Rimmra(#344) - Lord Kamzo	20099km2	6006773	-osn-	Demo	3983
+26.	Pomsta je sladká(#341) - Filip I	20616km2	5942908	=BW=	Robo	3928
+27.	Bombim tak nebreč(#323) - ...Aláh...	21704km2	5922552	Tabáček	Fund	3907
+28.	Metal Heart(#1350) - SiRvAcA	15552km2	5917978	P.f.B	Utop	3941
+29.	Kdo je tvůj taťka?(#796) - DruhyPokus	17701km2	5846194	Tabáček	Robo	3895
+30.	-osn- Vozíček(#867) - Vozicek	22551km2	5841425	-osn3-	Feud	3919
+31.	Prasopes(#1273) - Kwasak	11561km2	5798419	PKZ	Utop	3934
+32.	urielov(#192) - sir uriel	14205km2	5698234	tpOwCh	Kom	3764
+33.	Christiania(#679) - Paspartoe	14762km2	5618803	NBTN	Utop	3935
+34.	Los Špenátos(#1163) - blizzard3	15065km2	5611942	OaZ	Robo	3956
+35.	LOS made in G@UN3R(#999) - Lord Dan	16730km2	5611785	.L.O.S.	Robo	3983
+36.	usti(#152) - vachys39	18776km2	5600249	ALI1234	Demo	3983
+37.	Retro(#1691) - .NeoGothic	18637km2	5578571	CHAM	Demo	3978
+38.	Baba Yaga(#520) - Comanndos	9999km2	5564680	DEJAVU	Tech	3851
+39.	.:CZ-SK:.AK-47ProduceR(#1796) - AKland	15674km2	5554688	Rakka	Robo	3917
+40.	-osn- Vozo(#139) - Vozicek	17114km2	5472222	-osn-	Kom	3962

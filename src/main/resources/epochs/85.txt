@@ -1,0 +1,42 @@
+85. VĚK
+#	Země	Rozloha	Prestiž	Aliance	Vláda	Kol
+1.	Duško Kreken(#102) - gorbatčov	15000km2	14756271	1O	Utop	3552
+2.	Máš rád rakety?(#112) - K.N.M KoLLo	32035km2	14748775	Vendetta	Robo	3885
+3.	Back in Black(#354) - xkukx	22525km2	13802627	AC/DC	Tech	3497
+4.	whatever(#3501) - Sef87	22567km2	13723489	pche	Kom	3837
+5.	Lechtivá slečinka(#524) - c4u710n	18888km2	13347331	ManG	Tech	3887
+6.	Leader of men(#1373) - pukancek	28414km2	12721130	.::R::.	Tech	3532
+7.	Posílíš válku(#422) - Wariorrwg	12199km2	12204530	ICE	Utop	3559
+8.	Sedláčkovo Kvarteto(#362) - Aram Chroustal	18757km2	11586373	RAPTOR	Tech	3906
+9.	Boh(#44) - West007	28499km2	11092937	Legend	Utop	3979
+10.	The moral law within me(#3266) - G.R.E.E.K	20900km2	10535353	.LL.	Tech	3968
+11.	Partington-Rochelle(#1756) - Dezider	15582km2	10042942	P-V	Utop	3318
+12.	Healer of the Pride(#691) - Uaah	16730km2	10000001	KULE7	Utop	3591
+13.	NIEKDE NA KONCI SVETA(#3532) - heroes666	20999km2	9874340	ska-P	Tech	3867
+14.	yes,it is nice to meet me(#467) - TECHWARRIOR	21888km2	9855555	ManG14	Fund	3766
+15.	Gainsay(#3185) - Scalpelexis	25376km2	9607735	MFP	Rep	3974
+16.	MARS IS COMING(#256) - ptak77	17428km2	9319493	PEACE	Utop	3654
+17.	Queen Anne`s Revenge(#370) - hagg1d	17000km2	9299999	=*ss*=	Tech	3963
+18.	Farma s H12 není hřích(#1946) - HeadShit	33718km2	9156387	RAPTOR	Robo	3979
+19.	Scientia est potentia(#3531) - LeoDaVinci	25931km2	8590042	sP`	Demo	3979
+20.	Mike Litoris(#1708) - yuphon	16614km2	8503561	**CQR**	Kom	3950
+21.	Wheeey(#1461) - Mikl.VI	23997km2	8498256	PRDOX	Kom	3916
+22.	Opičí hlavy s hranolkama(#1470) - HelteR	22668km2	8435873	:.YD.:	Feud	3883
+23.	Do not disturb...(#2999) - Zorg	25572km2	8301174	Rounders	Robo	3972
+24.	Ali Baba a 40 loupežníků(#451) - Sjezdovka	17345km2	8270522	BOUNTY	Utop	3979
+25.	Sarkasmus je moje milá(#1375) - mara8	25193km2	8205279	sP`	Feud	3960
+26.	Héros Mythique(#4040) - Siriuss	29999km2	8193632	Nedivoč	Robo	3663
+27.	RetiredderiteR(#308) - ViewSonick	11577km2	8183006	VALHERU	Tech	3958
+28.	Rogue state(#807) - cachtan	20322km2	8154425	REDNECKS	Tech	3970
+29.	Dotamaster(#1788) - vhero	14257km2	8132673	ICE	Tech	3793
+30.	ViewSonick(#299) - ViewSonick	15386km2	8083122	**CQR**	Tech	3976
+31.	Born to be R3D(#791) - sNufFk0.	20669km2	7874351	R3D	Feud	3868
+32.	ToP 1(#1327) - Morfeus	15741km2	7863569	D1R1GENT	Tech	3955
+33.	eskalace na entou(#2889) - Gen Phoenix	14500km2	7851852	CRUX	Tech	3562
+34.	Orier(#2391) - Deus	22354km2	7808442	WOHNOUT	Feud	3978
+35.	HIC SUNT DRACONES(#1310) - Boreas	18686km2	7675046	=VB=	Tech	3900
+36.	Strč prst skrz krk(#274) - Wlad	13159km2	7577822	LMD	Utop	3938
+37.	Beast from East ,`-(#1625) - H3LL M4KER	20718km2	7560862	SR	Utop	3840
+38.	.hunteRs. KRAKEN(#1308) - WORKHOLIK	26378km2	7341450	.hunteRs	Robo	3956
+39.	Agent Karel, 009(#1052) - Sjezdovka	17457km2	7328739	ManG14	Utop	3938
+40.	.:CZ-SK:.Dum spiro,spero(#2026) - KalinV	24122km2	7296418	ČSLA	Robo	3867

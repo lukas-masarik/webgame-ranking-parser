@@ -1,0 +1,42 @@
+33. VĚK
+#	Země	Rozloha	Prestiž	Aliance	Vláda	Kol
+1.	Fremen the Freecoolin(#8086) - Nacochata	19071km2	14311288	LPAA	Demo	3624
+2.	Black Stronghold(#2961) - Black Warrior	30452km2	12765913	)(S)(	Demo	3788
+3.	NIEsomSKILLERaleKILLNEMta(#346) - Lord TROKS	29352km2	12416108	HYMEN	Demo	3678
+4.	NoWarLand(#4444) - Raciolky	22843km2	12275325	PV	Kom	3640
+5.	Gigi D`Agostino(#10237) - Zex	18958km2	11621893	w-w-w	Demo	3682
+6.	YELLOW LEDBETTER(#216) - survival.	25615km2	11493802	OCHO	Demo	3614
+7.	Mitazzz(#9402) - kuliver	26880km2	11394911	CE	Demo	3701
+8.	Skill And Highest Income=(#14790) - SAHI	29445km2	11170125	BANLIST	Demo	3854
+9.	BigFarmLand(#14559) - Milned	25137km2	10724876	FsT	Utop	3840
+10.	Jen Tak Pro Radost...(#315) - ACmilan	27463km2	10718027	UP	Demo	3711
+11.	Chip a Dale(#7481) - Plakala	35634km2	10616104	R*R	Rep	3859
+12.	Hannibal`s underworld(#283) - Dr.Leckter	28068km2	10440428	*UF*	Demo	3759
+13.	S K I L L in love with me(#1648) - kopff	30275km2	10122045	SWK	Demo	3842
+14.	matsushita(#4848) - clockwork orange	21227km2	10053744	CO	Demo	3603
+15.	Nes3rte strejdu Boba.....(#10119) - Lord Zazar 13	22006km2	9922817	S.Bob	Robo	3820
+16.	Zábavná bouře(#13843) - Huntter	22092km2	9906502	O-CE	Utop	3724
+17.	hehe Hnilý chleba(#7879) - Amanita Muscaria	21780km2	9904162	hehe	Utop	3845
+18.	www.cobradesign.cz(#4445) - CobraD	36661km2	9651152	w-w-w	Robo	3858
+19.	Red Apples(#10073) - Toshiro	23562km2	9504937	OS-CE	Demo	3774
+20.	NEOTRAVUJ(#1014) - PATRIARCH.	12443km2	9455873	CE	Robo	3793
+21.	Axiom(#549) - Stanislav III.	21249km2	9310187	:.PaM.:	Demo	3721
+22.	Artek(#122) - Jurgens	21564km2	9129847	68	Robo	3845
+23.	Název Vaší země:(#3955) - KapoDiTuti	21677km2	9026223	CV	Demo	3653
+24.	TheLightLand(#304) - bart82	25139km2	9001690	.G-team.	Demo	3733
+25.	A zase ten Makkinen(#24) - Makkinen	17906km2	8909024		Anar	3636
+26.	The Empire Of Metal(#12732) - Kito666	29828km2	8844640	-=shit=-	Tech	3857
+27.	Abydos(#9541) - Dr. D. Jackson	18810km2	8820378	w-w-w	Demo	3758
+28.	GeniusMouse(#7501) - zolina	25420km2	8770522	THOR	Demo	3856
+29.	bora bora je lama(#13577) - gang	26012km2	8659700	::.DA.::	Demo	3608
+30.	Kanggnan viewTech Center(#2387) - 13	20000km2	8595064	gTo	Tech	3737
+31.	pauau malý indián(#12819) - Leninus	21291km2	8526857	fušer	Demo	3729
+32.	matura za dveřma(#4579) - nagga	19100km2	8519001	JéZetDé	Robo	3850
+33.	Gerasimovka(#281) - Jurgens	21140km2	8493421	68	Robo	3845
+34.	LAND OF MANURE(#472) - Haramheb 35	25251km2	8383560	AAA	Kom	3719
+35.	Astopia(#551) - Asticka	17141km2	8311723		Utop	3768
+36.	Těžko tomu uvěřit(#4607) - Slick Rick	19565km2	8298410	*M*A*S*	Demo	3804
+37.	GAWAIN(#3332) - steamroller	24656km2	8275710	.::R::.	Rep	3730
+38.	Maladrim(#3771) - Aillas	18164km2	8132128	-=WK=-	Demo	3807
+39.	Profiho smradlavá díra(#4117) - Achyla	15882km2	8125140	EK	Utop	3719
+40.	Free Style(#5030) - 2xcl.	21061km2	8037998	VIVA	Demo	3830

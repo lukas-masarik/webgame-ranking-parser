@@ -1,0 +1,42 @@
+81. VĚK
+#	Země	Rozloha	Prestiž	Aliance	Vláda	Kol
+1.	brain`s hive(#2601) - br4insh4ker	23631km2	9696776	VÍCADMIN	Tech	3875
+2.	****?CEN?SO?RED?****(#3888) - rybka es atrás	30385km2	9443420	.:?:.	Robo	3790
+3.	Serious Sam(#63) - .Serious Sam.	27143km2	9426711	Across	Tech	3979
+4.	Nepřítel farem(#2241) - Milka I.	21461km2	8918746	ČOKO	Demo	3979
+5.	Geoffroy de Charnay(#1674) - Trian	24613km2	8908235	-=LH=-	Utop	3951
+6.	Easy Target(#1256) - Kapitán Drunigen	18725km2	8893100	GIB	Demo	3652
+7.	Pijo hraje jako chlap(#2351) - Odi et amo	15000km2	8830959	SUX	Utop	3766
+8.	To neumíš co?:D(#3592) - mulako	22713km2	8289612	KULE7	Demo	3941
+9.	Brčkov(#168) - a1d2h2	24056km2	8255125	sP`	Robo	3970
+10.	adfsfads(#1863) - imdeath	10687km2	7858684	VSL	Demo	3856
+11.	Mechatronic(#488) - martin026	23715km2	7624795	UM	Feud	3840
+12.	Artek(#97) - Jurgens	26777km2	7590884	68	Utop	3979
+13.	Natrhnu ti(#10000) - Ctirad2	23599km2	7225844	sP`	Robo	2636
+14.	Wheeeeeee(#3294) - maestrotech	23530km2	7047106	Hrajem	Robo	3976
+15.	HistoryIsWrittenByVictors(#1456) - Pyromancer	18165km2	7040838	nLnF	Tech	3933
+16.	OKNO - Čurbes(#2426) - Arrays	22239km2	6942407	OKNO	Utop	3953
+17.	práce je zlo(#2411) - reklamapodruhý	25186km2	6915585	CoverUni	Robo	3971
+18.	Třetí říše(#919) - Wil1	19024km2	6801508	.:V7R:.	Utop	3939
+19.	=OG= Organo Gold HQ(#3127) - Petan IV	21918km2	6564058	=OG=	Utop	3970
+20.	Skill And Highest Income?(#76) - SAHI	19698km2	6464421	VÍCADMIN	Tech	3975
+21.	Trigger Whiskey Saloon(#83) - Skorpík	11278km2	6418794	-=GL=-	Kom	3838
+22.	Dhany(#85) - Beleriand	17871km2	6335141	TSŽ	Demo	3951
+23.	PESpetum mobile(#3466) - kamagwasi	29247km2	6231970	.:PES:.	Robo	3892
+24.	Hašiš Doupě(#813) - Hašiš Díra	26136km2	6225235	TuD	Rep	3940
+25.	Shostag(#318) - Bad	19704km2	6220714	UVVB	Robo	3880
+26.	Omámenmámivýmletemsluky(#448) - PanZlej	23751km2	6130367	-AB-	Fund	3973
+27.	duffman ;)(#2830) - epicFAIL	23453km2	6120463	gto	Robo	3958
+28.	Narodený 30.februára(#2508) - D1OS	20500km2	6052609	Kevlar	Robo	3978
+29.	Chudým beru bohatým dávám(#720) - notář	19266km2	6035287	bwt	Fund	3946
+30.	Leader of men(#1198) - pukancek	19103km2	5938715	Kevlar	Robo	3959
+31.	Fuzzy Lumpkins(#1615) - Muffia	21512km2	5907968	PíPíBí	Feud	3938
+32.	Svému Osudu Neutečeš..(#633) - Dragon.Slayer	23102km2	5899630	NBS	Robo	3931
+33.	Alpinia(#2557) - Sjezdovka	14777km2	5877962	BOUNTY	Tech	3892
+34.	Metalomanie(#3040) - SiRvAcA	19555km2	5836280	POVKO	Robo	3875
+35.	Dčko(#398) - Discoworld 2	18819km2	5798901	S*K	Kom	3979
+36.	.:Evill:.(#2026) - ..Paldakiller..	15312km2	5790230	Krutor	Utop	3975
+37.	velkého prcka(#1238) - Artemi	24485km2	5785820	S*K	Robo	3949
+38.	KingJoffreyIsCunt(#1143) - Mors doktor	10574km2	5769403	Worthog	Tech	3848
+39.	Battlefield Earth(#99888) - Živočich	21004km2	5671716	Ez-25:17	Demo	3978
+40.	Šňupák Lázeňský(#2549) - Anth0ny	12056km2	5612460	PRCEK	Utop	3978
