@@ -3,6 +3,7 @@ package services.inputreaders
 import services.inputreaders.api.InputReader
 import services.processors.WinnersByPrestigeOrAreaProcessor
 import services.processors.ParseOnlyProcessor
+import services.processors.PrestigeByStateSystemProcessor
 import services.processors.api.Processor
 import kotlin.system.exitProcess
 
@@ -14,6 +15,7 @@ class SimpleInputReader : InputReader {
                 Available processes:
                     (1) Parse only
                     (2) Winners by prestige or area
+                    (3) Prestige by state system
                     (0) Exit program
                 
                 Choose processor: 
@@ -30,6 +32,7 @@ class SimpleInputReader : InputReader {
             0 -> exitProcess(1)
             1 -> ParseOnlyProcessor()
             2 -> WinnersByPrestigeOrAreaProcessor()
+            3 -> PrestigeByStateSystemProcessor()
             else -> selectProcessorFromInput()
         }
     }

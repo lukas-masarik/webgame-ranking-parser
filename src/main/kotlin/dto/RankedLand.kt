@@ -8,7 +8,7 @@ data class RankedLand(
     val area: Int,
     val prestige: Long,
     val alliance: String? = null,
-    val stateSystem: String?,
+    val stateSystem: String,
     val rounds: Int,
     val epochNumber: Int,
 )
