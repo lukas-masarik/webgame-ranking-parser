@@ -69,7 +69,7 @@ class SimpleInputReader : InputReader {
                     (1) PRESTIGE
                     (2) AREA
                 
-                Choose attribute: 
+                Choose attribute (1): 
             """.trimIndent()
         )
         val input = readLine()
@@ -77,9 +77,10 @@ class SimpleInputReader : InputReader {
     }
 
     private fun extractOrderAttributeFromInput(input: String?): EOrderAttribute {
-        if (input?.toIntOrNull() == null) selectOrderAttributeFromInput()
+        val userInput = if (input?.isEmpty() == true) "1" else input
+        if (userInput?.toIntOrNull() == null) selectOrderAttributeFromInput()
 
-        return when (input!!.toInt()) {
+        return when (userInput!!.toInt()) {
             1 -> EOrderAttribute.PRESTIGE
             2 -> EOrderAttribute.AREA
             else -> selectOrderAttributeFromInput()
