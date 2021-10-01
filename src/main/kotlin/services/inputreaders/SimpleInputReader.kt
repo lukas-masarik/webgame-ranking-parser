@@ -227,7 +227,8 @@ class SimpleInputReader : InputReader {
                 Available grouping parameters:
                     (1) PLAYER
                     (2) ALLIANCE
-                    (3) STATE_SYSTEM
+                    (3) STATE SYSTEM
+                    (4) LAND NUMBER
                 
                 Choose aggregation parameter (1): 
             """.trimIndent()
@@ -244,6 +245,7 @@ class SimpleInputReader : InputReader {
             1 -> EGroupingParameter.PLAYER
             2 -> EGroupingParameter.ALLIANCE
             3 -> EGroupingParameter.STATE_SYSTEM
+            4 -> EGroupingParameter.LAND_NUMBER
             else -> selectGroupingParameterFromInput()
         }
     }
