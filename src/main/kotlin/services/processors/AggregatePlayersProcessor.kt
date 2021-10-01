@@ -78,6 +78,12 @@ class AggregatePlayersProcessor(
     }
 
     private fun processOutput(playersWithResults: Map<String, List<RankedLand>>) {
+        if (playersWithResults.isEmpty()) {
+            println("No results.")
+            return
+        }
+
+        println("#\tPlayer\tOccurrence\tPrestige sum\tArea sum")
         var i = 1
         playersWithResults.forEach { playerName, rankedResults ->
             val occurrenceCount = rankedResults.size
