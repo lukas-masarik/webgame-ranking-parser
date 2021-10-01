@@ -4,7 +4,7 @@ import enums.EOrderAttribute
 import enums.EOrderDirection
 import enums.EStateSystem
 import services.inputreaders.api.InputReader
-import services.processors.PrestigeByStateSystemProcessor
+import services.processors.CompareLandsByStateSystemProcessor
 import services.processors.CompareLandsThroughEpochsProcessor
 import services.processors.api.Processor
 import kotlin.system.exitProcess
@@ -16,7 +16,7 @@ class SimpleInputReader : InputReader {
             """
                 Available processes:
                     (1) Compare lands through epochs
-                    (2) Compare lands prestige by state system
+                    (2) Compare lands by state system
                     (0) Exit program
                 
                 Choose process: 
@@ -32,7 +32,7 @@ class SimpleInputReader : InputReader {
         return when (input!!.toInt()) {
             0 -> exitProcess(1)
             1 -> CompareLandsThroughEpochsProcessor(this)
-            2 -> PrestigeByStateSystemProcessor(this)
+            2 -> CompareLandsByStateSystemProcessor(this)
             else -> selectProcessorFromInput()
         }
     }
