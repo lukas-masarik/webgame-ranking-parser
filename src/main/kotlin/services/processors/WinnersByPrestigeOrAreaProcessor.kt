@@ -8,9 +8,9 @@ import services.parsers.api.EpochsParser
 import services.processors.api.Processor
 
 class WinnersByPrestigeOrAreaProcessor(
-    private val inputReader: InputReader,
+    inputReader: InputReader,
     private val parser: EpochsParser = RankedLandsParser(),
-) : AbstractRankedLandProcessor(), Processor {
+) : AbstractRankedLandProcessor(inputReader), Processor {
 
     override fun apply() {
         val landsCount = inputReader.selectReturnCountFromInput()

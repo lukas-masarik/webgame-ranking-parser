@@ -9,9 +9,9 @@ import services.parsers.api.EpochsParser
 import services.processors.api.Processor
 
 class PrestigeByStateSystemProcessor(
-    private val inputReader: InputReader,
+    inputReader: InputReader,
     private val parser: EpochsParser = RankedLandsParser(),
-) : AbstractRankedLandProcessor(), Processor {
+) : AbstractRankedLandProcessor(inputReader), Processor {
 
     override fun apply() {
         val stateSystem = inputReader.selectStateSystemFromInput()
