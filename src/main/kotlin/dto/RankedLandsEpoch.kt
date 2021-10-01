@@ -1,6 +1,6 @@
 package dto
 
-data class Epoch(
+data class RankedLandsEpoch(
     val number: Int,
     val rankedLands: List<RankedLand>,
 )

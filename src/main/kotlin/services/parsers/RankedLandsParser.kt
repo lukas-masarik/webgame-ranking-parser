@@ -1,18 +1,18 @@
 package services.parsers
 
-import dto.Epoch
 import dto.RankedLand
+import dto.RankedLandsEpoch
 import services.parsers.api.EpochsParser
 import java.io.File
 import java.nio.file.Files
 import java.nio.file.Paths
 import kotlin.streams.toList
 
-class RankedLandsParser : EpochsParser {
+class RankedLandsParser : EpochsParser<RankedLandsEpoch> {
 
-    override fun parse(): List<Epoch> {
+    override fun parse(): List<RankedLandsEpoch> {
         val epochFiles: List<File> = getEpochFilesFromResources()
-        val epochs = mutableListOf<Epoch>()
+        val rankedLandsEpochs = mutableListOf<RankedLandsEpoch>()
         epochFiles.forEach {
             val epochContent = it.readLines()
             val epochNumber = parseEpochNumber(epochContent.first())
@@ -23,10 +23,10 @@ class RankedLandsParser : EpochsParser {
                 rankedLands.add(parseRankedLand(it, epochNumber))
             }
 
-            epochs.add(Epoch(number = epochNumber, rankedLands = rankedLands))
+            rankedLandsEpochs.add(RankedLandsEpoch(number = epochNumber, rankedLands = rankedLands))
         }
 
-        return epochs
+        return rankedLandsEpochs
     }
 
     private fun getEpochFilesFromResources(): List<File> {

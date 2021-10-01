@@ -1,7 +1,10 @@
 package services.parsers.api
 
-import dto.Epoch
 
-interface EpochsParser {
-    fun parse(): List<Epoch>
+interface EpochsParser<out T> {
+    /**
+     * Parse files with copied epoch result.
+     * @return list of parsed results.
+     */
+    fun parse(): List<T>
 }

@@ -1,5 +1,6 @@
 package services.processors
 
+import dto.RankedLandsEpoch
 import enums.EOrderAttribute
 import enums.EOrderDirection
 import services.inputreaders.api.InputReader
@@ -8,10 +9,10 @@ import services.parsers.api.EpochsParser
 
 class WinnersByPrestigeOrAreaProcessor(
     inputReader: InputReader,
-    private val parser: EpochsParser = RankedLandsParser(),
+    private val parser: EpochsParser<RankedLandsEpoch> = RankedLandsParser(),
 ) : AbstractRankedLandProcessor(inputReader) {
 
-    override fun apply() {
+    override fun process() {
         val landsCount = inputReader.selectReturnCountFromInput()
         val orderAttribute = inputReader.selectOrderAttributeFromInput()
         val orderDirection = inputReader.selectOrderDirectionFromInput()
