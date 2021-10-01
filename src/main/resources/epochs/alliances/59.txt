@@ -1,0 +1,42 @@
+59. VĚK
+#	Aliance	Členů	Rozloha	Prestiž	Předseda
+1.	[.::R::.] Rytíři	10	194419km2	52671453	Astičkov(#618) - Asticka
+2.	[Ganja] ganja	10	167807km2	40865524	.Avatar.(#5036) - Joker16.
+3.	[cz-sk] ceskoslovensko	10	149038km2	39897782	.:cz-sk:.Zeus(#4165) - Vladce Seanix
+4.	[=T=] Trója	10	149467km2	37006101	Mejsha(#1855) - FR3EZY
+5.	[AUTORITA] Celé jméno aliance (povinné)	10	200611km2	35200692	Dobré ráno, dámy a pánové(#1636) - Lukastrance
+6.	[.:V6R:.] (Ex)Univerzita Velké Revoluce	10	164073km2	34847143	JenTakProRadost...(#397) - ACmilan
+7.	[R3D] H0T and Comeback of OldiesBand	10	141228km2	34239912	R3D and Y3LLOW(#57) - .Tommy33.
+8.	[80`s] the best decade ever	10	145947km2	32493222	NExtg3n Sk1llah(#3030) - Jiriss
+9.	[DF] Dark Family	10	149850km2	32126027	GANYMEDES(#1102) - Hanz Guderian
+10.	[ŽsN] ŽsN	10	203345km2	32034730	(+) (+)(#614) - Soudruh Pípas
+11.	[-=DF=-] -=Deadly Force=-	10	130701km2	31981839	-=DF=- Gold Tequila(#195) - Michal44
+12.	[ManG5] Penzion -BoW-	10	140528km2	31820112	Japonská slečinka(#6507) - Šogun IV.
+13.	[TVN] tento věk neválčíme?	10	149093km2	31399197	X Land(#3752) - OMartin
+14.	[DND] Daj nas dole...	9	148268km2	30788681	Do you think not?(#840) - DuklaTrencin
+15.	[-=AB=-] Atomic Bomberman	10	141712km2	30486547	Kde jsi máňo z pekárny(#2115) - Khatmay Siphando
+16.	[AA] Allstars aliance	9	125723km2	29899990	Star fighter(#135) - Helmus
+17.	[AotNW] Alliance of the New World	10	128244km2	28630257	The Bro Code(#2563) - Marzaus
+18.	[Z] Zeměplocha	6	89104km2	28556060	Cori Celesti(#662) - kIt. .
+19.	[HOR] Heroes of rofenhavan	6	119075km2	28310534	KAZAŇ(#2761) - IngBadzo
+20.	[*WiNDe*] Wipitá Naivní Dětska	10	123717km2	28005432	Uličník210(#2694) - Koumes
+21.	[D*n*B] Drum and Bass RuLeZ	9	128319km2	26896164	--==KOSHEEN==--is da Best(#5099) - Galactic
+22.	[.:YD:.] Smrt farmám	10	142007km2	26703847	ALEA ICTA EST(#1974) - White Dead
+23.	[.:V4R:.] V pro R	10	105964km2	26437545	Ash and dust(#488) - Defender...SID
+24.	[***B***] BENDA s.r.o.	10	157709km2	26142479	Pecik`s ***B*** land(#1583) - 10987654321
+25.	[SR] Sereďské Roztočto	10	159894km2	25997446	misko je sexy len ked spi(#447) - esya
+26.	[Across] Idealistic Organization	10	121689km2	25960136	v knížce Vaříme s konopím(#3431) - marv III
+27.	[sys-6] Univerzální rozpouštědlo	10	124574km2	25849585	sysák Sawy(#3664) - sawyer007
+28.	[ČSLA] Československá lidová armáda	10	170936km2	25747912	.:CZ-SK:.AK-47ProduceR(#101) - AKland
+29.	[-T-K-] Tlupa Kaprov Reborn	10	159350km2	25619809	GifficiDimExhibitor(#4758) - ando
+30.	[lovedogs] lovedogs	10	128045km2	25472873	LONELY GROWER(#3868) - Poprask
+31.	[UtopRobo] Utopie Robokracie	10	121978km2	25333941	Země plná hlenů(#4236) - hlen123
+32.	[ManG6] sem skupino :-D	9	122013km2	25256223	Tichá slečinka(#496) - mara8
+33.	[B.K.] BLITZ KRIEG	10	115103km2	24832797	Nadržená země draka útočí(#4846) - johnny33
+34.	[PUW] Pub u Wočka	10	146687km2	24728071	PUW Nadržená Květinka(#1008) - Athara
+35.	[A.N.D.] Angels Never Die	10	109208km2	24504878	ARCHANGEL - BlindGuardian(#1021) - juki333
+36.	[Lotta] Lotta per la sopravvivenza	10	156306km2	24160141	mi si accappona la pelle(#2800) - Prefik
+37.	[H5N1] Choré Sliepky	10	164360km2	24016425	archdevil land(#1330) - TiHiC
+38.	[Lordi] Bojovníci starého řádu	10	127057km2	23689550	ZkráceníméhoLORDa-nemožné(#3558) - kopl
+39.	[D1KTATOR] The new age of D1KTATOR	10	172859km2	23528100	24.4.-VELKOSRAZ OSTRAVA(#544) - Lord Biry
+40.	[S*K] Skank(skunk) Teritory	10	115599km2	23434229	Boskov(#160) - Bigbosh2

@@ -1,0 +1,42 @@
+52. VĚK
+#	Aliance	Členů	Rozloha	Prestiž	Předseda
+1.	[cerveza] cerveza	12	204791km2	69404089	salamista(#201) - buko10
+2.	[SB] SpikeBallers	12	272564km2	67780529	Zlatíčko moje :love: you(#666) - xkukx
+3.	[LLS] Long Left Side	12	221231km2	67202004	Právem silnějšího(#61) - NiakarAn
+4.	[DF] Dark Family	12	113479km2	63787260	Dark Lesnovek(#4290) - Hanz Guderian
+5.	[BOUNTY] Návrat zasněžených fundů	12	181781km2	57650706	Zasnezenza Alpinia(#1226) - Sjezdovka
+6.	[=DS=] Dog Soldiers	12	209365km2	55323615	WHAT IF GOD WAS ONE OF US(#1302) - .adm1n.
+7.	[=T=] Trója	12	244824km2	52036585	Ararat(#592) - zullu
+8.	[Anarchy] Farmíme pro lepší budoucnost	12	157812km2	50822916	Himl hergot donrvetr...(#1639) - thordevil
+9.	[*RtH*] Road to Hell	12	202151km2	47992979	Strength of Materials(#1288) - cast0r
+10.	[=*ss*=] SEX shop	12	202577km2	45884560	Frnda frnde(#96) - Ctirad2
+11.	[ČSLA] Česko-Slovenská lidová armáda	12	189871km2	44853058	.:CZ-SK:.Dum spiro,spero(#200) - KalinV
+12.	[VT] Vitazne Tazenie	12	229871km2	44592863	Aj ja sa milujem(#668) - imhot3p
+13.	[ŽsN] Žádný sR a ní nebude	12	206841km2	44067916	..TeRmiNaToR StyLe..(#76) - Soudruh Pípas
+14.	[Etc.] Nejnavštěvovanější ali na WG	12	198652km2	43309105	www.pokemon.cz(#1929) - ..yossarian..
+15.	[heechee] nejsme lidé.......jsme heechee	12	182193km2	43146405	Růžový Slon(#420) - Krten
+16.	[-=LH=-] Lonely Hearts	12	151515km2	41314794	-=LH=-ÁŘ(#40) - Walker
+17.	[.::R::.] Rytíři	12	208164km2	39111569	.::R::.ebel(#35) - broookes
+18.	[Rafani] Rafani	12	215357km2	38494392	Rafan , a kdo jsi ty?(#1705) - SprávceChlívku
+19.	[UFO] Ufouni útočí	12	107385km2	36169627	Veda vittun paahas(#644) - Achran
+20.	[G-K] Gutiho Kotangentoida	12	157769km2	35710474	G-K is raising again(#421) - Guti the King
+21.	[nLnF] no Luck no Frag	11	166665km2	35508298	ThoseWhoKnowWillNotTell(#433) - Pyromnacer
+22.	[KULE7] KULE7	11	155738km2	34915611	.:Ball Lightning:.(#1053) - DaMarkus
+23.	[.:BOBR:.] Action BOBR	12	176997km2	34802916	dva(#5964) - SiO
+24.	[D] Discworld	12	169000km2	34282364	Ankh-Morpork(#4796) - thebigboss
+25.	[PONORKY] Opat ku dnu..	12	161329km2	33929262	U 100(#4549) - MoDaF.Cory
+26.	[LW] Legendary Warriors	12	123055km2	33880306	Legendary Farmer(#60) - Carcin
+27.	[-osn-] ofuk stareho niktosa	12	175973km2	33323328	-osn- metal is 4ever(#1365) - Mydliak
+28.	[UED] United Earth Directorate	12	132327km2	33019953	Across the stars(#6271) - Defender...SID
+29.	[=*DC*=] Dark Company	12	191806km2	32874141	T3nTo V3k 5A N3fArMi(#3510) - predator xxl
+30.	[::R::] R3S93K7 New Generation	12	131830km2	31742731	R3S93K7 Železná Sparta :)(#3191) - zampino
+31.	[RoboUtop] Robokracie Utopie	12	147780km2	31452161	RU Chloumek Hill(#762) - Lídiště
+32.	[k9] Fair Play UNI	12	168074km2	31396254	Česká republika(#2759) - Orcidian
+33.	[:bum:] :bum:erang...oplatky se pečou	12	154282km2	30542911	-=TheOverPower=-(#341) - BuDzOgAn AlieN
+34.	[cz-sk] Ceskoslovensko	12	156594km2	30486691	.:cz-sk:.Zeus(#4080) - Vladce Seanix
+35.	[.:V4R:.] Velká Revoluce-Uni	12	158062km2	30472248	WoOdOo Night(#2889) - Dafman
+36.	[R3D] H0T and kdo bije ten byje	6	96137km2	30310617	Push the R3D button(#5230) - .Tommy33.
+37.	[G.U.M.I.] Gumídci méďové	4	107674km2	30006067	Brůča farmář z Nupak(#260) - Nupacak
+38.	[UP] A jako ne ze ne	5	87035km2	29505838	Kořen(#1425) - ACmilan
+39.	[Veverky] Veverky DIKTují hru	6	140000km2	29161281	Veverky nadopované heliem(#396) - Mr Shaman
+40.	[Across] Idealistic Organization	12	168595km2	29068505	Before I Forget(#840) - marv III

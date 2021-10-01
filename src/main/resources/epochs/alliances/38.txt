@@ -1,0 +1,42 @@
+38. VĚK
+#	Aliance	Členů	Rozloha	Prestiž	Předseda
+1.	[UM] Ukrajinská mafie	12	249110km2	64846836	Bohunice(#333) - Uthden
+2.	[MATKARUS] MATKARUS	12	234482km2	50829088	MATKARUS(#7318) - JosefViserjonov
+3.	[H5N1] zase.	12	207133km2	50421722	tomino.netrix.sk/h5n1(#1493) - Angelos
+4.	[P.f.B] Predators from Bombaj	12	207352km2	49193403	Metalomanie(#670) - SiRvAcA
+5.	[9mm] pozor na kulomechos	12	203268km2	48349544	evoluce je nesmysl(#1102) - Sir Kl of Kl
+6.	[G] Gladiators	12	198940km2	48264586	Trosky(#43) - Erwin Rommel
+7.	[.:H-A:.] Hell Army	12	206890km2	47759327	Hell Archdemon(#8876) - ACHILLEUS88
+8.	[RAFANI] RAFANI POSLEDNÁ FÁZA	12	208293km2	47651879	Rafan plny sily(#1050) - stamage
+9.	[M*A*S*H] Myšlení*Akce*Svačení*Hlína	12	194277km2	47146315	Ďáblužel ste skončili...(#12445) - Ďábel
+10.	[Mgn] MAGNUM	7	183223km2	44190251	V bříšku jako v pokojíčku(#864) - Děda Jaga
+11.	[TaBáČeK] ZáBěR,ZáHuL	12	205647km2	43999926	NémámRádHolkyTypuStruhadl(#342) - snasa1
+12.	[FuWg] fakulta univerzity webgame	7	121218km2	43743114	ProfesorEskalator de`pňak(#3782) - eska
+13.	[.:BoD:.] Brotherhood of Dreadnoughts	12	197106km2	43434448	Neohrožený Banehalow(#3969) - Banehalow
+14.	[MoM] Morbid obituary Message	12	215258km2	43339540	Zafód Bíblbrox(#357) - mixhail
+15.	[DIKTHRON] Diktator on the throne	12	204778km2	43153216	Octavia Tour(#655) - Death Imperator
+16.	[ICQib] I Seek You is back :-P	12	229234km2	42840787	119310584(#3643) - Black Warrior
+17.	[GanG] Crips	12	241757km2	42547117	West Side Mafia(#685) - RosPal
+18.	[.::R::.] RYTIRI	12	161413km2	42338458	XCOM(#66) - steamroller
+19.	[IBHZK] iCH bIN hIER zUR kUR	10	179650km2	41415648	FAiRLiGHT(#648) - R0CK3D
+20.	[**CQR**] CONQUERORS	12	148776km2	41159832	Hooray For Groupies(#1341) - PajinXXX
+21.	[SoTT] Sword of a Thousand Truths	8	135316km2	39540561	Monte hády(#7718) - Karandras
+22.	[heechee] nejsme lidé.......jsme heechee	12	177479km2	39376955	converse(#850) - ElRey
+23.	[Jukatáni] Jukatáni	11	212116km2	38502396	Jukatán - usurijský(#1021) - Tattser
+24.	[n1] navrat idiotov - zavrat idiota	12	183717km2	38020304	Kleopáš i Klotilda jaria(#1763) - esya
+25.	[Tatran] Pome na pivko do pubu...	12	183696km2	37591584	co je to NiCkNAMe?(#9664) - ZeDiK
+26.	[:HALA:] Hare lama	12	192987km2	37251572	Jen tak zlehka(#3035) - SCRLovec
+27.	[sP`] Spolecenstvo Pycynek	10	152754km2	37250176	Pycynka`Asche(#6748) - Asche
+28.	[*RtH*] Road to Hell	12	231959km2	36878059	farmerka ?(#19880) - Galactica
+29.	[M.I.A.] Malign Insidious Assassins	12	171644km2	36055321	The Lethal Assassin(#26) - Blackthunder
+30.	[M.I.A.2] Malign Insidious Assassins 2	12	153686km2	35703567	The Malign Assassin(#73) - Blackthunder
+31.	[S.D.E] Solar and Dark Empire	12	189831km2	35511600	Spomal(#9134) - soltari
+32.	[EilB] Full název viz. ali stránky	12	132843km2	35249143	Metafyzická prenatalita(#4160) - kilik
+33.	[P4S] play for SolitaireS	12	199799km2	35169582	žolíkof(#3032) - jokerrr
+34.	[HEH] HEH	6	138918km2	34932370	.cobra.(#10023) - .cobra.
+35.	[HU1VAT1] HU1V4T1	12	168276km2	34654595	HU1V4T Smradlavý Dráp(#290) - VargVikernes
+36.	[DooM] Užívej dne, možná je poslední	12	153638km2	34526477	third of two, watcher(#9577) - Yurnero
+37.	[ALFA] Stihaci letka	10	185759km2	33694718	Su-47 Berkut(#159) - steamroller
+38.	[RSQ] Rogue Squadron	12	188454km2	33464669	Rogue Hand of God(#433) - Ranger Mike
+39.	[ČSLA] Česko-Slovenská lidová armáda	12	179085km2	33449997	.:CZ-SK:.Neviem nič(#6514) - KalinV
+40.	[OST3] Old stars team po 3	12	174819km2	33387517	Italia(#5691) - Remus XX

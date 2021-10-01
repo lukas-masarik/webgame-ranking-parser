@@ -1,0 +1,42 @@
+62. VĚK
+#	Aliance	Členů	Rozloha	Prestiž	Předseda
+1.	[SB] SpikeBallers	10	193010km2	66115740	xkukx(#29) - xkukx
+2.	[LAMINS] Lameři	10	166769km2	64167914	Nosim ruzove tanga a som(#2398) - Reen
+3.	[TemLeg] Temné legie	10	170977km2	56823300	Water Naboo(#172) - Dart.Kanne
+4.	[D1KTATOR] D1E FOR D1KTATOR	10	191064km2	55226290	S fackal jsem svého synka(#2033) - Lord Biry
+5.	[BOUNTY] Kupte si medvídka mývala	10	167108km2	50219890	Zoufalec Sjezdovka(#2667) - Sjezdovka
+6.	[YouTube] Broadcast Yourself.	10	168523km2	48401487	Scar Tissue(#2141) - Uaah
+7.	[UVVB] Uzené veverky v buřtech	10	177011km2	47389193	Manzanie(#1593) - Sir Robertini
+8.	[H5N1] Choré Sliepky	10	147911km2	46628804	Arogantný a sarkastický(#59) - Angelos
+9.	[Řezníci] Krkovička : řezník a kupec	10	176991km2	45710288	Behind blue eyes(#2080) - Bulva
+10.	[.::VR::.] velka revoluce	10	192768km2	44438035	INvinoVERITASinPIVOtaky(#920) - . . . . .
+11.	[D*n*B] Drum and Bass RuLlezZ	8	143089km2	42411717	--==KOSHEEN==--is da Best(#3331) - Galactic
+12.	[VT] Viac ako Talent	10	159746km2	42170868	BOH(#33) - imhot3p
+13.	[-=LH=-] LONELY HEARTS 4EVER	9	165555km2	41219531	FC BARCE-=LH=-ONA(#668) - Walker
+14.	[ČSLA] Československá lidová armáda	10	158145km2	39920382	.:CZ-SK:.Joudinkov(#243) - joudinek
+15.	[UM] Ukrajinská Mafie	10	167526km2	38441726	UM Bohunice - Stary Liskovec(#3062) - Uthden
+16.	[ganja] ganja	10	164226km2	37457266	Alkáč, neboli alkoholik(#2713) - ..Hanz..
+17.	[CGHMN] CompuGlobalHyperMegaNet	10	126329km2	35792737	2X4B-523P(#1277) - Mihall
+18.	[Anarchy] Farmíme pro horší budoucnost	10	154200km2	34741594	Touha je zázrak, kámo...(#3052) - thordevil
+19.	[M.U.] Mars university	10	152147km2	34110673	Philip J. Fry(#1636) - Moe
+20.	[Lotta] Lotta per la sopravvivenza	10	166315km2	33825847	mi si accappona la pelle(#1627) - Prefik
+21.	[.:V3R:.] Noobs w1ll k1ll sk1ll	10	151540km2	33746890	Jenny McCarthy(#1343) - Alexius
+22.	[CHRO] Ultimate Chrownage Team	10	114120km2	31609731	Budoucnost je v jádru(#3637) - Duke Nukem
+23.	[LLS] Long Left Side	8	128074km2	29112497	Sarmatsky bojovnik(#2791) - Macedonec
+24.	[-=DF=-] -=Destilat Fanatics=-	10	151592km2	28982882	-=DF=- Fernet Citrus(#797) - Michal44
+25.	[SPARK] dopujeme špenát, špek a sejra	10	136830km2	28709977	//SPARK\ ethylik(#41) - Belter
+26.	[AotNW] A tak je to tu se vším...	10	141157km2	28488751	Pro hlupáka každý hloupý(#1377) - Marzaus
+27.	[Etc.] Jen tak aby se neřeklo	10	139734km2	27069351	POJDSEMNOUNAPANÁKA(#1056) - ..yossarian..
+28.	[A.N.D.2] Angels Never Die 2	10	134175km2	26284616	ARCHANGEL - Sokolie oko(#3736) - Bonto
+29.	[PlanEx] Planet Express	10	149963km2	26243326	evil Philip J. Fry(#1887) - Moe
+30.	[Across] Idealistic Organization	10	125764km2	25850386	Across ssorcA(#3304) - marv III
+31.	[A.N.D.] Angels Never Die	10	123719km2	25570441	ARCHDEVIL - XaeroIFBB(#2412) - ChodteVsetciDoP.
+32.	[NAOS] NAOS	9	130580km2	24958143	Si stredobodom pozornosti(#1642) - aiRenQo
+33.	[SZS] Strategie Zkušenost Spoluprace	7	101242km2	24830419	How To Make A Monster(#652) - BigY
+34.	[TP] Tvůrčí Právo	9	114349km2	24370885	nEvEr mOrE(#475) - F0rsaken S0ul
+35.	[sam] samotáři	10	97282km2	24255991	sam - Samotář pomsty(#353) - Libinak
+36.	[.B.I.S.] banda izolovanych opat tu..:)	10	134221km2	23401413	spermia po rehabilitaci(#2937) - keltiak
+37.	[Adio] Adio Americano	10	130830km2	23174355	Dark forrest(#587) - ORidickO
+38.	[.:WŠSS:.] Webgame škola srandy a spamu	10	112954km2	23153231	Učitel Hadrabator(#226) - Hadrabator
+39.	[F.o.a.D] ...:::DARKROOM:::...	9	103090km2	22968363	s Kristýnkou *in love*(#1469) - trav1
+40.	[-SC-] Skull Collectors	10	140551km2	22683458	Hlada sa mumakyyy(#34) - Efca

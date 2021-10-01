@@ -1,0 +1,42 @@
+108. VĚK
+#	Aliance	Členů	Rozloha	Prestiž	Předseda
+1.	[=T=] Trója	10	196639km2	72587474	Winter is coming..(#125) - FR3EZY
+2.	[DF] Dark Family	10	175268km2	48370083	DF_Energy(#1091) - FH
+3.	[KL] Killing Lady	10	179633km2	44541385	Taranis(#199) - 7000000
+4.	[RAPTOR] TEAM RAPTOR	10	138171km2	43367204	Kup si moje CD(#456) - Aram Chroustal
+5.	[ČSLA] Československá lidová armáda	10	171943km2	41528929	.:CZ-SK:.AK-47ProduceR(#721) - AKland
+6.	[Tabáček] Tabáček	10	110863km2	37940590	Why so serious?(#89) - snasa1
+7.	[SUX] parádní aliance :D	10	144427km2	37489597	SUXessfuIl(#105) - LuisFigo
+8.	[BOUNTY] a 40 loupežníků	10	147418km2	36447373	Alibaba a 40 loupežníků(#1181) - Sjezdovka
+9.	[MENSA] ...spolek jedlíků CHILLI	10	152377km2	33712307	PROF. EXTREM CSc.(#45) - Sir Extrem
+10.	[NDA] Never Die Alone	10	165728km2	32888014	What A Wonderful World(#119) - Zorg
+11.	[LEGO] kostky jsou vrženy	10	141298km2	30824019	LEGO Oooo(#366) - ArchimondS
+12.	[:.AoA.:] Angels of Apocalypse	10	151150km2	30029834	Andílek(#1222) - kubikma
+13.	[S.S.T.] Spojené síly terorismu	10	119942km2	29402510	.:S.S.T:. Trutnov(#895) - alksj
+14.	[OKNO] O Kvalitě Nežertujeme	10	157519km2	28721846	OKNO s vyhledem na bombin(#381) - leszek
+15.	[ČD] České dráhy, jsme tady pro Vás	10	140685km2	28148628	=_Rx 777 Pancíř_=(#213) - cvachta
+16.	[TOP] Top Gear	10	164602km2	27425973	Ferrari F12 Berlinetta(#214) - Clarkson
+17.	[YOZZEFY] Yozzefy = expy	10	129642km2	27366395	Křížkový Újezdec(#70) - Allegro
+18.	[KH] Kazím Hru	10	131126km2	26583378	00120001222102210(#284) - Gingi
+19.	[=UP=] Ufo Porno	10	122355km2	25266352	Území nikoho(#680) - ClarkKent
+20.	[TP] Tvůrčí Právo	10	145103km2	25049117	Blšany(#1122) - LordBlsan
+21.	[VzP] Vyvrženci z Pekla	10	162365km2	25033447	Vyvrženec Dr.Satan(#42) - StillDeadCZ
+22.	[G7] Great Seven	10	111601km2	24931899	Sunshine(#111) - Anchor
+23.	[D3V1L5] Masters Of Underworld	10	131005km2	24712807	Čajna(#181) - Falkus.
+24.	[574ND4R7] 100YEARS and 100AGES	10	121126km2	24415372	PHENOMENAL(#1730) - Jiriss
+25.	[MK] IMMORTAL KNIGHTS	10	138668km2	23878145	Prdicí pytlík(#465) - uzid
+26.	[ZSB] Zima se blíží	10	118744km2	23223161	John Sníh(#55) - matto10
+27.	[SPRITE] my jsme Sprite a vy žízeň	10	116096km2	23181466	GOLD nafurt.(#963) - demonstrate
+28.	[ZEIT] ZEITGEIST	10	113822km2	22772837	ZEITGEIST_I(#373) - Lord Arthurius
+29.	[LordsWG] Domobrana	10	110187km2	22606902	Zohan.:.Disco(#432) - Bukay
+30.	[UTOP-X] UTOP-X Solar Utop Emperor	10	99905km2	22188791	PLANET-X Orbit of Nemesis(#712) - ZUMOTRIX
+31.	[NBTN] Neser Bo Te Naseru	10	118411km2	21870953	RS-24 Yars(#1039) - luque
+32.	[.L.O.S.] Losáci ze Severu	10	153587km2	21817934	LOS made in China(#34) - Topisek
+33.	[nBd.] Never Back Down	10	153277km2	21723747	neBudu doma(#132) - HromikSir
+34.	[vh74] vh74	10	102787km2	20939223	Mame doma vojakov(#128) - Duke Ferdo
+35.	[ANG] Padlý Andělé	10	152055km2	20197062	Black Angel(#925) - High Warlord Rxz
+36.	[KRTEČEK] Hrabáním k lepším zítřkům...	10	82435km2	19856725	Krteček a makovička(#458) - IMraz
+37.	[.:NS:.] Night stalkers	10	121285km2	19608670	China Town(#102) - Rayo007
+38.	[Q.f.] Queen forever	10	100286km2	18879800	Edwardex World(#490) - Edward
+39.	[--2016--] Aliance	10	105060km2	18792720	Nemam k tomu co rict(#1458) - majki2719
+40.	[Anarchy] Farmíme pro horší budoucnost	10	114338km2	18775407	Touha je zázrak, kámo...(#41) - thordevil

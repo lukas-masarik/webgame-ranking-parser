@@ -1,0 +1,42 @@
+68. VĚK
+#	Aliance	Členů	Rozloha	Prestiž	Předseda
+1.	[PíPíBí] Powerpuff Boys	10	212768km2	53519671	Hannibal`s Underworld(#1794) - Dr.Leckter
+2.	[VTIP] Mistři Smíchu	10	176540km2	47724084	Vtipně pěstí do oka(#126) - Gyriko
+3.	[Ganja] Ganja	10	174640km2	46377752	Alkáč, neboli alkoholik(#317) - ..Hanz..
+4.	[CGHMN] CompuGlobalHyperMegaNet	8	162944km2	45506153	Peacemaker(#1803) - Mihall
+5.	[TemLeg] Temné legie	10	165766km2	42386063	Naboo Reloaded(#34) - Dart.Kanne
+6.	[SZS] Strategie Zkusenost Spoluprace	10	156090km2	41554212	SZS maestro(#841) - Q4z3R
+7.	[M*A*S*H] MyšleníAkceSvačeníHlína	10	119402km2	41086597	Maki,Ďábel,Gadzo,Spirit(#187) - Erwin Stahler
+8.	[-=LH=-] Lonely Hearts	9	189977km2	38056844	VY-=LH=-ULENÝ SRDCAŘ(#1473) - Walker
+9.	[ManG3] Maniiax gang 3	10	153647km2	37767908	Útočná Slečinka(#1545) - c4u710n
+10.	[BOUNTY] V pekle sudy válej	10	123350km2	34742573	Všechno zná, všude byl(#2128) - Sjezdovka
+11.	[F.o.a.D] ...:::DARKROOM:::...	10	138296km2	33651936	s Kristýnkou *in love*(#2648) - trav1
+12.	[Across] Idealistic Organization	9	125570km2	32531742	Po oddychu zas povinnosti(#866) - marv III
+13.	[ČSLA] Československá lidová armáda	10	128479km2	31969892	.:CZ-SK:.Joudinkov(#292) - joudinek
+14.	[LEGO] kostky jsou vrženy	10	128705km2	31774222	Never back dowN(#1068) - ArchimondS
+15.	[*SnsrN*] s nami si radsej nezacinaj	10	124716km2	31383436	V.Lehotka(#1636) - TranceSexual
+16.	[Legend] WaiT for iT	5	92917km2	29669153	Denny Crane(#859) - Naumo
+17.	[Akatsuki] společenstvo zlosynů	10	156951km2	28268513	Bijuu Tobi(#325) - Lordisko
+18.	[RAFANI] Back in black	10	140570km2	27991828	Rafan Donkey monkey(#2431) - abudabi
+19.	[STOKA] SmeTakyObycajnyKadici	10	188987km2	27861865	Vybombim ta LUXUSNE(#575) - Mr.Luxus
+20.	[.:WWF:.] World Wrestling Federation	8	123999km2	27050653	.:WWF:. Země medvědů(#1124) - Medvidek3000
+21.	[=PA=] Pekelní Andělé	10	111163km2	26146404	Salamis(#3115) - Xerxes55
+22.	[Revolta] Carpe Diem	10	127667km2	25361586	Revolta - Carpe Diem(#1926) - Sammy
+23.	[.:NUKE:.] Nepřítel populace	10	159410km2	24740532	NUKE DRAGON(#976) - Firepower
+24.	[Etc.] Let the hunt begin	5	110851km2	24199816	I hear you man(#1232) - ..yossarian..
+25.	[A.N.D.2] Angels Never Die 2	10	118601km2	24132881	ARCHANGEL - Eskimakovo(#756) - Bonto
+26.	[:bum:] :bum:erang...oplatky se pečou	10	138279km2	23644009	GabiDžíCestaBojovníka(#105) - BuDzOgAn AlieN
+27.	[DEAD] Milujeme Vas	10	109870km2	23268220	-DEAD-Michalka(#2072) - PenachyM
+28.	[CMEPTb] CMEPTb OKKYNAHTAM	10	130221km2	23213620	Who dares wins(#2651) - Doktor Dušan
+29.	[VTIP2] Žertování s mistry smíchu	10	105471km2	22856515	VTIP o šprýmařích(#125) - Isilmir Goraz
+30.	[68] 68	6	98242km2	22109404	Artek(#60) - Jurgens
+31.	[.:ADaZ:.] Aliance Divokých a Zlých	10	120447km2	21855126	.:ADaZ:.Co si to za lamu?(#1294) - Velitel letectva
+32.	[BumBum2] Z hlediska si děláte kozy	10	144835km2	21504907	Mam v rozviedke ciganov(#656) - JednoOkyAgresor
+33.	[ČSB] ČehoSeBojím	6	86447km2	21189988	Bojím se roku bez školy(#709) - labojse
+34.	[ALINE] Aliance (ne)spokojených	9	117464km2	20824946	.:ALINE:. Tenserland(#1006) - Mephysta
+35.	[MK] Immortal Knights	6	58480km2	20800809	aaaaasi nehrajuuu(#2171) - Zorg
+36.	[x.x.x.] Fandíme Plzni v LM	9	116021km2	20643241	Speedy Gonzales(#481) - KingSixx
+37.	[Metalord] We`re not gonna take it	5	66705km2	20135281	Cursed Templar(#1118) - Gargoyl.Koláč
+38.	[LBL] LBL	9	133198km2	19016399	Modrý pták(#355) - ridgeback
+39.	[.B.I.S.] banda izolovaných spermií	10	126962km2	18513765	zlato pod na to..komodita(#521) - keltiak
+40.	[H5N1] Choré Sliepky	8	97825km2	18203796	Macallan(#2563) - Angelos

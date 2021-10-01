@@ -1,0 +1,42 @@
+134. VĚK
+#	Aliance	Členů	Rozloha	Prestiž	Předseda
+1.	[AC/DC] Back in black	9	144712km2	73792064	flámy už mě nebaví(#130) - Walden r Gwendor
+2.	[SUX] parádní aliance :-*	10	190493km2	49304644	SUXessfull(#38) - LuisFigo
+3.	[queens] QUEENS	10	137221km2	39604412	Pavilon 8 AHC(#171) - gorem
+4.	[FETKA] Fetuj jako ponrava	10	128739km2	37953031	Ponrava(#143) - Estetik
+5.	[FATHERS] ...kdo si hraje, nezlobí :-)	10	111341km2	37547946	CATCH ME IF YOU CAN(#1307) - Sir Extrem
+6.	[...EX...] ..............EX..............	10	131739km2	36274714	Teletabis(#554) - Tinky binky ex
+7.	[PRDOX] PRdelí DO Xichtu	10	116357km2	35969917	Když žid se židem snídá(#1275) - Lets go
+8.	[L.O.S.] Losacke srdicko	10	145914km2	35592722	LOS made in noname(#3344) - Topisek
+9.	[.:xXx:.] CENSORED	10	124116km2	35476856	HELL-fire(#10000) - wasabi666
+10.	[PKZ] Prdeli Ke Zdi	10	148551km2	33818726	.::PKZ Cry more::.(#1403) - Kwasak
+11.	[FERNET] FERNET	10	132142km2	33099733	zmena mena na youtube(#309) - Syr Čoko
+12.	[-osn-] Ofúkané starého niktosa	10	135942km2	32463441	Vozo ? Kto je Vozo ??(#200) - Vozicek
+13.	[Anarchy] Farmíme pro lepší minulost	10	131578km2	31349208	Hledáme ve hvězdách...(#168) - thordevil
+14.	[DEAD] Zmrtvychvstani	10	135839km2	30766955	-DEAD- China Town(#411) - Rayo007
+15.	[=T=] Trója	10	131712km2	30074906	Winter is coming..(#241) - FR3EZY
+16.	[**SNK**] SmeNaKašu	10	127305km2	29697630	Liška Bystrouška na Kašu(#243) - Jitus21
+17.	[MENSA] ...prostě (j)elita :)	10	123225km2	29467011	STEPHEN HAWKING(#126) - Sir Extrem
+18.	[LoF] Lost and Found	10	122309km2	28752146	Lost in Abbys(#481) - TuNKy
+19.	[PíPíBí] PowerPuff Boys	10	140323km2	28479727	Fuzzy Lumpkins(#51) - Muffia
+20.	[.:UV:.] Usmolení vidláci	10	112527km2	27041807	Dřepy na okurkovém poli(#135) - RegiFcb
+21.	[P.B] Peaky Blinders	10	115956km2	26135933	Harder Than You Think(#246) - Luke the Great
+22.	[**CQR**] Conquerors	10	113857km2	26075196	Dark Conqueror(#913) - vanna
+23.	[ČD] České dráhy, jsme tady pro Vás	10	116451km2	25801105	=_ IC 1313 OLD RED FOX_=(#953) - Kralevic13
+24.	[B33r] Pivo dělá krásná těla	10	124306km2	25405068	Magnamundie(#874) - Hones
+25.	[pivo] pivo pivko pivinko	10	93806km2	25295428	Z1L1NSKY STAT(#378) - deweon
+26.	[SPRITE] Ted ja budu sprite a ty zizen	10	108902km2	24601580	Pocemkamdeš(#633) - demonstrate.
+27.	[ManG] Maniiax Gang	10	122512km2	24339295	Sarkasmus je moje milá(#522) - mara8
+28.	[*WinDe*] Winde na Dovolené vol.2	10	99822km2	24202309	.:W:. blazniva Veverka(#147) - Koumes
+29.	[YOZZEFY] Yozzefy = farmy	10	126211km2	23386718	Baron Babiš (prášil)(#922) - Allegro
+30.	[WG-Elite] WG-Elite	9	115041km2	23187595	I hope you die(#65) - Erethil II.
+31.	[VZP] Vyvrženci z pekla	10	119849km2	22988895	Vyvrženec Rufus Dwirefald(#136) - StillDeadCZ
+32.	[Ganja] ganja	10	139502km2	22038871	Mambo(#35) - Joker16.
+33.	[CMEPTb] CMEPTb OKKYNAHTAM	9	114732km2	21756980	Patizónia(#356) - Fenislav
+34.	[VIR] VIR	10	149733km2	21602911	Karma je zdarma(#1392) - Mrkvička777
+35.	[11.Září] Letadla sem, mrakodrapy tam	10	144377km2	21499509	( .)( .)(#107) - Armyx
+36.	[N.n.n] No nic no	10	108737km2	21390572	Dekapitator(#380) - Carcas
+37.	[Bombing] Bombing TOP	10	122348km2	21363870	Bombing Hero(#935) - the last Hero
+38.	[CZ] Czech Republic	8	110013km2	20994268	*`=/+-.,:()(#690) - Patovímentálove
+39.	[G-K] Gutiho Kotangentoida	10	100266km2	20799543	Rytíř říkající:(#217) - Guti the King
+40.	[CRASH] temeraf	10	111822km2	20199387	satoshi(#76) - Grafical

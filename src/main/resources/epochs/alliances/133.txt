@@ -1,0 +1,42 @@
+133. VĚK
+#	Aliance	Členů	Rozloha	Prestiž	Předseda
+1.	[=L.O.T=] Letný oddychový tábor	10	156135km2	62362109	Lord Of Tactic(#9999) - tvojasmrt
+2.	[Ganja] ganja	10	171557km2	55775671	Mambo(#942) - Joker16.
+3.	[**CQR**] Conquerors	10	148523km2	47674237	Dark Conqueror(#731) - vanna
+4.	[SUX] pasivní aliance :O	10	143833km2	44911563	SUXessfull(#596) - LuisFigo
+5.	[SNAKES] SsNnAaKkEeSs	10	122538km2	42917088	Koupím rumíka za kačku(#970) - Chica
+6.	[SpaceX] Falcon Heavy	10	156640km2	41741941	((#1537) - Erethil II.
+7.	[MENSA] ...prostě (j)elita :)	10	137547km2	40923026	STEPHEN HAWKING(#1086) - Sir Extrem
+8.	[VZP] Vyvrženci z pekla	10	153315km2	40759733	Vyvrženec Dr.Satan(#152) - StillDeadCZ
+9.	[Anarchy] Farmíme pro lepší budoucnost	10	141498km2	38803147	Hledáme ve hvězdách...(#116) - thordevil
+10.	[Across] Idealistic Organization	10	181131km2	38776535	krevety s kečupom(#246) - marv III
+11.	[.:xXx:.] CENSORED	10	121669km2	38467649	HELL-fire(#868) - wasabi666
+12.	[*WinDe*] Winde na Dovolené	10	136030km2	37784484	.:W:. blazniva Veverka(#463) - Koumes
+13.	[SPRITE] Teď já budu sprite a ty žízeň	10	117315km2	37157496	Pocemkamdeš(#592) - demonstrate.
+14.	[CGHMN] CompuGlobalHyperMegaNet	10	162803km2	34985727	leva(#1006) - Mihall
+15.	[AiM] Aina Mörne	10	133696km2	34665057	Louka plná kytiček(#824) - fenix23
+16.	[FETKA] Fetuj jako ponrava	10	107458km2	33446094	Vyfetovaná ponrava(#58) - Estetik
+17.	[Temnota] Temnota	10	112705km2	33029490	Doba temna(#32) - pokrosss
+18.	[YOZZEFY] Yozzefy = farmy	10	108853km2	31113682	Rathovo tři roky v lochu(#129) - Allegro
+19.	[ČD] České dráhy, jsme tady pro Vás	10	117169km2	29760398	=_IC 514 Opavan_=(#657) - Folei
+20.	[**SNK**] SmeNaKašu	10	118396km2	29640592	Liška Bystrouška na Kašu(#208) - Jitus21
+21.	[ČSB] ČehoSeBojím	10	124259km2	28266868	Bojím se o přežití...(#111) - Veriax
+22.	[-THC-] Strana zelených	10	153268km2	28075051	Bigg_Boss_Land(#214) - daoler
+23.	[.:xIIx:.] CEN2ORED	10	119809km2	27435002	Hell-raiser(#30003) - wasabi666
+24.	[BumBum2] Hrajeme podle pravidel	10	152966km2	26651691	omakalamihonakanapi(#1192) - jckl
+25.	[H*2] Hovno Na Druhou	10	136550km2	26264304	Uklízecí Četa(#57) - Hon.Salo.
+26.	[B33r] Pivo dělá krásná těla	10	136546km2	26071857	Magnamundie(#885) - Hones
+27.	[ZERO] ZačínajícíERotickáOrganizace	10	139055km2	25629688	pálím hlínu(#128) - Walden r Gwendor
+28.	[M.A.] Meziplanetární Aliance	10	98009km2	25070381	Fakin Hobol(#808) - smudlas
+29.	[LoF] Lost and Found	10	115510km2	23500579	Lost in Abbys(#1491) - TuNKy
+30.	[S.S] Squatting Slavs	5	85897km2	22731167	HIGH++(#286) - ondrOx
+31.	[Bombing] Bombová parta	10	99750km2	22720887	Bombing Hero(#344) - the last Hero
+32.	[LEGO] kostky jsou vrženy	10	118569km2	22641722	LEGO PaedDr. Archi CSc.(#548) - ArchimondS
+33.	[Imp] Impérium kdovíčeho	10	104429km2	22609591	Edna se zlobí..(#817) - Sedmika
+34.	[pivo] pivo pivko pivinko	9	77237km2	22316587	Z1L1NSKY STAT(#567) - deweon
+35.	[Bombing2] Bombovní Léto	10	106046km2	22048240	Bombing Deathstars(#632) - efective
+36.	[NBTN] Neser Bo Te Naseru	10	122984km2	21957688	RS-24 Yars(#929) - luque
+37.	[KZ] Klátíme Zrzky	10	132426km2	21918115	Top 1place(#695) - PozarniSbor
+38.	[DpN] Duchna pre Nováčikov	10	140113km2	21096790	Evženkovo prkýnko(#555) - Evzen Hyberny
+39.	[Tabáček] Tabáček	10	133618km2	20978329	Mič bjukenen(#130) - snasa1
+40.	[VIR] VIR	9	130278km2	20369296	Easy target,feelin this?(#473) - Mrkvička777

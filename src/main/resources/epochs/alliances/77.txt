@@ -1,0 +1,42 @@
+77. VĚK
+#	Aliance	Členů	Rozloha	Prestiž	Předseda
+1.	[BFP] Bad Fat Pipe	9	149124km2	40873847	boheMista(#2873) - Mista
+2.	[.:PES:.] Pach Ejakulovaného Semena	10	157032km2	34885550	PESťou do brucha(#2704) - Paul.MuadDib
+3.	[Tabáček] Tabáček	10	193550km2	34838789	Balím johna v kludě,(#819) - snasa1
+4.	[-=AB=-] Atomic Bomberman	9	153504km2	34507115	Bomberman vannička(#138) - vanna
+5.	[ALIEN] ALIancia ENviromentalistov	8	134199km2	33358009	ANONYMOUS(#695) - cinkocanko
+6.	[*`=/-.,] Supramaniacs	10	154341km2	32937248	SupraManiac(#422) - Supra1Soul5Play
+7.	[VVC] Vultures in Vivid Color	7	118467km2	32341361	Registrace nové země 2(#2759) - nothing left
+8.	[-BLOOD-] Blood and Bone	10	168180km2	32225296	Nikdy neodmlouvej kámo(#1693) - losos123
+9.	[=RAM=] Mechy, techy, kofola	10	143360km2	31504695	Medved smirak(#832) - Krutovladce2
+10.	[.::VR::.] vanocni revoluce	10	118844km2	31484389	Vánoce Vánoce přicházejí(#2946) - Sjezdovka
+11.	[RAPTOR] TEAM RAPTOR	9	150738km2	30596168	Arménská zahrádka(#566) - Aram Chroustal
+12.	[.hunteRs] Team .hunteRs	10	123575km2	29913239	.hunteRs.Afterlife(#1335) - FRaktura
+13.	[A.N.D.] Angels never die	10	124436km2	29903153	ARCHANGEL - Andreas(#3190) - MasterAndreas
+14.	[*WiNDe*] Never surrender	10	133212km2	29785004	.:W. opilá opička(#2152) - Koumes
+15.	[AveCesar] AveCesar a bojová eskadra.	10	123825km2	29727141	.:AveCesar:.Řím(#467) - Ares65
+16.	[PŠTROSI] Máme v rektu kokosy	10	146205km2	29656417	Pštros amfetaminovej boss(#160) - M1S73R
+17.	[DEAD] Milujem to :-*	10	131648km2	27639632	-DEAD--------------------(#402) - .PenachyM
+18.	[***B***] BENDA s.r.o.	10	139915km2	27005212	***B***eran Pecik(#1044) - 10987654321
+19.	[cz-sk] ceskoslovensko	10	116743km2	26839963	.:cz-sk:.Zeus(#2406) - Vladce Seanix
+20.	[(RV)] Ryba útoči vole :D	10	135629km2	26073933	Rybka na útěku(#271) - ListerD1
+21.	[W.?.R] W4R*	10	137114km2	25875759	W4R(#1445) - GanjaMeen
+22.	[DF] Dark Family	10	179998km2	25433562	Slecinka DF(#2299) - Hanz Guderian
+23.	[CoverUni] CoverUni	7	101722km2	25350489	Dragon Sheep(#1808) - jedi malec
+24.	[HAARP] High Frequency Active Auroral	10	147345km2	24966700	ExDirty(#752) - Exdirty.Lowe
+25.	[NW] Nuclear Warriors	10	126621km2	24399481	10 let na Webgame(#1272) - Yaser al Naser
+26.	[S.P.K.] spolek přátel koz	9	97334km2	23975218	Šíňan Nakánoj(#1362) - Phoenyks
+27.	[ULoT] United Lands of Terror	7	111604km2	23724052	Ur SacRifiCe iS G0Od iDeA(#818) - RevENGeR03
+28.	[ToAn] TotálněAnální	8	103496km2	23448415	Prischly_Trus_O_Anus(#1194) - devilLH
+29.	[KRTEČEK] Hrabáním k lepším zítřkům...	10	118712km2	23187756	Krteček a makovička(#2483) - IMraz
+30.	[Anarchy] Farma k farmě sedá	10	119401km2	23113166	Anarchy(#2695) - thordevil
+31.	[D**T] Danger Team	10	132520km2	22955714	nečum1234(#424) - čuniček
+32.	[C*P] Cold Power	9	138938km2	22634351	Quintara(#717) - Ivanes
+33.	[:.AoA.:] Angels of Apocalypse	10	129608km2	22623842	Andílek(#2221) - kubikma
+34.	[x.x.x.] Vánoční KOMETA Brno	9	113329km2	22525782	Voodoo Child(#624) - KingSixx
+35.	[HAWKS] Band Of The Hawk	10	139017km2	22480079	Griffith(#1028) - Houzy
+36.	[DAoSW] Drink Alcohol or Smoke Weed	6	105462km2	22460138	Georgioland(#1858) - Georgio
+37.	[Fex66] Fenix66	10	125565km2	22315315	FX Chuck Bartovski...(#2153) - avelin
+38.	[ManG] Maniiax Gang	10	146357km2	22100306	Lechtivá slečinka(#1149) - c4u710n
+39.	[Lotta] Lotta per la sopravvivenza	10	163697km2	22007808	manco un pelo che(#3315) - najkapacita
+40.	[MTG] Má To Grády	9	126552km2	21905640	One man, one goal(#2004) - liqo

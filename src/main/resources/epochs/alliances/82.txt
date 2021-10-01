@@ -1,0 +1,42 @@
+82. VĚK
+#	Aliance	Členů	Rozloha	Prestiž	Předseda
+1.	[NBS] Největší Blbci Světa	10	153714km2	52032165	Největší Blbec Systému(#1885) - Walker
+2.	[BOUNTY] My jsme všichni Gogo	10	126168km2	42532799	Ali Baba a 40 loupežníků(#2549) - Sjezdovka
+3.	[Valkaci] Vyhúlení alkáči	10	189398km2	41719350	VALKAC SKILLER(#706) - Lets go
+4.	[UVVB] Uzené veverky v buřtech	9	158162km2	40968744	Manzanie(#686) - Sir Robertini
+5.	[Across] Idealistic Organization	10	140849km2	40794379	Eu quero tchu(#496) - Seksymania
+6.	[RUM] Rozhodně umělecký mančaft	10	174649km2	40789763	DARK RUM(#1115) - Xmmara
+7.	[*WiNDe*] no to mi ho WiNDej	10	178958km2	40584866	.:W:. Emdorka PoWa(#146) - .www.king.cz.
+8.	[KULE7] kanadská lesbitchka	9	157695km2	37716893	Where The Trail Ends(#1914) - .troublemaker.
+9.	[=T=] Trója	10	172290km2	37338609	Winter is coming..(#1005) - FR3EZY
+10.	[CMEPTb] CMEPTb OKKYNAHTAM	10	157991km2	36482484	CMEPTb Vyacheslav Molotov(#370) - 7RuFiK7
+11.	[ToAn] Totalitní anál	10	127598km2	33993758	testiculus plena sperma(#1236) - devilLH
+12.	[MENSA] Mimořádně nadaní...	10	123705km2	33084418	PROF. EXTREM CSc.(#71) - Sir Extrem
+13.	[PROBLEM] ?	10	149670km2	32722634	SHOW YOUR WILL(#1788) - ipinko
+14.	[AiM] Aina Mörne	10	119231km2	31734259	Nebuš mi do kytičky(#918) - Oligarf
+15.	[UM] Ukrajinská Mafie	10	150468km2	31599740	UM - Značka života(#966) - Zanig Martinator
+16.	[G-K] Gutiho Kotangentoida	9	151067km2	29386489	Guti Král(#1110) - Guti the King
+17.	[VÍCADMIN] Víceadministrátoři Webgame	10	106011km2	28487456	brain`s hive(#1307) - br4insh4ker
+18.	[R(O.o)FL] Rolling On the Floor Laughing	10	148342km2	27306351	klikam Sem a Tam(#1775) - R4d1X
+19.	[RNG] Renegat	10	140910km2	27086454	.:RNG:.Mad Animal(#1160) - headskull
+20.	[Ganja] Ganja	10	126107km2	26966773	Alkáč, neboli alkoholik(#88) - ..Hanz..
+21.	[Vendeta] Vendeta	10	166220km2	26950448	Dragon Sheep(#3247) - D.r.a.k.
+22.	[.L.O.S.] Alkoholický Losáci	10	155669km2	26784875	LOS made in Destroyer(#215) - BlackTears
+23.	[TemLeg] Temné legie	9	108804km2	26730911	Naboo Reloaded(#1031) - Dart.Kanne
+24.	[Chlastám] Chlastám, Chlastáš, Chlastáme	9	160874km2	26168643	I JUST HATE PEOPLE.(#3115) - xr3d
+25.	[KL] Killing Legion	10	122793km2	25913528	Legionář Cryptonia(#956) - Master87
+26.	[.:MoD:.] Miluji orální Diskuze	9	143427km2	25665117	Svět padnul....(#426) - Smrtihlav2
+27.	[UFO] neznámy kruhový objekt v...	9	118143km2	25356152	.::Ružinov::.(#208) - BuDzOgAn AlieN
+28.	[škola] anebo nováčci útočí	10	113029km2	24847306	PaedDr. Archi CSc.(#2206) - ArchimondS
+29.	[=OG=] Organo Gold	8	141693km2	24710833	=OG=Organo Gold Diamond(#3326) - srs14
+30.	[-FaLL3N-] FaNat1CaL NuB5	6	78402km2	24655984	-FaLL3N- drgn(#571) - DragonForce
+31.	[*SnsrN*] s nami si radsej nezacinaj	10	126011km2	24094828	Tento vek to zase nedam(#300) - TranceSexual
+32.	[T3R0R1ST] zbraně nemáme.. ikdyž	8	136919km2	23922347	Dawe(#767) - Cenzor3d
+33.	[.::R::.] Rytíři	9	105994km2	23857836	B*E*S*A*R*A*B*I*A(#2455) - Abdul
+34.	[=L.O.T=] Lord of tactic	10	133720km2	23345825	Lord Of Tactic(#233) - tvojasmrt
+35.	[HyeNy] Don`t drink, Don`t take drugs	10	133512km2	23249501	HyeNa Par eXcelleNce(#708) - AliasKAKAO
+36.	[M.B.] Metal Brothers	10	100296km2	23244402	Hellgates(#2807) - Schneemo
+37.	[FT3] DUROTAR	10	116181km2	23223957	STARKY(#69) - darkemperato
+38.	[.hunteRs] Team .hunteRs	9	133420km2	23210586	.hunteRs.Ghost(#423) - turalu
+39.	[.:WiFi:.] Kabely z nás vypadly	10	132016km2	22674672	.:WiiiiiiFiiiiii:.(#562) - Simonof
+40.	[AveCesar] AveCesar a kde je šéf?	10	109822km2	22464298	.:AveCesar:.Human2.0(#1370) - ŠavlozubáVeverka

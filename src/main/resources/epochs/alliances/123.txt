@@ -1,0 +1,42 @@
+123. VĚK
+#	Aliance	Členů	Rozloha	Prestiž	Předseda
+1.	[VENDETA] Bloody VENDETA	10	176625km2	54565462	Bloody Land Farma(#536) - D.r.a.k.
+2.	[.L.O.S.] Losáci ze severu	10	142699km2	49170510	LOS made in Zhongguo(#49) - Topisek
+3.	[.LL.] Lock and load	10	135524km2	48630204	Valar Morghulis(#507) - Uaah
+4.	[HISTORY] Big Men of History	10	130607km2	43595295	Napoleon Bonaparte(#59) - Mr. Sedlinno
+5.	[*SST*] Sněhurka a sedm trpaslíků	10	160861km2	43290789	Sněhurka(#63) - ListerD1
+6.	[PKZ] Prdeli Ke Zdi	10	139026km2	38313477	.::PKZ Pornstar::.(#1169) - Kwasak
+7.	[=T=] Trója	10	133138km2	35229940	Winter is coming..(#377) - FR3EZY
+8.	[RoboUtop] RoboUtop	10	146775km2	34764610	RU bikova kostka(#1073) - Lídiště
+9.	[FCoLG] Frigid Club of little girls	10	164121km2	34689906	proste nevim(#944) - Ex.Dirty.löwe.
+10.	[SPRITE] teď já budu žízeň a ty sprite	10	134657km2	33538746	Kdy už vyjedou, blaničtí?(#1286) - demonstrate.
+11.	[Bull] Black Division	10	145357km2	33521558	Rx RobokratoR(#149) - High Warlord Rxz
+12.	[L.O.S.] Banda losích hecařů	10	128744km2	33252118	LOS made in Losos(#722) - .Devilmen.
+13.	[D3V1L5] Masters of Underworld	10	148633km2	31569246	Čajna(#432) - Falkus.
+14.	[LW] Legendary Warriors	10	139991km2	30586919	Legendary Night Club(#717) - Archimonde73
+15.	[Kofola] Kofola	10	109349km2	30146956	Easy target, feelin this?(#719) - kema
+16.	[LordsWG] Amerika je satan :-D	10	125079km2	29917968	Zohan.:.Disco(#380) - Bukay
+17.	[MENSA] ...starej vercajk	10	134091km2	29774870	CATCH M3 IF YOU CAN(#93) - Sir Extrem
+18.	[**SNK**] SuNaKašu	10	119470km2	27123262	PotenceFerdyMravence(#283) - SnookerLand
+19.	[YOZZEFY] Yozzefy = expy	10	129928km2	26674532	Rathova nevina(#128) - Allegro
+20.	[Anarchy] Farmíme pro horší budoucnost	10	134928km2	26580503	Touha je zázrak, kámo...(#92) - thordevil
+21.	[-=SCS=-] Semtex Culture Squad	10	118331km2	26537040	Letní tábor Kalich(#595) - Black Napalm
+22.	[:O] Bonnie Rotten	10	118545km2	26044338	.:BB:. 19MINO94(#491) - 19MINO94
+23.	[B33r] Pivo dělá krásná těla	10	122178km2	25776399	.-B1905-.(#967) - miSSSSh
+24.	[U.u.K.] Uhrice u Kukurice	8	106844km2	25409112	Anarchy in U.u.K.(#159) - GanjaCore
+25.	[UTOP-X] UTOP-X Solar Utop Emperor	10	126080km2	24976810	PLANET-X Orbit of Nemesis(#1192) - ZUMOTRIX
+26.	[MARVEL] Strážci galaxie	10	110159km2	23800877	Groot(#785) - pan.karotka
+27.	[eXa] 1000000000000000000	10	123664km2	23388588	Invalidus(#677) - Hadesland
+28.	[MOVITS] MOVITS venku je hezky ne?	10	110207km2	23325193	BLOODY rumors(#205) - Hollandan
+29.	[SUX] parádní aliance :)	10	103258km2	23046836	SUXessfull(#583) - LuisFigo
+30.	[VTIP] Mistři Smíchu	8	104371km2	21975597	Jsem Pikaču(#427) - Gyriko
+31.	[COOL] Corporation of obscene lambs	8	93320km2	21933082	Smrtící expres ráže .45(#970) - Godzil I.
+32.	[THZ] Tahle Hra Zaniká	9	104589km2	21504498	meno je moc mainstreamové(#899) - Zlýsin
+33.	[PUFF] Kouzelníci	9	135186km2	20716115	FeeLTheBeaT(#1075) - Zorg
+34.	[Ps.] Poslední Kabriolet	10	153814km2	20116733	Rick and Morty(#70) - ListerD1
+35.	[PfP] Play for Pleasure	8	104103km2	20074431	PfP =/(#132) - GAST
+36.	[ltf] len taky fukot	8	76706km2	19978300	EarlyBirds(#200) - Poisoindlovo
+37.	[PhaMa] Phantasma Mayhem	10	116561km2	19855654	.-.-.(#646) - bukvicka13
+38.	[**CQR**] Conquerors	10	138325km2	19810693	Dark Conqueror(#129) - vanna
+39.	[Planet-X] Solaris System Experiment	9	104464km2	19460813	Zep Tepi(#91) - Marek Da Emperor
+40.	[-=PINP=-] PANDAS IN PYJAMAS	10	116162km2	18474228	Schönau(#32) - Herr II

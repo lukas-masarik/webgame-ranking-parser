@@ -1,0 +1,42 @@
+22. VĚK
+#	Aliance	Členů	Rozloha	Prestiž	Předseda
+1.	[SB] SpikeBallers	10	193127km2	42000571	OCHO(#220) - survival.
+2.	[SR] Spermat v Rozkroku	10	203777km2	40876983	bežný účet(#1220) - šeková poukážka
+3.	[BH] Black Hand	10	171613km2	39021458	Empirium(#4141) - Lord McLure
+4.	[H2] Heroes II	10	198212km2	34393579	Nordic Thunder(#628) - Rien Satori
+5.	[S.D.E] Solar and Dark Empire	10	144375km2	32015520	Freefall(#3491) - Kleky
+6.	[KS] Koriolis Storm	10	178133km2	29218462	Rascak(#735) - Plakala
+7.	[ICQ] ICQ	9	153013km2	27454816	119310584(#326) - Black Warrior
+8.	[FF] Final Fantasy	10	152415km2	27448942	Mysidia(#155) - Kurtz
+9.	[EFTL] Eclipse faster then light	10	142429km2	27404544	Exland(#92) - Abduktor
+10.	[=DS=] Dog soldiers	10	178365km2	26609638	NoFar(#1096) - Melandr
+11.	[GCC] Gundrum City Corporation	9	167695km2	23307839	Reptilie(#237) - JNK
+12.	[U.I,] Umělá Inteligence	5	108580km2	23134483	poslední naděje(#9440) - Bookmaker
+13.	[DeusEx] Deus ex ...	10	151999km2	22936702	Sativa(#162) - Serpin Veliký
+14.	[INVADERS] INVADERS	9	130563km2	22667741	Tar Ancalimon(#2877) - system71
+15.	[TH] Ti Hodni	9	166851km2	21297233	Hidding place(#6784) - Retired
+16.	[D.Z.H.C.] DrogoveZavislyHledajiCil	9	99353km2	20661949	Kadaland(#4780) - Kadalora
+17.	[DW] Dark Warriors	10	136658km2	20023720	Vospaxland(#272) - vospaxík
+18.	[SR2] Sociální reforma 2	10	131046km2	19595191	kolousek125(#4597) - Tan X.
+19.	[N3P] New 3P	8	118243km2	19013179	Dol Nihil(#8355) - Razor
+20.	[X-F] eXtreme-Fighters-Farmers	10	115732km2	18756715	BattleField(#2750) - ShamanX
+21.	[TNT] Transvestitova Navoněná Tanga	10	120594km2	18258665	Uni Lab(#283) - Soldier002
+22.	[KOZINA] KOZINA	7	135118km2	18129370	Kozí Řádek(#2087) - Paja7
+23.	[P] Pevnost	10	126822km2	17104178	Vrchlabí(#13) - Nester
+24.	[TC] Terror Crew	7	95322km2	16845501	Northern Fur Seal(#126) - Premalisk
+25.	[Fr33d0m] 4n4rchy 43v3r	3	46589km2	16831954	Son Petit Guerrier(#5630) - CEst La Vie
+26.	[SKN] SkyNet	10	100791km2	16789171	SG Land(#2934) - Frizi
+27.	[MDPA] MordParta	10	156677km2	16582173	Vepřová jatka(#19) - Syrynx
+28.	[H.M.S.] Ark Royal	9	108888km2	16478029	Lancaster(#676) - Chester
+29.	[B.K.] BLITZ KRIEG	10	127903km2	16024134	VajkoLand(#4797) - ...VAJKO...
+30.	[M.O.T.S.] Masters Of The Shadows	9	99022km2	15634863	ichounov(#983) - ich1
+31.	[coRp] coRp crew	9	125315km2	14936717	Makakovo(#2114) - powerhead
+32.	[NP] Nepriatelia populácie	8	95784km2	14797923	Angola(#4352) - Danny III
+33.	[H.C.D.Z.] HromadnáCestaDrogověZávislích	8	116370km2	14657405	JEDILAND(#168) - KANTYNA
+34.	[G.F.F.B.] Good folks from Bojnice	10	115591km2	14638120	my paradise(#3976) - biroigor
+35.	[HV] Hastala Vista	10	117361km2	14386191	Atlantida(#163) - Abraham
+36.	[SP] Společenstvo Prstenů	8	92818km2	14049715	To neznáte Hadimršku(#4188) - Trsin
+37.	[AMAZONKY] Amazonky	8	105295km2	13568271	Lavondyss(#443) - Elmira
+38.	[CfM] Cannabis for Men	8	84051km2	13362760	JabloCity(#4726) - s.Merlin
+39.	[AYES] Antialiancni	7	89098km2	12779800	Eldorádo(#8044) - alu
+40.	[F.H.] Fallen Heroes	8	104999km2	12743017	Rebelion(#83) - Reb

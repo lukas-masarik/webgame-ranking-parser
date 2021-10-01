@@ -1,0 +1,42 @@
+32. VĚK
+#	Aliance	Členů	Rozloha	Prestiž	Předseda
+1.	[CE] BrmbolCEEEEEEEEEEEEEEEEEEEEEEE	12	260503km2	91937921	baf chrap mnau rrr rrr...(#662) - esya
+2.	[WG-elite] WG-elite	12	237829km2	70196973	Slížu z tebe všechen pot(#36) - Nespravedlny
+3.	[D3m0n1C] Sl4y th3 L4m4	8	174858km2	69604159	My T3rR1t0rRy(#2678) - H3LL M4KER
+4.	[P.f.B] Predators from Bombaj	12	235892km2	67261786	Vibroland(#100) - Vibromax
+5.	[n-jedna] n-jedna	12	231328km2	65788803	I see dead people(#83) - nonPhixion
+6.	[.-JT-.] Johny Tabatě:R:ka	10	174809km2	64613043	Hannibal`s underworld(#631) - Dr.Leckter
+7.	[BORG] BORG	11	201523km2	63102580	Borg Queen(#3546) - IhateMICRO
+8.	[S.M.R.T.] Sado Maso Rocket Terror	12	172694km2	53310691	S.M.R.Ť.ák - odblaňovač(#347) - Imperator Sorath
+9.	[KD] Konto deb1lov	12	164521km2	50240906	deb1l.K4UF1(#226) - z4s3 MULT4K
+10.	[cz-sk] ceskoslovensko	11	171716km2	49254339	bOmBiNg 4ever :D(#10563) - anjelik
+11.	[G] GLADIATORS	12	201403km2	48748619	Trosky(#20) - Erwin Rommel
+12.	[.::R::.] RYTÍŘI	12	176523km2	48430587	XCOM(#14811) - steamroller
+13.	[OPPV] Oplodněná prasečí vajíčka	11	172136km2	48312101	Ideopolice(#9271) - Xaralis
+14.	[IBHZK] Ich bin hier zu Kur	10	181305km2	45363663	UNSTABLE KERNEL TERROR(#11236) - R0CK3D
+15.	[S.D.E] Solar and Daft Empire	11	153285km2	43337815	Aerodynamic(#926) - Scalpelexis
+16.	[NERO] Nebezpečné Rovnošaty	12	183292km2	42818730	Neradovo(#965) - nerado
+17.	[-R-] Replikators	11	172460km2	42526048	Trotllos the Replikator(#6192) - Los Trotllos
+18.	[.:BoD:.] Brotherhood of Dreadnoughts	12	203157km2	42483988	No. 2(#3061) - Banehalow
+19.	[nex] nublex	12	178692km2	42467897	N STEAM(#2835) - pushTheTempo
+20.	[ZERO] ZačínajícíErotickáOrganizace	12	206255km2	42370622	Včera sem to zase přehnal(#6330) - Caballero
+21.	[HUPZ] HlavoU Proti Zdi	12	199191km2	40236546	WhirenDarg(#462) - Gordias
+22.	[Rafani] Rafani	12	197456km2	39354430	Rafan mierumilovný(#9013) - stamage
+23.	[-=RD=-] Red Dwarf	11	173611km2	38560387	Fušál(#1462) - Nakor
+24.	[MATKARUS] MATKARUS	12	146855km2	38401103	MATKARUS(#73) - JosefViserjonov
+25.	[anx] antrax rulez	12	190224km2	38109784	AntraX Keltska Risa(#1136) - Martinerko
+26.	[ganja] GANJA	12	184517km2	37772258	goremova země(#5215) - gorem
+27.	[G7] Great 7	12	140783km2	36670470	7th Druhá Tráva(#6257) - VV
+28.	[ManG6] penzion u slepitchek	11	153736km2	36550663	kuáfná pipka slečinka(#5279) - extr3m
+29.	[-osn-] ofuk stareho niktoša	12	179748km2	36406961	Okres Banska Bystrica(#3163) - sWEde
+30.	[WARLORDS] WARLORDS of WEBGAME	12	143728km2	35955922	WARLORDS Danoorland(#888) - Laichi
+31.	[MoM] Morbid obituary Message	12	184129km2	35688944	Traal(#64) - mixhail
+32.	[LLS] Long Left Side	12	211744km2	34840893	TruePac(#6458) - Tpac..
+33.	[PaM] bloody A je to	12	177527km2	34391274	bloody LaMa(#288) - cast0r
+34.	[STN] Stejně to nedáme	12	139933km2	33812760	Steně to nedám 00(#9920) - Kreplik
+35.	[W.G.M] W.G.Maniac	11	169614km2	33730212	W.G.ManUtd(#3736) - Dzindzik
+36.	[Nazgul] Nazgulove	12	178893km2	33139665	Sauron(#357) - Plakala
+37.	[Z.S.G.] Země Svatého Grálu	12	174943km2	33063237	King Arthur(#2359) - MatrixNeo
+38.	[DIGI] DigitalWorld	11	186223km2	32460641	DIGI rodná hrouda(#7551) - jenik78
+39.	[UM] Ukrajinská Mafie	12	203872km2	32376596	Bohunice(#508) - Uthden
+40.	[PRIDE] Pride rullez ....	12	123241km2	31985403	Tuer avec amour(#4547) - Kefalin

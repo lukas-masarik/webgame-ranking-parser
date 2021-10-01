@@ -1,0 +1,42 @@
+89. VĚK
+#	Aliance	Členů	Rozloha	Prestiž	Předseda
+1.	[.DaZ.] Divocí a Zlí	10	214714km2	46843003	Magie Spravedlivé Mafie(#1336) - Sinthoras I.
+2.	[SOPHIE`S] I`m done with small doses	10	174919km2	42962861	7(#93) - U.U
+3.	[M] MOON	10	197096km2	41891928	Atlan(#556) - Atlantik
+4.	[-=THC=-] The Heroic Company	10	167799km2	40702965	The Heroic Čulapchorn(#1245) - Čulapchorn
+5.	[.LL.] Lock and load	10	179170km2	39678686	Jimmy Kimmel(#1272) - Uaah
+6.	[ETD] Ete DestilerE	10	166189km2	38953419	Prosíš si RAKETKU ? :)(#39) - Pattis IV.
+7.	[AHA] Aliancia Láskavého Triumvirátu	10	189847km2	38789361	B*E*S*A*R*A*B*I*A(#270) - Abdul
+8.	[-=F*A=-] Fallen Angels	8	144224km2	36677993	-FA- Franta Alkoholik(#173) - hagg1d
+9.	[ČSB] ČehoSeBojím - Mihawk edition	10	161638km2	36672974	bojím se mihawkova viru(#2478) - labojse
+10.	[*SnsrN*] S nami si...	10	160078km2	36323550	So mnou si neposkriabes(#1767) - fagancek2
+11.	[Wrath] The One and The Only	10	190824km2	36217426	The One and The Only(#669) - Gxx
+12.	[-=DF=-] -=Destilat Fanatics=-	8	139237km2	34060264	-=DF=- Absolut Vodka(#1136) - Michal44
+13.	[ČSLA] Československá lidová armáda	10	145057km2	33570232	.:CZ-SK:.Joudinkov(#1516) - joudinek
+14.	[DF] Dark Family	10	176147km2	33379124	Slecinka DF(#821) - Hanz Guderian
+15.	[GoD] Game of Drones	10	172619km2	33139415	Tyrion Lannister(#526) - Drunk3n
+16.	[Ganja] Ganja	10	153856km2	33079711	Alkáč, neboli alkoholik(#2308) - ..Hanz..
+17.	[.hunteRs] Team .hunteRs	10	97359km2	33027088	.hunteRs.Ghost(#583) - turalu
+18.	[Klobasky] Velke cierne KlObASKY	10	187667km2	32666176	????????(#3121) - Ryzka
+19.	[ICE] Ice Ice Baby	10	110563km2	32625406	Ledňáček(#33) - DJ.Snowman
+20.	[CSR] Cola s rumem	10	127085km2	32285931	Lovoland(#1155) - Michalec8
+21.	[ToAn] Teď opičákům Anusy natrhneme	10	165276km2	31598939	Samen voll von Kalorien(#717) - devilLH
+22.	[AveCesar] AveCesar a čas je relativní.	10	110232km2	31302842	.:AveCesar:.Čas(#1566) - Ares65
+23.	[ManG2] ManiiaX Gang 2	10	147199km2	30183864	Herbalisticka Slecinka(#271) - keshoo
+24.	[=L.O.T=] Lord Of Tactic	10	157632km2	29632068	Lord of what?(#351) - tvojasmrt
+25.	[B.K.] BLITZ KRIEG	10	132870km2	29351851	Heinz Guderain(#1012) - johnny33
+26.	[ItNofS] Ve jménu starých časů ...	10	150323km2	29330552	HyChyKyRyDyTyNy(#404) - PanMaur
+27.	[PS.] Poslední Kabriolet	10	130417km2	28627216	Almost Human(#391) - ListerD1
+28.	[Lotta] Lotta per la sopravvivenza	10	154855km2	28497290	La nostra e la furia(#1154) - stejski IX.
+29.	[ČD] České dráhy, jsme tady pro Vás	9	113540km2	27237310	=_R 778 Špičák_=(#1605) - cvachta
+30.	[SouthP.] South Park	10	136578km2	26965974	Dr. Alfonso Mephisto(#123) - MC Booo
+31.	[ROG] Ring of Gold	10	147225km2	26542874	De Profundis(#441) - Behemond
+32.	[x.x.x.] FA Cup pro Arsenal	10	135708km2	26433298	Gooners(#1178) - KingSixx
+33.	[ČSN] ČehoSeNebojím	10	135414km2	26263376	Nebojím se Mihawka(#300) - ...Geouring...
+34.	[.::IR::.] Incorigible rebels	10	127041km2	26051377	Shameless(#235) - Mr.Moe
+35.	[MENSA] Mimořádně nadaní...(fotříci)	10	155070km2	25168362	PROF. EXTREM CSc.(#135) - Sir Extrem
+36.	[-osn2-] Organizácia spojených Narcisov	10	110855km2	24759562	Vozík Vozíček(#166) - Vozicek
+37.	[HPN] Princip neučitosti	10	146723km2	24449909	I believe I cannot fly(#1185) - Drunk3n
+38.	[bombing2] Gripeny opět v akci	10	157644km2	24262168	Bombing Moredor(#1514) - kaiman
+39.	[ZT] ZeroTolerance	10	139911km2	23400206	ZT ShutUpAndTakeMyMoney(#77) - bosinek
+40.	[MDPA] MorDPartA	10	105904km2	23050301	Quatzalcoatl(#400) - a18m1g5d15n

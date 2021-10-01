@@ -1,0 +1,42 @@
+96. VĚK
+#	Aliance	Členů	Rozloha	Prestiž	Předseda
+1.	[GanG] G Gang	10	157719km2	36540000	Janjira(#773) - .Godzilla.
+2.	[-=F*A=-] Fallen Angels	10	154583km2	32526235	-FA- Franta Alkoholik(#508) - hagg1d
+3.	[ToAn] Točící anály	10	135247km2	31293079	Spontane Blowjob(#791) - devilLH
+4.	[Anarchy]	10	104040km2	30753479	Touha je zázrak, kámo...(#78) - thordevil
+5.	[*WiNDe*] Black souls	10	147732km2	29856382	.:W:. Windtrap(#623) - Scalpelexis
+6.	[PhaMa] Phantasma Mayhem	10	125622km2	29564956	Kurai(#2399) - bukvicka13
+7.	[COOL] Corporation of obscene lambs	10	131239km2	28589591	Smrtící expres ráže .45(#584) - Godzil I.
+8.	[-BLOOD-] Blood And Bone	10	105074km2	28045379	1000100101111111001100011(#2140) - Mrkvička777
+9.	[MENSA] Mimořádně nadaní...	10	139499km2	27596500	PROF. EXTREM CSc.(#309) - Sir Extrem
+10.	[ČD] České dráhy, jsme tady pro Vás	10	125056km2	27490771	=_Sp 3800 Donau Moldau_=(#2672) - cvachta
+11.	[ČSLA] Československá lidová armáda	10	108082km2	26487751	.:CZ-SK:.Joudinkov(#696) - joudinek
+12.	[YD-RNG] Renegat	10	121341km2	26376585	.:RNG:.Mad Animal(#2185) - headskull
+13.	[ALI1234] ALI1234	10	125228km2	25875430	usti(#1770) - vachys39
+14.	[*SnsrN*] S nami si radsej nezacinaj...	10	152786km2	25366569	So mnou si neposkriabes(#1912) - fagancek2
+15.	[A.N.D.] Angels Never Die	10	134550km2	24982875	ARCHANGEL - Ujo Šialenec(#3243) - Gen. Lame
+16.	[HO] Hellsing Organisation	10	125389km2	24925495	Hellsing Foothills(#244) - Alandriel
+17.	[-=DF=-] -=Destilat Fanatics=-	10	140528km2	24905616	-=DF=- Absolut Vodka(#142) - Michal44
+18.	[FC] Famiglia Corleone	10	95421km2	24252553	Don Vito Corleone(#175) - Reens
+19.	[HISTORY] Big Men of History	10	98024km2	24231452	Napoleon Bonaparte(#110) - Mr. Sedlinno
+20.	[DF] Dark Family	10	155910km2	23660899	DF_Energy(#1124) - FH
+21.	[Kevlar] Pro nic za nic.	10	159557km2	23417187	Nepall(#1367) - junker002
+22.	[JOKE] joke	10	121691km2	23129599	ranymok(#521) - kiss for you
+23.	[HAWKS] Tony HAWKS Pro Skater 2	9	112745km2	23112822	Rattus norvegicus(#91) - nnyjoh
+24.	[-=LH=-] Lehke Holky	10	126052km2	22700053	VY-=LH=-UL(#2427) - Walker
+25.	[M] MOON	10	125772km2	21972165	Atlan(#767) - Atlantik
+26.	[SPRITE] my jsme Sprite a vy žízeň	10	94304km2	21686274	Pocemkamdeš(#176) - demonstrate
+27.	[C*P] Cold Power	9	114171km2	21273283	Quintara(#774) - Ivanes
+28.	[VALHERU] VALHERU	10	117877km2	21166403	Khazad-dum(#1203) - gugoslav
+29.	[-.-] -.-	10	131275km2	21107906	Sergej Serenatenko(#1978) - Desmont
+30.	[.:LH:.] Lane Hackers	7	100786km2	21103667	CheapestWayToBeCool:Okena(#1960) - Jirka.Dobrotivý
+31.	[.:YD:.4] .:Your Death:.	10	124672km2	21073849	.:YD:. I help you die(#37) - Behemond
+32.	[Chilli] Spicy Skill	9	115594km2	21020408	Uncontrolable(#118) - Supra1Soul5Play
+33.	[Skins] Skins	10	147285km2	20974132	Dezova mamina(#1088) - Caesar159
+34.	[Tabáček] Pohoda, klídek a Tabáček	10	129556km2	20922004	Lake of fire(#79) - KURT
+35.	[.:V3R:.] škola sexu	10	129516km2	20899782	Sexuální parestezie(#2381) - Lucky6186
+36.	[Ponorky] Spat ku dnu	10	143080km2	20642498	U77(#992) - Cipso
+37.	[MDPA] MorDPartA	10	109369km2	20601459	satory(#374) - hejkalak
+38.	[YOZZEFY] pub-country-beat	10	98529km2	20272589	Křýžkový Újezdec(#458) - Allegro
+39.	[PRDOX] PRdelí DO Xichtu	10	124475km2	20139394	Nebreč mi do pošty(#126) - haLOOSER
+40.	[*CLAD*] Cute Little Adorable Dragons	10	106810km2	20089168	Dragons Kingdom(#1557) - Daneor

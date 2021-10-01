@@ -1,0 +1,42 @@
+58. VĚK
+#	Aliance	Členů	Rozloha	Prestiž	Předseda
+1.	[MRUK] Drunkenova farmící univerzita	10	258656km2	73448753	Profesor mručích mravů(#424) - Drunk3n
+2.	[D1KTATOR] D1KTATOR NEVER D1E	9	191128km2	58679242	Vojtiiik(#25) - Vojtiiik
+3.	[RQ] RadeQaST	10	175158km2	58642998	RadeQQQQQaSTTTTT(#1097) - H00L1G4N
+4.	[.::B::.] Bohatýři	10	189689km2	46294304	Pravé číslo hráče: 82302(#217) - Gangster . .
+5.	[DF] Dark Family	10	188306km2	45163447	TDM GJK(#1454) - Hanz Guderian
+6.	[cz-sk] ceskoslovensko	10	167364km2	41799199	.:cz-sk:.Zeus(#4107) - Vladce Seanix
+7.	[BOUNTY] A nejhorší jsou trpaslíci	10	171368km2	41774296	Osadníci z Katanu(#3412) - Sjezdovka
+8.	[Veverky] Veverky a jejich panství	9	136097km2	39655603	Veverka Já První(#1407) - Mr Shaman
+9.	[-osn-] Ofuk Starého Niktoša	10	185764km2	36869461	DeStRoYiNg AnGeL(#2972) - Anděl
+10.	[ČSLA] Česko-Slovenská lidová armáda	10	142955km2	34603371	.:CZ-SK:.Dum spiro,spero(#2578) - KalinV
+11.	[VT] Vitazstvo si Treba zasluzit	10	167757km2	32484450	Neplacte mi prosim(#39) - imhot3p
+12.	[EVERS] Ervaren spelers	9	121382km2	32338176	Nooob sem :)(#4421) - Miluju wg a cs
+13.	[-=DF=-] -=Deadly Force=-	10	124242km2	31637231	-=DF=- Gold Tequila(#1788) - Michal44
+14.	[EMP] Emil Miluje Péčko	6	121758km2	31552551	Jenaveve Jolie(#172) - Q4z3R
+15.	[GOGO] My jsme všichni Gogo	10	172383km2	31330744	Grande Motte(#1295) - Sjezdovka
+16.	[Across] Idealistic Organization	10	148164km2	30486054	v knížce Vaříme s konopím(#1067) - marv III
+17.	[.::VR::.] velka revoluce	10	158999km2	30371416	Es schneit(#2287) - Smerfy
+18.	[AUTORITA] Celé jméno aliance (povinné)	10	155284km2	29744733	Dobré ráno, dámy a pánové(#1326) - Lukastrance
+19.	[WG-PROF] WG-PROFESSIONAL	8	116147km2	29175977	Imperator(#3145) - jowood2
+20.	[Etc.] Bhut Jolokia peppers	10	122781km2	28919955	Profesor Selekop(#1233) - ..yossarian..
+21.	[.::R::.] rytíři	9	132435km2	28475458	zahrada růží(#3289) - steamroller
+22.	[-CZ-] Crvena Zvezda	10	140722km2	28436527	Rudá hvězda nad hlavou(#662) - erromasterr
+23.	[d15] Script Kiddies	10	136488km2	28317405	rm / -rf(#3165) - czYbph0
+24.	[HEAL] Hells Angels forever	10	139961km2	27959264	Viking`s land(#4060) - sir Flat
+25.	[CHRO] Ultimate Chrownage Team	10	121144km2	26745408	Minulost máme za sebou(#2655) - Duke Nukem
+26.	[=STB=] Spolek totalitních buldozerů	10	136817km2	26246513	Co člověk, to kalašnikov(#515) - Small Wizard
+27.	[AotNW] Alliance of the New World	10	138498km2	25819318	The Bro Code(#3490) - Marzaus
+28.	[PhdP] Po hlavě do prd*le	10	116142km2	25733424	Nuclear androids battery(#710) - HoumelesVIP
+29.	[.:MCM:.] Mechcommanders	10	107926km2	25613885	Aigura(#3340) - Gwindblaidd
+30.	[.:LovE:.] I LovE You :-*	10	119802km2	25312755	Never Back Down(#1278) - Humencan
+31.	[tsunami] tsunami	10	123303km2	24990711	mam zapnuty skype(#155) - krysiak
+32.	[SKB] Sesterstvo králičího bobku	9	117452km2	24088724	Tetu sis nemel rozzlobit(#332) - stackp
+33.	[.LL.] Lock and load	10	132476km2	24080745	.LL. The Godfather(#1841) - Uaah
+34.	[*zoo*] Zeal offensive organization	10	111521km2	23966802	*zoofil*XXXGrey(#292) - XXXGrey
+35.	[Anarchy] Tady nikdo nefarmí, asi vedle	9	121221km2	23886631	Utápím se v sebelítosti(#4156) - thordevil
+36.	[Lotta] Lotta per la sopravvivenza	10	150631km2	23821879	mi si accappona la pelle(#420) - Prefik
+37.	[:ZotR:] Zombies of the Revolution	10	149999km2	22821010	One of the Stiflers(#167) - M1S73R
+38.	[.:?:.] ???C3NSOR3D???	7	76811km2	22306219	***?CENS??ORED?***(#559) - mTj s.
+39.	[Ganja] ganja	10	134232km2	22235940	.Avatar.(#4555) - Joker16.
+40.	[PlanEx] Planet Express	10	110175km2	22021816	Philip J. Fry(#1362) - Moe

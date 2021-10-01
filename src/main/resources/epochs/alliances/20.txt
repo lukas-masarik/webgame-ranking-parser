@@ -1,0 +1,42 @@
+20. VĚK
+#	Aliance	Členů	Rozloha	Prestiž	Předseda
+1.	[SP] Společenstvo Prstenů	10	211415km2	52612846	Mrs.Forel(#2796) - koopjes
+2.	[TC] Terror Crew	10	214678km2	48631723	Lachtaní Zord(#267) - Premalisk
+3.	[SR] Sterilizovane Romky	10	161718km2	44767937	Smetisko(#327) - Puklica
+4.	[Břez] Březolupyclan	10	124524km2	40040091	Crusherland(#101) - CrusherBr
+5.	[cz-sk] Československo	10	116604km2	39908181	AnJeLsKa ZeMiCkA(#570) - anjelik
+6.	[Beast] Beast	10	162567km2	36868221	Mikeeland(#996) - Mikee
+7.	[Břez2] Březolupyclan	10	152395km2	35754711	Buboland(#50) - BUBO3
+8.	[TNT] Tankisti Na Tripu	10	151205km2	35284856	Uni Lab(#29) - Soldier002
+9.	[SZVM] Spojené země války a míru	10	168011km2	34444474	Moraviana(#1839) - nehra
+10.	[D:Mages] Dark Mages	10	175780km2	33562344	Mirzzaland(#839) - Mirzza
+11.	[BUM] Bum, bum, bum	10	190933km2	33040601	Evilland(#1282) - Krlesh The Big
+12.	[K9] KL4C3LKY	8	135359km2	32817214	chamajdaland(#480) - Zeratul
+13.	[FED] Federace	8	48067km2	30065548	Ufounek(#153) - .Ufounek.
+14.	[KS] Koriolis Storm	10	159520km2	28742205	Serpinie(#1560) - Serpin Veliký
+15.	[LaF] Lamy a Farmari	10	134330km2	28660278	Homeland(#2690) - Asičlověk
+16.	[S] Shadow	9	168057km2	28543969	Arrakis(#233) - MichalekII
+17.	[HU] Horizont Událostí	10	185941km2	28122401	Willderlang(#115) - Kazan
+18.	[H.C.D.Z.] HromadnaCestaDrogoveZavislych	10	183847km2	27073343	JEDILAND(#118) - KANTYNA
+19.	[UED] United Earth Directory	8	108750km2	25944028	United Earth Directory(#3202) - Lord Anox
+20.	[==P==] Příšerky	9	130956km2	25516523	Call Me DEATH(#2208) - Rammstein
+21.	[H.M.S.] Ark Royal	10	133052km2	24900317	Lancaster(#140) - Chester
+22.	[SoL] Sequence of Light	9	142365km2	24077779	CobraD Teritorry(#1355) - CobraD
+23.	[AYES] AYES	9	122853km2	23969746	smile land(#10) - Throtle
+24.	[R] Renegát	9	120500km2	23865933	Rio(#147) - gemmil
+25.	[DW] Dark Warriors	10	125394km2	23746257	Vospaxland(#28) - vospaxík
+26.	[OSW] One Sweet World	9	121802km2	23418282	Dare Mon(#223) - Cernunnos
+27.	[NTX] Neurotoxicate Aliance	10	114889km2	23413174	Yteppia(#2110) - Zer Nathu Ytep
+28.	[S.D.E] Solar and Dark Empire	10	144019km2	22607664	RoX(#2945) - Scalpelexis
+29.	[FF] Final Fantasy	5	85498km2	22095108	Mysidia(#40) - Kurtz
+30.	[3P] Tripartita	10	170828km2	21806474	Dol Nihil(#340) - Razor
+31.	[DIUSA] A? žije náš mohutný Sov.svaz	8	107244km2	21707686	COZE(#272) - Darkwolf
+32.	[E.f.W] Eden for Warriors	4	74261km2	21638006	The VIDLÁKOV(#23) - Franta Vopršálek
+33.	[T] Tým	9	159173km2	21632084	SEDMIKRÁSKOV(#1612) - generál mike
+34.	[B-M-K] Bratrstvo Modrého Kříže	9	129397km2	21223704	Brave New World(#1601) - Iron.Martin
+35.	[GTA] Galactic Terran Aliance	8	99660km2	21151598	United Earth Directorate(#591) - Camping
+36.	[CIA] Celkem Inteligentni aliance	10	141566km2	20654360	Megallancia(#2393) - Wartas
+37.	[FTL] FOLLOW THE LEADER	6	91127km2	20408851	KatastrofA(#3688) - TragediE
+38.	[N.O.D.] Brotherhood of N.O.D.	7	75229km2	20278135	Mladepole(#239) - Mladepole
+39.	[LoD] Legion of Death	9	142439km2	20145012	Long Live the Fighters(#533) - MuaD DiB
+40.	[WW] WarWolves	9	121027km2	20116000	jominkov(#127) - jominek

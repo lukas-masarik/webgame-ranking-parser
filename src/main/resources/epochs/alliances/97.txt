@@ -1,0 +1,42 @@
+97. VĚK
+#	Aliance	Členů	Rozloha	Prestiž	Předseda
+1.	[Wrath] The One and The Only	10	168599km2	53461303	RaZZia(#301) - Gxx
+2.	[**CQR**] Conquerors	10	166636km2	35933027	Dark Conqueror(#1113) - vanna
+3.	[-=DF=-] -=Destilat Fanatics=-	10	120742km2	33992374	-=DF=- Absolut Vodka(#694) - Michal44
+4.	[ToAn] Totální Orálek Andělem	10	149639km2	32900537	Blowjob im Arsch(#538) - devilLH
+5.	[Anarchy] Farmíme pro horší minulost	10	128007km2	31482757	Touha je zázrak, kámo...(#461) - thordevil
+6.	[-osn-] Ofuk stareho niktoša	10	154065km2	31193952	alien city 1(#729) - mnimni
+7.	[Lords] of Destruction	10	149453km2	30507256	Stare the Monster Down(#188) - Krta
+8.	[YOZZEFY] Yozzefy - pub country beat	10	116478km2	29997484	Křížkový Újezdec(#628) - Allegro
+9.	[Tabáček] pohoda, klídek, Tabáček	10	164687km2	29742930	.........,...............(#346) - KURT
+10.	[YD-RNG] Renegat	10	114395km2	29143809	.:RNG:.Mad Animal(#864) - headskull
+11.	[F4F] Fight for Fun	10	148907km2	28345083	nelibi se me tvoje zeme(#65) - abraxas
+12.	[PhaMa] Phantasma Mayhem	10	130223km2	27403086	Phantasma Abyss(#106) - bukvicka13
+13.	[M] MOON	10	136796km2	27046331	Mr. Feynman(#2303) - Tomasius Velky
+14.	[-osn2-] Odtialto sa neuteká :D	10	138158km2	26990694	-osn2- Za kolik to bude ?(#1673) - Maličkej
+15.	[KEFA] dostanes kefu	10	146601km2	25986120	ranymok(#2037) - kiss for you
+16.	[LBL] LBL	10	149679km2	25325205	Modrý pták(#31) - ridgeback
+17.	[SPRITE] my jsme sprajt a vy žízeň	10	109033km2	24216229	Pocemkamdeš(#1274) - demonstrate
+18.	[=L.O.T=] Milujeme Bau	10	130678km2	24104309	Miluju Bau(#192) - tvojasmrt
+19.	[TES] inkvizicia	5	97042km2	24093141	kefovač tvojej manky(#1642) - nepriatelSystemu
+20.	[*SnsrN*] S nami si radsej nezacinaj	10	147927km2	22813926	So mnou si neposkriabes(#1501) - fagancek2
+21.	[YD-ČSB] ČehoSeBojím	10	130936km2	22779934	Bojím se kolařů(#1899) - labojse
+22.	[PLANET-X] Solaris System Error	10	106485km2	22624942	PLANET-X Anunnaki King(#68) - ZUMOTRIX
+23.	[Limit] Sky`s the limit	10	109783km2	22547599	Eye of Wizze(#789) - Elesianus
+24.	[ISIS] sds	6	104723km2	22507762	AIR(#2047) - todesengel69
+25.	[C*P] Cold Power	10	103970km2	22437573	Quintara(#198) - Ivanes
+26.	[DF] Dark Family	9	109525km2	22375683	DF_Energy(#1471) - FH
+27.	[LEGO] stavíme týpí	10	106810km2	21936117	LEGO oOoo(#1072) - ArchimondS
+28.	[HISTORY] Big Men of History	10	105800km2	21935135	Napoleon Bonaparte(#1139) - Mr. Sedlinno
+29.	[KULE7] KULE7	4	88411km2	21330710	Where The Trail Ends(#2554) - .troublemaker.
+30.	[-osn3-] Odtialto sa naexpíme :D	7	95058km2	21302764	Vozo(#47) - Vozicek
+31.	[Chilli] Spicy Skill	10	99783km2	21038762	Uncontrolable(#798) - Supra1Soul5Play
+32.	[A.N.D.] Angels never die	10	108649km2	20917887	ARCHANGEL - Ujo Šialenec(#2802) - Gen. Lame
+33.	[SOPHIE`S] SOPHIE`S PLAYGROUND	10	118917km2	20884340	Lets dance with Lets go(#522) - mara8
+34.	[Skill] Profesionálové v každém směru	10	128940km2	20605813	Up in the Air(#839) - Unubis
+35.	[Bombing] Bombary	10	127320km2	20518526	Bombing Hero(#1689) - the last Hero
+36.	[nBd.] Never Back Down	10	143206km2	20046151	nBd.UmimKopnoutDoAuta(#353) - HromikSir
+37.	[S.S.T.] Spojené síly terorismu	10	106018km2	19924532	Trutnov(#1205) - alksj
+38.	[YD-ČSN] ČehoSeNebojím	10	111258km2	19877390	Nebojím se Hello Kitty(#1898) - Jackass Mild
+39.	[ICQ] I Seek You	10	105337km2	19799973	gUnNa pIMp sLaP fOrEvEr(#595) - TECHWARRIOR
+40.	[/Squad/] We*re making the game	10	114717km2	19715556	`)(` Pocket rockets(#1392) - kinedrill

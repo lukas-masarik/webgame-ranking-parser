@@ -1,0 +1,42 @@
+17. VĚK
+#	Aliance	Členů	Rozloha	Prestiž	Předseda
+1.	[H2] Heroes II	10	208960km2	66758901	Nordic Thunder(#568) - Rien Satori
+2.	[Břez] Březolupyclan	10	223603km2	63717495	CrusherLand(#7) - CrusherBr
+3.	[USOK] Under Shadow of Kangaroo	10	230018km2	61392974	Dark Kangaroo(#117) - Lion
+4.	[UFD] United Forces of Darkness	10	220487km2	61289803	Black Stronghold(#467) - Black Warrior
+5.	[TD] Totální Destrukce	10	162361km2	43408249	Still Destruction Land(#732) - LordDePraga
+6.	[PRISTAV] Přístav	10	139952km2	36674667	Desítka je báječná(#999) - Stradivarius
+7.	[HiS] Hooligans	10	140520km2	35950578	Erwin the Hooligan(#26) - Erwin Stahler
+8.	[H.M.S.] Ark Royal	10	138079km2	35710239	Lancaster(#47) - Chester
+9.	[NOE] New Order Establishment	10	129270km2	35057851	Mambo(#103) - RC
+10.	[RIP] Rest In Peace	10	135564km2	34451415	Thoor The Typhoon(#1548) - Sheuss
+11.	[BH] BlackHand	10	150219km2	33278441	Albion(#863) - Wuru
+12.	[HOR] Heroes of Rofehaven	10	123186km2	30536493	Červíkovo(#1023) - ParaZit
+13.	[HV] HASTALA VISTA drobečci	10	135327km2	28844945	Siringie(#24) - Siringa
+14.	[GCC] Gundrum City Corporation	10	141801km2	25451231	Reptilie(#74) - JNK
+15.	[To.Be...] Be Kind, Be Cool, Be Free	10	132059km2	24575019	Black Celebration(#188) - Cyanide
+16.	[BUM] Bum bum bum	10	138115km2	24031709	Evilland(#1148) - Krlesh The Big
+17.	[SH] Š?astní Hrošíci	10	119612km2	23892956	Hrošíkov(#1800) - SaLám
+18.	[tAoW] the Art of War	10	136873km2	23338770	Inkvizitor(#868) - ZuLu
+19.	[RDA] Red Dwarf Aliance	10	117915km2	21937627	RimmerLand(#144) - arrimmer
+20.	[KOZINA] Týpci jak pes	10	145876km2	21603301	Kozina(#759) - Andrej
+21.	[H3] Heroes III	10	106456km2	21421149	Chocobo Forest(#936) - Rinoa
+22.	[OS] Other Side	10	121045km2	21355520	WORLD OF WHITE WARRIORS(#440) - musoliny
+23.	[UBC] UnBreaCable	9	122671km2	20351888	Lostworld(#1032) - Mr. Hike
+24.	[B-M-K] Bratrstvo modrého kříže	10	119071km2	20308892	Lublan(#1151) - nett2
+25.	[CHU] Chrapajici ufouni	10	104075km2	20169858	Blood Moor(#225) - .Celdric.
+26.	[/Y-X-T/] Yo-xototh	9	133442km2	20106595	Les pays de Lord Biggus(#768) - Už jenom Biggus
+27.	[Z] Zemeplocha	10	108856km2	19754596	Vyvazovaci kontinent(#2249) - kIt
+28.	[WF-LSA] White Flag	10	120125km2	19582008	Holyfire Oak(#969) - Milebr
+29.	[RD] RedDwarf	10	127759km2	19561916	Tsuranuani(#797) - Tiagar
+30.	[MCLR] Mala Companie Lotru a Rvacu	10	115699km2	19416775	Wasabia(#922) - king Roboque
+31.	[Shadow] Shadow	10	111588km2	19025436	freedom(#710) - sibor
+32.	[D:Mages] Dark Mages	8	92312km2	18697228	Mirzzaland(#955) - Mirzza
+33.	[IND] Indiáni	10	133362km2	18608413	Cherokee(#113) - Rotvik
+34.	[PIG] perverse independent gamers	8	102641km2	18324749	šukiland(#199) - BIG BOSS
+35.	[Ne5] Ne5m1r1t3ln1	7	102814km2	18311989	Drahoshuland(#1458) - Drahosh
+36.	[TNT] Tankisti Na Tripu	10	119884km2	17892914	Uni Lab(#93) - Soldier002
+37.	[NSA] Nejvice Slusna Aliance	9	142921km2	17584299	llland(#9) - mtcko
+38.	[P] Pevnost	10	134960km2	17481547	Amber(#1087) - Oberon
+39.	[ANF] The Angels Of Nightfall	10	120436km2	16726851	Imperium of Death(#964) - Demon Killer
+40.	[AF] Aliance jak Fík	8	100594km2	16726494	Sobolí lejno(#780) - kadice

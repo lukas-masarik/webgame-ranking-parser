@@ -1,0 +1,42 @@
+118. VĚK
+#	Aliance	Členů	Rozloha	Prestiž	Předseda
+1.	[Vendeta] Krvavá pomsta one last time	10	159666km2	42310462	Krvavy vytok tvojej mamky(#1139) - Konopess
+2.	[.L.O.S.] Losáci ze severu	10	171303km2	41194221	LOS made in Destroyer(#83) - BlackTears
+3.	[nBd.] Never back down	10	161805km2	37370064	nBd.Hromik(#1122) - HromikSir
+4.	[MENSA] ...spolek jedlíků CHILLI	10	160856km2	36110792	Trinidad Scorpion Moruga(#262) - Sir Extrem
+5.	[PKZ] Prdeli Ke Zdi	10	146676km2	34903873	.::PKZ Moete kita zo::.(#770) - Kwasak
+6.	[=T=] Trója	10	154014km2	34137169	Winter is coming..(#218) - FR3EZY
+7.	[SPRITE] stay cool	10	139276km2	33737810	Hasim žízeň(#160) - no killer
+8.	[KRIEGER] My jsme tým	10	130554km2	31073906	KRIEGER DataScientist(#132) - youwillbedead
+9.	[Tabáček] pohoda, klídek...	10	143179km2	30274068	Nation Proud of the CZ(#585) - Misak1893
+10.	[Anarchy] Farmíme pro lepší minulost	10	107978km2	29254280	Touha je zázrak, kámo...(#157) - thordevil
+11.	[DF2] Dickey-Fuller	10	140419km2	28518443	Habanero(#881) - Reich Graf
+12.	[VN] vostrý náboje	10	115027km2	27189263	9mm Luger(#31) - Nicole Kidmann
+13.	[D3V1L5] Masters of Underworld	10	110345km2	26878273	Čajna(#848) - Falkus.
+14.	[PLANET-X] PLANET-X Solaris Emperor	10	116119km2	26369949	PLANET-X Anunnaki King(#657) - ZUMOTRIX
+15.	[ALI1234] ALI1234	10	145665km2	26220573	usti(#425) - vachys39
+16.	[YOZZEFY] Yozzefy = expy	10	114342km2	26187965	Křížkový Újezdec(#679) - Allegro
+17.	[Across] Idealistic Organization	10	134922km2	25590731	Eatbrain(#923) - marv III
+18.	[**CQR**] Conquerors	10	110567km2	25214503	Dark Conqueror(#1162) - vanna
+19.	[NBTN] Neser Bo Te Naseru	10	129457km2	25068805	RS-24 Yars(#190) - luque
+20.	[UTOP-X] UTOP-X Solar Utop Emperor	10	120336km2	24995199	PLANET-X Orbit of Nemesis(#662) - ZUMOTRIX
+21.	[mXt] metaXtren	10	114866km2	24077070	Bobíkov(#816) - BOBSTEIN
+22.	[-=FE=-] Fatal noisE	9	100351km2	23958290	Malaz(#1131) - SMRTIHLAWUS
+23.	[.:FaK:.] Fatima	10	105219km2	22931056	A Pale Horse Named Death(#1205) - sir.smrt
+24.	[AoE] Age of Empires	10	144598km2	22840857	[NKL] Nefrítový Démon(#141) - 7000000
+25.	[Fanta] No more rules	9	109292km2	22432789	Fanta tě dá do kupy(#1484) - Papež propiska
+26.	[SUX] parádní aliance :-D	10	122686km2	22293535	SUXessfull(#652) - LuisFigo
+27.	[Ponorky] Chlapi, nelejte to pivo z oken	10	129672km2	22150118	U 100(#466) - LittleCryingCory
+28.	[M.S.K.] Morkovsky Saci Komando	10	112513km2	21650130	Annihilator(#440) - GanjaCore
+29.	[.:?:.] CeNsoReD	6	93683km2	21488289	****?CEN?SO?RED?****(#397) - rybka es atrás
+30.	[NKL] Poslední menu	10	130231km2	20786921	[NKL] Nefrítový Anděl(#140) - 7000000
+31.	[ČSLA] Československá lidová armáda	10	138271km2	20419884	.:CZ-SK:.Joudinkov(#571) - joudinek
+32.	[HyeNy] o5 v sluzbe	10	103451km2	20204808	HyeNa LW No.1(#199) - Poncho
+33.	[Mega] Krstný Otec	10	97629km2	20042668	Jéjéjéjéjéééééééé(#1084) - Šel Pěšky
+34.	[Q.f.] Queen forever	10	88993km2	19813771	World Devastation(#1064) - Edward
+35.	[.E.T.A.] Elyte Terorist Al-KAJDA	10	105913km2	19557660	KYRYPOLEC(#1118) - havo86
+36.	[B33r] Pivo dělá krásná těla	9	91846km2	19094507	.-B1905-.(#725) - miSSSSh
+37.	[-VIPERS-] Nest Of Hell Vipers	10	98350km2	19041661	Shingeki no kyojin(#103) - Armyx
+38.	[-=FE=-B] Fatal noisE	10	98379km2	18909458	my life is my life(#59) - fenix23
+39.	[tpOwCh] the power of wing chun	8	110688km2	18148785	tpOwCh bUchY(#372) - MaximusBuchymus
+40.	[)CD(] CéDéčka	5	80561km2	17734626	Grýn(#252) - green88

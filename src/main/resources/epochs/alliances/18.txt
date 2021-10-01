@@ -1,0 +1,42 @@
+18. VĚK
+#	Aliance	Členů	Rozloha	Prestiž	Předseda
+1.	[MA] MAsters	10	233424km2	72918982	Horné Grgy(#76) - Rammstick
+2.	[TH] Ti Hodní	8	189769km2	64252287	Narwain(#20) - oggi
+3.	[PRISTAV] Přístav	10	181284km2	59291663	Desítka je báječná(#884) - Stradivarius
+4.	[SB] SpikeBallers	10	224152km2	55258336	THE EARTH(#550) - survival.
+5.	[NATO] Tak a jdeme na to	10	184137km2	54893383	Rambastan(#1674) - Lord Charley
+6.	[SP] Společenstvo Prstenů	10	204684km2	52608225	Nabourat ovládání mechů(#1081) - Sir Peko
+7.	[cz-sk] Československo	10	155740km2	50985629	Sir of aliance(#650) - manisback
+8.	[M*A*S*H] Myšlení*Akce*Svačení*Hlína	10	165658km2	47242229	Startiwalo, murtolalo soe(#1495) - Makkinen
+9.	[NOE] New Order Establishment	10	142698km2	45431849	Stex(#435) - Cadlo The Great
+10.	[USOK] Under Shadow Of Kangaroo	10	156817km2	45045849	Heavy Metal Is The Law(#3) - The Bozena
+11.	[MOSAD] MOSAD	9	135578km2	41263712	Kamelot Reloaded(#2352) - Artuš II
+12.	[FF] Final Fantasy	10	152860km2	40941090	Mysidia(#1609) - Kurtz
+13.	[TC] Terror Crew	10	191184km2	40674836	Lachtaní Zord(#600) - Premalisk
+14.	[/Y-X-T/] Yo-xototh	10	166608km2	39811197	Skončim v top 10(#1375) - Už jenom Biggus
+15.	[CN] Cosa Nostra	10	162064km2	38532521	Den of Forlon(#1675) - Martind Forlon
+16.	[UFD] United Forces of Darkness	8	121261km2	36717020	Black Stronghold(#209) - Black Warrior
+17.	[HV] HASTALA VISTA drobečci	10	168684km2	36481815	Siringie(#192) - Siringa
+18.	[RDA] Red Dwarf Aliance	10	183857km2	33349979	Rimmerland(#101) - arrimmer
+19.	[GCC] Gundrum City Corporation	10	165284km2	32750265	Reptilie(#33) - JNK
+20.	[Břez2] BřezolupyClan 2	10	151504km2	31519103	Decimace(#102) - Patrik666
+21.	[DW] Dark Warriors	10	148154km2	31022251	Vospaxland(#422) - vospaxík
+22.	[GLA1] Global Liberation Army 1	9	118727km2	30503701	Xenocida(#1568) - antaran
+23.	[H.M.S.] Ark Royal	10	130759km2	29897142	Lancaster(#21) - Chester
+24.	[NW] Nuclear Warriors	10	117574km2	27475925	Hapinka(#420) - Gigantos
+25.	[H.C.D.Z] HromadnáCestaDrogověZávislých	10	142411km2	27422950	JEDILAND(#596) - KANTYNA
+26.	[LaF] Lamy a Farmáři	10	154713km2	27212114	El futuro de la guerra(#1377) - Januar
+27.	[SZVM] Spojene Zeme Valky a Miru	9	124241km2	26930151	satorie(#879) - hejkalak
+28.	[OS] Otherside	10	154029km2	26469343	Jedova Chyse(#962) - Hypergeneral Tyg
+29.	[Břez] BřezolupyClan	10	199547km2	25829464	Crusherland(#132) - CrusherBr
+30.	[Z] Zemeplocha	10	111784km2	25496276	Sto Lat(#23) - Absolutni Hrobar
+31.	[BR] Brotherhood of Regent	10	150580km2	25470762	Gun`Jah(#329) - Skogen
+32.	[HK] Hlas Krve	10	129183km2	25442611	GLOBE(#2155) - Slezi
+33.	[WF-LSA] White Flag	10	141102km2	24883829	Holyfire Oak(#1519) - Milebr
+34.	[HOR] Heroes of Rofenhaven	10	116269km2	24564054	Raj Ahten(#504) - Splichus
+35.	[Beast] Beast	10	141110km2	24256804	komatsu(#648) - komatsu
+36.	[NP] Nepřátelé Populace	8	131429km2	24171360	Exprience Rule The World(#837) - Syrius
+37.	[N] Nilfgaard	10	130634km2	23451222	Svensko(#2217) - Ašóka II
+38.	[3P] Tripartita	10	136639km2	23097055	Pevnost Bulo(#2415) - GeRoNiMo.
+39.	[Heaven] Angelus Pacis	10	115936km2	22529961	DarkLand(#1524) - Swarcik
+40.	[K9] Kingdom 9	10	106137km2	21430133	New Kingdom 9(#312) - Dean.9

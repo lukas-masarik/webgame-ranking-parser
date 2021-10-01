@@ -1,0 +1,42 @@
+132. VĚK
+#	Aliance	Členů	Rozloha	Prestiž	Předseda
+1.	[AC/DC] Back in Black	10	153474km2	59418488	T.N.T.(#480) - xkukx
+2.	[MENSA] ...prostě (j)elita :)	10	163701km2	47910941	STEPHEN HAWKING(#116) - Sir Extrem
+3.	[SUX] parádní aliance 0:-*	10	163143km2	45669531	SUXessfull(#841) - LuisFigo
+4.	[DEAD] Ze pry budem Mistri	10	151136km2	44773252	-DEAD-PpepeNemaPenachym(#1357) - Diák
+5.	[-osn-] OsprostenaStaraNota	10	176011km2	43870533	Vozo ? Kto je Vozo ??(#766) - Vozicek
+6.	[*WinDe*] WinDe důchodci	10	149501km2	42010699	.:W:. blazniva Veverka(#837) - Koumes
+7.	[-=FE=-] Fatal noisE	10	130704km2	40553090	My heart is my castle.(#70) - fenix23
+8.	[Across] Idealistic Organization	10	176710km2	40399863	Marsky + pivo + borovička(#245) - marv III
+9.	[M.A.] Meziplanetární Aliance	10	138193km2	38624496	Fakin Hobol(#808) - smudlas
+10.	[-THC-] Strana zelených	10	185182km2	37840884	Snorri_Killa(#1482) - Method Man
+11.	[CRASH] Braňo Mojsej	10	165250km2	37532620	easy game easy life(#962) - Grafical
+12.	[Anarchy] Farmíme pro horší minulost	10	137556km2	37249831	Dávno hledám druhý nebe(#348) - thordevil
+13.	[.L.O.S.] Losáci na dovolene	10	141774km2	37181265	LOS made in RUM(#52) - BuchtixD
+14.	[AiM] Aina Mörne	10	140359km2	36505058	Louka plná kytiček(#62) - fenix23
+15.	[SPRITE] Teď já budu Sprite a ty žízeň	10	161624km2	36415754	Pocemkamdeš(#9090) - demonstrate.
+16.	[FETKA] Fetuj jako ponrava	8	120873km2	36300429	fuhrer je hvjezda))))))))(#135) - Erwin Stahler
+17.	[SB] SpikeBallers	10	165371km2	35313807	Aeternum Vale..(#137) - DieWalker
+18.	[CGHMN] CompuGlobalHyperMegaNet	10	154464km2	35028913	leva(#1059) - Mihall
+19.	[-=DH=-] Dark Hunters	10	114343km2	34984032	Amy Pond(#1001) - Ersango
+20.	[ČD] České dráhy, jsme tady pro Vás	10	138932km2	32669268	=_RJ 1005 RegioJet_=(#506) - Folei
+21.	[YOZZEFY] Yozzefy = farmy	10	120312km2	32485862	Něch si to každý zapametá(#308) - Allegro
+22.	[B33r] Pivo dělá krásná těla	10	104311km2	32162570	Magnamundie(#1148) - Hones
+23.	[Bombing] Bomby v létě	10	152335km2	30720826	Bombing Hero(#670) - the last Hero
+24.	[RoboUtop] 9.6.1942 vyhlazení Lidic	10	138093km2	30503818	RU mcajs loupežník(#261) - Lord Carcharias
+25.	[VZP] Vyvrženci z Pekla	9	152592km2	30314308	Vyvrženec Othis(#736) - StillDeadCZ
+26.	[.:xXx:.] CENSORED	10	132721km2	30287954	Dr.W.MBA(#6666) - wasabi666
+27.	[nBd.] Never Back DOWN	10	185443km2	29141073	NeublizujteMiProsim(#181) - HromikSir
+28.	[MS] Mr. Salatoff	9	120773km2	28725092	Karma je zdarma(#388) - Mrkvička777
+29.	[VIR] VIR	10	131785km2	28480280	Easy target,feelin this?(#336) - Mrkvička777
+30.	[MK] immortal knights	10	104266km2	27845860	kliksemkliktam(#1014) - uzid
+31.	[queens] QUEENS	10	123209km2	26661785	Bastard`s office(#1722) - Pitel
+32.	[BEER] Pivo pivko pivinko	10	107517km2	26636372	Puf(#329) - balky
+33.	[**SNK**] SmeNaKašu	10	132848km2	26501847	Liška Bystrouška na Kašu(#274) - Jitus21
+34.	[NBTN] Neser Bo Te Naseru	10	141444km2	26127235	RS-24 Yars(#813) - luque
+35.	[LordsWG] alkoholici československa	10	140557km2	24487950	-= Sp1r1t misell =-(#990) - MySEl
+36.	[-WoW-] World of War	10	158293km2	24374885	Eror11(#857) - Eror11
+37.	[H2] Heroes2	10	99449km2	23993135	TAX(#931) - Rhodan
+38.	[90`s] Tentokrát BUBUBU	9	147834km2	23561199	Bič Mjůkenen(#298) - VooOool
+39.	[MGCS] spin to win	10	103968km2	23467742	100x long(#957) - Grafical
+40.	[*Č*S*P*] Česko-slovenskí pařani	10	118629km2	22429374	*Č*S*P* Specter`s Town(#281) - Sceptisioner

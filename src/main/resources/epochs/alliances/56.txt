@@ -1,0 +1,42 @@
+56. VĚK
+#	Aliance	Členů	Rozloha	Prestiž	Předseda
+1.	[.::VR::.] Velká Revoluce	10	203229km2	51412634	slečinka revoluce(#100) - d13
+2.	[EMP] Emilova Malá Pornosbírka	10	187767km2	40504943	Ten jehož žena není živá(#210) - FARR FARR AWAYY
+3.	[BFP] Bad Fat Pipe	10	189467km2	40215942	Strap yourselves in boys(#463) - Mista
+4.	[BOUNTY] My jsme všichni GOGO	10	196227km2	37949719	Rumburakovo království(#4420) - Sjezdovka
+5.	[cz-sk] CeskoSlovensko	10	164566km2	37543862	.:cz-sk:.Zeus(#3351) - Vladce Seanix
+6.	[Ganja] ganja	10	144766km2	35411903	o5 hraju:)(#3513) - Joker16.
+7.	[ŽsN] Žádnej soucit nebude	10	176159km2	35321691	O_o TeRmiNaToR StyLe....*(#81) - Soudruh Pípas
+8.	[ManG] Maniiax GanG	10	160171km2	35232631	Nemilosrdná slečinka(#615) - mara8
+9.	[=*DC*=] Dark Company	10	145031km2	35003551	Bublex The Bibiš Master(#2518) - Joe The Boss
+10.	[B.K.] BLITZ KRIEG	10	155832km2	34805902	Obamova Diktatura ala USA(#1691) - HelteR
+11.	[STOKA] SmeTakyObycajnyKAdici	10	186039km2	34251091	China Miéville(#502) - .ShiNoq
+12.	[B.D.] Binary Division	7	129719km2	33808550	01010101.PROFESOR.0101010(#2703) - Corvin mc Grey
+13.	[.::R::.] Rytíři	10	184270km2	32918050	Kyperské království(#2478) - steamroller
+14.	[Across] Idealistic Organization	10	122729km2	32342341	,(#750) - marv III
+15.	[BASTARDS] jsou tu pořád	10	135371km2	30612649	BASTARD NEJLEPŠÍ FARMÁŘ(#2775) - skyl
+16.	[.:V3R:.] revolučná škola sexu	10	128232km2	30455352	Rose Melanie Lynskey(#880) - Alexius
+17.	[NHKG] Nova hut Klementa Gottwalda	10	167526km2	29524018	Základna Severní Sibiř(#42) - 53r63i
+18.	[ČSLA] Česko-Slovenská lidová armáda	10	143237km2	29266222	Lumík sibírsky(#254) - KalinV
+19.	[D] Discworld	10	130885km2	28966356	Wyrmberg(#1558) - Roger
+20.	[RAFANI] RAFANI	9	151608km2	28135202	Rafan a kdo jsi ty?(#3253) - SprávceChlívku
+21.	[DEAD] Prázdniny jsou...	10	111309km2	25911200	-DEAD:-)xD:-*:-):-*:o):D(#1090) - ppedrnikar
+22.	[EASY] Svou víru neobrátíš...	8	118928km2	24955745	S hlemýžděm založ n. stát(#3688) - KEPR
+23.	[ŠVR] Škola válečné r..	10	93937km2	24185263	Nocni mura RK maklere(#1629) - Luciferrr
+24.	[*WiNDe*] WiNdej si DEli	10	123017km2	23350004	.:W:. FreeRider(#814) - Koumes
+25.	[GST] Gloubl Strajking Tím	10	124194km2	23322836	Whos yo DADDY in da GST(#303) - webby01
+26.	[.:V5R:.] Hop a je tu lidoop	10	128287km2	23248386	My generation(#496) - Nemo88
+27.	[HyeNy] som na nohy	10	130200km2	23134095	HyeNa MuMaKyyy(#862) - Urenduil
+28.	[Hrošíci.] Cesta do špenátových polí	10	113888km2	22782687	Hrošík tě sežere...(#2562) - Mexičan
+29.	[IBHZK] IchBinHierZurKur	10	114482km2	22762082	Authorization Required(#161) - R0CK3D
+30.	[DIEUSA] Smrt imperialismu,sláva anime	10	122835km2	22548608	Roland Deschain(#1191) - Dimmu
+31.	[SoBo] Soumrak Bohů	6	82630km2	22415874	Křemílek(#5319) - volnýzpůsob
+32.	[Akatsuki] Jdeme si pro vas :)	6	105133km2	22158178	naseru tě já vím:)(#3402) - Lordisko
+33.	[AA] Allstars aliance	10	104481km2	21794759	Star 4ever(#2834) - Helmus
+34.	[.:NUKE:.] Nepřítel populace	10	102946km2	21710597	NUKE DRAGON(#925) - Firepower
+35.	[I.H] Immortal Heroes	7	94259km2	21687401	Arachnid Layr(#1901) - Pabouk
+36.	[SEUL] Lonely Loners On Lonely Road	8	86424km2	21622197	Paper disproves Spock(#4225) - NathanielCZE
+37.	[n-evil] Necessary Evil	10	111304km2	21506362	=n-evil=Bomb you I will=(#2462) - Bigbeaťak
+38.	[.:V2R:.] Nenásilná revolúcia	8	96170km2	21470784	A Night in Torino(#2877) - kesso
+39.	[LLS] Long Left Side	8	99976km2	21438624	NiakarAn(#39) - NiakarAn
+40.	[O] Prostě O	6	82725km2	21422477	Opovrhovaný(#3435) - Squeker

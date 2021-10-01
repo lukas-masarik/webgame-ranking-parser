@@ -1,0 +1,42 @@
+99. VĚK
+#	Aliance	Členů	Rozloha	Prestiž	Předseda
+1.	[DF] Dark Family	10	180156km2	46442504	Slecinka DF(#1074) - Hanz Guderian
+2.	[**CQR**] Conquerors	10	157438km2	45040830	Dark Conqueror(#746) - vanna
+3.	[UTOPSE] UTOP SE	10	128069km2	43031877	Astičkov(#1551) - Asticka
+4.	[Lords] still Farming	10	114234km2	38011854	Radioactive Toy(#955) - Tev42
+5.	[GH] GHetto Lullaby	10	156041km2	36233440	yes,it is nice to meet me(#31) - TECHWARRIOR
+6.	[=101=] 1100101	10	150036km2	36101092	0010110001011111010100100(#169) - FL4SHh@cker
+7.	[M] MOON	10	129167km2	35452925	Atlan(#907) - Atlantik
+8.	[ManG] Maniiax Gang	10	157221km2	34760225	Sarkasmus je moje milá(#94) - mara8
+9.	[S.S.T.] Spojené síly terorismu	10	121077km2	33825822	Trutnov(#1152) - alksj
+10.	[Ponorky] Opat na dne	10	157930km2	33268609	U77(#2134) - Cipso
+11.	[Anarchy] Farmíme pro lepší minulost	10	132196km2	33155492	Touha je zázrak, kámo...(#97) - thordevil
+12.	[COOL] Corporation of obscene lambs	10	119947km2	29342857	Smrtící expres ráže .45(#434) - Godzil I.
+13.	[x.x.x.] Tour de France	10	144132km2	29255192	Alberto Contador Velasco(#1345) - KingSixx
+14.	[Kefa] Dostaneš keru	10	152630km2	28819466	geriatron(#594) - 1110110001
+15.	[YOZZEFY] Yozzefy = expy	10	110886km2	28558447	Křížkový Újezdec(#143) - Allegro
+16.	[-=FE=-] Fatal noisE	10	116063km2	28506168	.:YD:. Love Star Game(#672) - fenix23
+17.	[C*P] Cold Power	10	145010km2	28381970	Quintara(#867) - Ivanes
+18.	[UU] Unknown Unknowns	10	132542km2	27018533	Unknown Unknowns(#402) - MFFoA
+19.	[Genocida] Genocida	10	92779km2	26049385	do oka cigareta(#1341) - UniQe
+20.	[Wrath] Time to Say Goodbye	4	85280km2	25114226	My hero(#1170) - king000
+21.	[N-N-N] Nečum, Nebreč, Neotravuj	10	158580km2	24977371	Zpět do starých kolejí(#638) - ASA
+22.	[LordsWG] spolok anonimnych alkoholikov	10	112014km2	24964831	Zohan.:.Disco(#1510) - Bukay
+23.	[MDPA] Mordparta	10	123710km2	24851239	satory(#1789) - hejkalak
+24.	[Limit] Sky`s the limit	10	124888km2	24457257	Eye of Wizze(#734) - Elesianus
+25.	[xD] Výtlem všech xD	10	121951km2	23773196	mnu xD(#59) - TheSokar
+26.	[PLANET-X] Solaris System Emperor	10	104606km2	23412110	PLANET-X Anunnaki King(#40) - ZUMOTRIX
+27.	[HO] Hellsing Organization	10	121304km2	23093130	Hellsing Foothills(#174) - Alandriel
+28.	[ČSLA] Československá lidová armáda	10	121375km2	21518432	.:CZ-SK:.Joudinkov(#1374) - joudinek
+29.	[RNG] Renegat	10	121526km2	21190635	.:RNG:.podari sa?(#1685) - Slavoslav
+30.	[BOUNTY] Saturninův bitevní plán	10	113437km2	21172231	Ali Baba a 40 loupežníků(#1680) - Sjezdovka
+31.	[NewCo.] New Company	10	125504km2	20940505	Olajiktan(#84) - Kuboj
+32.	[*SnsrN*] S nami si nezahravaj	10	137626km2	20595166	So mnou si nevyhral(#1042) - fagancek2
+33.	[/AZ/] Aliance Zla	10	111591km2	20325672	Říše Zla(#919) - lMP3RATOR
+34.	[CHBY2] Chlebíčky na druhou	10	94604km2	20041476	CHBY:Se šunkou(#856) - Lord Fraja
+35.	[ZSB] Zima se blíží	9	116511km2	19908526	Danearys Targaryen(#1529) - matto10
+36.	[ItNofS] Ve jménu starých časů ...	10	138846km2	19879634	HyChyKyRyDyTyNy(#98) - PanMaur
+37.	[Bombing] Bombitci	10	89680km2	19766869	Bombing H1gH_S0c13tY(#546) - . . .CoVeR. . .
+38.	[BumBum] Z hlediska globálního spektra.	10	137714km2	19232075	.:BB:. Absolute Awesome(#51) - TheSokar
+39.	[whohoo] Nothing at all	6	114432km2	18980810	Bílá díra(#908) - . . . . .
+40.	[-=FT=-] Fairy Tail	10	99049km2	18143956	Ti rozhodim sandal.....(#1446) - Ondrau

@@ -1,0 +1,42 @@
+87. VĚK
+#	Aliance	Členů	Rozloha	Prestiž	Předseda
+1.	[DF] Dark Family	10	162802km2	40103865	Slecinka DF(#2307) - Hanz Guderian
+2.	[ČSB] ČehoSeBojím	10	135087km2	35252243	Bojím se či nebojím?(#271) - Milka I.
+3.	[**CQR**] Conquerors	10	151025km2	34624782	Highway to hell(#2285) - vanna
+4.	[GD] Gregiho dílna to rozřeže	10	164825km2	34610507	Massaranduba(#685) - Skiller
+5.	[B.K.] BLITZ KRIEG	10	143891km2	34110197	Vyděl sem tvoje mišlenki(#1357) - johnny33
+6.	[ČSLA] Československá lidová armáda	10	137696km2	32941467	.:CZ-SK:.Dum spiro,spero(#194) - KalinV
+7.	[*SnsrN*] S nami si radsej...	10	173424km2	32897769	So mnou si neposkriabes(#1033) - fagancek2
+8.	[Ganja] Ganja	10	149534km2	32463450	Alkáč, neboli alkoholik(#2619) - ..Hanz..
+9.	[AveCesar] AveCesar a Římané relaxují.	10	128111km2	32209021	.:AveCesar:.Velitel legie(#561) - Ares65
+10.	[SR] Separovaný zbeR	10	204410km2	31609154	Best from West ,`-(#31) - H3LL M4KER
+11.	[FitH] Fire in the Hole	10	140042km2	30587310	Happy(#106) - imha2
+12.	[S*K] Skunk Teritory	10	154562km2	30350242	Legia(#210) - ing.JimStreet
+13.	[ManG2] ManiiaX Gang 2	9	123825km2	30298342	Herbalisticka Slecinka(#197) - keshoo
+14.	[ZT] ZeblijemTě	10	92055km2	30089992	ZT ShutUpAndTakeMyMoney(#121) - bosinek
+15.	[M] MOON	10	175099km2	29948526	Atlan(#3958) - Atlantik
+16.	[.:WWF:.] World Wrestling Federation	10	109649km2	29863433	.:WWF:.Angerfist(#2225) - stifmajstr
+17.	[.:RNA:.] Really Normal Aliance	10	130906km2	29116891	Brko(#539) - skankov
+18.	[T3R0R1ST] Burn, burn everything..	10	175438km2	28751444	Dawe(#524) - Cenzor3d
+19.	[I.H] Immortal Heroes	10	122704km2	28539874	Arachnid Layr(#626) - Pabouk
+20.	[ToAn] Trhači obřích Anusů	10	152317km2	28429229	Erkältungen Scheide(#813) - devilLH
+21.	[LdlS] Liga de las Sombras	9	143754km2	27465204	My life is porn(#1279) - Defectorr
+22.	[BTB] Bude to bolet	10	125248km2	27288018	Boshakov(#2096) - Bigbosh3
+23.	[.:V3R:.] škola sexu	10	159062km2	26916070	Sexuolog(#1906) - AndreFox
+24.	[MDPA] MorDPartA	10	118124km2	26910795	Quatzalcoatl(#502) - a18m1g5d15n
+25.	[.:ZO:.] Zkorumpované Ovečky	10	156091km2	26897373	-=Sheep Warrior=-(#552) - Rift
+26.	[W.?.R] W4R*	8	101122km2	26690432	W4R(#556) - GanjaMeen
+27.	[mef] gangstarr	10	121638km2	26265144	NBA(#1311) - Robbie
+28.	[DEAD] Milujeme Vas	10	139900km2	25995432	-DEAD-PoDvouLetechZpet(#2550) - .PenachyM
+29.	[INFERNO2] Neighbours from Hell	10	153549km2	25993501	=) =)(#3146) - sparke
+30.	[WDMS] What does a mech say	8	125695km2	25889891	Punch of war(#729) - Titous
+31.	[Bombing2] Bomarďáci	10	128258km2	25553679	Bombing Moredor(#1577) - kaiman
+32.	[ČD] České dráhy, jsme tady pro Vás	10	139253km2	24924288	=_R 605 Karlex_=(#547) - cvachta
+33.	[AC/DC] Back in Black	9	101778km2	24893414	Nipples Cage(#78) - ViewSonick
+34.	[MK] Immortal Knights	10	159466km2	24755876	Do not disturb...(#264) - Zorg
+35.	[-FaLL3N-] SPL1TT3D NU8S	10	111242km2	24722421	-FaLL3N- Humanoid Typhoon(#1171) - MasterDog
+36.	[=L.O.T=] Lord Of Tactic	10	138688km2	24606104	Lord Of Tactic(#346) - tvojasmrt
+37.	[INFERNO3] Burn in Hell	10	139688km2	24409674	Slečinka de puta madre(#35) - mara8
+38.	[anx] antrax rulez	10	143833km2	23644663	AntraX Keltska Risa(#381) - Martinerko
+39.	[MaGGoT] M a G G o T s	10	120101km2	23205347	MaGGoT(#75) - vencik.own.cz
+40.	[-=THC=-] The Heroic Company	10	126482km2	22802781	The Heroic Čulapchorn(#126) - Čulapchorn

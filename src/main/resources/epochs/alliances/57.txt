@@ -1,0 +1,42 @@
+57. VĚK
+#	Aliance	Členů	Rozloha	Prestiž	Předseda
+1.	[P-V] Pouta války	10	187590km2	71195920	Zářící Spasitel(#2325) - .DuKeLuKe.
+2.	[Veverky] a Berušky	10	226975km2	65062900	Ferdova Beruška(#2394) - Mr Shaman
+3.	[BOUNTY] Pověste ho vejš	10	199079km2	62537747	Zasněžená Alpinia(#4999) - Sjezdovka
+4.	[GOGO] My jsme všichni GOGO	10	204353km2	57715480	Grande Motte(#4687) - Sjezdovka
+5.	[ICQ] I seek you	10	178129km2	44619386	Heroes never die...(#264) - ISE
+6.	[.::B::.] BOHATÝŘI	10	192723km2	44260342	Svatohor(#5743) - steamroller
+7.	[SIL] Silmarillion	10	181932km2	43700496	Nejneobhospodařovávanější(#37) - Martin858
+8.	[EASY] Lehce a Snadne	10	175091km2	40786032	S hlemýžděm založ n. stát(#2752) - KEPR
+9.	[=*DC*=] Dark Company	10	138580km2	40593950	Bezpečnostní kód(#2731) - Joe The Boss
+10.	[Rafani] Rafani	10	189218km2	39834204	Rafan, a kdo jsi ty?(#446) - SprávceChlívku
+11.	[DF] Dark Family	10	196822km2	39520186	Dark Lesnovek(#3477) - Hanz Guderian
+12.	[cz-sk] CeskoSlovensko	10	140359km2	36850806	.:cz-sk:.Pluto(#5477) - Vladce Seanix
+13.	[B.D.] Binary Division	10	175693km2	35172935	01010101.PROFESOR.0101010(#88) - Corvin mc Grey
+14.	[CCN] Cococaine	10	148040km2	35057186	Give it up(#969) - Manuel Casltess
+15.	[:ZotR:] Zombies of the Revolution	10	114108km2	34001296	Za Spartu život dám(#893) - M1S73R
+16.	[*AC*] Anihilation Camp	9	53880km2	33904716	Hero of the Soviet Union(#3799) - Tomasius Velky
+17.	[-cz-] Crvena Zvezda	10	148924km2	33393483	Je čas soudruzi ...(#1602) - erromasterr
+18.	[)CD(] CDčka	10	146081km2	33099322	Grýn(#937) - green88
+19.	[Ganja] ganja	10	146825km2	32625075	rybopes(#1381) - Joker16.
+20.	[*WiNDe*] Wipitá Najivní Dětska	10	144541km2	32301535	Vypitý Jim Beam(#1177) - Koumes
+21.	[CHRO] Ultimate Chrownage Team	10	130551km2	31324720	Budoucnost je v jádru(#1341) - Duke Nukem
+22.	[c0n] conexia	8	126764km2	30898475	waste land(#6126) - BlindJustice
+23.	[AA] Allstars aliance	10	143809km2	30805087	Star lover(#64) - Helmus
+24.	[Chrudoš] Chrudoš	3	47778km2	29981273	David Plouffe(#348) - Nargan
+25.	[BEER] the power of pivo :D	10	131457km2	29872737	Barackpálinka(#4110) - tomos81
+26.	[H2O] Water Bandits	10	142000km2	29837938	Water Hunter(#1102) - Mirain
+27.	[ČSB] ČehoSeBojím	10	158478km2	29579813	Bojím se H.o.M.o.K.l.a.D.(#2541) - labojse
+28.	[BASTARDS] BASTARDS v top? LOL:-D	10	106108km2	29452610	BASTARD NEJLEPŠÍ PŘEDSEDA(#2725) - skyl
+29.	[Čoko] Jedem si	8	122841km2	29398818	Prezident(#528) - Milka I.
+30.	[KLON] ABY TĚ HUSA KOPLA	10	127303km2	28647161	KLON 00(#3402) - plůocek36
+31.	[=T=] Trója	8	119257km2	28356627	Mejsha(#3629) - FR3EZY
+32.	[AlkoholX] The pleasur of Pilsner Urquell	10	144472km2	28301410	Pride(#4002) - Uaah
+33.	[TVN] tento věk naposled?	10	146245km2	28272535	X Land(#4599) - OMartin
+34.	[SNAKES] SNAKES útočí na topku	10	128149km2	27758030	Koupím rumíka za kačku(#191) - Chica
+35.	[BFP] Bad Fat Pipe	10	149931km2	27327768	Ti budou brrrrečet Goleme(#4450) - Mista
+36.	[Across] Idealistic Organization	10	118641km2	27261883	Voľné miesto v autobuse(#3384) - marv III
+37.	[SSE] Spojené štáty európske	10	122804km2	27236103	SSE Andrej(#1659) - Andrej3
+38.	[-=DF=-] -=Deadly Force=-	10	110841km2	27067012	-=DF=- Gold Tequila(#1270) - Michal44
+39.	[VMCh] Velmi Málo Chápaví	7	117137km2	26971681	Červená Karkulka(#1091) - Fereofar
+40.	[.:V3R:.] revolučná škola sexu	10	119385km2	26902547	Carmen Kass(#5106) - Alexius

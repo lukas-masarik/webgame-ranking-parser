@@ -1,0 +1,42 @@
+34. VĚK
+#	Aliance	Členů	Rozloha	Prestiž	Předseda
+1.	[HOPRDOX] Holou Prdeli Do Xichtu	11	254786km2	94909578	Nebuď labuď(#14273) - adduktor
+2.	[SB] SpikeBallers	11	222430km2	89179813	OCHO(#495) - survival.
+3.	[D1KTATOR] D1KTATOR D1KTATOR D1KTATOR	12	226761km2	81579306	hmm ja uz nazov davno mam(#16966) - .FeXeR.
+4.	[*RtH*] Road to Hell	12	217959km2	57779075	Valkýra Angelia(#628) - Galactica
+5.	[RAFANI] RAFANI	12	215772km2	53502101	Rafan gangster(#10130) - stamage
+6.	[S.M.R.T.] Sado Maso Rocket Terror	12	197092km2	49368639	S.M.R.Ť.ák - děda Lebeda(#40) - mefi100feles
+7.	[Bubáci] Bubáci	6	166347km2	45384054	Den of Forlon(#11724) - Martind Forlon
+8.	[VENDETA] krvavá pomsta	12	193706km2	44834869	Bloody Beast(#5577) - imhot3p
+9.	[Valkaci] Vyhuleni alkaci	12	198595km2	44345429	Fernet Stock(#2449) - pajoncek
+10.	[HOR] Heroes of Rofenhaven	12	174966km2	44077957	Celinor(#12015) - Sepie
+11.	[NERO] Nebezpečné Rovnošaty	12	207430km2	43006814	Neradovo(#941) - nerado
+12.	[CE] skarfaCEEEEEEEEEEEEEEEEEEEEEEE	12	172353km2	42749340	ja mam doma fakt ítiho..(#9325) - esya
+13.	[HyeNy] HyeNy	12	211579km2	42077038	HyeNa NeNažRaNá(#9676) - saiyajiNN
+14.	[UM] Ukrajinska mafie	12	205477km2	41236904	Bohunice(#694) - Uthden
+15.	[=T=] Trója	8	172204km2	41236483	Ararat(#2183) - zullu
+16.	[OSW] One Sweet World	12	179438km2	41136264	Dare Mon(#861) - Cernunnos
+17.	[ADR] Adrastea	12	199675km2	41134247	Já? Nereida?(#292) - DarkDruid
+18.	[Tabáček] Tabáček a nikotin	12	176717km2	40760044	zdenku mášho venku(#97) - snasa1
+19.	[M.A.S.H.] Myšlení.Akce.Svačení.Hlína	12	172595km2	40646487	a na množství nehleďte(#12087) - Už jenom Biggus
+20.	[.::R::.] RYTIRI	12	199226km2	39640947	Thunderer(#3413) - Wulfgar
+21.	[S.D.E] Solar and Dark Empire	12	247917km2	38736243	Call me Carnage(#962) - Scalpelexis
+22.	[Mgn.] Magnum	7	172809km2	37887225	Tomušákov(#9056) - Děda Jaga
+23.	[.:AF:.] AntiFarma	10	184867km2	37725735	Dota rulezzz(#9034) - King Dino
+24.	[anx] antrax rulez	12	229336km2	37568978	AntraX Keltska Risa(#3185) - Martinerko
+25.	[*BoD*] Brotherhood of Dragon	12	171856km2	37214638	Dragon likes vegetables(#3935) - C.u.j.o
+26.	[-=THC=-] The Heroic Company	12	167255km2	34370523	The Heroic Protiva(#8155) - Protiva
+27.	[IBHZK] Ich bin hier zu(r) Kur	9	135002km2	34364333	LiberateTutemeaExInfernis(#4710) - R0CK3D
+28.	[=MA=] Modra aliancia	12	152314km2	34348835	Bat uls(#11239) - hurdan
+29.	[MDPA] MordParta	12	187393km2	33939398	Gumová medvědí jatka(#12723) - moruse
+30.	[.:BAR:.] BARBARS RUSS	12	149103km2	33038957	MOSCOW(#2081) - DONBOSS
+31.	[GJH] Septimy GymJH	6	83080km2	32530364	Vilém Bauer(#16668) - I am the Future
+32.	[WIA] World Information Association	9	153465km2	32421196	Peacemaker(#7927) - k.Marcus Aur.
+33.	[ASA] Aliance Stargate Atlantis	12	184696km2	32395936	Antik(#56) - Dest
+34.	[.:LWB:.] LandWirtrechtsBewegung	6	115987km2	31941101	Hraju to dlouho,ale(#367) - HolyShot
+35.	[TÁTARUS] TÁTARUS	12	147894km2	31369052	Stakhan(#13185) - ronop
+36.	[ganja] GANJA	12	141974km2	30583800	Holand`s hope(#6004) - .whitewidow.
+37.	[H5N1] A je to tu...	10	134076km2	29873664	Angel Empire(#2389) - Angelos
+38.	[W.G.M] W.G. Magori	11	163032km2	29657304	W.G.Maniac(#10413) - Dzindzik
+39.	[.B.I.S.] Banda izolovaných spermií	12	158470km2	29615504	Dělám co můžu(#918) - onidroB
+40.	[*dhara*] Imperium Dhara	12	174663km2	29384007	.::DHARA::. D1KT4TOR(#1137) - xxxmenxxx

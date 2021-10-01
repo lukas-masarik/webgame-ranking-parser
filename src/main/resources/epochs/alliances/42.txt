@@ -1,0 +1,42 @@
+42. VĚK
+#	Aliance	Členů	Rozloha	Prestiž	Předseda
+1.	[ČSLA] Česko-slovenská lidová armáda	12	210268km2	43380948	.:CZ-SK:.Dum spiro,spero(#626) - KalinV
+2.	[H5N1] Choré Sliepky	12	216028km2	43073051	www.wg.slupka.cz(#12653) - Romulus.
+3.	[BIRACEK] Birča a Racek spolu a navždy	8	130706km2	39362409	Vectran+Spectrum=Biry(#968) - Lord Biry
+4.	[G] GLADIATORS	12	226882km2	37265484	Funterra(#332) - Sufun
+5.	[.RAFANI.] .RAFANI.	11	218305km2	35017191	Drátovaný URE(#7777) - Hyperactiv
+6.	[-SC-] Skull Collectors	12	123170km2	33826989	World of Luck(#87) - Efca
+7.	[.::R::.] RYTIRI	12	150158km2	32521379	Su-34 Fullback(#4928) - steamroller
+8.	[AlkoholX] Best friends of tecutins	12	169078km2	32358254	Pijem len 7 dni v tyzdni(#1222) - PinkPanther
+9.	[KÚ] Kaitanské Útočiště	12	179035km2	32151169	Kaitan Born(#1007) - Ball.Lightning
+10.	[ganja] ganja	12	180798km2	31405202	Budulínkova zem(#1910) - Budulínek s.r.o
+11.	[ALFA] Stíhací letka	11	159142km2	30526259	Su-35 Super Flanker(#4112) - steamroller
+12.	[A*o*B] Ali of Beer	7	118339km2	29388824	Brutal Beton 2007(#2206) - Zilos
+13.	[IBHZK] ICH BIN HIER ZUR KUR	12	153678km2	28587038	FAiRLiGHT(#46) - R0CK3D
+14.	[KABAT] Rockoví rytíři	12	138343km2	28035192	FEDERER ROGER(#5828) - Agassi...
+15.	[MoM] Morbid obituary Message	12	157272km2	27277798	HellGuard of Noffub(#307) - sir Blade
+16.	[VU] Vikuňská univerzita	12	149871km2	26976477	lamoidniPROFESORgothicman(#6061) - M4S3R
+17.	[n1] ioditi pyrove	10	150242km2	26695115	Co se to deje ?(#10713) - Walker
+18.	[KEVLAR] ...Kevlar...	12	135620km2	26688549	kevlar for Funning Chaos(#4989) - diefirma
+19.	[=DS=] Dog Soldiers	12	156824km2	25788746	Osghiliath(#886) - CrazyBob
+20.	[NV] Neškodný vyprask a Stock	12	182682km2	25244785	.cobra.(#3936) - .cobra.
+21.	[:.BoD.:] Brotherhood of Dreadnoughts	12	189583km2	25210194	Neohrožený.Banehalow(#628) - Banehalow
+22.	[Čoko] Čokoládová aliance	11	123432km2	24438375	Tyranny Of Souls(#2898) - Kowacs
+23.	[M.W.] mysterious warriors	11	119093km2	24422360	Nevyzpytatelně Trapná zem(#3628) - Velkej trapak
+24.	[.:V3R:.] Škola Velké Revoluce	12	151998km2	24146577	Endorin(#7636) - Smrtka15
+25.	[.:V2R:.] Velká revoluce	11	158787km2	24108722	Zadar(#433) - Conan z Vhozady
+26.	[UtAs] Univerzita temnoty A světla	10	139942km2	23875345	Sweet Dream(#4807) - Anchor
+27.	[HORDA] Horda CD	12	155356km2	23872526	HellGuard of emerGency(#1923) - Ellector
+28.	[FED] Federace	10	146903km2	23747185	++zaraki kenpachi style++(#7661) - just mozeg
+29.	[FOS] zlomek sekundy	12	160610km2	23501270	argo(#1094) - vandien
+30.	[-=AGE=-] AnTi GLoBaL EuRoPe	11	150296km2	23242526	RaGroOvE - xXInViSibLeXx(#11143) - CubaLibre256
+31.	[1vs1] SereMe to,ze to je jak chcesTY	7	96964km2	23122749	MilionySviníCoUmíJenLhát(#7315) - Teutul2
+32.	[ost3] Old stars team po 3	12	138600km2	22947620	Italia(#65) - Remus XX
+33.	[**Winde*] Malí růžoví cukroušci	10	128367km2	22641846	winduv - ksindl(#10414) - xxxmenxxx
+34.	[BOUNTY] Společenství zasněžených zemí	9	134413km2	22523811	Zasněžený Smrtihlav(#10734) - King Jack
+35.	[heechee] nejsme lidé.......jsme hechee	7	99708km2	22141383	converse..made in heechee(#10283) - ElRey
+36.	[UVVB] Uzené veverky v buřtech	12	143228km2	22113375	Manzanie(#367) - Sir Robertini
+37.	[D(o-o)B] Da Bomb	11	123636km2	22018007	Dodovo(#3286) - MC Dodo
+38.	[.::VR::.] Velká Revoluce	8	137592km2	21978550	slečinka revoluce(#5777) - d13
+39.	[G8] Nejsilnější státy	12	159594km2	21959856	Klid Soudneho Dne(#3621) - DuriSGC
+40.	[=T=] Trója	12	165262km2	21686354	Ararat(#106) - zullu

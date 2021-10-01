@@ -1,0 +1,42 @@
+135. VĚK
+#	Aliance	Členů	Rozloha	Prestiž	Předseda
+1.	[FETKA] Fetuj jako ponrava	10	172880km2	74415597	Ponrava(#474) - Estetik
+2.	[WG-Elite] WG-Elite	10	169094km2	60978387	I hope you die(#725) - Erethil II.
+3.	[DEAD] DEADACI	10	161181km2	47170465	-DEAD-PpepeNemaPenachym(#685) - Diák
+4.	[AUTORITA] Celé jméno aliance (povinné)	10	175217km2	41383055	Nenázvuhodná prasečina(#256) - ..caramell..
+5.	[**CQR**] Conquerors	10	160838km2	41356208	Dark Conqueror(#407) - vanna
+6.	[L.O.S.] Losacke srdicko	10	152070km2	40633969	LOS made in noname(#4455) - Topisek
+7.	[Tabáček] Prďácký Tabáček	10	130193km2	39923116	Prďácký torpédo(#3333) - Veriax
+8.	[queens] QUEENS	10	137658km2	39441225	Pavilon 8 AHC(#788) - gorem
+9.	[CRY] ME A RIVER	10	144925km2	38468039	Don`t cry cause it`s over(#627) - Mr. Sedlinno
+10.	[*WinDe*] Windows Defenders	10	129660km2	37697552	.:W:. blazniva Veverka(#117) - Koumes
+11.	[-.-] -.-	10	154833km2	37669700	Palm Shot(#1014) - Duskooo
+12.	[DpN] Duchna pre Nováčikov	10	140769km2	36063956	Máme rádi rajčata(#111) - Evzen Hyberny
+13.	[D] Discworld	10	135533km2	35957684	Uspech nebo neuspech(#231) - Sdalin
+14.	[PhaMa] Phantasma Mayhem	10	159533km2	35489367	Hlavně nenápadně(#161) - bukvicka13
+15.	[-=DH=-] Dark Hunters	10	104273km2	34635595	Amy Pond(#1001) - Ersango
+16.	[ZERO] ZačínajícíERotickáOrganizace	10	142475km2	34374899	pálím hlínu(#126) - Walden r Gwendor
+17.	[D1000] Dům tisíce mrtvol	10	132669km2	34103305	Mario instalater z italie(#1194) - StillDeadCZ
+18.	[=T=] Trója	10	149936km2	33237437	Winter is coming..(#801) - FR3EZY
+19.	[.:UV:.] Usmolení Vidláci	10	123056km2	33205828	Ugrcanej Vidlák(#102) - RegiFcb
+20.	[ČSB] ČehoSeBojím	10	142273km2	32640573	Bojím se o přežití...(#1111) - Veriax
+21.	[WMYQ] We Make You Quit	10	146507km2	31790172	Technograd(#688) - zhn
+22.	[PíPíBí] Power Puff Boys	10	130707km2	31336297	Mojo Jojo(#754) - dlb
+23.	[POV] Point of view	10	164347km2	31258819	karma je holka nezdárná(#32) - JimCurry
+24.	[Anarchy] Farmíme pro horší budoucnost	10	118798km2	29642075	Hledáme ve hvězdách...(#114) - thordevil
+25.	[PKZ] Prdeli Ke Zdi	10	130886km2	29609843	.::PKZ::. Multikar(#936) - Kwasak
+26.	[NKL] Nefritový KLan	10	138681km2	28935933	Chef Reska(#1606) - Reskator
+27.	[KL] Killing Legion	10	137842km2	28738836	Gomorra di Napoli(#560) - Reskator
+28.	[-osn-] OsprostenaStaraNota	10	136809km2	28549641	Nepiješ nežiješ(#371) - Kacocentrum
+29.	[CMEPTb] CMEPTb OKKYNAHTAM	10	129131km2	27622041	Eternity(#837) - Doktor Fero
+30.	[ALIVE] ALIVACI	10	131272km2	27450183	-ALIVE- kde mam tuhac ?(#594) - ppedrnikar
+31.	[C.B.] Cripple Bastards	10	125017km2	27356539	Vrcholn1k(#8899) - Stinx
+32.	[pivo] pivo pivko pivinko	10	130488km2	27307022	Z1L1NSKY STAT(#596) - deweon
+33.	[VZP] Vyvrženci z Pekla	10	131308km2	26872118	Vyvrženec Rufus Dwirefald(#1185) - StillDeadCZ
+34.	[LEGO] kostky jsou vrženy	10	147230km2	26716899	LEGO PaedDr. Archi CSc.(#1281) - ArchimondS
+35.	[LoF] Lost and Found	10	112489km2	26584292	Lost in Abbys(#747) - TuNKy
+36.	[-=DD=-] Double Damage	9	101784km2	25978915	Rory Williams(#2002) - Ersango
+37.	[ČD] České dráhy, jsme tady pro Vás	10	114170km2	25852890	=_Ex 420 Perníček_=(#577) - Folei
+38.	[WG-Uni] WG-Uni	10	132579km2	25602709	The Bad Touch(#1056) - Erethil II.
+39.	[MK] Immortal knights	10	108483km2	24985579	kliksemkliktam(#735) - uzid
+40.	[YOZZEFY] baron Babiš (prášil)	10	129260km2	24296297	Baron Babiš (prášil)(#738) - Allegro

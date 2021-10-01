@@ -1,0 +1,42 @@
+70. VĚK
+#	Aliance	Členů	Rozloha	Prestiž	Předseda
+1.	[=*ss*=] Sex Shop	10	205330km2	52638817	cipcyp(#932) - Ctirad2
+2.	[P1] Přežijem 1. den	10	146012km2	45732321	Brachypelma(#1064) - XXXGrey
+3.	[WG-PROF] WG-PROFESSIONAL	10	180641km2	45679208	mysterious(#1376) - Vlasic III
+4.	[.:YD:.] .:Your Death is coming:.	10	176554km2	38308351	.:YD:. 4ever(#2209) - White Dead
+5.	[ŠHG] Škola Herního Guru	10	151883km2	35074392	Legion(#1054) - Blezzer
+6.	[Legendy] Legendy	9	119821km2	32652580	Legenda.j0k3r(#684) - j0k3r
+7.	[F.o.a.D] ...:::DARKROOM:::...	10	145356km2	29089184	s Kristýnkou*in love*(#214) - trav1
+8.	[BFP] Bad Fat Pipe	10	130054km2	28833309	boheMISTA(#279) - Mista
+9.	[Across] Idealistic Organization	10	120000km2	28692230	Úzkoprsý útočí(#2505) - marv III
+10.	[cz-sk] ceskoslovensko	10	139863km2	28662181	.:cz-sk:.Zeus(#944) - Vladce Seanix
+11.	[VTIP2] Žertování s mistry smíchu	10	154611km2	28476280	VTIP o šprýmařích(#297) - Isilmir Goraz
+12.	[.L.O.S.] Losáci ze severu	10	134861km2	28014924	LOS made in Božkov(#648) - Topisek
+13.	[.:V3R:.] revolučná škola sexu	10	138117km2	27977124	Denise Richards(#3270) - Alexius
+14.	[ČSB] ČehoSeBojím	10	112466km2	26493663	Bojím se nás(#3478) - Jackass Mild
+15.	[Rafani] Rafani	10	165284km2	25521376	Chlív strikes back(#324) - SprávceChlívku
+16.	[.:?:.] CeNsoReD	8	131682km2	25496720	****?CEN?SO?RED?****(#683) - rybka es atrás
+17.	[=T=] Trója	8	162532km2	25489706	Mejsha(#783) - FR3EZY
+18.	[Akatsuki] společenstvo zlosynů	7	106124km2	25350742	Bijuu Tobi(#149) - Lordisko
+19.	[Anarchy]	10	140790km2	24751703	Touha je zázrak, kámo...(#2707) - thordevil
+20.	[KRTEČEK] Hrabáním k lepším zítřkům...	10	130770km2	24573009	Krteček a makovička(#1911) - IMraz
+21.	[AotNW] Originální název aliance	10	164725km2	23933863	Captain Llama(#929) - Marzaus
+22.	[AveCesar] AveCesar a Vánoce jsou tady.	10	114404km2	22691117	.:AveCesar:.Bohemista(#487) - Ares65
+23.	[FuWG] :-*	6	94604km2	22448044	Atlan(#594) - Atlantik
+24.	[SNAKES] SsNnAaKkEeSs	10	123804km2	22213584	Chica(#1764) - Chica
+25.	[L.O.S.] Losáci od severu	10	137096km2	21994407	LOS made in Uzbekistán(#1238) - .Devilmen.
+26.	[-WG-] WEBornej GAMEbrinus	4	66353km2	21737860	Silent Hill(#204) - Eldudik
+27.	[Auyan] Auyan Tepui	4	75054km2	21050420	Oči v barvě nebe(#635) - maXtreme
+28.	[.:YD3:.] .:YD3:.	10	128888km2	20777729	.:YD:. Muhammad Diktafi(#425) - 1uglyduck1
+29.	[CMEPTb] CMEPTb OKKYNAHTAM	9	97276km2	20526338	CMEPTb-AndreyevichArakch(#2471) - Lord Ancestral
+30.	[Rounders] Let`s play some cards	10	155164km2	20329804	Panhypopituitarizmus(#45) - Dezider
+31.	[MDPA] MordParta	10	119099km2	20240458	Quatzalcoatl(#1977) - a18m1g5d15n
+32.	[WARLORDS] Warlords of webgamE	10	125440km2	20090078	WARLORDS KRAKONOSOVO(#2366) - parashoot
+33.	[Ganja] Ganja	10	168995km2	19955972	Alkáč, neboli alkoholik(#41) - ..Hanz..
+34.	[Q] Qíčepu	10	138343km2	19717736	Qíčepu(#1873) - pelizid
+35.	[H2O] Water Bandits	10	120388km2	19591608	Mirain(#1210) - Waterdog
+36.	[A.N.D.] Angels never die	9	107776km2	19326841	ARCHANGEL - Podvraťák(#2065) - Aku Aku
+37.	[MaČOkS] DEAD	6	104567km2	19228646	-DEAD-BiggyBro(#2900) - PenachyM
+38.	[S.P.K.] spolek přátel koz	10	125466km2	19104149	Klátinoha(#91) - Phoenyks
+39.	[.::WGR:.] World Gang for Revolution	10	93323km2	18657046	punks and anarchy ;-)(#2313) - 16znaku
+40.	[LEGO] kostky jsou vrženy	8	112570km2	18062463	LEGO never back down(#1943) - ArchimondS

@@ -1,0 +1,42 @@
+143. VĚK
+#	Aliance	Členů	Rozloha	Prestiž	Předseda
+1.	[*UF*] United Farms	10	185724km2	76726618	Enforcer(#59) - Dr.Leckter
+2.	[MK] Immortal knights	10	185772km2	68397498	hanasland4(#6666) - hanass
+3.	[Afrik] Velký Černý Klacek	10	171046km2	67538463	Zimbabwe(#69) - Lord Rechleek
+4.	[Lotta] Lotta per la sopravvivenza	10	195701km2	63876566	Sento me ruggito(#421) - stejski IX.
+5.	[ganja] GANJA	10	162863km2	57066987	Velky uličník(#962) - trubkatrubkovic
+6.	[queens] QUEENS	10	156351km2	56846509	Pavilon 8 AHC(#163) - gorem
+7.	[MENSA] ...prostě (j)elita :)	10	150005km2	55556945	NESERA NAVALTO(#124) - Sir Extrem
+8.	[MÁMA] Tvoje máma podruhé	10	144672km2	54311713	Buřtokvas tvojí mámy(#12121) - Mrkew
+9.	[SB] SpikeBallers	10	162983km2	52325381	Aeternum Vale..(#136) - DieWalker
+10.	[.hack//] hackeriiiiii	10	137284km2	50431827	Nevěř NIKOMU(#748) - poMe
+11.	[CRY] ME A RIVER	10	133512km2	47488478	No Woman No Cry(#101) - Mr. Sedlinno
+12.	[MaNTiNeL] Hlavu máš jak televizi	10	172854km2	47106453	Charlie Harper(#1522) - o.O.oDin
+13.	[FReaKS] Sluníčkové princezničky	10	135395km2	45312596	Princeznička .ička(#162) - šůrovač
+14.	[SRAN] Tvoje máma	10	140755km2	42897111	SRAN tvojí mámy(#917) - Vládce Kabraxis
+15.	[bWt] bratři W tangách	10	102733km2	42237195	Brat Bodzimierz(#204) - Finwalur
+16.	[Anarchy] Farmíme pro lepší minulost	10	128839km2	39418734	Srdce mi pofoukáš...(#130) - thordevil
+17.	[PíPíBí] Power Puff Boys	10	156069km2	39384293	Fuzzy Lumpkins(#1001) - Muffia
+18.	[KZ] Klátíme Zrzky	10	135678km2	37271940	Asfsdaf neboli homoděj(#1140) - LeadFarmer
+19.	[FATHERS] ...Fotři na tahu	10	137833km2	37236907	the GODFATHER(#1346) - Sir Extrem
+20.	[KTG] Kattegat	10	134072km2	37138526	Más vale tarde que nunca.(#261) - MC Booo
+21.	[YOZZEFY] Yozzefy = diplomacie	10	148329km2	36583544	Babišův střet zájmů(#168) - Allegro
+22.	[VZP] Vyvrženci Pekla	10	171424km2	35341673	Vyvrženec Rufus(#385) - StillDeadCZ
+23.	[*EnDe*] Sedláci v žitě	10	131562km2	32574287	.:W. opilá opička(#1385) - Koumes
+24.	[-=L*F=-B] LAMAFARMA BUKKAKE	10	138986km2	30187504	Slunce seno raketa(#212) - WEBIG
+25.	[-osn-] OsprostenaStaraNota	10	175469km2	29711366	-osn-ruzove v pive(#612) - D1N1AK
+26.	[BREZ] Březolupy	9	112766km2	29653855	hanasland3(#7777) - hanass
+27.	[Imp] Impérium předaleké galaxie	10	127033km2	29148368	Ewok je ťuťu(#707) - Sedmika
+28.	[-=DH=-] Dark Hunters	10	131667km2	29002756	Amy Pond(#10001) - Ersango
+29.	[ALI1234] ALI1234	9	113771km2	28927696	usti(#304) - vachys39
+30.	[N.n.n-2] No nic no 2	10	106219km2	28776412	Asi jo(#485) - Carcas
+31.	[Evropa] Evropa	10	117746km2	28632808	Arizona(#283) - Kojot prérijní
+32.	[FETKA] Fetuj jako ponrava	10	68397km2	28165669	Ponrava(#413) - Estetik
+33.	[AYES] AYES	10	126407km2	27245127	Silberstein(#58) - ČENDOR
+34.	[BumBum2] Je nám to úplně jedno.. Uhmmm	10	160434km2	26368767	omakalamihonakanapi(#174) - jckl
+35.	[Bubáci] Bubáci	10	200926km2	26236983	Zářící Spasitel(#1282) - .DuKeLuKe.
+36.	[D3V1L5] Masters of Underworld	10	144581km2	25731781	Čajna(#782) - Falkus.
+37.	[*WinDe*] For fun	10	127401km2	25471483	.:W:. Naga Viper(#440) - Koumes
+38.	[B33r] Pivo dělá krásná těla	10	128082km2	25464641	Magnamundie(#524) - Hones
+39.	[=BSC=] BEST SELECTED COMPANY	10	121998km2	25007994	*=* NoAcoJako:::::::(#1777) - Katan333
+40.	[JTPR] JenTakProRadost	10	115034km2	24958514	RANDALOVA KARAVANA(#330) - RANDAL

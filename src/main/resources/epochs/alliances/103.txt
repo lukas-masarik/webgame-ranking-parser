@@ -1,0 +1,42 @@
+103. VĚK
+#	Aliance	Členů	Rozloha	Prestiž	Předseda
+1.	[ČSLA] Československá lidová armáda	10	164794km2	44908996	.:CZ-SK:.AK-47ProduceR(#994) - AKland
+2.	[:-*:-*] Celé jméno aliance	10	140888km2	42002825	1.2.3.4.5.6.7.8.9.(#1201) - Defectorr
+3.	[DF] Dark Family	10	157905km2	38703821	Slecinka DF(#343) - Hanz Guderian
+4.	[-.-] -.-	10	155710km2	38663095	wertzuop4sdfghjkLyxcvbn(#1148) - Duskooo
+5.	[Across] Idealistic Organization	10	136112km2	35859033	the GØD(#235) - Shrunke
+6.	[MENSA] ....ještě nadanější než v loni	10	134723km2	33982973	PROF. EXTREM CSc.(#133) - Sir Extrem
+7.	[nBd.] Never Back Down	10	147276km2	33801115	UmimKopnoutDoAuta(#379) - HromikSir
+8.	[S.S.T.] Spojené síly terorismu	10	136440km2	33296980	.:S.S.T:.Ahmed z Trutnova(#861) - alksj
+9.	[x.x.x.] x.x.x.	10	124576km2	32079547	Ant Obi-wan Man(#1384) - KingSixx
+10.	[Bull] Black Division	10	143615km2	31769747	WinGladeR(#964) - High Warlord Rxz
+11.	[COOL] Corporation of obscene lambs	10	122546km2	31262166	Smrtící expres ráže .45(#271) - Godzil I.
+12.	[SPRITE] my jsme sprajt a vy žízeň	10	122047km2	30283048	Pocemkamdeš(#90) - demonstrate
+13.	[Inn] PlayzmyMIny2	10	122173km2	29973704	Iceman(#1813) - K8po
+14.	[YOZZEFY] Yozzefy = expy	10	128784km2	29965891	Křýžkový Újezdec(#163) - Allegro
+15.	[warcrime] Podme si porovnavat ciciny	10	180318km2	29648246	čvachtavý klystír(#568) - cejo the king
+16.	[Tabáček] Tabáček	10	156071km2	29604477	RezaváStřecha=VlhkejSklep(#595) - snasa1
+17.	[ALI1234] ALI1234	10	112554km2	29256697	usti(#1433) - vachys39
+18.	[Start] škola pro život...	10	111203km2	29146185	Strejda KURT(#810) - KURT
+19.	[/AZ/] Aliance Zla	10	133815km2	28721527	Říše Zla(#655) - lMP3RATOR
+20.	[PRDOX] PRdelí DO Xichtu	10	196662km2	27855386	Have a nice day(#352) - Lets go
+21.	[.L.O.S.] Losáci ze Severu	10	144756km2	26546736	LOS made in Destroyer(#40) - BlackTears
+22.	[cerveza] spomienka za super hráča Naumo	10	148886km2	25890184	vek za Nauma(#100) - Dr.hurka
+23.	[-osn2-] Odtialto sa neuteká :D	10	145395km2	25037912	-osn- Vozo(#43) - Vozicek
+24.	[HV] Hastala Vista	10	107487km2	24751056	Siringie(#1259) - Siringa
+25.	[ČD] České dráhy, jsme tady pro Vás	10	125315km2	24717976	=_EC 105 Sobieski_=(#535) - cvachta
+26.	[PLANET-X] PLANET-X Solaris Emperor	10	120283km2	24671991	PLANET-X Anunnaki King(#50) - ZUMOTRIX
+27.	[***B***] BENDA s.r.o.	9	105127km2	24423838	***B***eran Pecik(#956) - 10987654321
+28.	[NA] Nová Ali	10	101404km2	24026404	Jde to ale dře to(#759) - Honzík
+29.	[Anarchy] Farmíme pro horší budoucnost	10	112479km2	23279973	Touha je zázrak, kámo...(#674) - thordevil
+30.	[.::R::.] Rytíři	10	152707km2	23215253	B*E*S*A*R*A*B*I*A(#82) - Abdul
+31.	[K-K-K.] Klekni, Kuř, Kloktej	10	141774km2	23073600	Inferno(#1533) - ASA
+32.	[-=FE=-] Fatal noisE	10	121718km2	22405686	FEnixovaZahradaAsteroidů(#397) - fenix23
+33.	[anx] antrax rulez	10	119801km2	22012907	AntraX Keltska Risa(#1287) - Martinerko
+34.	[EVOX] EVOLUTION BEST	10	102859km2	21840302	LV 223(#1965) - Vladino SVK
+35.	[**CQR**] Conquerors	10	128343km2	21426232	Dark Conqueror(#1307) - vanna
+36.	[TRČKSKTR] Tričko s kytarou	10	101123km2	21418410	Skupina Ladislava Štaidla(#823) - jensh
+37.	[ToNe] To Nechceš	10	127191km2	21240540	prASA(#1537) - ASA
+38.	[LordsWG] Domobrana	10	98596km2	21140104	Zohan.:.Disco(#936) - Bukay
+39.	[-=F*A=-] Fallen Angels	10	135747km2	20828497	-FA- Fickle Angel(#856) - Uaah
+40.	[tpOwCh] the power of wing chun	10	107658km2	20773790	tpOwCh bUchY(#588) - MaximusBuchymus

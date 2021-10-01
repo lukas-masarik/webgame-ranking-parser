@@ -1,0 +1,42 @@
+19. VĚK
+#	Aliance	Členů	Rozloha	Prestiž	Předseda
+1.	[M*A*S*H] Myšlení*Akce*Svačení*Hlína	10	189084km2	50344822	FCBPolandSuX::ACSCzechROX(#16) - Erwin Stahler
+2.	[Břez] Březolupyclan	10	204162km2	43636948	Crusherland(#575) - CrusherBr
+3.	[NOE] New Order Establishment	10	180386km2	43211535	Stex(#105) - Cadlo The Great
+4.	[INTR] INTR Reloaded	10	63588km2	41309865	Dragostea Din Tei(#41) - Zex
+5.	[T] Tým	10	124521km2	39337203	orel(#162) - neron
+6.	[P-V] Pouta války	10	228327km2	37612664	Dravá(#335) - Troskol
+7.	[RDA] Red Dwarf Aliance	10	179523km2	34783463	RimmerLand(#253) - arrimmer
+8.	[/Y-X-T/] Yo-xototh	9	160418km2	34109424	I have returned(#584) - Už jenom Biggus
+9.	[USoK] Under Shadow of Kangaroo	10	161361km2	34052544	Dark Kangaroo(#471) - Lion
+10.	[HV] HASTALA VISTA drobečci	10	157550km2	32971502	Siringie(#35) - Siringa
+11.	[H.C.D.Z.] HromadnaCestaDrogoveZavislych	10	144669km2	32678725	JEDILAND(#120) - KANTYNA
+12.	[3P] Tripartita	10	129591km2	30941160	Dol Nihil(#129) - Razor
+13.	[SoL] Sequence of Light	10	178090km2	26550881	CobraD Teritorry(#696) - CobraD
+14.	[SB] SpikeBallers	10	177796km2	26475598	HAPPY DAY(#439) - survival.
+15.	[RIP] Rest In Peace	9	118516km2	24558612	Indeterminate Future(#370) - Sheuss
+16.	[rus] Matka Russia	10	123667km2	24008914	MOSCOW(#1080) - Don Boss Huddy
+17.	[TC] Terror Crew	10	155236km2	23824980	Lachtaní Zord(#281) - Premalisk
+18.	[D:Mages] Dark Mages	10	151028km2	22118052	Mirzzaland(#662) - Mirzza
+19.	[DL] Damned Legion	8	131071km2	21542940	Darkness rules the world(#942) - Mr.Hill
+20.	[DW] Dark Warriors	10	123459km2	21241789	chymuv land(#1380) - zase jachym
+21.	[SZVM2] Spojené země války a míru	10	137736km2	21134317	Moraviana(#1607) - nehra
+22.	[OS] OtherSide	7	114414km2	21108275	Dark Colony(#2059) - Flightman
+23.	[H.M.S.] Ark Royal	10	119766km2	20683438	Lancaster(#14) - Chester
+24.	[Beast] Beast	9	146872km2	20613441	Teď piju vodku(#262) - Sir Kang
+25.	[UFD] United Forces of Darkness	9	115166km2	20413006	AURUM POTESTAS EST(#1440) - Meril
+26.	[BUM] Bum, bum, bum	9	127439km2	20148588	Evilland(#275) - Krlesh The Big
+27.	[epj] Elitní pivní jednotka	10	109519km2	19264831	BBooSSooVV(#1027) - Tom The Boss
+28.	[DW2] Dark Warriors	9	124754km2	19145913	ICE Planet(#33) - adameen
+29.	[MP-FC] MP`s Flying Circus	6	93964km2	18968891	MP`s Flying Circus(#1415) - hacho
+30.	[NASA] NASA	10	122332km2	18853974	San Salvador(#1201) - AAABBBCCC
+31.	[NSA] Nejvice Slusna Aliance	10	168896km2	18574710	llland(#5) - mtcko
+32.	[SP] Společenstvo Prstenů	9	138942km2	18212372	Nabourat ovládání mechů(#929) - Sir Peko
+33.	[R.I.P.] Rest In Pain	6	102725km2	17983381	Ufouni a spol.(#117) - Marky Parky
+34.	[AYES] Anti - YES	7	97552km2	17730834	Halloween(#251) - Axxxxis
+35.	[BeL] Belgariad	9	129584km2	17695077	Sendarie(#130) - Belgarad
+36.	[IND] Severoameričtí Indiáni	6	103108km2	17528585	New Gondor(#57) - sejk
+37.	[N.O.D.] Brotherhood of N.O.D.	10	112449km2	17262921	Brotherhood(#167) - Alienek
+38.	[tAoW] the ART of WAR	8	98756km2	16676111	Zelené pláně(#2162) - Arbi
+39.	[H3] Heroes III	8	124389km2	16605948	pohodaland(#380) - Oko
+40.	[B.B.] Bič boží	8	114121km2	16377199	Světlo Země(#876) - BOB DYLAN

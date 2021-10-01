@@ -1,0 +1,42 @@
+21. VĚK
+#	Aliance	Členů	Rozloha	Prestiž	Předseda
+1.	[tAoW] the Art of War	10	290163km2	69193264	Huhulakof fon gumos(#295) - Sanysek
+2.	[SR] Schuster Rudolf	10	168874km2	57530894	Smetisko(#307) - Puklica
+3.	[RDA] Red Dwarf Aliance	10	198138km2	47457063	Mimas(#2566) - Keeldon
+4.	[D:Mages] Dark Mages	10	149726km2	37459473	Mirzzaland(#956) - Mirzza
+5.	[SZVM] Spojené země války a míru	10	160581km2	37071227	pandemieSARS(#175) - Fox I.
+6.	[AYES] AYES	8	128669km2	33513638	Elodrádo(#266) - alu
+7.	[H.M.S.] Ark Royal	10	136136km2	32597682	Lancaster(#18) - Chester
+8.	[SP] Společenstvo Prstenů	10	164175km2	29209962	Vůdce stáda tupých ovcí(#860) - Sir Peko
+9.	[DW] Dark Warriors	10	118632km2	27596384	VospaxLand(#82) - vospaxík
+10.	[T] Tým	10	154533km2	26584889	orel(#444) - neron
+11.	[/Y-X-T/] Yo-xototh	10	126968km2	24805740	Les pays de Lord Biggus(#1100) - Už jenom Biggus
+12.	[G.F.F.B.] Good folks from Bojnice	10	165790km2	24708960	my paradise(#3501) - biroigor
+13.	[S.D.E] Solar and Dark Empire	8	109214km2	23607127	Freefall(#327) - Kleky
+14.	[FF] Final Fantasy	10	117494km2	23014206	Mysidia(#24) - Kurtz
+15.	[H.C.D.Z.] HromadnaCestaDrogoveZavislych	8	136464km2	21738717	JEDILAND(#631) - KANTYNA
+16.	[HOR] Heroes of Rofenhaven	3	55305km2	21116500	Gaborn Vel Orden(#4020) - ParaZit
+17.	[MA] MAsters	10	132733km2	20602389	Horné Grgy(#472) - Rammstick
+18.	[N.O.D.] Brotherhood of N.O.D.	8	91472km2	20466569	Mladepole(#337) - Mladepole
+19.	[KKS] Královská Koloniální Aliance	10	108066km2	19141037	Říše Římská(#788) - colonial marine
+20.	[M.O.T.S.] Masters Of The Shadows	8	98512km2	18011928	I hope for better future(#44) - Arthur.
+21.	[M.T.] Marena a Tomassonic	3	76909km2	17928850	Leoland(#4713) - Sexpert
+22.	[OSW] One Sweet World	8	116813km2	17001064	Dare Mon(#333) - Cernunnos
+23.	[-=G*V=-] Group V	10	107692km2	16721561	Bagrovisko(#1594) - pan Vegetka
+24.	[X303] BC Prometheus	7	87958km2	16496583	BetterWay(#969) - REndlik
+25.	[BV] Borečci Vítězí	5	71159km2	16459020	Tampa Bay(#968) - Boreček
+26.	[WINta] War is not the answer	9	118350km2	16303214	Parodie demokrata(#1977) - Mr.Freezy
+27.	[EFTL] Eclipse faster then light	10	117581km2	16037953	Desatero Lemplos(#280) - Lemplos
+28.	[TC] Terror Crew	10	118324km2	15612087	Tiberius Claudius Nero(#424) - Premalisk
+29.	[WW] WarWolves	7	106231km2	15341233	jominkov(#2000) - jominek
+30.	[GCC] Gundrum City Corporation	9	124331km2	15190736	Reptilie(#185) - JNK
+31.	[DW2] Dark Warriors 2	6	116420km2	15108934	ICE Planet(#793) - adameen
+32.	[IM] Imperium	8	115083km2	15077905	DELTA(#427) - Linger
+33.	[NASA] NASA	10	120749km2	14987978	San Salvador(#3468) - AAABBBCCC
+34.	[SKN] SkyNet	9	101925km2	14926479	SG Land(#2473) - Frizi
+35.	[=DS=] Dog Soldiers	7	116653km2	14894865	Philmanov(#2035) - Philman
+36.	[BAR] The Barbars	10	105393km2	14664411	EE UU II A OO(#2558) - Hary Trade
+37.	[HQ] High Quality	10	121623km2	14622100	Gorky(#1645) - HQWeR
+38.	[H2] Heroes II	10	147327km2	14454080	Nordic Thunder(#219) - Rien Satori
+39.	[KADAN] Kaliči A Děsně Aktivní Násosky	10	98624km2	14362001	KADAN NAVY(#490) - Gahli
+40.	[=ALFA=] Alternativní Liga Faktoru ADA	10	82573km2	14295664	Worland(#132) - Lord Dalio

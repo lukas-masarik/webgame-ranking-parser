@@ -1,0 +1,42 @@
+78. VĚK
+#	Aliance	Členů	Rozloha	Prestiž	Předseda
+1.	[VTIP] Mistři Smíchu opět v akci	10	182245km2	39168369	Vtipný Limoboy(#438) - .Hellboy.
+2.	[*`=/-.,] Supramaniacs	10	166994km2	37214560	SupraManiac(#157) - Supra1Soul5Play
+3.	[RAPTOR] TEAM RAPTOR	10	164344km2	36424956	Valach v Praze(#1716) - Aram Chroustal
+4.	[Across] Idealistic Organization	10	167722km2	34335084	PUSH UP EFFECT(#1175) - marv III
+5.	[Ganja] GANJA	10	171409km2	34224709	Alkáč, neboli alkoholik(#2803) - ..Hanz..
+6.	[CoverUni] CoverUni	10	156256km2	34168669	God Bless You(#1397) - jedi malec
+7.	[VVC] Vultures in Vivid Color	9	127352km2	31555291	Registrace nové země 2(#1033) - nothing left
+8.	[KULE7] KULE7	7	140563km2	30116658	Slečinka Art of Flight(#3508) - dzafa kri.
+9.	[OKNO] O Kvalitě Nežertujeme	10	149251km2	29850933	OKNO - Na zawsze(#195) - leszek
+10.	[MTG] Má To Grády	10	134872km2	29806954	Arnold Jidas Rimmer(#243) - Angelus66
+11.	[.hunteRs] We are .hunteRs	10	172799km2	29336497	.hunteRs.NoiseBomb(#213) - FRaktura
+12.	[KUK] KUK-KLAN	10	170019km2	29330283	Hyperion(#990) - predator xxl
+13.	[ChRTI] Charita Robustního Tahání Int.	9	136212km2	29206626	ChRT hluboký vRT(#1287) - M0lna
+14.	[ToAn] Tonik s Analni stavkou	10	144757km2	28981488	Natrzene koule vybratorem(#953) - devilLH
+15.	[ČD] České dráhy, jsme tady pro Vás	10	150644km2	28841741	=_Sp 1722 Santon_=(#1173) - cvachta
+16.	[PŠTROSI] Luxujou kokain svými nosy	9	126167km2	28318349	Pštros prasák(#579) - Dark Phoenix
+17.	[PH] Peha	7	105221km2	27776190	Duško Kreken(#1776) - gorbatčov
+18.	[-BLOOD-] Blood and Bone	10	129111km2	27675419	Nikdy neodmlouvej kámo(#2069) - losos123
+19.	[NNFoF] No Name Full Of Fame	9	123884km2	26874954	Načelnik pohodař(#151) - leszek
+20.	[KABAT] COMEBACK	10	117098km2	26433266	FEDERER ROGER(#618) - Agassi...
+21.	[HO] Hellsing Organization	6	114637km2	25652363	Bloody Foothills(#307) - Alandriel
+22.	[CHRO] Ultimate Chrownage Team	10	134053km2	25633989	Budoucnost je v jádru(#1699) - Duke Nukem
+23.	[SWINGERS] Nadržané slečinky	7	104230km2	25530449	Lela Star(#3420) - Lord IVCO
+24.	[UVVB] Uzené veverky v buřtech	10	144398km2	25322356	Manzanie(#390) - Sir Robertini
+25.	[DEAD] Milujem to :*	8	113834km2	25132482	-DEAD-Sergej Petrovic(#669) - Serega
+26.	[Anarchy] Farma k farmě sedá...	10	115547km2	24779147	Anarchy(#2882) - thordevil
+27.	[STARS] STARS	8	120349km2	24316247	NEX.J0k3R(#1314) - j0k3r
+28.	[.L.O.S.] Losáci ze severu	10	135353km2	24288719	LOS made in Božkov(#2400) - Topisek
+29.	[-=THC=-] The Heroic Company	10	135508km2	24273604	The Heroic Čulapchorn(#197) - Čulapchorn
+30.	[MDPA] MorDPartA	10	109356km2	24228951	Quatzalcoatl(#310) - a18m1g5d15n
+31.	[DIVETIM] Divide et Impera	8	94190km2	24027080	Quo vadis?(#1441) - Hanja2
+32.	[s.p.k.] spolek přátel koz	10	120083km2	23978758	Šíňan Nakánoj(#1115) - Phoenyks
+33.	[ČSB] ČehoSeBojím	10	130303km2	23518924	Bojím se bobrů(#322) - Icexxx036
+34.	[COOL] Corporation of obscene lambs	10	141011km2	23207165	Smrtící expres ráže .45(#1202) - Godzil I.
+35.	[CMEPTb] CMEPTb OKKYNAHTAM	10	137268km2	22857053	CMEPTb Katya Budanova(#1921) - abra123
+36.	[=UCHN=] Univerzita Chucka Norrise	10	126382km2	22728965	Mr.Chuck Norris(#45) - Walker
+37.	[AveCesar] AveCesar a alea iacta est.	10	116365km2	22427489	.:AveCesar:.Mšec(#526) - Ares65
+38.	[DF2] Dark Family II.	9	130814km2	22205975	S fackal sem svyho synka(#643) - Lord Biry
+39.	[akatsuki] Společenstvo zlosynů	7	104942km2	22082711	G@UN3R - sixth house(#1777) - Lord Dan
+40.	[atrs] Anti talenti, rozlámaný sáňky	9	109009km2	22054779	Nacre fortress(#1501) - anduril

@@ -1,0 +1,42 @@
+85. VĚK
+#	Aliance	Členů	Rozloha	Prestiž	Předseda
+1.	[ManG] Maniiax Gang	10	183753km2	50692733	Slečinka de puta madre(#1575) - mara8
+2.	[**CQR**] Conquerors	9	143432km2	49038621	Dark Conqueror(#336) - vanna
+3.	[PLATINUM] Jdeme to zkusit	10	181081km2	43919783	SON OF A PREACHER MAN(#260) - HypnoticaL
+4.	[BOUNTY] Vánoce, Vánoce přicházejí	10	148365km2	43761855	Ali Baba a 40 loupežníků(#451) - Sjezdovka
+5.	[sP`] Společenství Pyčynek	10	160939km2	41945776	=)(#277) - sparke
+6.	[ICE] Ice Ice Baby	10	145983km2	41791444	Ledňáček(#1702) - DJ.Snowman
+7.	[D1R1GENT] jedem si bomby	10	112846km2	39163010	ToP 1(#1327) - Morfeus
+8.	[RAPTOR] TEAM RAPTOR	10	151109km2	38460135	Valach v Praze(#330) - Aram Chroustal
+9.	[ManG14] Maniiax Gang 14	10	133084km2	37613339	Namyslená slečinka(#983) - van dame
+10.	[M] MOON	10	129984km2	37472436	Atlan(#270) - Atlantik
+11.	[R3D] H0T and wý ár d best .)	7	134086km2	36256156	Push the R3D button(#3275) - .Tommy33.
+12.	[=*ss*=] Sex Shop	10	107780km2	35432089	PLATINUM je ZLO(#3236) - Gyriko
+13.	[ČSLA] Československá lidová armáda	10	152663km2	35369876	.:CZ-SK:.Dum spiro,spero(#2026) - KalinV
+14.	[.::R::.] Rytíři	10	124048km2	35294740	Astičkov(#264) - Asticka
+15.	[ToAn] Tornádo v Anále	10	137457km2	33993362	Regelschmerzen(#942) - devilLH
+16.	[Rounders] Let`s play some cards	10	137832km2	33874133	Ubi pus, ibi evacua(#163) - Dezider
+17.	[Vendetta] La legge del taglione	8	144905km2	33378845	La legge del taglione(#71) - Sneer
+18.	[Bombing2] A zase s chutí do toho:D	10	144685km2	32376541	Bombing strejcek:)(#111) - Kuboj
+19.	[Ganja] GANJA	10	162314km2	31871869	Alkáč, neboli alkoholik(#456) - ..Hanz..
+20.	[1O] Executors s.r.o.	10	112411km2	31320544	70mg_Efedrinu+850mg_Cofe(#1649) - Eph3dr1ne
+21.	[BFP] Bad Fat Pipe	10	154511km2	31299863	boheMISTA(#338) - Mista
+22.	[VALHERU] VALHERU	10	102419km2	30341751	hlína pro všechny?jasně(#1089) - kovadlina prvni
+23.	[pche] pche	8	133177km2	29363689	VALKAC LA VENGANZA(#3431) - inkvizitoor
+24.	[AC/DC] Back in Black	10	94327km2	28928378	Ego sum via veritas(#165) - podwratak
+25.	[MFP] .:MFP:.	10	141914km2	28644557	Makač Jusufus(#2279) - jusufus
+26.	[ČD] České dráhy, jsme tady pro Vás	10	144240km2	28279253	=_EN 444 Slovakia_=(#1280) - cvachta
+27.	[.hunteRs] We are .hunteRs	10	168161km2	27578499	.hunteRs.Ghost(#178) - turalu
+28.	[-=THC=-] The Heroic Company	10	119203km2	27552650	The Heroic Čulapchorn(#637) - Čulapchorn
+29.	[DDO] Drátem do Oka	10	152241km2	26597928	Buduj mír(#419) - Wariorrwg
+30.	[SR] Sonda do Ritulky	10	123315km2	26412964	Best from West ,`-(#683) - H3LL M4KER
+31.	[.L.O.S.] Alkoholický Losáci	10	110078km2	26367648	LOS made in Aesthetic(#804) - TyZoNn3k
+32.	[.:LWB:.] LandWirtrechtsBewegung	8	117248km2	25894197	Pon Farr(#521) - HolyShot
+33.	[NBS] Největší Blbci Světa	10	187213km2	25788387	Pááán Blbec(#139) - Walker
+34.	[*SnsrN*] s nami si radsej nezacinaj	10	131303km2	25738143	0011001100101101011110011(#1865) - fagancek2
+35.	[S*K] Skunk Teritory	10	118104km2	25263930	zhulendrov(#692) - Bigbosh2
+36.	[MaGGoT] M a G G o T s	10	118267km2	24845133	MaGGoT(#61) - vencik.own.cz
+37.	[*WiNDe*] RULE THE WG	10	138893km2	24496949	.:W:. Myš pod peřinou(#1297) - Revelation3
+38.	[Anarchy]	10	119224km2	24299005	Touha je zázrak, kámo...(#1580) - thordevil
+39.	[PEACE] Make love, no war	8	109720km2	23645497	Al Káida(#2614) - gazaxon
+40.	[AlkoholX] Best friends of tecutins	10	110166km2	23567765	Master of the Wild Hunt(#682) - Uaah

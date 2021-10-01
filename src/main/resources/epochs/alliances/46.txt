@@ -1,0 +1,42 @@
+46. VĚK
+#	Aliance	Členů	Rozloha	Prestiž	Předseda
+1.	[1000] 1000 dívčích otázek	12	185755km2	62251749	Můžu otěhotnět sPavoukem?(#4304) - Francimor Veliký
+2.	[ČSLA] Česko-Slovenská Lidová Armáda	12	239669km2	58842416	.:CZ-SK:.Dum spiro,spero(#46) - KalinV
+3.	[KEVLAR] kevlaR Reborn	12	230806km2	55790228	Agent expert na zelene :)(#506) - HoGoPoGo
+4.	[=DS=] Dog Soldiers	12	215840km2	55303323	Esgaroth(#9871) - CrazyBob
+5.	[H5N1] Chore sliepky	12	230211km2	50940030	Nedráždi kobru bosouNohou(#2618) - Romulus.
+6.	[ganja] GANJA	12	203495km2	49627744	země vožralů(#614) - Joker16.
+7.	[Zoo*LWB] spojeni 2 alianci	12	226888km2	47441967	Želvička(#380) - XXXGrey
+8.	[Tabáček] Tabáček aneb Nulky opet utoci	12	185722km2	45322297	oooooooooooooooooooo(#3918) - snasa1
+9.	[R3D] - HOT and Tommy`s Asses	12	220732km2	44267624	Cheeesy`s R3D ass(#7407) - .Tommy33.
+10.	[.ganja.] ganja	12	217569km2	43342044	Kdyzmaturitutakprovsechny(#5748) - Joker16.
+11.	[KL] Killing Legion	12	174274km2	43219272	Killer Reska(#5297) - Reskator
+12.	[.A.] ASSASSINS	12	227467km2	39093733	.:.:ASSASSIN:.:.(#8177) - Blackthunder
+13.	[HeHe] Heaven`s Hell	12	195791km2	36017334	ozzywascrazy(#4991) - Chaos leader
+14.	[.:V3R:.] Velká revoluce - škola	12	162808km2	35857343	Bojuju za to, v co věřím(#706) - N4tive
+15.	[MoM3] Morbid obituary Message	12	151276km2	35097563	Nepropadejte panice(#533) - mixhail
+16.	[ManG8] Maniiax gang 8	12	147003km2	34221465	Slečinka Ezekiel 25.17(#8168) - Peugo407
+17.	[NGOHG] NewGenerationOfHardGaming	12	165601km2	33341713	Subík Rafác(#52) - Chlupovo
+18.	[KOMPLEX] Zakomplexovani skilleri	11	142833km2	33331280	BlackMesa(#10165) - CoolFire
+19.	[.:V6R:.] Univerzita Velké Revoluce	12	191847km2	32548678	Endorin(#6077) - Smrtka15
+20.	[SPARK] dopujeme špenát, špek a sejra	12	148271km2	32425959	//SPARK\ CHIVAS REGAL(#80) - Belter
+21.	[IBHZK] =I=B=H=Z=K=	12	188622km2	32144953	FAiRLiGHT(#42) - R0CK3D
+22.	[RAF] ROYAL AIR FORCE	5	94563km2	31862759	?????????????????????????(#4256) - Rhoods
+23.	[MZA] Malá Zlá Aliance	10	148740km2	31768271	Pardeeho vlna(#1454) - Michellion
+24.	[-=AB=-] Atomic Bomberman	12	162966km2	31695135	Bomberman Sph1nx(#2145) - Sph1nx
+25.	[Wrath] Univerzita	12	186664km2	30527037	The Hybrid Theory(#4225) - Gxx
+26.	[P-V] Pouta války	10	132413km2	30174356	DDT(#2403) - Mandelinka Bram.
+27.	[=SYNTIA=] =SYNTIA=	12	145937km2	29691137	=SYNTIA= ROLANDKO(#382) - Gazsi
+28.	[Lotta] Lotta per la sopravvivenza	11	151724km2	29661459	Neslušnák707(#4999) - Prefik
+29.	[***B***] BENDA s.r.o.	12	160890km2	29318956	***B*** land 01(#81) - 10987654321
+30.	[.::VR::.] velká revoluce	10	135974km2	29139927	EUROTRIP(#4827) - Mocný Karel
+31.	[FoS] fraction of second	12	172752km2	29093338	gutenftak(#2181) - povasek
+32.	[-GW-] Green Way	12	171591km2	28999227	Al Quarra Coyonlu(#37) - Kubikk84
+33.	[*Winde*] Imperium Winde	11	152586km2	28980695	::::WinduW::::(#2508) - .www.king.cz.
+34.	[ThermX] ThermX	5	74064km2	28851630	-TX- RelliK(#4409) - Alienware
+35.	[cz-sk] CeskoSlovensko	12	173604km2	28235766	.:cz-sk:.Zeus(#9312) - Vladce Seanix
+36.	[GRF] Gryff	12	146402km2	28051704	Gryff z Erathie(#2931) - ZapasnikII
+37.	[nLnF] no Luck no Frag	11	161458km2	27909028	nLnF_Dinin Do`Urden(#5118) - Raj.Ahten
+38.	[-posn-] Pravá -osn-	12	144884km2	27461967	-osn- metal is 4ever(#7525) - Mydliak
+39.	[Kačerov] My z Kačerova	12	146653km2	27211267	Rampa McKvák(#11479) - ...Kápo...
+40.	[.-T-.] TOXIC 4EVER	8	105331km2	27046297	iLOVEi(#6033) - Blade

@@ -1,0 +1,42 @@
+138. VĚK
+#	Aliance	Členů	Rozloha	Prestiž	Předseda
+1.	[CAR] CAR	10	209024km2	79196038	atlan, milujeme ta(#1438) - N00N3
+2.	[*UF*] United Farms	10	167880km2	64222226	Defender(#40) - Dr.Leckter
+3.	[Rafani] Rafani na pohodu	10	179033km2	52924012	Chlív(#135) - SprávceChlívku
+4.	[ALIVE] Alivaci	10	116095km2	43517727	-ALIVE-Zrodila se Rigozda(#421) - ppedrnikar
+5.	[MRUK] Soustava planet MRUK	10	141372km2	41813685	Elon Musk jr.(#1424) - Drunken
+6.	[FETKA] Fetuj jako ponrava	10	137908km2	40782778	Ponrava(#77) - Estetik
+7.	[T3R0R1ST] T3R0R1ST1	10	148092km2	40512750	STRAŠNEPEKNÝNÁSILNÍKEDKO(#466) - G.R.E.E.K
+8.	[Tabáček] Tabáček	10	130719km2	39498148	Alea lacta Est(#96969) - snasa1
+9.	[PhaMa] Phantasma Mayhem	10	134836km2	38744423	Tamaki(#470) - bukvicka13
+10.	[MENSA] ...prostě (j)elita :)	10	156563km2	37322953	STEPHEN HAWKING(#146) - Sir Extrem
+11.	[queens] QUEENS	10	135780km2	35153980	Pavilon 8 AHC(#155) - gorem
+12.	[VZP] Vyvrženci z pekla	10	145130km2	34818417	Vyvrženec Sal Paradise(#342) - Degee mDfK
+13.	[68] 68	10	142136km2	34758373	Artek(#304) - Jurgens
+14.	[Across] Idealistic Organization	10	155322km2	33549930	RHODODENDRON(#539) - marv III
+15.	[-=L*F=-] LAMAFARMA	10	143834km2	32992975	LAMAFARMA(#114) - Chujo
+16.	[**CQR**] Conquerors	10	139987km2	32488332	Dark Conqueror(#229) - vanna
+17.	[PíPíBí] Power Puff Boys	10	163627km2	31991127	Professor Utonium(#108) - LordStilgar
+18.	[KaMiKaZe] Bum Bác	10	129547km2	31850780	Rozruch(#198) - o.O.oDin
+19.	[MK] Immortal knights	10	127524km2	31822822	kliksemkliktam(#901) - uzid
+20.	[-=DH=-] Dark Hunters	10	118859km2	31133060	.:P:.UNx NOT DEAD(#501) - Skillgannon
+21.	[WMYQ] We Make You Quit	10	135799km2	30554830	Technograd(#291) - zhn
+22.	[Jukatáni] Jukatáni	10	127531km2	29476688	uu ííííí u aáá(#1142) - Tattser
+23.	[B33r] Pivo dělá krásná těla	10	122146km2	29273753	Magnamundie(#1002) - Hones
+24.	[SPRITE] teď já budu sprite a ty žízeň	10	105450km2	27660032	Pocemkamdeš(#209) - demonstrate.
+25.	[Anarchy] Farmíme pro lepší minulost	10	135498km2	27649791	Srdce mi pofoukáš...(#195) - thordevil
+26.	[.hunteRs] Team .hunteRs	10	109339km2	26889255	.hunteRs.Ghost(#301) - turalu
+27.	[.:??:.] CeNsoReD	10	111906km2	25705452	?(#1008) - Vibrace
+28.	[SUX] parádní aliance :-*	8	123335km2	25448692	SUXessfull(#1135) - LuisFigo
+29.	[FBK] Fanclub bravčového kolena	10	155177km2	25297319	ALE JA SOM VY-HRAL(#102) - Mr. Sedlinno
+30.	[COVER] REVOC	10	145591km2	24938807	73737(#37373) - LuisFigo
+31.	[YOZZEFY] Yozzefy = expy	10	139100km2	24566826	Baron Babiš (čerpač)(#523) - Allegro
+32.	[CMEPTb] CMEPTb OKKYNAHTAM	10	134036km2	24212333	Who dares wins(#1428) - Doktor Dušan
+33.	[M] MOON	10	132498km2	24130387	Atlan(#888) - Atlantik
+34.	[HOM0] Honím ogary mokrým ocasem	10	132772km2	24019532	SR20DET(#1998) - SuperSkilla
+35.	[**SNK**] SmeNaKašu	10	118751km2	24000845	Liška Bystrouška na Kašu(#234) - Jitus21
+36.	[MaNTiNeL] Hlavu máš jak televizi	10	147715km2	23731561	Na Kridlech Valkyr(#197) - o.O.oDin
+37.	[BumBum2]	10	153158km2	23358346	omakalamihonakanapi(#625) - jckl
+38.	[n1] idioti navždy	10	115450km2	22720387	n1kdy mi neber fet(#147) - s.o.n.g.o.
+39.	[*WinDe**] Sedláci v žitě	10	116337km2	22713820	.:W:. šílený medvěd(#515) - Koumes
+40.	[=FF=] Po 10 letech na frigid čumendo	4	70800km2	22261007	Guloplesk(#858) - ttrtt

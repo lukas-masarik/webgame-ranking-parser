@@ -1,0 +1,42 @@
+114. VĚK
+#	Aliance	Členů	Rozloha	Prestiž	Předseda
+1.	[**CQR**] Conquerors	10	120336km2	48552163	Conqueror co má rád teror(#1475) - yuphon
+2.	[zzz] zzz	10	160981km2	41854661	Hefaystion(#1109) - High Warlord Rxz
+3.	[YOZZEFY] Yozzefy = expy	10	128578km2	38013312	Křýžkový Újezdec(#55) - Allegro
+4.	[Across] Idealistic Organization	10	151443km2	36558086	Boris Brejcha(#824) - marv III
+5.	[ItNofS] Ve jménu starých časů ...	10	141179km2	34811863	HyChyKyRyDyTyNy(#182) - PanMaur
+6.	[.:FaK:.] Fatima	10	134284km2	34729118	All Cops Are Brothers(#978) - sir.smrt
+7.	[ČSLA] Československá lidová armáda	10	150848km2	34467387	.:CZ-SK:.AK-47ProduceR(#989) - AKland
+8.	[68] 68	10	123802km2	34450626	Artek(#231) - Jurgens
+9.	[ALI1234] ALI1234	10	144762km2	33528503	usti(#1169) - vachys39
+10.	[MTG] Magic The Gathering	10	140056km2	32144275	-)MTG(- Asi vítr(#785) - SOH
+11.	[-=FE=-] Fatal noisE	10	126878km2	30937468	BuBubu(#563) - Lipolito
+12.	[Anarchy] Farmíme pro lepší minulost	9	124668km2	30693269	Touha je zázrak, kámo...(#329) - thordevil
+13.	[SUX] parádní aliance :D	10	145986km2	30593490	SUXessfull(#102) - LuisFigo
+14.	[.dot] Dobře organizovaná tlupa	10	122385km2	30064025	Fake of Lire(#188) - KURT
+15.	[M.S.K.] Morkovsky Saci Komando	10	127852km2	29819755	Annihilator(#210) - GanjaCore
+16.	[zmR3D] pasivka na expy	10	100514km2	29086957	zmR3D(#1204) - Deathwind
+17.	[MOVITS] MůvitS no.3	10	134960km2	28674579	Turecká říše(#1627) - Stalin2
+18.	[DICK] Dickovci	10	119525km2	28070424	Dickenzíbitelurpicherko(#1739) - Záchodové prkno
+19.	[MENSA] ...spolek jedlíků CHILLI	10	135083km2	27995240	Trinidad Scorpion Moruga(#1277) - Sir Extrem
+20.	[=202=] 011100507463	10	162605km2	27883968	00120001222101210(#971) - Gingi
+21.	[-osn-] Ofuk Starého Niktoša	10	112433km2	27307661	-osn- land of snow(#571) - Mydliak
+22.	[M] MOON	10	150210km2	26345961	Atlan(#414) - Atlantik
+23.	[BOUNTY] V pekle sudy válej	10	116141km2	26134815	Alibaba a 40 loupežníků(#1360) - Sjezdovka
+24.	[DF2] Dickey-Fuller	10	153616km2	25913991	Gotham(#1636) - ListerD1
+25.	[UTOP-X] UTOP-X Solar Utop Emperor	10	135740km2	25467031	PLANET-X Orbit of Nemesis(#740) - ZUMOTRIX
+26.	[KRIEGER] Válečníci	10	130249km2	24461422	KRIEGER Sebevědomá země(#104) - Vommel
+27.	[MZA] Mizerný Zlatokop Andrej	10	128098km2	24337530	Klekni si....(#872) - Michellion
+28.	[PLANET-X] PLANET-X Solaris Emperor	9	113242km2	24142191	PLANET-X Anunnaki King(#739) - ZUMOTRIX
+29.	[DF] Dark Family	6	108743km2	23937047	Hell_alone(#244) - GANYMEDES
+30.	[.L.O.S.] Losáci ze Severu	10	122093km2	23848731	LOS made in Destroyer(#1505) - BlackTears
+31.	[-=SWK=-] Scorpions Web Knights	10	118423km2	23645312	Tarvona(#1412) - Tarvon
+32.	[SPRITE] Teď já budu Sprajt a vy žízeň	10	128261km2	23495488	Pocemkamdeš(#431) - demonstrate
+33.	[IF] Ignorant Fools	10	138661km2	22273685	What a Wonderful World...(#1555) - Zorg
+34.	[Start] ...zase od začátku	10	110241km2	22193503	strejda KURT(#192) - KURT
+35.	[B33r] Pivo dělá krásná těla	10	93424km2	21978690	Holba(#115) - Hunder Druhý
+36.	[THZ] Tahle Hra Zaniká	10	95744km2	21910417	semi-automatic lonely boy(#448) - Zlýsin
+37.	[mXt] metaXtren	10	114498km2	21714071	Bobsteinovo(#1599) - BOBSTEIN
+38.	[IRA] Irska Republikanska Armada	10	111431km2	21420416	pakoflákov(#1468) - dexexsanulalaaaa
+39.	[Q.f.] Queen forever	10	105719km2	21057496	World Edik(#1135) - Edward
+40.	[Mega] Krstný Otec	10	104554km2	20771562	Jéjéjéjéjéééééééé(#1355) - Šel Pěšky

@@ -1,0 +1,42 @@
+131. VĚK
+#	Aliance	Členů	Rozloha	Prestiž	Předseda
+1.	[FETKA] Fetuj jako ponrava	10	173910km2	59714235	Ponrava jak stehno(#1437) - Estetik
+2.	[ZERO] ZačínajícíERotickáOrganizace	10	185334km2	51894158	dopřipravuju(#104) - Walden r Gwendor
+3.	[Ganja] ganja	10	179559km2	47785236	Mambo(#135) - Joker16.
+4.	[VENDETA] Nech je sranda :)	10	137620km2	43017598	Bloody Tommy Wiseau(#347) - Konopess
+5.	[NKL] Poslední Menu	10	146504km2	42813182	[NKL](#711) - 7000000
+6.	[SUX] parádní aliance :-*	10	168135km2	42757172	SUXessfull(#726) - LuisFigo
+7.	[80`s] Ejtýs gejs	10	179810km2	39072231	Walkman a mixtejpy(#239) - VooOool
+8.	[AiM] Aina Mörne	10	131163km2	38391228	In Domine Kytička(#1099) - Kwasak
+9.	[-WoW-] World of War	10	154426km2	37496791	Eror11(#535) - Eror11
+10.	[Anarchy] Farmíme pro horší budoucnost	10	134754km2	37182673	Dávno hledám druhý nebe(#101) - thordevil
+11.	[Tabáček] Tabáček	10	134060km2	36870539	Bozk na rozlučku(#566) - snasa1
+12.	[-=FE=-] Fatal noisE	10	135679km2	36601267	FEnixovaZahradaAsteroidů(#479) - fenix23
+13.	[SPRITE] Ted ja budu sprite a ty zizen	10	135897km2	36480671	Pocemkamdeš(#671) - demonstrate.
+14.	[.:YD:.] .:Your Death:.	10	152717km2	35019692	.:YD:. Old Times(#756) - White Dead
+15.	[PhaMa] Phantasma Mayhem	10	139563km2	33921267	PhaMa Abyss(#122) - bukvicka13
+16.	[KZ] Klátíme Zrzky	10	155621km2	32785534	Na pasece se pasou motýly(#654) - PozarniSbor
+17.	[M.A.] Meziplanetární Aliance	10	122174km2	32311084	Fakin Hobol(#808) - smudlas
+18.	[PKZ] Prdeli Ke Zdi	10	135905km2	32040866	.::PKZ Ragnarok::.(#565) - Kwasak
+19.	[**SNK**] SmeNaKašu	10	119553km2	31956550	Liška Bystrouška na Kašu(#174) - Jitus21
+20.	[lF] Ignorant Fools	10	151092km2	31682430	Čaroděj ze země (k)oz(#35) - nezbedny bohus
+21.	[-=PINP=-] PANDAS IN PYJAMAS	10	123796km2	31351990	Schönau am Königsee(#614) - Herr II
+22.	[DEAD] Danisuv Penachym	10	122817km2	30824689	-DEAD-DanikNemaPenachym(#985) - Diák
+23.	[.:UV:.] Usmolení vidláci	10	114407km2	30769293	Dřepy na okurkovém poli(#34) - RegiFcb
+24.	[BOUNTY] Dávám bolševikovi rok, max dva	10	140890km2	30626209	Funda a 40 loupežníků(#1059) - Sjezdovka
+25.	[VzP] Vyvrženci z Pekla	10	118958km2	29494704	Vyvrženec Othis(#129) - StillDeadCZ
+26.	[KL] Killing Legion	10	147795km2	29387668	Gomorra di Napoli(#588) - Reskator
+27.	[MENSA] ...liga výjimečných	10	132205km2	29233527	STEPHEN HAWKING(#113) - Sir Extrem
+28.	[=T=] Trója	9	149438km2	28941174	Winter is coming..(#233) - FR3EZY
+29.	[...EX...] ..............EX..............	10	144236km2	28500340	Teletabis(#58) - Tinky binky ex
+30.	[YOZZEFY] Yozzefy = expy	10	112922km2	27121857	Kampaň proti Burešovi(#118) - Allegro
+31.	[FReaKS] Sluníčkové princezničky	10	103490km2	26911253	Princezna z kAnálu(#36) - CH40T1K
+32.	[.L.O.S.] Losáci na Slovensku	9	130522km2	25905733	LOS made in Zhonguo(#37) - Topisek
+33.	[90`s] Najntýs bruv	10	139552km2	25489086	Knajt rajdr(#249) - VooOool
+34.	[RoboUtop] Máme rádi jaro	10	117159km2	25079931	RU zovej tank(#216) - Lord Carcharias
+35.	[BU] Beer Unlimited	10	106261km2	24604855	Z1L1NSKY STAT(#585) - deweon
+36.	[MK] Immortal knights	10	107560km2	24536427	kliksemkliktam(#710) - uzid
+37.	[Friend] Friend	8	118464km2	24503427	Premiéra za Demo(#738) - the last Hero
+38.	[LoF] Lost and Found	10	112329km2	22382727	Hledá se Dory(#1473) - TuNKy
+39.	[-THC-] Strana zelených	10	142584km2	22260600	Snorri_Killa(#714) - Method Man
+40.	[NBTN] Neser Bo Te Naseru	10	122796km2	22059229	RS-24 Yars(#529) - luque

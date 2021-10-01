@@ -1,0 +1,42 @@
+136. VĚK
+#	Aliance	Členů	Rozloha	Prestiž	Předseda
+1.	[K] Kocouři :)*	10	162750km2	51774261	Liliana(#353) - Defectorr
+2.	[Ganja] ganja	10	178373km2	45622036	Mambo(#919) - Joker16.
+3.	[SUX] prostě aliance :-O	10	186623km2	45148423	SUXessfull(#644) - LuisFigo
+4.	[IF] Ignorant Fools	10	141406km2	44575883	Čaroděj ze země (k)oz(#237) - nezbedny bohus
+5.	[WG-Elite] WG-Elite	10	118285km2	44397281	I hope you die(#357) - Erethil II.
+6.	[VENDETA] Po roku znova spolu :)	10	171209km2	43812963	Bloody Tommy Wiseau(#410) - Konopess
+7.	[DEAD] Squirtle squad	10	171037km2	42938910	-DEAD-PpepeNemaPenachym(#111) - Diák
+8.	[*WinDe**] Sedláci a prasata	10	135068km2	42143710	FreeRider(#1003) - Koumes
+9.	[MENSA] ...prostě (j)elita :)	10	139663km2	39866771	STEPHEN HAWKING(#158) - Sir Extrem
+10.	[Across] Idealistic Organization	10	165332km2	38070459	Green Velvet(#107) - marv III
+11.	[AiM] Aina Mörne	10	129498km2	37781677	Halucinogenní kytička(#284) - fenix23
+12.	[YOZZEFY] Yozzefy = diplomacie	10	140610km2	37019990	Burešův seznam(#600) - Allegro
+13.	[FETKA] Fetuj jako ponrava	10	116503km2	36931754	Ponrava(#80) - Estetik
+14.	[queens] QUEENS	10	145775km2	36931012	Pavilon 8 AHC(#142) - gorem
+15.	[WMYQ] We Make You Quit	10	137963km2	36599582	Technograd(#341) - zhn
+16.	[RUM] Rozhodně Umělecký Mančaft	10	142241km2	34444445	****(#321) - Tomino Gerino
+17.	[Anarchy] Farmíme pro horší minulost	10	116624km2	34051703	Hledáme ve hvězdách...(#162) - thordevil
+18.	[.:xXx:.] CENSORED	10	123410km2	33493595	HELL-fire(#10000) - wasabi666
+19.	[**CQR**] Conquerors	10	123880km2	32620699	Dark Conqueror(#942) - vanna
+20.	[PhaMa] Phantasma Mayhem	10	121715km2	32497150	Barbie(#476) - bukvicka13
+21.	[AF] Asociace Famfrpálu	10	176248km2	32284331	Bambus 2000(#1628) - Harry Oser
+22.	[MORE] CRYING	10	153568km2	31866187	No Woman No Cry(#202) - Mr. Sedlinno
+23.	[)CD(] CéDéčka	10	129235km2	29924557	Grýn(#372) - green88
+24.	[CMEPTb] CMEPTb OKKYNAHTAM	10	141767km2	29360897	Infin1ty(#601) - Doktor Fero
+25.	[SPRITE] Teď já budu Sprite a ty žízeň	10	106468km2	27890151	Pocemkamdeš(#409) - demonstrate.
+26.	[SRAN] Tvoje máma	9	118068km2	27378952	Přírodní kapsa tvojí mámy(#883) - Vládce Kabraxis
+27.	[B.K.] Blitzkrieg	10	120866km2	26975743	SAYONARA(#1052) - U.U
+28.	[B33r] Pivo dělá krásná těla	10	113736km2	26913145	Magnamundie(#738) - Hones
+29.	[G-K] Guti kde si? :(	10	102194km2	26581128	Bun Bun je dealer bomb(#301) - Bun Bun
+30.	[**SNK**] SmeNaKašu	10	123458km2	26476182	Liška Bystrouška na Kašu(#199) - Jitus21
+31.	[CRASH] backstreet bois	10	130891km2	26148365	Poopcoin Patrick(#155) - Grafical
+32.	[D1000] Dům tisíce mrtvol	10	114054km2	25532798	Vyvrženec Othis(#127) - StillDeadCZ
+33.	[WG-Yang] WG-Yang	8	99504km2	25026770	Comfortably Numb(#538) - Erethil II.
+34.	[LEGO] stavíme Süleymanovu mešitu	10	99679km2	23839437	LEGO PaedDr. Archi CSc.(#1032) - ArchimondS
+35.	[*WinDe*] Tvrdý a neúprosný	10	131349km2	23460641	.:W:. blazniva Veverka(#1001) - Koumes
+36.	[DsP] Desperados	10	103687km2	22620702	Zkusíme to zas(#299) - Blaag
+37.	[VGHS] Video Game High School	5	64532km2	22524662	Stink(#730) - budhahahahaha
+38.	[VZP] Vyvrženci z pekla	10	160732km2	22311951	Vyvrženec Rufus Dwirefald(#124) - StillDeadCZ
+39.	[MAFIE] MAFIE	8	109526km2	21880652	Zeme velikonocnich koz(#1524) - Sample.
+40.	[DEJAVU] The Show Must Go On	4	64566km2	20949679	Jason Bourne(#329) - Comanndos

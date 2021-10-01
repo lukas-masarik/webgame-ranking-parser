@@ -1,0 +1,42 @@
+25. VĚK
+#	Aliance	Členů	Rozloha	Prestiž	Předseda
+1.	[VÍCADMIN] Víceadministrátoři Webgame	10	216084km2	67446946	.udounek.(#3393) - br4insh4ker
+2.	[TH] Ti hodní	10	165899km2	67341726	Bramborka(#1013) - Mandelinka Bram.
+3.	[ICQ] I Seek You	10	185516km2	59241482	119310584(#888) - Black Warrior
+4.	[VK] Vibračné Kadidlo	10	165499km2	51334081	Těžká vibrační souprava(#209) - Razor
+5.	[SP] Společenstvo prstenů	10	171885km2	50260955	Rudná země(#388) - Sir Peko
+6.	[S.D.E] Solar and Dark Empire	10	172507km2	48043998	Freefall(#94) - Kleky
+7.	[UFO] Ufouni útočí	10	118851km2	47009320	Sekec Mazec(#63) - Zaribel
+8.	[=DS=] Dog Soldiers	10	196574km2	45769917	Philmanov(#589) - Philman
+9.	[SR] Sexuálna Rozkoš	10	189140km2	43792974	Vykúrený zajko(#536) - Tan X.
+10.	[H2] Heroes II za obnoveni Boromira	10	98472km2	41896849	Nordic Thunder(#2642) - Rien Satori
+11.	[MK] Immortal Knights	10	154050km2	41472371	Apocalypsa(#1033) - Zorg
+12.	[NOEco] New Order Economics	10	143408km2	40586323	Samba(#285) - RC
+13.	[HOPRDOX] HOlou Prdeli DO Xichtu	10	156279km2	37506886	Pathetic Torture(#177) - Abduktor
+14.	[SB] SpikeBallers	10	127430km2	37308659	OCHO(#714) - survival.
+15.	[SoL] Sequence of Light	10	150810km2	37066271	PoDsPrChOuNaVoJnEoNaNyJa(#7442) - pyroman
+16.	[X-F] AnvilOfJustice	10	145235km2	34678853	BattleField(#6098) - ShamanX
+17.	[RDA] Red Dwarf Aliance	10	141853km2	32770164	Mimas(#5045) - Keeldon
+18.	[3rdWorld] Third World Chaos	9	186582km2	30341387	Territory(#2716) - orgasmatron
+19.	[ORION] Naša čokoládová hviezda	9	96455km2	29634098	Modré z nebe(#2066) - Achran
+20.	[BŘEZ] Březolupy Clan	10	138102km2	29302727	Kozí Řádek(#3718) - Paja7
+21.	[VrrVrr] VrrVrr	10	120080km2	28516563	WhatTheHell(#1293) - hellman
+22.	[/Y-X-T/] Yo-xototh	10	101709km2	28358179	lol a loleq(#2965) - Už jenom Biggus
+23.	[Sleepers] The Sleepers	10	124600km2	27337435	Persia(#1137) - rivvy
+24.	[HV] Hastala Vista	10	149961km2	26856150	hv.mysteria.cz(#555) - Abraham
+25.	[CfM] Cannabis for Men	10	125397km2	25859165	JabloCity(#1160) - s.Merlin
+26.	[WG] 4077 Walmez Ghetto	10	131083km2	25698647	Sherman T. Potter(#643) - Lag
+27.	[VRCH] Highland	10	108065km2	25301114	Drahanská vrchovina(#60) - Maharai
+28.	[B.K.] Blitz Krieg	9	122871km2	25151956	BOTSWANA(#5273) - Stanley VII
+29.	[SD-6] SD-6	8	109952km2	25065018	Omena(#7364) - Magius
+30.	[BUM] Bum bum bum	9	147993km2	25035221	Evilland(#4682) - Krlesh The Big
+31.	[AYES] AYES	8	116276km2	24799306	Eldorado(#289) - alu
+32.	[OS] OtherSide	10	118784km2	24464528	Vlcak jak dobrman(#2234) - DOG of WAR
+33.	[OPPV] Organizace Pro Právo Vraždit	10	123717km2	24420685	Ideopolice(#3696) - Xaralis
+34.	[TSŽ] Technicke Služby Žatec	10	106949km2	24416140	Avis(#3071) - Dhany
+35.	[FF] Final Fantasy	9	121018km2	24385147	Lord of Destiny(#2470) - Battleruler
+36.	[D.Z.H.C.] DrogověZávislýHledajíCíl	10	144753km2	23869348	Kadaland(#1515) - Kadalora
+37.	[coRp] coRp crew	9	89558km2	23759072	coRpLand(#7091) - cFg
+38.	[M.O.T.S.] Masters Of The Shadows	10	103351km2	22269086	Bučovice(#1108) - Arthur.
+39.	[MMO] Mezinárodní Mírová Organizace	10	104494km2	22037147	DeluxiA(#52) - RejnocK
+40.	[KKA] Královská koloniální aliance	8	99168km2	21774218	Britannia(#25) - LeosA

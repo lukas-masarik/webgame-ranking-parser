@@ -1,0 +1,42 @@
+74. VĚK
+#	Aliance	Členů	Rozloha	Prestiž	Předseda
+1.	[VTIP] Mistři Smíchu	10	208840km2	52836874	Vtipně jsem se ožral :P(#2209) - SiRvAcA
+2.	[BAMBUSKY] Vase zeme pojdu do zberu	10	188052km2	42903911	BOH odpúšťa JA nie(#131) - K.N.M KoLLo
+3.	[Across] Idealistic Organization	10	159928km2	39667970	marv III(#22) - marv III
+4.	[PH] Peha	7	140424km2	39507697	Jožko Kukuricúdus(#45) - gorbatčov
+5.	[Ganja] GANJA	10	167729km2	39031902	Střechy jsou mi chodníkem(#186) - Dhany
+6.	[DF] Dark Family	10	188452km2	37115801	Slecinka DF(#1168) - Hanz Guderian
+7.	[BFP] Bad Fat Pipe	10	150956km2	36361404	boheMista(#2577) - Mista
+8.	[VIR] VIR	10	116644km2	36317482	0010110001011111010100100(#2650) - FL4SHh@cker
+9.	[OKNO] O Kvalitě Nežertujeme	10	153788km2	35848511	Na otarcie lez masz cegle(#1044) - leszek
+10.	[ALI1234] ALI1234	10	143716km2	33326958	usti(#1914) - vachys39
+11.	[A.N.D.] Angels never die	10	148137km2	33096406	ARCHANGEL - Preturius(#2558) - Preturius
+12.	[DpN] Duchna pre Novačikov	10	128434km2	32261796	Zemička mistra Ťapíka(#102) - Evzen Hyberny
+13.	[=*DC*=] Dark Company	10	143154km2	31846663	Silent Town(#964) - Eldudik
+14.	[BOUNTY] Loď Jejího Veličenstva	10	127088km2	31558218	Wookiee Chewbacca(#2952) - Sjezdovka
+15.	[TemLeg] Temné legie	5	69590km2	30557427	Naboo(#237) - Dart.Kanne
+16.	[*M-E-E*] Magic earth Elemental	10	139882km2	30186053	*** Zem na Vymaz ****(#2037) - Moltar
+17.	[---] ---	10	151161km2	29862032	-?-(#2439) - throm
+18.	[ČSB] ČehoSeBojím	9	120312km2	29556075	Bojím se nás(#713) - Jackass Mild
+19.	[ICE] Ice ice baby	10	110242km2	29411700	Země(#2282) - DJ.Snowman
+20.	[*`=/-.,] SupraManiacs	10	138594km2	29073656	Back to the Old Skool(#67) - Supra1Soul5Play
+21.	[Lotta] Lotta per la sopravvivenza	10	169092km2	28791428	Qíčepu(#2349) - pelizid
+22.	[Wrath] The One and The Only	10	169176km2	28121976	Gxx(#2555) - Gxx
+23.	[KRTEČEK] Hrabáním k lepším zítřkům...	10	135715km2	28046574	Krteček a makovička(#2041) - IMraz
+24.	[Anarchy]	10	124130km2	27829397	Touha je zázrak, kámo...(#2431) - thordevil
+25.	[SR] Súlož a jej Rachot	8	146217km2	27305939	Podbruchovy lochtator(#1752) - Arachnid
+26.	[HUNTERS] Nečum nebo ti useknu ruku	10	127213km2	26494403	DETOX(#859) - srs14
+27.	[LEGO] stavíme eiffelovku	9	117375km2	25898307	LEGO(#2116) - Fusi
+28.	[VÍCADMIN] Víceadministrátoři Webgame	5	92056km2	25539528	brain`s hive(#569) - br4insh4ker
+29.	[Akatsuki] společenstvo zlosynů	10	121465km2	25477701	Bijuu Tobi(#507) - Lordisko
+30.	[-BLOOD-] Blood and Bone	10	112705km2	25142828	Nikdy neodmlouvej kámo(#2046) - losos123
+31.	[PíPíBí] Powerpuff Boys	9	116466km2	25096433	Mojo Jojo(#173) - Dr.Leckter
+32.	[...EX...] ............EX................	9	110375km2	24932220	Dobelice(#993) - Tinky binky ex
+33.	[:.AoA.:] Angels of Apocalypse	10	107706km2	24193715	Fallen Angel of Fake(#1011) - Infernus
+34.	[68] 68	9	123182km2	23209958	Artek(#334) - Jurgens
+35.	[CGHMN] CompuGlobalHyperMegaNet	7	93373km2	22585045	Peacemaker(#3115) - Mihall
+36.	[-WG-] WEBornej GAMEbrinus	6	86913km2	22427518	Eski Girl(#192) - Dhany
+37.	[Novinka] 7.1.1 K čemu jsou?	6	81838km2	22138584	right-back plan fails(#2225) - Theodoric
+38.	[*WiNDe*] NO HOPE	10	122808km2	22089678	.:W:. Myš pod peřinou(#2483) - Revelation3
+39.	[=*ss*=] Sex Shop	6	73484km2	21568474	de lege ferenda(#2081) - gerbera
+40.	[.hunteRs] Team .hunteRs	10	134678km2	21465833	.hunteRs.Afterlife(#193) - FRaktura

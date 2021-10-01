@@ -1,0 +1,42 @@
+90. VĚK
+#	Aliance	Členů	Rozloha	Prestiž	Předseda
+1.	[**CQR**] Conquerors	10	203685km2	58387877	Dark Conqueror(#277) - vanna
+2.	[M] MOON	10	194788km2	53680377	Atlan(#265) - Atlantik
+3.	[VT] Vitazne Tazenie Zombies	10	190647km2	50093557	Jedi v akci(#1249) - D.r.a.k.
+4.	[*WiNDe*] 4ever	10	188356km2	46709552	.:W:. Imperatorr(#450) - .www.king.cz.
+5.	[=T=] Trója	10	175014km2	46392319	Winter is coming..(#292) - FR3EZY
+6.	[T3R0R1ST] Somewhere in Ukraine..	10	163276km2	40548712	Dawe(#1020) - Cenzor3d
+7.	[Rafani] Rafanina výletě	10	166581km2	39936922	Chlív(#1097) - SprávceChlívku
+8.	[.DaZ.] Divocí a Zlí	10	190141km2	39864811	Magie Spravedlivé Mafie(#1855) - Sinthoras I.
+9.	[ZT] ZeroTolerance	10	177352km2	35643730	ZT ShutUpAndTakeMyMoney(#298) - bosinek
+10.	[S*K] Skunk Teritory	10	146496km2	33406722	RAPTOR Fundove jsou dobri(#877) - lostingheart
+11.	[COOL] Corporation of obscene lambs	10	149262km2	32647023	Smrtící expres ráže .45(#584) - Godzil I.
+12.	[-=DF=-] -=Destilat Fanatics=-	10	145605km2	32303913	-=DF=- Absolut Vodka(#306) - Michal44
+13.	[NBS] Největší blbci světa	10	168766km2	32276211	Can I help you?(#55) - Supra1Soul5Play
+14.	[AHA] Aliancia Láskavého Triumvirátu	10	149745km2	32269001	B*E*S*A*R*A*B*I*A(#604) - Abdul
+15.	[Bombing] Obnova Bombingu	10	139259km2	29417913	Bombing Hero(#1757) - the last Hero
+16.	[ItNofS] Ve jménu starých časů ...	10	133905km2	29049044	HyChyKyRyDyTyNy(#141) - PanMaur
+17.	[GoD] Game of Drones	10	126286km2	28970480	Tyrion Lannister(#443) - Drunk3n
+18.	[ETD] Ete DestilerE	10	123889km2	28433276	***C3NSOR3D***(#1131) - Pattis IV.
+19.	[ToAn] Trapní obézní anální nekrofili	10	118002km2	28433200	Höhepunkt in den Mund(#954) - devilLH
+20.	[.:B:.] Nepřítel populace	9	141556km2	27751560	Bond von Leinbruck(#1314) - Nukepower
+21.	[ČD] České dráhy, jsme tady pro Vás	10	140367km2	26204610	=_EC 73 Smetana_=(#765) - cvachta
+22.	[SAZ] Spolek Anonymních Závisláků	10	137740km2	25290239	Helle, spočítej si to:)(#2054) - vanna
+23.	[ČSLA] Československá lidová armáda	10	141404km2	24815915	.:CZ-SK:.Joudinkov(#1558) - joudinek
+24.	[Bombing2] Bomba do zadnice	10	134006km2	24746801	Bombing strejcek:)(#343) - Kuboj
+25.	[-=THC=-] The Heroic Company	10	110460km2	24474440	The Heroic Čulapchorn(#258) - Čulapchorn
+26.	[.:EoT:.] Eye of terror	10	135083km2	24394951	Zagorka(#202) - Zagorakiss
+27.	[.:WWF:.] World Wrestling Federation	10	116761km2	23366030	.:WWF:. Země medvědů(#1245) - Medvidek3000
+28.	[x.x.x.] Brasil world cup winner	10	138027km2	21847272	Road to Brasil(#1466) - KingSixx
+29.	[Anarchy]	10	103874km2	21620478	Touha je zázrak, kámo...(#1900) - thordevil
+30.	[ČSB] ČehoSeBojím	10	110515km2	21471905	Bojím se spolužaček :p(#43) - Veriax
+31.	[AiM] Aina Mörne	10	114873km2	21161587	Studentka Kytička(#297) - Oligarf
+32.	[.hunteRs] Team .hunteRs	10	126656km2	21008023	.hunteRs.Ghost(#407) - turalu
+33.	[NJK] Nasoskaný ako kravy	9	108854km2	20853693	Měsíc jsem neviděl syna ((#1670) - Greenpower
+34.	[MDPA] MorDPartA	10	113358km2	20651193	satory(#1125) - hejkalak
+35.	[-osn-] Ofuk starého niktoša	10	107266km2	20410921	-osn- FarmarPeet(#518) - mahamar kaddafi
+36.	[I.H] Immortal Heroes	10	125850km2	20161606	Arachnid Layr(#324) - Pabouk
+37.	[ROG] Ring of Gold	10	159994km2	20106079	Nokturnal Mortum(#73) - Behemond
+38.	[SIL] Silmarillion	10	103858km2	20039110	Jeff Winger(#1819) - Martin858
+39.	[anx] antrax rulez	10	116499km2	19726809	AntraX Niagara(#1767) - smeti
+40.	[HO] Hellsing Organization	10	114919km2	19440957	Hellsing Foothills(#87) - Alandriel

@@ -1,0 +1,42 @@
+140. VĚK
+#	Aliance	Členů	Rozloha	Prestiž	Předseda
+1.	[Tabacek] Tabacek	10	164169km2	66201576	NORDIC SPIRIT(#264) - snasa1
+2.	[Ganja] ganja	10	176751km2	63304252	Lipous(#997) - Joker16.
+3.	[ThermX] ThermX	10	179034km2	62998866	Mizumono(#106) - hum4nic
+4.	[TLD] The Last Dance	10	154343km2	60199190	The Last Dance(#2020) - masterWG
+5.	[MK] Immortal knights	10	165002km2	58226910	Diedieusa(#1647) - uzid
+6.	[*RtH*] Road to Hell	10	205328km2	58223130	protože jste prasata(#110) - M4S3R
+7.	[L.O.S.] Souboj losů	10	171992km2	57205447	LOS made in LOS(#4455) - Topisek
+8.	[PhaMa] Phantasma Mayhem	10	144278km2	56704663	Made in Abyss(#201) - bukvicka13
+9.	[GC] Golden company	10	137640km2	56164537	Leo Bonhart(#720) - hlidac3
+10.	[SUX] parádní aliance :-*	10	167037km2	52258097	SUXessfull(#202) - LuisFigo
+11.	[HP] Hanební Pancharti	10	156817km2	51077909	I FINK U FREEKY(#1190) - N00N3
+12.	[queens] QUEENS	10	170057km2	50647382	Bastard`s office(#1664) - Pitel
+13.	[=T=] Trója	10	150246km2	49962213	Winter is coming..(#47) - FR3EZY
+14.	[Jukatáni] Jukatáni	10	132919km2	49434197	Velky uličník(#1835) - trubkatrubkovic
+15.	[42] Mladí, rozverní a sarkastičtí	10	124314km2	49053782	SVOBODA JE OTROCTVÍ(#1395) - mara8
+16.	[ALIVE] AliveDiaci	10	167782km2	46681033	-ALIVE-(#183) - ppedrnikar
+17.	[.:?:.] CeNsoReD	10	144291km2	44027097	****?CEN?SO?RED?****(#448) - rybka es atrás
+18.	[N-N-N] Nečum, Nebreč, Neotravuj	9	140537km2	41911220	Umři(#673) - Banlord
+19.	[FETKA] Fetuj jako ponrava	10	160334km2	41346863	Ponrava(#35) - Estetik
+20.	[.:UV:.] Uchlastaní Vidláci	10	125688km2	39826348	Dřepy na okurkovém poli(#37) - RegiFcb
+21.	[.L.O.S.] Losáci se těší na léto	10	147070km2	39036111	LOS made in Zhonguo(#1122) - Topisek
+22.	[YOZZEFY] Yozzefy = diplomacie	10	139978km2	36025799	Schillerová - kadeřnice(#142) - Allegro
+23.	[R] Renegades	10	157779km2	35378236	DIS IZ WHY IM HOT(#1198) - N00N3
+24.	[WMYQ] We make you quit	10	129041km2	35335877	Fotr fcela funda(#1065) - zhn
+25.	[**CQR**] Conquerors	10	148378km2	34228588	Dark Conqueror(#584) - vanna
+26.	[KZ] KlikatéZnačky	10	129265km2	34091663	Horsessaidpeepeepeeep(#1162) - PozarniSbor
+27.	[COVER] REVOC	10	143443km2	34077649	73737(#37373) - LuisFigo
+28.	[-=DH=-] Dark Hunters	10	119723km2	33648512	Amy Pond(#277) - Ersango
+29.	[D3V1L5] Masters of Underworld	10	134555km2	32497909	Čajna(#273) - Falkus.
+30.	[.:MoD:.] Miluji orální diskuze	9	117954km2	31649353	Žirafa to umí pořádně(#1112) - Smrtihlav2
+31.	[SRAN] Tvoje máma	10	128684km2	31084389	Půlky tvojí mámy(#437) - gugoslav
+32.	[Valkáči] Vyhulení Alkáči	4	69230km2	30882339	Valkac The .:.(_,_).:.(#365) - Absurdaa
+33.	[*UF*] United Farms	10	169254km2	30638771	Enforcer(#62) - Dr.Leckter
+34.	[MDMA] 3,4-metylenedioxymetamfetamin	7	102671km2	30430379	Bottle of Water(#1562) - Jiriss
+35.	[KÚ] Kaitanské Útočiště	10	171304km2	30403514	Imperial House Corrino(#585) - imhot3p
+36.	[V] Vegani	10	139213km2	30136917	SAYONARA(#381) - U.U
+37.	[MENSA] ...prostě (j)elita :)	10	146735km2	30092051	STEPHEN HAWKING(#82) - Sir Extrem
+38.	[.:xXx:.] CENSORED	10	114738km2	29210971	HELL-fire(#1317) - wasabi666
+39.	[SNAKES] hodňoučtí hadi	9	102945km2	28628957	Koupím rumíka za kačku(#1789) - Chica
+40.	[-=L*F=-] LAMAFARMA	10	156272km2	28241902	LAMAFARMA(#92) - Chujo

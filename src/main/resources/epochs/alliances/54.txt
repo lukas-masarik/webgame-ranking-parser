@@ -1,0 +1,42 @@
+54. VĚK
+#	Aliance	Členů	Rozloha	Prestiž	Předseda
+1.	[AC/DC] Back in Black	12	219401km2	105648040	HELLS BELLS(#158) - Ivosh
+2.	[ŽsN] Neslušňáci	11	209287km2	66097794	Sólo(#1490) - van dame
+3.	[ICQ] I SeeK You	12	240421km2	64184750	173090403(#2873) - ISE
+4.	[Wrath] The Great Day of Wrath	11	232267km2	64081816	Sorry if I ain`t perfect(#4142) - Gxx
+5.	[ManG3] Maniiax Gang 3	12	246880km2	61764571	slečinka ze zahrobi(#3389) - Moltar
+6.	[BOUNTY] My jsme všichni Gogo	12	181416km2	59186689	Ferda Mravenec(#5312) - Sjezdovka
+7.	[DF] Dark Family	12	213262km2	52215736	Dark Lesnovek(#1914) - Hanz Guderian
+8.	[.A.] ASSASSINS	12	230744km2	51017716	.:.:ASSASSIN:.:.(#4512) - Blackthunder
+9.	[Ganja] ganja	12	201649km2	44818856	Bobřík Tykeff(#71) - Dhany
+10.	[Z] Zeměplocha	12	203005km2	43716354	Cori Celesti(#295) - kIt. .
+11.	[SWINGERS] HardcoreParty	10	189604km2	43163524	Young Devon(#1092) - Lord IVCO
+12.	[DEJAVU] max. 30 znaků ... pche	12	225803km2	42497404	I`m from the future...(#113) - Comanndos
+13.	[WG-PROF] WG-PROFESSIONAL	12	179575km2	41095659	.:.WG-PROFESSIONAL.:.(#389) - Jiriss
+14.	[Řezníci] Krkovička : řezník a kupec	12	188130km2	41091137	Křivě ztočený kabanos(#1499) - Bulva
+15.	[ČSLA] Česko-Slovenská lidová armáda	12	161615km2	40909484	.:CZ-SK:.Dum spiro,spero(#101) - KalinV
+16.	[PONORKY] Vzhůru ke dnu...	12	160532km2	40852137	U 100(#524) - MoDaF.Cory
+17.	[::R::] Prostě R3S93K7 :)	12	162311km2	39161613	R3S93K7 Cirkus EDEN xD(#2544) - zampino
+18.	[Anarchy] Jistě, pane Ministře	12	162099km2	38666597	Ministerstvo Anarchií(#63) - thordevil
+19.	[LW] Legendary Warriors	11	88209km2	36721066	Legendary Farmer(#2100) - Carcin
+20.	[Kačerov] My z Kačerova	11	188044km2	36490701	I DONT WANNA MISS A THING(#3908) - Baťa
+21.	[-bambus-] Lešti bambus, dává mlíko xD	12	154394km2	36246393	Koloušek823(#3640) - Seksymania
+22.	[.::R::.] Rytíři	12	187281km2	35727383	Roland(#6605) - steamroller
+23.	[.::VR::.] Velká Revoluce	10	154717km2	35329315	slečinka revoluce(#61) - d13
+24.	[AlkoholX] The worst friends of yours	12	174512km2	33266874	Thunderstruck(#397) - Uaah
+25.	[CGHMN] CompuGlobalHyperMegaNet	12	158501km2	32481389	mYpEAcEmAkEr(#3884) - Mihall
+26.	[R3D] H0T and EMOs in Blood Kingdom	12	240967km2	32250667	Always Crying EMO(#74) - .Tommy33.
+27.	[4F4U] 4 Fun, 4 yoU	12	145909km2	31660819	vanničko? miláčku?(#70) - chazy chaz
+28.	[-=DF=-] -=Deadly Force=-	12	180776km2	31537243	-=DF=- Gold Tequila(#3370) - Michal44
+29.	[Rafani] Rafani	11	150289km2	31328999	Rafan , a kdo jsi ty?(#1602) - SprávceChlívku
+30.	[=T=] Trója	12	196267km2	30654098	Mejsha(#590) - FR3EZY
+31.	[:.AoA.:] Angels of Apocalypse	12	181620km2	30451671	Liity Että Pimeä Puoli(#2967) - Nelya
+32.	[-=AB=-] Atomic Bomberman	12	140493km2	30177182	No limit anarchy(#5314) - Toast
+33.	[Lotta] Lotta per la sopravvivenza	12	182334km2	29950235	mi si accappona la pelle(#2450) - Prefik
+34.	[:ZotR:] Zombies of the Revolution	12	137324km2	29644573	Iam McLovin(#1551) - M1S73R
+35.	[omerta] Nepísaný zákon	12	150586km2	29424239	Trblietaj sa hviezdička(#1707) - lakato1
+36.	[Across] Idealistic Organization	12	122171km2	28435824	The Opium of the People(#2004) - marv III
+37.	[*GA*] Guardians Angels	12	128696km2	28414412	(=1084)(#1430) - futuree
+38.	[ČSB] ČehoSeBojím	12	150914km2	27720935	Bojím se nechtěné erekce(#2687) - labojse
+39.	[OLED] Organic Light Emitting Diode	11	140073km2	27072223	Organický Emitor(#170) - neo84
+40.	[KoS] Kolem Světa	12	125359km2	27031201	Willy Fog na ceste(#894) - zuzanice

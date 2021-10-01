@@ -1,0 +1,42 @@
+102. VĚK
+#	Aliance	Členů	Rozloha	Prestiž	Předseda
+1.	[-=F*A=-] Fallen Angels	10	168491km2	42449277	-FA- Franta Alkoholik(#280) - hagg1d
+2.	[NBS] Největší blbci světa	10	140883km2	42193274	BLBEC s velkým B(#558) - XXXGrey
+3.	[**CQR**] Conquerors	10	167452km2	41684423	Dark Conqueror(#1244) - vanna
+4.	[SOPHIE`S] Lackadaisical kids	10	161480km2	40253226	ROHLIK V PARKU(#622) - U.U
+5.	[*WiNDe*] Wipitá posádka	10	143365km2	39142939	.:W:. Myš pod peřinou(#733) - Revelation3
+6.	[.L.O.S.] Losáci zo Severu	10	139729km2	38511391	LOS made in Destroyer(#136) - BlackTears
+7.	[-.-] -.-	10	155107km2	38413710	qwertzuIopisdaghjkIyxcvbk(#1676) - Lucky6186
+8.	[PR] Psycho Realm	10	118465km2	35471359	nelibi se me tvoje zeme(#328) - abraxas
+9.	[-=LH=-] ICE-B UZ JE BUH	10	166541km2	34992562	SRDCAŘ ICE-B(#609) - Walker
+10.	[COOL] Corporation of obscene lambs	10	144797km2	32644692	Smrtící expres ráže .45(#498) - Godzil I.
+11.	[-osn-] ofuk starého niktoša	10	133851km2	32314954	-osn- Vagynator(#842) - VAGOUN
+12.	[BE] Black Eagles	7	107286km2	30746409	za mír a lásku(#57) - Prařeřichořezbář
+13.	[-osn2-] organizácia spojených narcisov	10	156881km2	29870772	-Ooo-som-naj-Vozo(#124) - Vozicek
+14.	[C*P] Cold Power	10	112146km2	29844576	Quintara(#889) - Ivanes
+15.	[*SnsrN2*] S nami si radsej nezacinaj 2	10	153306km2	29754328	So mnou si neskusil(#1127) - fagancek2
+16.	[*`=/-.,] Supramaniacs	10	161258km2	29667231	Am I right?(#128) - Supra1Soul5Play
+17.	[DF] Dark Family	8	134866km2	29134328	Slecinka DF(#1116) - Hanz Guderian
+18.	[anx] antrax rulez	10	139460km2	28228722	AntraX Keltska Risa(#1154) - Martinerko
+19.	[ČSLA] Československá lidová armáda	10	161077km2	27702123	.:CZ-SK:.AK-47ProduceR(#173) - AKland
+20.	[Inn] PlazmyMiny	10	109421km2	27691679	Iceman(#1990) - K8po
+21.	[:O] Bonnie Rotten	10	125946km2	27618146	19MINO94(#87) - 19MINO94
+22.	[KÚ] Kaitánské Útočiště	10	143515km2	27365177	Deep Blue Kaitain(#452) - Telcontarr
+23.	[ČD] České dráhy, jsme tady pro Vás	10	107119km2	27332486	=_Rx 777 Pancíř_=(#472) - cvachta
+24.	[UTOP-X] UTOPPLANET	10	109084km2	27069346	PLANET-X Orbit of Nemesis(#632) - ZUMOTRIX
+25.	[Bull] Black Division	10	139169km2	26672878	Destructor(#216) - High Warlord Rxz
+26.	[KULE7] KULE7	10	173365km2	26327720	Art of Flight(#1559) - .troublemaker.
+27.	[YOZZEFY] Yozzefy = expy	10	127462km2	25757541	Křížkový Újezdec(#667) - Allegro
+28.	[S*K] Skunk Teritory	10	135501km2	25458651	Floutkov(#737) - Bigbosh2
+29.	[nBd.] Never Back Down	10	133690km2	25328423	nBd.UmimKopnoutDoAuta(#1932) - HromikSir
+30.	[LordsWG] Hviezdne vojny zo Syrie	10	122801km2	25026533	Zohan.:.Disco(#1040) - Bukay
+31.	[AveCesar] AveCesar a veni, vidi, vici.	10	117520km2	24681191	.:AveCesar:.Hermína(#313) - Ares65
+32.	[S] Soon	10	121320km2	24386300	Unavená slečinka(#237) - hemendex
+33.	[M] MOON	10	116030km2	24366889	Atlan(#325) - Atlantik
+34.	[HO] Hellsing Organization	10	143014km2	24345969	BZCompany(#122) - BON.zak
+35.	[Ganja] Ganja	9	122457km2	24258998	Alkáč, neboli alkoholik(#159) - ..Hanz..
+36.	[.:V2R:.] RLOVEUTION	10	115357km2	24241933	0110000101101000011011110(#2362) - kesso
+37.	[ALI1234] ALI1234	10	131008km2	23592044	usti(#955) - vachys39
+38.	[=T=] Trója	10	144493km2	23560862	Winter is coming..(#50) - FR3EZY
+39.	[MENSA] Mimořádně nadaní...	10	96456km2	23305700	PROF. EXTREM CSc.(#117) - Sir Extrem
+40.	[ZSB] Zima se blíží	10	114198km2	23123588	John Sníh(#1477) - matto10

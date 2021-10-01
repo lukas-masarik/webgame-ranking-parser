@@ -1,0 +1,42 @@
+64. VĚK
+#	Aliance	Členů	Rozloha	Prestiž	Předseda
+1.	[SB] SpikeBallers	10	146759km2	60801966	Tempus Fugit..(#5177) - DieWalker
+2.	[Ganja] Ganja	10	200491km2	57654786	Eski Girl(#46) - Dhany
+3.	[ČSLA] Československá lidová armáda	10	187843km2	56187296	.:CZ-SK:.Joudinkov(#1267) - joudinek
+4.	[.::VR::.] velka revoluce	10	188669km2	47822384	slečinka revoluce(#641) - d13
+5.	[Anarchy] Hrajem si to svoje...	10	167708km2	43634198	Touha je zázrak, kámo...(#4060) - thordevil
+6.	[=T=] Trója	10	148556km2	42759904	Mejsha(#860) - FR3EZY
+7.	[***B***] BENDA s.r.o.	9	138715km2	41653813	Pecik`s land(#3031) - 10987654321
+8.	[Etc.] Strikes back	10	148235km2	39332694	Šití očí k smrti nesnášim(#725) - ..yossarian..
+9.	[FC] Famiglia Corleone	9	158791km2	38384240	Don Vito Corleone(#2253) - Sneer
+10.	[O3BOYS] OPERAČKA	10	154591km2	37393949	Smrtihlav(#3495) - bertO3
+11.	[.:NUKE:.] Nepřítel populace	10	168930km2	37371365	NUKE DRAGON(#1012) - Firepower
+12.	[L.O.S.] losáci od severu	10	147965km2	36887093	LOS made in uzbekistán(#2275) - .Devilmen.
+13.	[LoD] Legion of Death	10	164600km2	35867482	Princezna Leia(#982) - Jojosh
+14.	[CoverUni] CoverUni	10	153403km2	34920851	.:::Cover:::.(#4508) - jedi malec
+15.	[F.o.a.D] ...:::DARKROOM:::...	10	139553km2	34895086	s Kristýnkou *in love*(#2294) - trav1
+16.	[*zoo*] Zeal offensive organization	9	156296km2	33425360	500kč za 1000km(#1633) - XXXGrey
+17.	[Veverky] Aliance Veverky neexistuje	10	157801km2	33334383	Veverky nadopované heliem(#188) - Mr Shaman
+18.	[TP] Tvůrčí Právo	10	171009km2	33092263	nEvEr mOrE(#3055) - F0rsaken S0ul
+19.	[cz-sk] ceskoslovensko	10	156071km2	33087977	.:cz-sk:.Aiol0s(#1732) - fof0t
+20.	[KL] Killing Legion	9	165240km2	32979867	Legionář Cryptonia(#936) - Master87
+21.	[DOGS] DOGS	8	137122km2	32607126	:Wata:gata:pitus:berry:(#374) - G.R.U.M.Y
+22.	[TrPazÚsT] Trpaslíci útočí	9	139378km2	32431566	Profesor mručích mravů(#636) - Drunk3n
+23.	[EMP] Emil Masér Pornohereček	8	139935km2	32320753	Black smoke(#38) - Ivan IV
+24.	[K] Killers	8	159570km2	31861383	zemeTulipanuMlejnu(#3316) - kabelec
+25.	[PlanEx] Planet express	10	114739km2	31329861	Philip J. Fry(#2399) - Moe
+26.	[NWO] New Webgame Order	9	128755km2	30984684	Muay Thai(#2444) - MotherFotr
+27.	[KRTEČEK] Hrabáním k lepším zítřkům...	10	157123km2	30126700	Krteček a makovička(#2374) - IMraz
+28.	[Across] Idealistic Organization	9	130393km2	30056370	Across -_- ssorcA(#2765) - marv III
+29.	[NAOS] Náš admirál ochránca a stratég	10	152141km2	29810595	NAOS - SWW(#1524) - aiRenQo
+30.	[VTIP2] Žertování s Mistry smíchu	10	137209km2	29448135	Vtipný šprýmař(#2975) - Isilmir Goraz
+31.	[TemLeg] Temné Legie	10	137973km2	29371061	Corruscant Reloaded(#83) - Dart.Kanne
+32.	[Mgn] MAGNUM	5	91101km2	29267531	Nedistán(#1672) - Milned
+33.	[AUTORITA] Celé jméno aliance (povinné)	10	163958km2	29018971	Dobré ráno, dámy a pánové(#1556) - Lukastrance
+34.	[.::R::.] Rytíři	10	126144km2	28764307	it is so fluffy(#1675) - pukancek
+35.	[.:WWF:.] World Wrestling Federation	9	133965km2	28454102	.:WWF:. Země medvědů(#814) - Medvidek3000
+36.	[-SC-] Skull Collectors	10	176129km2	28219852	Hlada sa mumakyyy(#44) - Efca
+37.	[ManG] Maniiax Gang	10	204313km2	28118996	slečinka de puta madre(#4791) - red kox man
+38.	[RAPTOR] Team Raptor	10	146111km2	27839410	Tři velká B v hudbě(#1164) - Aram Chroustal
+39.	[ČSB] ČehoSeBojím	10	144345km2	27765032	Bojím se chlupaté veverky(#2572) - Icexxx036
+40.	[FoW] Frog on Weed	9	117504km2	27667373	Jerwowizard(#3126) - Jerwi

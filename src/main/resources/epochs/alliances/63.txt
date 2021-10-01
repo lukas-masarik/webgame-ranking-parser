@@ -1,0 +1,42 @@
+63. VĚK
+#	Aliance	Členů	Rozloha	Prestiž	Předseda
+1.	[C.S.I.] Caesarov Sundávací Inštitút	10	170009km2	45810014	Alea iacta est(#2439) - Caesar159
+2.	[-=LH=-] Lonely Hearts	10	170313km2	45760611	Mám pořádnej -=LH=-ad(#1337) - Jonáš III.
+3.	[DF] Dark Family	10	166883km2	43082615	Slecinka DF(#894) - Hanz Guderian
+4.	[ManG] Maniiax Gang	10	204864km2	42862186	slečinka de puta madre(#924) - red kox man
+5.	[D*n*B] Drum and Bass RuLlezZ	10	157576km2	40690057	--==KOSHEEN==--is da Best(#4494) - Galactic
+6.	[.:WWF:.] World Wrestling Federation	10	159363km2	39442765	.:WWF:. Země medvědů(#935) - Medvidek3000
+7.	[.:V12R:.] cdcdc	10	178497km2	38504267	z5(#58) - Lifik
+8.	[LMD] Lahka mozgova dysfunkcia	10	173106km2	38016218	wladdis(#1018) - wladis353535
+9.	[KRTEČEK] Hrabáním k lepším zítřkům..	10	172395km2	37737515	Krteček a makovička(#674) - IMraz
+10.	[UVVB] Uzené veverky v buřtech	10	168746km2	37064046	Manzanie(#158) - Sir Robertini
+11.	[.::R::.] Rytíři	10	122318km2	35178973	Co říct? ...(#4457) - Turbi
+12.	[BAMBUSKY] Univerzita vzdelaných rómov	10	162525km2	34781326	BOH odpúšťa JA nie(#341) - K.N.M KoLLo
+13.	[ganja] ganja	10	179631km2	34682219	Eski Girl(#1638) - Dhany
+14.	[SZS] Strategie Zkušenost Spolupráce	10	157939km2	34135128	SZS maestro(#608) - Q4z3R
+15.	[cerveza] cerveza	10	162239km2	33965341	Slivovica(#147) - hurka
+16.	[**CQR**] Conquerors	10	151313km2	33777925	JakVyKMyTakMykVy(#83) - vanna
+17.	[BFP] Bad Fat Pipe	10	158380km2	33272909	You got my attention(#444) - Mista
+18.	[RAPTOR] Team Raptor	10	145340km2	31951593	Zítra to roztočíme(#878) - Aram Chroustal
+19.	[M] MOON	10	171950km2	31838601	Atlan(#203) - Atlantik
+20.	[WG-PROF] WG-PROFESSIONAL	10	182845km2	31147557	:.:WG-PROFESSIONAL:.:(#1793) - jowood2
+21.	[Legend] Wait for iT	5	89555km2	30457725	Uttica(#215) - Naumo
+22.	[:ZotR:] Ti nejlepší a nejkrásnější	10	169323km2	30331589	Bojujte za Spartu(#50) - M1S73R
+23.	[ČSLA] Česko-Slovenská lidová armáda	10	139178km2	30259731	.:CZ-SK:.Dum spiro,spero(#1155) - KalinV
+24.	[DNSGBBT] DotA*Naruto*Stargate*BigBang	10	136749km2	30232582	TOP 01(#3067) - MotherFotr
+25.	[KULE7] KULE7	10	152953km2	30208956	eyes wide shut(#3979) - dzafa kri.
+26.	[cz-sk] ceskoslovensko	10	140213km2	30056060	.:cz-sk:.Zeus(#1752) - Vladce Seanix
+27.	[.::VR::.] velka revoluce	10	180298km2	29896912	Brkoland(#2286) - Drake18
+28.	[G.U.M.I.] Gumídci méďové	3	62997km2	29873422	Brůča farmář z Nupak(#227) - Nupacak
+29.	[A.N.D.] Angels Never Die	10	144037km2	29864027	ARCHANGEL - Papca(#2622) - Thalion24
+30.	[ČSS] Československá spolupráca	10	135212km2	29335084	hram len kvoli vam...(#2499) - šalanboy
+31.	[ČSB] ČehoSeBojím	10	151515km2	28958638	Bojím se BubaKKE(#1504) - labojse
+32.	[-=D2F=-] -=Destilat 2 Fanatics=-	10	126257km2	28889034	-=D2F=- Green Absinth(#3985) - Ulrik
+33.	[-T-K-] Tlupa Kaprov Reborn	10	156666km2	28249206	GifficiDimExhibitor(#338) - ando
+34.	[UM] Ukrajinská Mafie	10	176274km2	28123350	UM Bohunice(#3597) - Uthden
+35.	[BOUNTY] my všichni školou povinní	10	147109km2	27641518	Docent Chocholoušek(#4266) - Sjezdovka
+36.	[VT] Vyvolavame Trauma	9	120289km2	27108419	MILUJEM POPRASKA(#775) - imhot3p
+37.	[NADACE] NADACE	10	143162km2	26825387	DobročinnáNADACE Hizbalah(#1089) - H1sbalah
+38.	[Across] Idealistic Organization	10	133819km2	26776162	Across -_- ssorcA(#3120) - marv III
+39.	[=T=] Trója	10	166798km2	26763080	Mejsha(#851) - FR3EZY
+40.	[S*K] Skunk (Skank) territory	10	140282km2	26659355	Boskov(#1720) - Bigbosh2

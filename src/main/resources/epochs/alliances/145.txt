@@ -1,0 +1,42 @@
+145. VĚK
+#	Aliance	Členů	Rozloha	Prestiž	Předseda
+1.	[*UF*] United Farms	10	136502km2	62544112	Enforcer(#64) - Dr.Leckter
+2.	[ganja] GANJA	10	155743km2	55077310	maly uličník(#1451) - trubkatrubkovic
+3.	[queens] QUEENS	10	137890km2	49580562	Pavilon 8 AHC(#488) - gorem
+4.	[Lotta] Lotta per la sopravvivenza	10	146701km2	46394185	Sento me ruggito(#106) - stejski IX.
+5.	[SUX] vánočně pasivně :-O	10	146141km2	46350401	SUXessfull(#828) - LuisFigo
+6.	[BumBum2] Je nám to jedno.. Uhmmm	10	174895km2	43652025	omakalamihonakanapi(#162) - jckl
+7.	[.:W4R:.] War For Revolution	10	133457km2	43466937	Viking`s land(#490) - sir Flat
+8.	[Afrik] Velký Černý Klacek	10	137339km2	42157561	Zimbabwe(#118) - Lord Rechleek
+9.	[-=L*F=-B] LAMAFARMA BUKKAKE	10	169245km2	41986258	Slunce seno raketa(#465) - WEBIG
+10.	[ES] EREBOS	10	132651km2	41387561	Where my BESKAR(#99998) - MatějIX
+11.	[Anarchy] Farmíme pro horší minulost	10	127673km2	41248944	Srdce mi pofoukáš...(#816) - thordevil
+12.	[MENSA] ...prostě (j)elita :)	10	122742km2	39779474	NESERA NAVALTO(#251) - Sir Extrem
+13.	[**CQR**] Conquerors	10	116587km2	39552012	Dark Conqueror(#192) - vanna
+14.	[---] .	10	178649km2	38710581	Zmijovec titánský(#55555) - koutb
+15.	[=L.O.T=] Lord Of Tactic	10	118902km2	38217808	Lord Of Tactic(#6666) - tvojasmrt
+16.	[-osn-] OsprostenaStaraNota	10	172608km2	38121969	-osn-ruzove v pive(#733) - D1N1AK
+17.	[Jukatáni] Jukatáni	10	141820km2	37632840	Velky uličník(#1449) - trubkatrubkovic
+18.	[=BSC=] Best Selected Company	10	151110km2	35832651	*=* NoAcoJako:::::::(#1023) - Katan333
+19.	[Imp] Impérium galaktických farmiček	10	111965km2	33751048	Malonia(#1119) - Sedmika
+20.	[AHA] Aliancia Láskavého Triumvirátu	10	131270km2	32964507	B*E*S*A*R*A*B*I*A(#850) - Abdul
+21.	[*WinDe**] Krásné Vánoce	10	121687km2	32334638	.:W:. Scorpion Moruga(#943) - Koumes
+22.	[.:?:.] CeNsoReD	8	123345km2	30698813	****?CEN?SO?RED?****(#3333) - rybka es atrás
+23.	[-=FE=-] Fatal noisE	10	111175km2	30612544	Technoland(#85) - fenix23
+24.	[I] ENIGMA	10	120268km2	29914426	IllIIIIllIllIIIIIIllllIII(#1430) - IIlllIllIIIlIllI
+25.	[nBd.] Never Back DOWN	10	131652km2	29547731	NeublizujteMiProsim(#722) - HromikSir
+26.	[POV] Point of view	10	87290km2	29324767	Make coffee not war(#200) - JimCurry
+27.	[YOZZEFY] Yozzefy = pohoda klik	10	140405km2	28996852	Babiš, amatérský politik(#269) - Allegro
+28.	[BRUNTAL] BRUNTAL JE BRUTAL	10	118083km2	28146821	PROTECTOR(#66666) - ratatatatatata
+29.	[BOUNTY] ... a 40 loupežníků	10	106559km2	27952290	Alibaba a 40 loupežníků(#253) - Sjezdovka
+30.	[ČSB] ČehoSeBojím	10	167507km2	27604265	Bojím se o přežití...(#4321) - Veriax
+31.	[MZA] Miloš - Zahořklý Aparát	10	124674km2	27390996	Klekni si....(#723) - Michellion
+32.	[PKZ] Prdeli Ke Zdi	10	132177km2	26988255	.::PKZ::. slušný název(#1082) - lord big
+33.	[.:MoD:.] Miluji Orální Diskuze	10	115711km2	25716777	Žirafa to umí pořádně(#1118) - Smrtihlav2
+34.	[-4F-] 4 the future	10	150287km2	25704332	Hello empty future(#67) - hagg1d
+35.	[L.O.S.] Losove co mají styl	10	129155km2	25405887	LOS made in Stylish(#2233) - Topisek
+36.	[BTC] Bitcoin	10	156444km2	24837225	Peter Lynch(#7000) - Drunken
+37.	[VZP] Vyvrženci Pekla	10	121669km2	24620828	Vyvrženec RufusDwirefald(#626) - StillDeadCZ
+38.	[.L.O.S.] Vánoční Los je lepší nez Sob	10	171497km2	24470901	LOS made in Zhonguo(#1122) - Topisek
+39.	[=T=] Trója	10	147288km2	24370110	Winter is coming..(#648) - FR3EZY
+40.	[Tabáček] Veselé vánoce 2020	10	148430km2	24070384	Alea lacta Est(#750) - snasa1

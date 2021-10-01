@@ -1,0 +1,42 @@
+98. VĚK
+#	Aliance	Členů	Rozloha	Prestiž	Předseda
+1.	[S.D.E] Solar and Dark Empire	10	180669km2	46198784	Southern Sun(#1142) - Scalpelexis
+2.	[=101=] 1100101	10	185766km2	39606058	0010110001011111010100100(#314) - FL4SHh@cker
+3.	[**CQR**] Conquerors	10	126523km2	35865576	Dark Conqueror(#1635) - vanna
+4.	[DF] Dark Family	10	144647km2	35082821	Slecinka DF(#1259) - Hanz Guderian
+5.	[ALI1234] ALI1234	10	133703km2	34011196	usti(#250) - vachys39
+6.	[=T=] Trója	10	161701km2	33149497	Winter is coming..(#136) - FR3EZY
+7.	[ZT] ZeroTolerance	10	149696km2	32845487	ZT NoEndForTheDarkness(#561) - bosinek
+8.	[*SnsrN*] S nami si radsej nezacinaj	10	161280km2	32120962	Se mnou si nepochutnáš(#553) - Fungus
+9.	[Tabáček] Tabáček	10	136830km2	31366882	Koupím ti umělou angínu(#1728) - KURT
+10.	[Limit] Sky`s the limit	10	120043km2	29847362	Eye of Wizze(#837) - Elesianus
+11.	[.L.O.S.] Losáci zo Severu	10	125371km2	29708649	LOS made in Destroyer(#277) - BlackTears
+12.	[x.x.x.] Money in the Bank	10	149353km2	29496576	CM Punk(#714) - KingSixx
+13.	[MZA] Muňky Zlého Alfréda	10	130768km2	29225164	Klekni si....(#287) - Michellion
+14.	[C*P] Cold Power	10	135631km2	28367985	Quintara(#492) - Ivanes
+15.	[NBS] Největší blbci světa	10	141408km2	28284309	Největší Blbec Systému(#2270) - Walker
+16.	[Lords] of Farming	10	108409km2	27455572	Arriving Somewhere(#238) - Tev42
+17.	[YOZZEFY] Yozzefy - pub country beat	10	131777km2	27248738	Křížkový Újezdec(#285) - Allegro
+18.	[.hunteRs] Team .hunteRs	10	132461km2	27144221	.hunteRs.Ghost(#1165) - turalu
+19.	[ItNofS] Ve jménu starých časů ...	10	152696km2	26734896	HyChyKyRyDyTyNy(#259) - PanMaur
+20.	[-=FE=-] Fatal noisE	10	124257km2	26688600	.:YD:. Love Star Game(#479) - fenix23
+21.	[*WiNDe*] pot a slzy	10	151868km2	26652846	.:W:. Myš pod peřinou(#751) - Revelation3
+22.	[.:YD4:.] Your Death	10	136707km2	26648416	.:YD:. Jon Sníh(#344) - matto10
+23.	[BOUNTY] Saturninův bitevní plán	10	104336km2	25748654	Ali Baba a 40 loupežníků(#2035) - Sjezdovka
+24.	[HO] Hellsing Organization	10	143946km2	25535817	Hellsing Foothills(#252) - Alandriel
+25.	[COOL] Corporation of obscene lambs	10	145889km2	25527542	Smrtící expres ráže .45(#309) - Godzil I.
+26.	[YD-HAMAS] Hnutí úplných abstinentů	10	112896km2	24754387	.:YD:.Beautiful death(#940) - White Dead
+27.	[KL] Kanadska Legie	10	104620km2	24708496	Ty držko:-)(#172) - Reskator
+28.	[Bombing] Bombabrambor	10	118867km2	24687716	Bombing Hero(#1063) - the last Hero
+29.	[UTOPSE] UTOP SE	10	100125km2	23972050	Asičkov(#2149) - Asticka
+30.	[Inn] Inn	10	135955km2	23877632	Iceman(#1876) - K8po
+31.	[xD] Výtlem všech xD	6	86368km2	23677965	mnu xD(#202) - TheSokar
+32.	[Anarchy] Farmíme pro horší budoucnost	10	81079km2	23497514	Touha je zázrak, kámo...(#352) - thordevil
+33.	[LEGO] stavíme dálnici D1	10	114502km2	23361363	LEGO oOoo(#871) - ArchimondS
+34.	[/AZ/] Aliance Zla	10	117364km2	23227824	Říše Zla(#106) - lMP3RATOR
+35.	[YD-ČSB] ČehoSeBojím	10	128614km2	23053875	Bojím se kolařů(#1768) - labojse
+36.	[Ponorky] Rum i ženy, poraženy...	10	101140km2	22699052	U 1OO(#646) - LittleCryingCory
+37.	[Bombing3] Bombing*III*Sestry	10	124477km2	22393585	BombyDošli(#1806) - forfunsalsa
+38.	[S.S.T.] Spojené síly terorismu	10	91550km2	21512640	Trutnov(#713) - alksj
+39.	[ČSLA] Československá lidová armáda	10	104821km2	21199897	.:CZ-SK:.Joudinkov(#603) - joudinek
+40.	[YD-ČSN] ČehoSeNebojím	10	103564km2	20752827	Nebojím se Jacka(#403) - Icexxx036

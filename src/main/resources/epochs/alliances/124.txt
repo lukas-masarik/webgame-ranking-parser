@@ -1,0 +1,42 @@
+124. VĚK
+#	Aliance	Členů	Rozloha	Prestiž	Předseda
+1.	[Ganja] ganja	10	164112km2	43442486	Lipous(#1389) - Joker16.
+2.	[SUX] pasivní aliance :O	10	147635km2	39149378	SUXessfull(#935) - LuisFigo
+3.	[COOL] Corporation of obscene lambs	10	146729km2	37776010	Smrtící expres ráže .45(#1018) - Godzil I.
+4.	[SOCH] Slayers of Chaos	10	151016km2	37277659	Fallen_Angel(#338) - vhero
+5.	[Bull] Black Division	10	144431km2	34517774	GladeRxz(#169) - High Warlord Rxz
+6.	[PKZ] Prdeli Ke Zdi	10	130226km2	34001632	.::PKZ Prasopysk::.(#531) - Kwasak
+7.	[zooutop] Zeby farmim	10	128454km2	33554430	Farmici federace(#541) - ppedrnikar
+8.	[D3V1L5] Masters of Underworld	10	129694km2	33447710	Čajna(#690) - Falkus.
+9.	[Anarchy] Farmíme pro horší minulost	10	127594km2	33043421	Touha je zázrak, kámo...(#130) - thordevil
+10.	[L.O.S] Los chysta banku na skladacku	10	127435km2	29508027	LOS made in dikta vedle(#1096) - Topisek
+11.	[B33r] Pivo dělá krásná těla	10	121409km2	29123145	.-B1905-.(#1144) - miSSSSh
+12.	[VzP] Vyvrženci z Pekla	10	136356km2	28669381	Vyvrženec Othis(#102) - StillDeadCZ
+13.	[.LL.] Lock and load	9	142324km2	28009983	Valar Morghulis(#149) - Uaah
+14.	[*SnsrN*] S nami sa radsej nezahravaj	10	103701km2	27840786	IIllIIllllIIIIIlllIIlllII(#612) - TranceSexual
+15.	[PhaMa] Phantasma Mayhem	10	139377km2	27439562	PhaMa Barbie(#681) - bukvicka13
+16.	[YOZZEFY] Yozzefy = expy	9	112721km2	24884724	Rathova nevina(#183) - Allegro
+17.	[VT] Zase to Vitazne Tazenie	10	130700km2	23698087	Drakovo(#365) - D.r.a.k.
+18.	[TTOC] The Treaty Of Champions	10	106624km2	22301376	mala Valhalla(#174) - Lopik511
+19.	[-=SCS=-] Semtex Culture Squad	10	95425km2	22160278	-=SCS=- Supreme Leader(#94) - DJsmrt
+20.	[-=PINP=-] PANDAS IN PYJAMAS	10	97908km2	22129001	Schönau(#69) - Herr II
+21.	[D1000] Dům Tisíce Mrtvol	10	117405km2	21513200	Vyvrženec RufusDwirefald(#115) - StillDeadCZ
+22.	[VTIP] Mistři Smíchu	10	134024km2	21290570	Jsem Pikaču(#658) - Gyriko
+23.	[MENSA] ...starej vercajk	10	109374km2	21208900	CATCH M3 IF YOU CAN(#101) - Sir Extrem
+24.	[PLANET-X] PLANET-X Solaris Emperor	10	102160km2	20670178	PLANET-X Anunnaki King(#286) - ZUMOTRIX
+25.	[UTOP-X] UTOP-X Solar Utop Emperor	9	106643km2	20506628	PLANET-X Orbit of Nemesis(#294) - ZUMOTRIX
+26.	[Bombing] Bombing se vrací	10	116626km2	20159993	Zkouška po letech(#566) - the last Hero
+27.	[KR3W] Stalinův seznam xD	10	100041km2	20137246	BLOODY Stalin(#600) - Stalin2
+28.	[SB] SpikeBallers	10	112139km2	19710463	Aeternum Vale..(#468) - DieWalker
+29.	[**SNK**] SmeNaKasu	10	130329km2	19542967	PotenceFerdyMravence(#223) - SnookerLand
+30.	[RoboUtop] Je léto a já všechno v Peytchi	9	104471km2	19534843	RUmová pralinka(#275) - Lord Carcharias
+31.	[RoZrUcH] Povedz mi preco places	10	129605km2	19415369	Charlie Harper(#1016) - o.O.oDin
+32.	[=TC=] Talon Company	10	82560km2	18702749	Bone Viper(#1295) - DeepDepression
+33.	[90`s] 90`s	10	119028km2	18513404	Nik Slotr(#918) - Shafter
+34.	[LordsWG] Spolek anonymních alkoholiků	10	104102km2	18455524	Zohan.:.Disco(#389) - Bukay
+35.	[DEAD] Milujeme Vás	10	115909km2	18370931	-DEAD-Sjel sem Tě po druh(#87) - Diák
+36.	[=THC=] The Heroin Company	9	88651km2	18141762	Revenant(#1290) - DeepDepression
+37.	[M] MOON	10	134226km2	16848349	Atlan(#480) - Atlantik
+38.	[FATHERS] ...Fotři na tahu	8	118484km2	16560564	The Godfather(#437) - Sir Extrem
+39.	[MAFIA] Asi jinej Gang xD	10	146930km2	16377400	.................(#448) - Sample.
+40.	[HORDE] For the Horde	10	118651km2	16334802	Im free of all prejudice(#516) - Pr0x1mu5

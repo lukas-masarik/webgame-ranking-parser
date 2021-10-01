@@ -1,0 +1,42 @@
+79. VĚK
+#	Aliance	Členů	Rozloha	Prestiž	Předseda
+1.	[n1] n1ger	10	131393km2	46775401	tech n9ne, krizz kaliko(#1517) - s.o.n.g.o.
+2.	[:ZotR:] Dejte nám všimné na sváču	10	193705km2	43432393	Party in the goat house(#158) - M1S73R
+3.	[KABAT] COMEBACK	10	176163km2	37818221	FEDERER ROGER(#562) - Agassi...
+4.	[*`=/-.,] Supramaniacs	10	162769km2	35379496	Back to the Old Skool(#135) - Supra1Soul5Play
+5.	[DF2] Dark Family II.	10	168585km2	35107073	Nagashizzar(#1017) - castropola
+6.	[.hunteRs] We are .hunteRs	9	129724km2	34751934	.hunteRs.NoiseBomb(#716) - FRaktura
+7.	[KULE7] KULE7	9	170291km2	34098091	Slečinka Art of Flight(#2744) - dzafa kri.
+8.	[NBS] Největší Blbci Světa	10	125253km2	33432629	.:.:.:.:.:.(#68) - XXXGrey
+9.	[JOKE] Smích léčí	8	156860km2	33232378	:-*(#91) - šalanboy
+10.	[škola] znalosti lezi na dosah	10	137612km2	32673609	mastarie(#220) - martum
+11.	[Across] Idealistic Organization	9	129035km2	32253296	Predkloň sa a uvoľni sa(#842) - marv III
+12.	[AveCesar] AveCesar a liga výjimečných.	10	135939km2	31592498	.:AveCesar:.Slaný(#512) - Ares65
+13.	[SWINGERS] Nadržané slečinky	10	137381km2	31527103	Rachel Starr(#1004) - Ing.Phoenix
+14.	[D1KTATOR] éééj more dyk traktor	7	124502km2	30516934	Calvin Candie(#1918) - Vojtiiik
+15.	[A.N.D.] Angels Never Die	10	151247km2	30071034	ARCHANGEL - Aquileje(#686) - Turdos
+16.	[JEDI] to zdá se vám jen...	10	115407km2	27958442	.:WiiiiiiiiFiiii:.(#456) - jadde
+17.	[.:WiFi:.] Kabely se splašily	10	127940km2	26667898	.:WiiiiiiFiiiiii:.(#614) - Simonof
+18.	[ToAn] Tokací Anulus	10	135136km2	26567913	Vakuova posevni pumpa(#976) - devilLH
+19.	[ŠaSŠ] Šaliho a Starkyho škola	10	120346km2	26004248	Nemám rád šalanka(#2753) - startkac
+20.	[=L.O.T=] Lord of Tactic	9	128110km2	25919703	Lord Of Tactic(#54) - tvojasmrt
+21.	[UVVB] Uzené veverky v buřtech	7	103977km2	25789288	Manzanie(#468) - Sir Robertini
+22.	[SNIWDA] Banda líná	9	135947km2	25734609	www.wgtabulky.cz(#2338) - Chica
+23.	[Wrath] The One and The Only	10	164784km2	25424763	Ten Thousand Promises(#1978) - Gxx
+24.	[SSo] Elite Population Reduction	10	128756km2	24347409	FIND YOUR DIGNITY(#1038) - Brhel
+25.	[BATS] BRATISLAVA BATS	9	100293km2	23383119	-=(BATS)=- Dr. N O T O R(#1562) - Lord.BEER
+26.	[PATROLA] Stará Gotko parta	9	112485km2	22862929	SGP_Krvolačný(#370) - Krvo
+27.	[UO] University of Oxford	10	123545km2	22390230	ARCHANGEL - Andreas(#131) - MasterAndreas
+28.	[MDPA] MorDPartA	10	111142km2	22268883	Rada Vacátko(#2465) - sejk
+29.	[Lotta] Lotta per la sopravvivenza	10	144159km2	22180333	La mia ragazza ha un pene(#2368) - Endys
+30.	[NRsF] Nejsme Random skvadra Frajeři	10	132578km2	22045983	NRsF: MOSTRASTAS(#3970) - Beast Boban
+31.	[sam] Farmící samotář	10	114093km2	22032184	sam - To bude jízda(#194) - Libinak
+32.	[Ganja] GANJA	10	146022km2	22023261	Alkáč, neboli alkoholik(#2057) - ..Hanz..
+33.	[CMEPTb] CMEPTb OKKYNAHTAM	7	111233km2	21351292	CMEPTb Katya Budanova(#1789) - abra123
+34.	[Anarchy] Farmíme pro horší minulost	10	105869km2	20909359	Anarchy(#2865) - thordevil
+35.	[ČSB] ČehoSeBojím	10	129832km2	20846643	Bojím se srnek v podzemí(#2084) - labojse
+36.	[GST] Gnormálně Sještě Tžijeme	10	115334km2	20751339	Yawn yawn yawn...(#127) - webby01
+37.	[PRDOX] PReli DO Xichtu	10	146076km2	20090398	Svině s.r.o.(#545) - Spratek
+38.	[COOL] Corporation of obscene lambs	10	114190km2	19726328	Smrtící expres ráže .45(#1096) - Godzil I.
+39.	[Bombing2] Bombardovat města,jóóó :)	10	108430km2	19698165	Bombing strejček :)(#553) - Kuboj
+40.	[-=THC=-] The Heroic Company	10	112534km2	19398520	The Heroic Čulapchorn(#395) - Čulapchorn

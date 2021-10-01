@@ -1,0 +1,42 @@
+27. VĚK
+#	Aliance	Členů	Rozloha	Prestiž	Předseda
+1.	[.::R::.] Rytíři	10	192592km2	68935443	Avalon(#1350) - steamroller
+2.	[=DS=] Dog Soldiers	10	198306km2	68007979	Porco Rosso(#513) - Philman
+3.	[VK] Vibračné Kadidlo	10	202120km2	62922383	Budeš vilně mrousat(#1773) - Razor
+4.	[BH] Black Hand	10	176340km2	60375942	Bramborka(#1897) - Mandelinka Bram.
+5.	[-=KA=-] Killa Army	10	179774km2	58597340	Estetik land(#1196) - Estetik
+6.	[MoSc] Moonstrucks scourge	10	193918km2	57176146	Dance of marionettes(#834) - Bink z Osviceni
+7.	[D1KTATOR] Diktators Dark Wars	9	158541km2	55336404	VeYRoN(#4782) - .FeXeR.
+8.	[MK] Immortal Knights	10	143447km2	49587517	Do not disturb...(#393) - Zorg
+9.	[KKA] Královská Koloniální Aliance	10	178075km2	48200210	Britannia(#60) - LeosA
+10.	[BUM] Zase BUM	10	148130km2	46968203	Sekaný olovo(#2058) - Krlesh The Big
+11.	[D.P.] Davova Psychoza	10	138189km2	45189595	GREAT WARRIOR(#11712) - Lord TROKS
+12.	[=-RŠ--] Rychlé Šípy	10	183168km2	44107274	Mirek Dušín(#2348) - Elohim
+13.	[SK] Slicne Kvocny	10	143741km2	44082491	CAMERON DIAZ(#52) - xkukx
+14.	[BOBR] BrutalneOrtodoxniRakety	10	162368km2	43906375	Cyber Knight Bohemia(#2171) - General.Payton
+15.	[Sleepers] The Sleepers	10	149539km2	43870255	Rivvia(#918) - rivvy
+16.	[3rdWorld] Third World Chaos	10	177553km2	42316260	Territory(#540) - orgasmatron
+17.	[k9] k9	10	147662km2	40586170	krkvochamajdaland(#1754) - Zeratul
+18.	[tAoW] the ART of WAR	10	174807km2	36468269	Inkvizitor(#2607) - ZuLus
+19.	[Meduza] Meduza	10	134695km2	34974942	Oceanie(#6323) - Kvakin
+20.	[M.O.T.S.] Masters Of The Shadows	10	138242km2	34252775	ichounov(#2104) - ich1
+21.	[-=FLR=-] Faullers	10	128900km2	33720905	=ZaFF=(#5657) - Fraci Del Bionag
+22.	[S.D.E] Solar and Dark Empire	10	160504km2	33605582	Enslave The Weak(#7218) - Cornugon
+23.	[nex] nublex	10	147062km2	32545640	STEAM(#5149) - pushTheTempo
+24.	[SADOMASO] Jsme hodní...sadisti	10	159426km2	32467755	Sadista Zabrda(#1224) - Zábrda
+25.	[UFO] Ufouni útočí	10	150292km2	31471617	Owning by UFO(#1833) - Brandik
+26.	[AHA] AHA	10	139352km2	31429052	ARMORICA(#780) - Abdul
+27.	[.:PnP:.] ponáspotopa	10	110346km2	30863359	GOMORA(#420) - Mr. Little
+28.	[Templ] Templáři	10	170379km2	30697495	BUNDOLAND(#1801) - EL BUNDA
+29.	[GPL] Gentoo Playaz	10	102130km2	30649205	/root(#176) - MaxLamerSt
+30.	[AJT] A JE TO	10	127115km2	30628491	A bude hůř...(#9480) - Roger Jang sedy
+31.	[n1] navrat idiotu	10	110344km2	28820158	SURAMOVY SMRADLAVE NOHY:D(#7860) - pyroman
+32.	[/Y-X-T/] Yo-xototh	10	121915km2	28585946	Kozlík Šikula(#5062) - Už jenom Biggus
+33.	[WG] Ghettaři ze Středozemě	10	126727km2	28124520	Frodo Pytlík Skanku(#4582) - Lag
+34.	[TSUNAMI] TSUNAMI	10	113690km2	27684988	CrossRoads(#451) - Rohypnol
+35.	[THOR] Team of HOnest Rebels	4	73196km2	27637888	Thrudvagnar(#6667) - Charlemagne
+36.	[SPD] SPORDAT	10	150330km2	27435893	McKay Land(#343) - McKay
+37.	[X-Com] X-Com	10	118906km2	27401646	Cube(#7502) - Orca
+38.	[A-N-G] Aliance Nové Generace	10	109438km2	26589330	Mondana(#37) - Picard
+39.	[:bum:] :bum:erang...oplatky se pečou	10	172724km2	25769014	DesetTraktoruPlnyNepratel(#1860) - CeFLapoYd
+40.	[digi] digital world	8	136217km2	25464191	Moje království(#2110) - Breath

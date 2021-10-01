@@ -1,0 +1,42 @@
+115. VĚK
+#	Aliance	Členů	Rozloha	Prestiž	Předseda
+1.	[OKNO] O Kvalitě Nežertujeme	10	184841km2	58415741	Show Me The Way(#854) - leszek
+2.	[=T=] Trója	10	196305km2	53135368	Winter is coming..(#301) - FR3EZY
+3.	[Across] Idealistic Organization	10	156539km2	46398363	Boris Brejcha(#968) - marv III
+4.	[DICK] Dickovci	10	188586km2	42050710	Nevrhevsíntoprlajkmí(#167) - Záchodové prkno
+5.	[ČSB] ČehoSeBojím	10	181811km2	41256987	Bojím se utopie...(#348) - Veriax
+6.	[M] MOON	10	170680km2	40475421	Atlan(#600) - Atlantik
+7.	[MENSA] ...spolek jedlíků CHILLI	10	183480km2	39933567	Trinidad Scorpion Moruga(#723) - Sir Extrem
+8.	[-osn-] Ofuk Starého Niktoša	10	166744km2	38620102	Zem esa Rimmra(#668) - Lord Kamzo
+9.	[MTG] Magic The Gathering	10	154898km2	37698261	-)MTG(- Everything ends(#381) - happyguy
+10.	[PhaMa] Phantasma Mayhem	10	144881km2	35262638	PhaMa Showtime(#141) - bukvicka13
+11.	[:.AoA.:] Angels of Apocalypse	10	150765km2	34103873	Andílek(#1025) - kubikma
+12.	[ALI1234] ALI1234	10	124798km2	34091561	usti(#566) - vachys39
+13.	[BS] Black Sails	10	137059km2	33458829	Pitcairn(#788) - BF123
+14.	[D3V1L5] Masters of Underworld	10	153160km2	33188894	Čajna(#270) - Falkus.
+15.	[-=FE=-] Fatal noisE	10	132941km2	33086509	Fekální Slečínka(#38) - fenix23
+16.	[NBTN] Neser Bo Te Naseru	10	142457km2	32982217	RS-24 Yars(#440) - luque
+17.	[Anarchy] Farmíme pro horší budoucnost	10	125370km2	32860316	Touha je zázrak, kámo...(#110) - thordevil
+18.	[C.B.] Cripple Bastards	10	181948km2	32529206	STAY GOLD(#1650) - U.U
+19.	[I.H] Immortal Heroes	10	128744km2	31973720	Arachnid Layr(#364) - Pabouk
+20.	[PLANET-X] PLANET-X Solaris Emperor	10	125166km2	31166527	PLANET-X Anunnaki King(#69) - ZUMOTRIX
+21.	[YOZZEFY] Yozzefy = expy	10	134334km2	31046261	Křížkový Újezdec(#106) - Allegro
+22.	[.L.O.S.] Losáci jedu bomby na Hawaii	10	168213km2	30672232	LOS made in Destroyer(#159) - BlackTears
+23.	[MBA] My Budeme Aliancí	10	124513km2	30028393	Země plná soplů(#335) - hlen123
+24.	[LordsWG] Spolek anonymních alkoholiků	10	115399km2	29608120	Zohan.:.Disco(#558) - Bukay
+25.	[Tabáček] nová generace	10	162547km2	29098773	Kníže Ignor(#681) - ...Aláh...
+26.	[ItNofS] Ve jménu starý časů ...	10	146212km2	28794770	HyChyKyRyDyTyNy(#97) - PanMaur
+27.	[BOUNTY] V pekle sudy válej	10	128094km2	28536699	Alibaba a 40 loupežníků(#1212) - Sjezdovka
+28.	[SI] Skeleton Island	10	143731km2	27165167	All Saints(#1524) - BF123
+29.	[M.S.K.] Morkovsky Saci Komando	10	139017km2	26485874	Annihilator(#40) - GanjaCore
+30.	[SUX] parádní aliance :-O	10	131521km2	26324659	SUXessfull(#572) - LuisFigo
+31.	[PKZ] Prdeli Ke Zdi	10	154326km2	26071008	.::PKZ Multikar::.(#481) - Kwasak
+32.	[*Č*S*P*] Česko-slovenskí pařani	10	136496km2	25989983	*Č*S*P* Fuchi-Mi Nakule(#1664) - masterboy
+33.	[UTOP-X] UTOP-X Solar Utop Emperor	10	125698km2	25506537	PLANET-X Orbit of Nemesis(#70) - ZUMOTRIX
+34.	[eXa] Exalogic	10	100121km2	25360805	Invalidus(#1079) - Hadesland
+35.	[KRTEČEK] Hrabáním k lepším zítřkům...	10	139734km2	25104879	Krteček a makovička(#1242) - IMraz
+36.	[REF] Reformators	10	123185km2	23338614	:::::REF:::::(#983) - OOggi
+37.	[E.T.A] Elyte Terorist Al-KAJDA	10	105359km2	23141172	KYRYPOLEC(#638) - havo86
+38.	[ŽiDi] Židovská sebranka z Moravy	9	122301km2	22007744	Jsem princezna(#637) - Gyriko
+39.	[tpOwCh] the power of wing chun	10	112925km2	21447964	tpOwCh bUchY(#187) - MaximusBuchymus
+40.	[SB] SpikeBallers	10	144884km2	21424726	Aeternum Vale..(#667) - DieWalker

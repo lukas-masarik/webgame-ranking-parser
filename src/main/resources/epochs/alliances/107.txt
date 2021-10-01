@@ -1,0 +1,42 @@
+107. VĚK
+#	Aliance	Členů	Rozloha	Prestiž	Předseda
+1.	[IF] Ignorant Fools	10	181642km2	57754566	What A Wonderful World(#1138) - Zorg
+2.	[KL] Kings Landing	10	178037km2	47911386	Messerschmitt Me 262(#1338) - Reskator
+3.	[M] MOON	10	191390km2	47838302	Atlan(#814) - Atlantik
+4.	[**CQR**] Conquerors	10	109759km2	44931176	Dark Conqueror(#1491) - vanna
+5.	[nBd.] Never Back Down	10	151574km2	43038668	neBudu d(#1434) - Topisek
+6.	[RAPTOR] TEAM RAPTOR	10	148669km2	38635946	Kup si moje CD(#100) - Aram Chroustal
+7.	[=T=] Trója	10	144931km2	35723640	Winter is coming..(#82) - FR3EZY
+8.	[ČSLA] Československá lidová armáda	10	133464km2	33766739	.:CZ-SK:.AK-47ProduceR(#165) - AKland
+9.	[KRTEČEK] Hrabáním k lepším zítřkům...	10	111922km2	30433830	Krteček a makovička(#1612) - IMraz
+10.	[ItNofS] Ve jménu starých časů ...	10	130280km2	30064199	Inter Partes(#412) - Pekelná Klobáska
+11.	[D3V1L5] Masters Of Underworld	10	149657km2	28901327	Čajna(#1065) - Falkus.
+12.	[BOUNTY] Pověste ho vejš	10	135986km2	28681799	Blabola(#134) - 010Nemesis
+13.	[S*K] Skunk teritory	10	158335km2	27944728	Floutkov(#678) - Bigbosh2
+14.	[YOZZEFY] Yozzefy = expy	10	125082km2	27894868	Křížkový Újezdec(#159) - Allegro
+15.	[Anarchy] Farmíme pro lepší minulost	10	131217km2	27589028	Touha je zázrak, kámo...(#67) - thordevil
+16.	[.::R::.] Rytířský mini come-back	10	127381km2	27443132	SUXessfull(#342) - LuisFigo
+17.	[WoW] Warcraft	10	141429km2	26711148	BullCover(#743) - High Warlord Rxz
+18.	[PKZ] Prdeli Ke Zdi	10	133563km2	25612234	.::PKZ Prasopes::.(#1482) - Kwasak
+19.	[Bull] Black Division	10	115272km2	25464823	BullMasteR(#742) - High Warlord Rxz
+20.	[MATKARUS] MATKARUS	8	100401km2	25028271	Krásnaja armia(#111) - JosefViserjonov
+21.	[ČD] České dráhy, jsme tady pro Vás	9	110822km2	24340445	=_R 922 Metuje_=(#206) - cvachta
+22.	[LordsWG] Domobrana	10	125034km2	23762514	Zohan.:.Disco(#840) - Bukay
+23.	[VzP] Vyvrženci z Pekla	10	131635km2	23053176	Vyvrženec Dr.Satan(#69) - StillDeadCZ
+24.	[Tabacek] Tabacek	10	159130km2	22638231	Vědomí Nevědomí Svědomí(#68) - snasa1
+25.	[Kefa] Dostaneš kefu	10	127418km2	21651103	ranymok(#1090) - kiss for you
+26.	[VD] Vai dai	10	116849km2	21320056	Love Love Love(#252) - golden.guy
+27.	[NS] Night stalkers	10	124853km2	19744384	Down Town(#164) - Rayo007
+28.	[ponorky] vzhuru ke dnu	10	124928km2	18961456	U 20(#262) - B.Franklin II.
+29.	[V] VEGAN	10	146261km2	18903482	EAT VEGAN, GO PRO(#752) - mara8
+30.	[G7] Great 7	10	103327km2	18578320	Sunshine(#90) - Anchor
+31.	[ALI1234] ALI1234	10	112920km2	18503942	usti(#1266) - vachys39
+32.	[UTOP-X] Solaris System Emperor	10	108601km2	17908580	PLANET-X Orbit of Nemesis(#1727) - ZUMOTRIX
+33.	[ZEIT] ZEITGEIST	8	87060km2	17873273	ZEITGEIST_I(#888) - Lord Arthurius
+34.	[ZSB] Zima se blíží	9	80758km2	17808580	John Sníh(#1294) - matto10
+35.	[S.S.T.] Spojené síly terorismu	10	93410km2	17583952	.:S.S.T:. Trutnov(#239) - alksj
+36.	[=UP=] UfoPorno	10	103418km2	17365095	Území nikoho(#585) - ClarkKent
+37.	[R.U.M.] bozkov tuzemsky	8	79511km2	17238513	hordomanie(#927) - hordik
+38.	[Tabáček] Tabáček	10	126666km2	17209867	Why so serious?(#88) - snasa1
+39.	[.:xXx:.] CENSORED	9	131249km2	16901763	HELL-fire(#34) - wasabi666
+40.	[PLANET-X] Solaris System Emperor	10	104199km2	16768877	PLANET-X Anunnaki King(#1726) - ZUMOTRIX

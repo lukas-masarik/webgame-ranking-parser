@@ -1,0 +1,42 @@
+150. VĚK
+#	Aliance	Členů	Rozloha	Prestiž	Předseda
+1.	[**CQR**] Conquerors	10	181345km2	75029112	Dark Conqueror(#82) - vanna
+2.	[M] MOON	10	183408km2	63461926	Atlan(#593) - Atlantik
+3.	[(V)oo(V)] The Crabs	10	172322km2	61928955	Krabistán(#61) - blasticek
+4.	[UNIQUE] -proste sme jedinečný	10	155471km2	57594000	uniQue man von Triss(#999) - trisíííček
+5.	[AC/DC] Back in black	10	159874km2	56866196	Rest in Piss(#59) - Martin858
+6.	[-=KA=-] Killa Army	10	190684km2	56799151	-=KA=-pička meskalinu(#222) - Athara
+7.	[ganja] GANJA	10	155538km2	52217533	Optimal_solution(#1219) - Pitel
+8.	[VN] Vostrý náboje	10	148533km2	49163932	Nohy v teple(#85) - Nicole Kidmann
+9.	[SIL] Silmarillion	10	143175km2	48601391	Domorodec z Talp(#58) - Martin858
+10.	[BumBum] Z hlediska globálního spektra.	10	153715km2	48218700	.:BB:. A komu to cpeš?(#565) - TheSokar
+11.	[queens] QUEENS	10	178810km2	47716302	Devova farmicka(#736) - trubkatrubkovic
+12.	[MENSA] ...prostě (j)elita :)	10	164924km2	45288308	NESERA NAVALTO(#902) - Sir Extrem
+13.	[PRDOX] PRdelí DO Xichtu	10	117198km2	41448929	TRI TASKY TUTU(#954) - skvost
+14.	[-=LH=-] Lonely Hearts	10	142954km2	40393263	Hladce vy-=LH=-olené Esyj(#73) - Arachnid
+15.	[TLD] The Last Dance	10	158443km2	40235410	Zlý COVER(#100) - masterWG
+16.	[.:L30N:.] Lví smečka	10	134872km2	38642860	Tauron(#439) - Piecemaker
+17.	[AveCesar] AveCesar a pohodové klikání 2.	10	120709km2	37222040	.:AveCesar:. Šéf(#156) - Ares65
+18.	[CoverUni] CoverUni	10	124023km2	34860324	:::..Cover..:::(#255) - jerry360
+19.	[PKZ] prdeli ke zdi	10	127520km2	34765509	.::PKZ::. slušný název(#1043) - lord big
+20.	[Anarchy] Farmíme pro lepší budoucnost	10	123203km2	33292017	Srdce mi pofoukáš...(#72) - thordevil
+21.	[YOZZEFY] Yozzefy = klídek	10	138652km2	32612048	Zemanův člun(#105) - Allegro
+22.	[.:W4R:.] War For Revolution	10	152539km2	32511952	Viking`s land(#939) - sir Flat
+23.	[K1*`=/-.] KAMIKAZE	10	121882km2	31890683	copacapo(#454) - Nepochopisnikdy
+24.	[FL] Farmící Léto	10	125948km2	31824724	Energetický zásobníček(#974) - 4n.Tr4x
+25.	[=T=] Trója	10	127160km2	30621926	Winter is coming..(#164) - FR3EZY
+26.	[Žmoulové] Přes kapsu	10	147546km2	29692097	Rozruch(#441) - o.O.oDin
+27.	[**SNK**] SmeNaKašu	9	117774km2	29599780	Liška Bystrouška na Kašu(#263) - Jitus21
+28.	[S*K] Skunk (Skank) Teritory	7	89891km2	26536974	Floutkov(#494) - Bigbosh2
+29.	[K0MUN1ST] Rozvědka a rakety	10	92336km2	26096928	Raketový inženýr(#400) - masterWG
+30.	[Imp] Impérium rozsladěných farmiček	10	115535km2	25797483	Už nejsem nevěsta(#1086) - Sedmika
+31.	[Evropa] Evropa	10	117408km2	25397450	Poušť(#488) - Kojot prérijní
+32.	[MZA] Miloš - Zahořklý Aparát	9	97797km2	25098013	Klekni si....(#81) - Michellion
+33.	[SRAN] Tvoje Máma	8	118359km2	24309850	Pucuju sasanku tvojí mámy(#479) - Vládce Kabraxis
+34.	[EMP] Emil Master Puppet	4	58287km2	23859765	Puppet Master(#1070) - FARR FARR AWAYY
+35.	[N.n.n-2] No nic no 2	10	124619km2	23470254	Napalm Death(#411) - Carcas
+36.	[TLC] The Last Conquerors	10	140961km2	23124493	Feudálny dobyvateľ(#33033) - G.R.E.E.K
+37.	[.ganja.] GANJA	10	141676km2	22694637	maly uličník(#737) - trubkatrubkovic
+38.	[MaNTiNeL] ..	10	155407km2	21945827	Na Kridlech Valkyr(#437) - o.O.oDin
+39.	[MÁMA] Tvoje druhá máma	10	131375km2	21065490	Nálet tvojí mámy(#922) - gugoslav
+40.	[CE] Crime Elán	10	171877km2	20991835	Natri si bambino(#147) - ftacik

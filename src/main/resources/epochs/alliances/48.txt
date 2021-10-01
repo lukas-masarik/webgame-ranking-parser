@@ -1,0 +1,42 @@
+48. VĚK
+#	Aliance	Členů	Rozloha	Prestiž	Předseda
+1.	[Ganja] Ganja	12	242360km2	69463303	Gorem smaží s Eliii(#86) - Joker16.
+2.	[RAFANI] RAFANI	12	235982km2	59165262	RAFAN NEÚSTUPNÝ(#5079) - SprávceChlívku
+3.	[.::R::.] Rytiri	12	233553km2	59114920	Krak des Chevaliers(#8176) - steamroller
+4.	[ČSLA] Česko-Slovenská Lidová Armáda	12	230148km2	55959209	.:CZ-SK:.Dum spiro,spero(#193) - KalinV
+5.	[MoM] Morbid obituary Message	12	227078km2	54831645	Nepropadejte panice(#346) - mixhail
+6.	[*AsL*] aliancia splašených lamiek	12	206234km2	49332196	UNCATCHABLE GOD IS BACK(#7489) - imhot3p
+7.	[LLS] Long Left Side	12	204703km2	49230738	Já přijdu hrát na ty dudy(#127) - NiakarAn
+8.	[SB] SpikeBallers	12	189813km2	48567698	UKAZp...DAMtiHRUSKU(#2592) - balin.
+9.	[ManG] Maniiax gang	12	217756km2	46824864	Slečinka Ezekiel 25.17(#1758) - Peugo407
+10.	[DF] Dark Family	11	165774km2	46469540	Lesnovek34(#2208) - Hanz Guderian
+11.	[*zoo*] Zeal offensive organization	12	198473km2	44754276	500km za cenu 10.25kč(#294) - XXXGrey
+12.	[OS] Other Side	12	202008km2	43697517	LookOnTheBrightSideOfLife(#650) - Inchuchuna
+13.	[Z] Zeměplocha	12	187388km2	39660993	Cori Celesti(#289) - kIt. .
+14.	[..D..] Dragons Group off Farmer earth	12	179707km2	37553880	Dragon come . Don`t panic(#84) - Zanig Martinator
+15.	[P.f.B] Predators from Bombaj	12	211693km2	36897112	Metalomanie(#669) - SiRvAcA
+16.	[H5N1] Choré Sliepky	12	188379km2	36652657	underground(#83) - J3FO
+17.	[FC] Famiglia Corleone	11	137698km2	35433937	Don Vito Corleone(#165) - Sneer.
+18.	[DIEUSA] Smrt imperialistům	12	157975km2	33889140	Iransky Kulcik(#1897) - Dimmu
+19.	[=-d15-=] =- d15 federation -=	10	161629km2	33066773	Můj poslední věk..............(#4292) - .Di5sydeNt.
+20.	[.:V10R:.] Velká revoluce na desátou	12	203804km2	32991768	Tááááááááákovýhle oči(#940) - Pepina
+21.	[***B***] BENDA s.r.o.	12	132029km2	32466040	***B*** land 01(#4013) - 10987654321
+22.	[Kačerov] My z Kačerova	7	89587km2	31812829	Rampa McKvak(#605) - ...Kápo...
+23.	[SEX] ...	6	119209km2	31803517	eska(#5344) - eska
+24.	[N-N-N] Nečum,Nebreč,Neotravuj	10	133761km2	31128598	Joohnny ?? skill ?(#1923) - Joohnny
+25.	[EASY] Lehce a Snadne	12	174938km2	30971794	*We will rise*(#6331) - saphirron
+26.	[NIGGAZ] NICEwhiteGUYZ	12	151732km2	30382542	Black as death(#4009) - ISE
+27.	[Chazy] Chazy ma lasku uz nema rad me	12	141726km2	30121342	prvni zem(#657) - efo
+28.	[.:YD:.] .:Your Dead:.	12	143322km2	30116284	.:YD:.RUský Mafián(#3293) - White Dead
+29.	[OST3] Old stars teal po3	12	158920km2	29958079	Italia(#619) - Remus XX
+30.	[UVVB] Uzené veverky v buřtech	7	115819km2	29629142	Manzanie(#3436) - Sir Robertini
+31.	[*SN*] supernoob	11	135257km2	29555760	mastarie(#135) - martum
+32.	[-=LH=-] Lonely Hearts	12	146691km2	29363423	vyFARMím to od SRDCE(#76) - Walker
+33.	[.:V11R:.] Velká revoluce po 11..	11	158975km2	28690204	Země pana Šmucmulina(#8366) - Telwin
+34.	[/Fe4r/] Fe4r is neverending	6	117362km2	28526830	SOMEWHERE I BELONG(#3114) - .adm1n.
+35.	[FOS] Fraction of second	12	119821km2	28452373	Elf Warrior(#653) - VV
+36.	[ManG8] Maniiax gang 8	12	123900km2	27790495	Decimus.slečinka(#597) - alien407
+37.	[SoL] Sequence of Light	12	158821km2	27519506	Zeitgeist(#2228) - JamiROQaI
+38.	[AUTORITA] Dalším věkem na WG....	9	147598km2	24070834	AUTORITA - Jsem zapomněl(#8559) - Lukastrance
+39.	[H2O] Water Bandits	12	143322km2	23717411	Medras(#1341) - Mirain
+40.	[SPARK] bodači z Dukovan :)	11	118535km2	22559297	:o)(#810) - Mechafc

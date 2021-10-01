@@ -1,0 +1,42 @@
+117. VĚK
+#	Aliance	Členů	Rozloha	Prestiž	Předseda
+1.	[KL] Killing Legion	10	169623km2	41721193	[KL](#884) - 7000000
+2.	[ČSLA] Československá lidová armáda	10	137584km2	37682853	.:CZ-SK:.Joudinkov(#682) - joudinek
+3.	[VT] VitajTe	10	180365km2	35749296	Friends Meeting(#352) - imhot3p
+4.	[.L.O.S.] Losáci ze Severu	10	130130km2	35364994	LOS made in Destroyer(#57) - BlackTears
+5.	[)CD(] CéDéčka	10	151408km2	31694099	Grýn(#289) - green88
+6.	[VN] Vostrý náboje	10	109165km2	30556156	9mm Luger(#149) - Nicole Kidmann
+7.	[YOZZEFY] Yozzefy = expy	10	124269km2	28558087	Křížkový Újezdec(#423) - Allegro
+8.	[Anarchy] Farmíme pro lepší budoucnost	10	105906km2	28510858	Touha je zázrak, kámo...(#1130) - thordevil
+9.	[MENSA] ...spolek jedlíků CHILLI	10	151764km2	27987000	Trinidad Scorpion Moruga(#307) - Sir Extrem
+10.	[HONÍME] Honíme si trika	10	129675km2	27629465	Strejda KURT(#663) - KURT
+11.	[NBTN] Neser Bo Te Naseru	10	129617km2	26405469	RS-24 Yars(#326) - luque
+12.	[=*ss*=] Sex Shop	10	134856km2	25809183	Plakej(#84) - Ctirad2
+13.	[tpOwCh] the power of wing chun	10	111513km2	25705941	tpOwCh bUchY(#33) - MaximusBuchymus
+14.	[KRIEGER] Jsme tým	10	134887km2	25102227	KRIEGER Sebevědomá země(#238) - Vommel
+15.	[KÚ] Kaitánské Útočiště	9	125940km2	24274849	Deep Blue Kaitain(#188) - Telcontarr
+16.	[Vancity] Original Racer Pack Collection	10	115353km2	24234080	Tak co, ubalíme?(#907) - Avgeropoulos
+17.	[UTOP-X] UTOP-X Solar Utop Emperor	10	123902km2	24192940	PLANET-X Orbit of Nemesis(#1170) - ZUMOTRIX
+18.	[*VS*] VANDERSEX	10	209084km2	24013252	-=KA=-4ever(#582) - Estetik
+19.	[-=FE=-] Fatal noisE	10	104262km2	23775237	Nedá se svítit(#384) - Bury
+20.	[LordsWG] Hniezdne vojny	10	124614km2	22740511	Zohan.:.Disco(#298) - Bukay
+21.	[SUX] parádní aliance :-D	10	116672km2	22523374	SUXessfuII(#71) - LuisFigo
+22.	[=T=] Trója	10	155580km2	22366413	Winter is coming..(#614) - FR3EZY
+23.	[PLANET-X] PLANET-X Solaris Emperor	10	117494km2	22234740	PLANET-X Anunnaki King(#1168) - ZUMOTRIX
+24.	[mXt] metaXtren	10	124807km2	21980871	CzechoslovakEmpirium(#381) - BOBSTEIN
+25.	[SB] SpikeBallers	9	104592km2	21551596	Aeternum Vale..(#1154) - DieWalker
+26.	[D3V1L5] Masters of Underworld	10	135263km2	21369459	Čajna(#201) - Falkus.
+27.	[:.AoA.:] Angels of Apocalypse	10	109663km2	20636189	Andílek(#1613) - kubikma
+28.	[VTIP] Mistři Smíchu	10	136420km2	20244823	7 years(#1163) - LukO cZ
+29.	[Chlastám] Chlastám, Chlastáš, Chlastáme	9	112136km2	19968590	Zillionaire ft. Zorg(#39) - xr3d
+30.	[THZ] Tahle Hra Zaniká	10	136787km2	19751877	semi-automatic lonely boy(#31) - Zlýsin
+31.	[LEGO] stavíme Agora Garden Tower	9	82649km2	19325785	LEGO PaedDr. Archi CSc.(#431) - ArchimondS
+32.	[.E.T.A.] Elyte Terorist Al-KAJDA	10	89153km2	19116498	KYRYPOLEC(#937) - havo86
+33.	[SPRITE] Teď ja budu Sprite a ty žízeň	10	126427km2	19091152	Hasim žízeň(#1026) - no killer
+34.	[.:FaK:.] Fatima	10	122044km2	18479259	All Cops Are Brothers(#984) - sir.smrt
+35.	[B33r] Pivo dělá krásná těla	10	97415km2	18326642	Holba(#759) - Hunder Druhý
+36.	[*.dot] Dobře organizovaná tlupa	7	76266km2	17158656	Fake of lire(#662) - KURT
+37.	[tpOwCh2] :)	10	112200km2	16702948	tpOwCh yiP maN.(#546) - MaximusBuchymus
+38.	[Mega] Krstný Otec	10	85984km2	16692249	Jéjéjéjéjéééééééé(#744) - Šel Pěšky
+39.	[:O] Bonnie Rotten	7	86960km2	16589389	Lets go brat všech čobolů(#50) - 19MINO94
+40.	[Bull] Black Division	10	110084km2	16013433	GladeRxz(#615) - High Warlord Rxz

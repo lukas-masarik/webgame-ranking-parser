@@ -1,0 +1,42 @@
+119. VĚK
+#	Aliance	Členů	Rozloha	Prestiž	Předseda
+1.	[SPRITE] SiPripravteRITE	10	179660km2	53804600	Mládí v hajzlu(#1355) - Michal IX
+2.	[.L.O.S.] Losáci ze severu	10	162262km2	53726900	LOS made in Zhongguo(#31) - Topisek
+3.	[.:V3R:.] škola sexu	10	203844km2	51602407	Sexuolog(#137) - AndreFox
+4.	[B.E.D.] Blue Eyed Devils	10	172894km2	50807885	LOS made in de Winter(#1095) - BlackTears
+5.	[M] MOON	10	176539km2	39817623	Atlan(#558) - Atlantik
+6.	[ŽsN] Židi s análním nádorem	10	168280km2	39388411	the perfect medium rare(#779) - EmAChe
+7.	[Tabáček] Tabáček	10	113289km2	38465487	Kníže Ignor(#74) - ...Aláh...
+8.	[ČSLA] Československá lidová armáda	10	157353km2	34320091	.:CZ-SK:.Joudinkov(#1257) - joudinek
+9.	[LW] Legendary Warriors	10	149077km2	33938498	Legendary Night Club(#370) - Archimonde73
+10.	[=T=] Trója	8	132922km2	33844609	Winter is coming..(#241) - FR3EZY
+11.	[MENSA] ...Vánoční pohodička	10	128821km2	32747316	Trinidad Scorpion Moruga(#164) - Sir Extrem
+12.	[PKZ] Prdeli Ke Zdi	10	144977km2	32436466	.::PKZ Dattebayo::.(#1450) - Kwasak
+13.	[ČSB] ČehoSeBojím	10	164628km2	31296825	Bojím se ČSOB(#1412) - MARTiJACK
+14.	[nBd.] Never Back Down	10	120864km2	30280348	UmimKopnoutDoAuta(#371) - HromikSir
+15.	[RAPTOR] Team Raptor	10	133418km2	30134624	Namelu te do pastiky(#515) - Aram Chroustal
+16.	[Bull] Black Division	10	162040km2	28498164	GladeRxz(#174) - High Warlord Rxz
+17.	[VZP] Vyvrženci Pekla	10	139216km2	27826071	Vyvrženec Othis(#109) - StillDeadCZ
+18.	[VENDETA] VENDETAAAAAAAAAAAAAAAAAAAAAAAA	10	121306km2	27521554	Bloody Horsedog(#513) - Konopess
+19.	[DEAD] Milujeme Vás	10	116014km2	27109236	-DEAD-MůjMá98cm(#56) - Diák
+20.	[MOVITS] MOVITí Stařešinové	10	153725km2	26792615	sir Idontgiveashitalot(#451) - Hollandan
+21.	[68] 68	10	147304km2	26752524	Artek(#331) - Jurgens
+22.	[YOZZEFY] Yozzefy = expy	10	131702km2	26383956	Křížkový Újezdec(#169) - Allegro
+23.	[SUX] parádní aliance :D	10	138422km2	26259512	SUXessfull(#238) - LuisFigo
+24.	[tpOwCh] the power of wing chun	10	139686km2	25479229	tpOwCh bUchY(#290) - MaximusBuchymus
+25.	[M.S.K.] Morkovsky Saci Komando	10	150697km2	24999725	Annihilator(#83) - GanjaCore
+26.	[Anarchy] Farmíme pro horší budoucnost	10	124515km2	24203682	Touha je zázrak, kámo...(#108) - thordevil
+27.	[GoD] Game of Drones	10	145973km2	23642318	David Copperfield(#36) - Drunk3n
+28.	[D3V1L5] Masters of Underworld	10	130452km2	23349098	Čajna(#770) - Falkus.
+29.	[-THC-] Strana zelených	10	117938km2	23254538	Snorri_Killa(#934) - Method Man
+30.	[PLANET-X] PLANET-X Solaris Emperor	10	119208km2	22960164	PLANET-X Anunnaki King(#120) - ZUMOTRIX
+31.	[ASC] Australia Slovakia Connection	10	116523km2	22570618	za dobyvak vyhIaz(#173) - Spacemen
+32.	[RoboUtop] po letech zpět......	10	105676km2	22464907	RUskou vodku, prosím.....(#231) - Lord Carcharias
+33.	[HyeNy] stale pri chuti	10	118933km2	22282842	HyeNa LW No.1(#184) - Poncho
+34.	[P.f.B] Predátoři z Bombaje	10	138715km2	21422627	SpawnRider(#142) - J.a.c.k.e.s.s
+35.	[ALI1234] ALI1234	10	137929km2	21049817	usti(#546) - vachys39
+36.	[B33r] Pivo dělá krásná těla	10	104666km2	20882910	.-B1905-.(#617) - miSSSSh
+37.	[Inn] PlayzmyMIny3	10	98010km2	20220561	FARMAI(#1246) - K8po
+38.	[T3R0R1ST] Somewhere in Tenerife..	10	134375km2	20161510	Čaroděj ze země (k)oz(#564) - nezbedny bohus
+39.	[mXt] metaXtren	10	106851km2	19876263	Bobíkov(#350) - BOBSTEIN
+40.	[*SnsrN*] S nami sa radsej nezahravaj	10	125120km2	19623423	Peklicko v raji(#613) - fagancek2

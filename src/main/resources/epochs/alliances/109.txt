@@ -1,0 +1,42 @@
+109. VĚK
+#	Aliance	Členů	Rozloha	Prestiž	Předseda
+1.	[MENSA] HAND MADE bY SOKOLÍCI	10	140989km2	36999773	Trinidad Scorpion Moruga(#119) - Sir Extrem
+2.	[Across] Idealistic Organization	10	149771km2	35069055	Klangkarussell(#730) - marv III
+3.	[**CQR**] Conquerors	10	148006km2	34454900	Dark Conqueror(#1359) - vanna
+4.	[ČSLA] Československá lidová armáda	10	150762km2	34387702	.:CZ-SK:.Joudinkov(#1087) - joudinek
+5.	[YOZZEFY] Yozzefy = expy	10	129648km2	33455863	Křížkový Újezdec(#642) - Allegro
+6.	[-osn2-] Odtialto sa neuteká :D	10	170848km2	33161589	-osn2- Vozo(#446) - Vozicek
+7.	[*SnsrN*] S nami si radsej nezacinaj	10	146349km2	32598264	Wg dinosaurus(#559) - TranceSexual
+8.	[MaNTiNeL] Kardashian family	10	159966km2	32434702	Zeru potkani potraty(#1473) - Kr3eSe3r
+9.	[nBd.] Never Back Down	10	115437km2	32169507	neBudu doma(#584) - HromikSir
+10.	[BOUNTY] No, zřejmě slušnej oddíl	10	126770km2	32038018	Koudelka a 40 loupežníků(#1170) - Sjezdovka
+11.	[=101=] 011100506463	10	119274km2	30979765	00120001222102210(#804) - Gingi
+12.	[IF] Ignorant Fools	10	155318km2	30100863	So hot(#301) - 2xcl.
+13.	[EP] EL PASO	10	137905km2	29922031	K100(#366) - Fristi
+14.	[LEGO] stavíme Chichén Itzá	10	150966km2	29263399	LEGO never back down(#406) - ArchimondS
+15.	[až8znaků] TakSemSeVejdeMaximálně30Znaků?	10	125316km2	28928906	ni hao, wo jiao Yang(#699) - .BeachBoy.
+16.	[ČSB] ČehoSeBojím	10	139631km2	28784727	Bojím se ČSB(#710) - Veriax
+17.	[MATKARUS] MATKARUS	8	101320km2	27922315	Krásnaja armia(#87) - JosefViserjonov
+18.	[SPRITE] my jsme Sprite a vy žízeň	10	109758km2	27410667	Pocemkamdeš(#724) - demonstrate
+19.	[.L.O.S.] Losáci ze severu	10	129451km2	26892326	LOS made in China(#550) - Topisek
+20.	[S.S.T.] Spojené síly terorismu	10	106242km2	26817793	.:S.S.T:. Trutnov(#183) - alksj
+21.	[RAPTOR] TEAM RAPTOR	10	146073km2	26629455	Kup si moje CD(#60) - Aram Chroustal
+22.	[PhaMa] Phantasma Mayhem	10	122387km2	26436443	PhaMa proteinový magnát(#505) - BusteRHUX
+23.	[Anarchy] Farmíme pro lepší budoucnost	10	105947km2	25970668	Touha je zázrak, kámo...(#77) - thordevil
+24.	[Tabáček] Tabáček	10	114188km2	25879313	Lake of fire(#488) - KURT
+25.	[ALI1234] ALI1234	10	117567km2	25862152	usti(#1201) - vachys39
+26.	[ČD] České dráhy, jsme tady pro Vás	10	105899km2	25812090	=_IC 551 Zlínský expres_=(#501) - cvachta
+27.	[S.D.E] Solar and Dark Empire	10	118290km2	25637212	Weatherlight(#238) - Scalpelexis
+28.	[DEJAVU] EASY GAME	10	133097km2	25221567	You cannot escape(#239) - Comanndos
+29.	[MZA] Morče Z Asfaltu	10	122780km2	25025225	Klekni si....(#98) - Michellion
+30.	[KL] Killing Legion	10	146635km2	25006834	IMPERÁTOR(#72) - 7000000
+31.	[ItNofS] Ve jménu starých časů ...	10	104897km2	24643728	HyChyKyRyDyTyNy(#94) - PanMaur
+32.	[NBTN] Neser Bo Te Naseru	10	115870km2	24609528	RS-24 Yars(#242) - luque
+33.	[=BW=] Black Widow	10	149755km2	24108088	kdo nevěří, ten má za tři(#1090) - .BeachBoy.
+34.	[G7] Great 7	10	130887km2	23798313	Dark dream(#883) - Anchor
+35.	[ZEIT] ZEITGEIST	10	124494km2	23755790	ZEITGEIST_I(#857) - Lord Arthurius
+36.	[S*K] Skunk Teritory	10	135731km2	23562229	Floutkov(#203) - Bigbosh2
+37.	[NN] Načo názov	10	129909km2	23059796	No a co(#1398) - ASA
+38.	[BumBum] Z hlediska globálního spektra.	10	115113km2	21419548	.:BB:. Absolute Zero(#1236) - Bufon
+39.	[S*K2] Skunk Teritory2	10	132090km2	20234703	Ajta Krajta(#560) - Bigbosh2
+40.	[PLANET-X] PLANET-X Solaris Emperor	10	111435km2	20074433	PLANET-X Anunnaki King(#151) - ZUMOTRIX

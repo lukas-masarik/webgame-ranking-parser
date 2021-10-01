@@ -1,0 +1,42 @@
+92. VĚK
+#	Aliance	Členů	Rozloha	Prestiž	Předseda
+1.	[*`=/-.,] Chineese Tea at 5 o clock	10	170105km2	34837877	Země byla proražena(#49) - Supra1Soul5Play
+2.	[SPRITE] Teď já budu Sprite a ty žízeň	10	135490km2	33471809	Mládí v hajzlu(#124) - Michal IX
+3.	[.:V3R:.] škola sexu	10	163032km2	32880877	Sexuolog(#1746) - AndreFox
+4.	[Across] Idealistic Organization	10	109418km2	29831989	Kukaj Karol, Klára kaká(#721) - marv III
+5.	[HO] Hellsing Organization	10	145499km2	28974778	Hellsing Foothills(#236) - Alandriel
+6.	[CoverUni] CoverUni opět v akci	10	149668km2	28260975	R3D made in China(#1524) - hagg1d
+7.	[VMCh] Velmi Málo Chápaví	10	131767km2	27987738	Pro Verunku(#3240) - Fereofar
+8.	[Bombing2] Jsme hodní a kamaradští	10	128148km2	27852829	Bombing strejcek:)(#131) - Kuboj
+9.	[ManG14] Maniiax Gang 14	10	115222km2	26746221	Namyslená slečinka(#696) - van dame
+10.	[ČD] České dráhy, jsme tady pro Vás	10	136093km2	26601216	=_Sp 1972 Peklák_=(#2333) - cvachta
+11.	[ToAn] Tórův Anál	10	137061km2	26552672	Vulnus in anum(#712) - devilLH
+12.	[Tabáček] Tabáček	8	139237km2	25890351	Wake and Bake(#2608) - snasa1
+13.	[VT] Violet Troopers	9	144119km2	25822208	miláčik, nie som tučná ?(#66) - Poprask
+14.	[Chlastám] Chlastám, Chlastáš, Chlastáme	9	125396km2	24715922	Micha`el a la playa(#768) - xr3d
+15.	[=T=] Trója	10	126608km2	24261626	Winter is coming..(#1741) - FR3EZY
+16.	[NBS] Největší blbci světa	10	129035km2	24238758	Odreagovacka 2(#2243) - XXXGrey
+17.	[-=LH=-] Lonely Hearts	10	154503km2	24168747	-=LH=-OSTEJNÝ ALKOHOLIK(#2287) - Walker
+18.	[ItNofS] Ve jménu starých časů ...	10	130917km2	23780880	HyChyKyRyDyTyNy(#214) - PanMaur
+19.	[ZERO] Nula od nuly pojde	10	129134km2	23569232	webgamista na baterky =)(#1660) - Walden r Gwendor
+20.	[=wale=] on hledá jeho ....	10	143056km2	23276163	sniff some coke ?(#145) - Hardwell
+21.	[MDPA] MorDPartA	10	111094km2	21433494	satory(#31) - hejkalak
+22.	[TreBeach] Třetí Největší pláž na Světě	8	107850km2	21252764	znicena zeme(#3511) - haskyl
+23.	[cerveza] cerveza	9	96988km2	21202395	vtipný šuhaj(#1425) - Dr.hurka
+24.	[BOUNTY] V pekle sudy válej	10	102629km2	20689919	Lotrando a 40 loupežníků(#2630) - Sjezdovka
+25.	[LEGO] stavíme domečky	10	100666km2	20611352	LEGO oOoo(#563) - ArchimondS
+26.	[Rafani] Rafani září v září	9	146900km2	20562614	Rafan Alfasamec Váša(#71) - Vasulin
+27.	[B.K.] Blitzkrieg	10	108954km2	19675738	Heinrich Severloh(#1034) - Tomasius Velky
+28.	[RoboUtop] věk Vína a Vinobraní	10	112294km2	19356299	RUmcajs loupežník(#863) - Lord Carcharias
+29.	[-=DF=-] -=Destilat Fanatics=-	10	106746km2	19207050	-=DF=- Absolut Vodka(#965) - Michal44
+30.	[AUTORITA] Celé jméno aliance (povinné)	4	81761km2	19196877	Nenázvuhodná prasečina(#570) - caramell
+31.	[.:EoT:.] Eye of terror	10	110311km2	19128362	Zagorka kupující sushi(#470) - Zagorakiss
+32.	[MK] Immortal knights	10	158196km2	19080563	Nevím a nehraji...(#1548) - Zorg
+33.	[x.x.x.] x.x.x.	10	130588km2	18660070	Star-Lord(#1133) - KingSixx
+34.	[Bombing3] Už se rozmnožujem	10	115410km2	18620287	Bombing Pointer to Hell(#1795) - kaiman
+35.	[.:YD:.] .:Your Death:.	10	144558km2	18361456	.:YD:. Smrt si tě najde(#1932) - White Dead
+36.	[ALI1234] ALI1234	10	102896km2	18324833	usti(#705) - vachys39
+37.	[Akatsuki] Společenstvo zlosynů	9	100933km2	18217081	Bijuu Tobi(#3028) - Lordisko
+38.	[C*P] Cold Power	10	106326km2	18046783	Quintara(#1704) - Ivanes
+39.	[anx] antrax rulez	10	124934km2	17628406	AntraX Niagara(#2562) - smeti
+40.	[ČSLA] Československá lidová armáda	10	83745km2	17448009	.:CZ-SK:.Joudinkov(#983) - joudinek

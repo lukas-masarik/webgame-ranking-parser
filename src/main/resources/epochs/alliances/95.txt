@@ -1,0 +1,42 @@
+95. VĚK
+#	Aliance	Členů	Rozloha	Prestiž	Předseda
+1.	[*`=/-.,] Supramaniacs	10	181278km2	49133289	Země byla proražena(#96) - Supra1Soul5Play
+2.	[Wrath] The One and The Only	10	159656km2	44190135	U kralika Bernarda(#306) - Nokiac
+3.	[S.D.E] Solar and Dark Empire	10	169206km2	43669090	Prestige(#133) - Scalpelexis
+4.	[warcrime] War Criminals	10	114500km2	39721995	War Criminal - Arsonist(#234) - ymethyst
+5.	[-=DF=-] -=Destilat Fanatics=-	10	164314km2	39398501	-=DF=- Absolut Vodka(#178) - Michal44
+6.	[LBL] LBL	10	159071km2	38073989	Modrý pták(#198) - ridgeback
+7.	[VT] Vitazne Tazenie	10	155161km2	36696837	LEGENDARY TIMES ARE GONE(#41) - imhot3p
+8.	[ToAn] Torzní Antagonisté	10	144709km2	36638361	meteorism futui(#620) - devilLH
+9.	[*SnsrN*] S nami si radsej nezacinaj	10	154673km2	29490568	So mnou si neposkriabes(#1865) - fagancek2
+10.	[Lords] of Baking Cookies	10	124922km2	29405183	Paint the Town Red(#282) - Krta
+11.	[Bombing] Bombový sníh	10	109404km2	28185220	Bombing Hero(#1930) - the last Hero
+12.	[-=RP=-] Milovníci Rajčinové Papriky	10	138128km2	27766829	Nevidomá Slečinka(#1253) - Kuř
+13.	[mmu] Moc miluji ufo	10	137439km2	25138126	Brčkov(#2435) - a1d2h2
+14.	[Anarchy] Farmíme pro lepší budoucnost	10	117272km2	24124340	Touha je zázrak, kámo...(#190) - thordevil
+15.	[MDPA] MorDPartA	10	111032km2	24072593	satory(#1650) - hejkalak
+16.	[Bombing3] Bombičky z Lancasteru	10	129162km2	23678525	*BombermanPoww3r*(#1678) - d3m3n3c3
+17.	[anx] antrax rulez	9	123060km2	23271814	AntraX Niagara(#2103) - smeti
+18.	[VALHERU] VALHERU	10	108647km2	22755034	Chlastam-rum(#2620) - Prometheuss
+19.	[Ganja] GANJA	10	148863km2	22398191	Alkáč, neboli alkoholik(#2235) - ..Hanz..
+20.	[warcr1me] War Crimina1s	10	136080km2	22271330	War Criminal - Savage(#333) - ymethyst
+21.	[=W:G=] WEB GAME	10	116379km2	21755694	Lukanyia(#1892) - lord luky
+22.	[Boombing] Bombový Cover	10	145474km2	21634653	Bombing CrownHero(#1931) - the last Hero
+23.	[ČSN] ČehoSeNebojím	10	100338km2	21587229	Nebojím se nikoho(#1236) - Gyros007
+24.	[.:YD:.] .:Your Death:.	10	125947km2	21293809	.:YD:. Relaxed death(#864) - White Dead
+25.	[ČD] České dráhy, jsme tady pro Vás	10	107443km2	21105284	=_EC 111 Praha_=(#1664) - cvachta
+26.	[-.-] -.-	10	121798km2	20952200	This is not real life -.-(#2087) - Duskooo
+27.	[.:EoT:.] Eye of terror	10	106392km2	20633399	:.EoT.:Zagorka je bohyně(#580) - Zagorakiss
+28.	[nBd.] Never Back Down	10	113070km2	20348679	UmimKopnoutDoAuta(#1505) - HromikSir
+29.	[AiM] Aina Mörne	10	100219km2	20089674	Po čem touží Kytička(#995) - Oligarf
+30.	[PS.] Poslední kabriolet	10	111087km2	20008738	Zkouškové :((#1993) - ListerD1
+31.	[ItNofS] Ve jménu starých časů ...	10	123354km2	19565532	HyChyKyRyDyTyNy(#931) - PanMaur
+32.	[LEGO] boříme všecičko	10	133807km2	19323942	LEGO oOoo(#1039) - ArchimondS
+33.	[HO] Hellsing Organization	10	103065km2	19226690	Hellsing Foothills(#1381) - Alandriel
+34.	[.L.O.S.] Losáci zo Severu	10	140881km2	19046563	LOS made in Destroyer(#156) - BlackTears
+35.	[ThermX] ThermX	10	133367km2	18870037	Mizumono(#275) - hum4nic
+36.	[UFO] Ufoni útočia	9	97432km2	18615425	UFOCICINA(#1258) - BuDzOgAn AlieN
+37.	[Ponorky] Hlavou ponorku neprerazis	10	121661km2	18585923	U77(#1602) - Cipso
+38.	[Tabáček] NOSTALGIEEE	10	142303km2	18288303	Lake of fire(#480) - KURT
+39.	[B.K.] Blitzkrieg	10	158606km2	18193413	Heinrich Severloh(#273) - Tomasius Velky
+40.	[*WiNDe*] Wikuci na Dlažbě	10	133094km2	18179935	.:W:. Myš pod peřinou(#1486) - Revelation3

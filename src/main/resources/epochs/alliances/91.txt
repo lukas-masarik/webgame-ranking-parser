@@ -1,0 +1,42 @@
+91. VĚK
+#	Aliance	Členů	Rozloha	Prestiž	Předseda
+1.	[MSB] Modern SpikeBallers	9	90000km2	54620797	Joujoujou:)(#1897) - WiLL111
+2.	[VT] Vitazne Tazenie	9	182557km2	52149011	Jedi v akci(#1104) - D.r.a.k.
+3.	[**CQR**] Conquerors	9	174708km2	47330882	Sarkasmus je moje milá(#257) - mara8
+4.	[ZERO] prostě jedničky:D	10	184936km2	43003374	webgamista na baterky =)(#1571) - Walden r Gwendor
+5.	[Rafani] Rafani na výletě	10	150521km2	40964465	Chlív(#262) - SprávceChlívku
+6.	[ToAn] Toreadori Anusov	10	156545km2	38830854	Behaarten Schlitz(#1901) - devilLH
+7.	[.:V3R:.] škola sexu	10	183400km2	38633304	Sexuolog(#1859) - AndreFox
+8.	[Bombing2] Nebojte, nekoušem	10	162463km2	38488027	Bombing strejcek:)(#113) - Kuboj
+9.	[ETD] Ete DestilerE	10	146350km2	36660741	***C3NSOR3D***(#55) - Pattis IV.
+10.	[S*K] Skunk Teritory	10	137831km2	32262354	zhulendrov(#1157) - Bigbosh2
+11.	[D1KTATOR] D1E FOR THE DARK SIDE	10	151182km2	30584837	Rogan(#58) - Dezider
+12.	[AiM] Aina Mörne	10	118543km2	29631530	JZD Kytička(#290) - Oligarf
+13.	[=T=] Trója	10	164316km2	29436828	Winter is coming..(#846) - FR3EZY
+14.	[ČSLA] Československá lidová armáda	10	153338km2	29202646	.:CZ-SK:.Joudinkov(#2255) - joudinek
+15.	[M] MOON	10	138562km2	28906612	Atlan(#43) - Atlantik
+16.	[DAG] Demented Are Go	10	158717km2	28193114	DAG - Demented Are Go(#613) - 1437DAG
+17.	[0OIT0] cože?	10	136406km2	27612604	Pozde_ale_prece(#334) - natrfone
+18.	[HO] Hellsing Organization	10	141247km2	26828305	Hellsing Foothills(#178) - Alandriel
+19.	[S.M.R.T.] Sado Maso Rocket Terror	10	119549km2	25592611	4692 kusů ozářené haše(#96) - King Lear
+20.	[.::IR::.] Incorigible rebels	10	153893km2	23246759	Sleeper(#695) - ...jagass...
+21.	[W.?.R] W4R*	10	100384km2	23230464	W4R(#713) - GanjaMeen
+22.	[UFO] Ufouni útočí	10	126539km2	23121139	UFOKRALIS(#134) - BuDzOgAn AlieN
+23.	[H-R] Hit and Run	10	108627km2	22849117	[H-R] Puma Punku(#1144) - Vallmoth
+24.	[cerveza] cerveza	10	137116km2	22437375	webland(#1308) - čempix
+25.	[NBS] Největší blbci světa	10	167425km2	22436154	Jen odreagovacka(#129) - XXXGrey
+26.	[ČSB] ČehoSeBojím	10	89262km2	22430370	Bojím se pokut(#1615) - labojse
+27.	[NT] Nikola Tesla	9	139690km2	22395637	Namyslená slečinka(#1273) - van dame
+28.	[.:EoT:.] Eye of terror	10	112145km2	21618960	Zagorka se Štefanem(#2743) - Zagorakiss
+29.	[VVC] Vultures in Vivid Color	7	75640km2	20923239	krtko(#1918) - Lucky6186
+30.	[ČD] České dráhy, jsme tady pro Vás	10	111953km2	20773989	=_Sp 1631 Bradlo_=(#1869) - cvachta
+31.	[Leones] Hic sunt Leones	10	107168km2	20662280	Terra Leones(#1205) - Miro Sparkus
+32.	[==LFM==] La Familia Michoacana	10	117895km2	20515881	El Presidente(#398) - Bag3ta
+33.	[Bombing] Bombardovat města úžasný útok	10	116998km2	20460528	Bombing Hero(#1420) - the last Hero
+34.	[KL] Killing Legion	10	138269km2	19965966	[KL] - 4nd3l(#106) - Anděl
+35.	[Anarchy] Neorganizovaný chaos	10	102159km2	19924167	Touha je zázrak, kámo...(#1619) - thordevil
+36.	[ZT] ZeroTolerance	9	112066km2	19285937	ZT ShutUpAndTakeMyMoney(#1235) - bosinek
+37.	[MaGGoT] M a G G o T s	10	111270km2	19196998	MaGGoT(#1746) - vencik.own.cz
+38.	[SPRITE] my jsme sprajt a vy žízeň	10	117505km2	18952197	Pocemkamdeš(#1468) - demonstrate
+39.	[GoD] Game of Drones	8	107241km2	18858366	Tyrion Lannister(#665) - Drunk3n
+40.	[KULE7] KULE7	5	78921km2	18717073	Slečinka Art of Flight(#1190) - .troublemaker.

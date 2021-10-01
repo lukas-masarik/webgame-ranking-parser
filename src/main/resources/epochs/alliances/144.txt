@@ -1,0 +1,42 @@
+144. VĚK
+#	Aliance	Členů	Rozloha	Prestiž	Předseda
+1.	[**CQR**] Conquerors	10	182646km2	78273058	Conquerror Zafod Bíblbrox(#336) - mara8
+2.	[LBL] LBL	10	158379km2	77175620	Modrý pták(#68) - ridgeback
+3.	[Lotta] Lotta per la sopravvivenza	10	164175km2	55675828	Ho un grosso cazzo(#49) - pelizid
+4.	[.:?:.] CeNsoReD	10	160318km2	55357088	****?CEN?SO?RED?****(#333) - rybka es atrás
+5.	[SUX] parádní aliance :-*	10	164426km2	36982823	SUXessfull(#116) - LuisFigo
+6.	[-4F-] 4 the future	10	131521km2	36543912	Hello empty future(#57) - hagg1d
+7.	[PíPíBí] Power Puff Boys	10	131689km2	36387092	Fuzzy Lumpkins(#1001) - Muffia
+8.	[FETKA] Fetuj jako ponrava	10	107856km2	35302750	Ponrava(#381) - Estetik
+9.	[queens] QUEENS	10	136226km2	35032166	Pavilon 8 AHC(#126) - gorem
+10.	[MRUK] Space Program	10	171721km2	34002128	Chytneš koronu(#357) - Drunken
+11.	[JTPR] JenTakProRadost	10	106574km2	33390954	RANDALOVA KARAVANA(#630) - RANDAL
+12.	[.:W4R:.] War For Revolution	10	142224km2	32572539	Viking`s land(#452) - sir Flat
+13.	[Anarchy] Farmíme pro horší budoucnost	10	109637km2	30983556	Srdce mi pofoukáš...(#1348) - thordevil
+14.	[-=L*F=-] LAMAFARMA	10	120426km2	30116922	Barbar Onan(#221) - Chujo
+15.	[MÁMA] Tvoje druhá máma	10	97846km2	28368685	Enudace tvojí mámy(#11111) - gugoslav
+16.	[HS.] Hvězdy showbyznysu	10	171111km2	28293920	Jenny Blighe(#93) - ListerD1
+17.	[MENSA] ...prostě (j)elita :)	10	149283km2	28049295	NESERA NAVALTO(#149) - Sir Extrem
+18.	[*UF*] United Farms	10	171002km2	27945638	Enforcer(#42) - Dr.Leckter
+19.	[Tabáček] jo, zase my	10	138449km2	27606698	Red Baron(#861) - KURT
+20.	[ganja] GANJA	10	129846km2	26674421	maly uličník(#291) - trubkatrubkovic
+21.	[BOUNTY] Malý návrat nasraných virů	10	109271km2	25440788	Alibaba a 40 loupežníků(#1337) - Sjezdovka
+22.	[HIZBALAH] HIZBALAH	10	126698km2	24850245	Hyght Point Beer(#450) - MySEl
+23.	[B33r] Pivo dělá krásná těla	10	115291km2	24397769	Magnamundie(#634) - Hones
+24.	[AYES] AYES	10	107660km2	24270919	Silberstein(#52) - ČENDOR
+25.	[.:YD:.] .:Your Death:.	10	144942km2	24152570	Tvé oči tě mohou klamat.(#1186) - White Dead
+26.	[GTI] Ghost Troopers Imperium	9	113702km2	23833884	Palime Hlinu - V stredu(#148) - mcweb
+27.	[HISTORY] Big Men of History	10	107691km2	23533951	Napoleon Bonaparte(#104) - Mr. Sedlinno
+28.	[*EnDe*] Translator	10	162703km2	23489268	.:W:. Naga Viper(#506) - Koumes
+29.	[LIDK] LamaInDaKara	10	107386km2	23218188	Warland(#33) - Wardog01
+30.	[WMYQ] Důchodci na scéně	10	87800km2	23193595	Technograd(#249) - zhn
+31.	[PhaMa] Phantasma Mayhem	10	148741km2	22789833	Shiro(#143) - bukvicka13
+32.	[RoV] Revenge of Valhalla	10	95902km2	22616073	SHADOWS DIE TWICE(#1010) - MatějIX
+33.	[-osn-] OsprostenaStaraNota	10	106119km2	22534483	-osn-ruzove v pive(#716) - D1N1AK
+34.	[Bull] Bull	10	148709km2	22351382	Devova farmicka(#290) - trubkatrubkovic
+35.	[Imp] Impérium předaleké galaxie	10	108372km2	22083560	Ewoci jsou nej(#832) - Sedmika
+36.	[**SNK**] SmeNaKašu	10	134724km2	22049375	Liška Bystrouška na Kašu(#470) - Jitus21
+37.	[PaTo] PaToLoGiE	4	63815km2	21716424	Central African Republic(#66) - kill666
+38.	[DEAD] Diak ma VD	10	118872km2	21571447	-DEAD-JakVyTakMy(#389) - DaniCZeK
+39.	[-=L*F=-B] LAMAFARMA BUKKAKE	10	130843km2	21239626	Slunce seno raketa(#232) - WEBIG
+40.	[B.D.F.G.] Big Dig Fantastic Group	10	104737km2	20997328	Kim Čong-il(#1485) - Koron
