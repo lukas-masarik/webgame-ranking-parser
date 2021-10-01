@@ -148,7 +148,7 @@ class SimpleInputReader : InputReader {
     override fun selectStartEpochFromInput(): Int? {
         print(
             """
-                Choose start epoch (leave blank to skip):
+                Choose start epoch (leave blank to skip): 
             """.trimIndent()
         )
         val input = readLine()
@@ -158,7 +158,7 @@ class SimpleInputReader : InputReader {
     override fun selectEndEpochFromInput(): Int? {
         print(
             """
-                Choose end epoch (leave blank to skip):
+                Choose end epoch (leave blank to skip): 
             """.trimIndent()
         )
         val input = readLine()
@@ -172,7 +172,7 @@ class SimpleInputReader : InputReader {
     override fun selectStartRankFromInput(): Int? {
         print(
             """
-                Choose start rank (leave blank to skip):
+                Choose start rank (leave blank to skip): 
             """.trimIndent()
         )
         val input = readLine()
@@ -182,7 +182,7 @@ class SimpleInputReader : InputReader {
     override fun selectEndRankFromInput(): Int? {
         print(
             """
-                Choose end rank (leave blank to skip):
+                Choose end rank (leave blank to skip): 
             """.trimIndent()
         )
         val input = readLine()
