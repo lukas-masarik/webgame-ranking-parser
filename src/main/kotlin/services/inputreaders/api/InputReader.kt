@@ -13,4 +13,6 @@ interface InputReader {
     fun selectStateSystemFromInput(): EStateSystem
     fun selectStartEpochFromInput(): Int?
     fun selectEndEpochFromInput(): Int?
+    fun selectStartRankFromInput(): Int?
+    fun selectEndRankFromInput(): Int?
 }

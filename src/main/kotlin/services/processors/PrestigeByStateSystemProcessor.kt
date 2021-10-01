@@ -17,6 +17,8 @@ import services.parsers.api.EpochsParser
  *  - specify returned rows
  *  - specify epoch start
  *  - specify epoch end
+ *  - specify rank start
+ *  - specify rank end
  */
 class PrestigeByStateSystemProcessor(
     inputReader: InputReader,
@@ -29,11 +31,14 @@ class PrestigeByStateSystemProcessor(
         val landsCount = inputReader.selectReturnCountFromInput()
         val epochStart = inputReader.selectStartEpochFromInput()
         val epochEnd = inputReader.selectEndEpochFromInput()
+        val rankStart = inputReader.selectStartRankFromInput()
+        val rankEnd = inputReader.selectEndRankFromInput()
 
         val epochs = parser.parse()
         val filteredEpochs = filterEpochs(epochs, epochStart, epochEnd)
+        val filteredRanks = filterRanks(filteredEpochs, rankStart, rankEnd)
 
-        val rankedLands = filteredEpochs.flatMap { it.rankedLands }
+        val rankedLands = filteredRanks.flatMap { it.rankedLands }
             .filter { EStateSystem.fromRawValue(it.stateSystem) == stateSystem }
             .let {
                 when (orderDirection) {
