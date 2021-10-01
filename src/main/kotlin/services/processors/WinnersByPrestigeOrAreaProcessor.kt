@@ -3,22 +3,26 @@ package services.processors
 import enums.EOrderAttribute
 import enums.EOrderDirection
 import services.inputreaders.api.InputReader
-import services.parsers.SimpleEpochsParser
+import services.parsers.RankedLandsParser
 import services.parsers.api.EpochsParser
 import services.processors.api.Processor
 
 class WinnersByPrestigeOrAreaProcessor(
     private val inputReader: InputReader,
-    private val parser: EpochsParser = SimpleEpochsParser(),
-) : Processor {
+    private val parser: EpochsParser = RankedLandsParser(),
+) : AbstractRankedLandProcessor(), Processor {
 
     override fun apply() {
         val landsCount = inputReader.selectReturnCountFromInput()
         val orderAttribute = inputReader.selectOrderAttributeFromInput()
         val orderDirection = inputReader.selectOrderDirectionFromInput()
-        val epochs = parser.parse()
+        val epochStart = inputReader.selectStartEpochFromInput()
+        val epochEnd = inputReader.selectEndEpochFromInput()
 
-        val winningLands = epochs.map { it.rankedLands }
+        val epochs = parser.parse()
+        val filteredEpochs = filterEpochs(epochs, epochStart, epochEnd)
+
+        val winningLands = filteredEpochs.map { it.rankedLands }
             .map { it.first() }
             .let {
                 when (orderDirection) {

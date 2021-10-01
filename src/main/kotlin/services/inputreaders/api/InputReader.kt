@@ -11,4 +11,6 @@ interface InputReader {
     fun selectOrderAttributeFromInput(): EOrderAttribute
     fun selectReturnCountFromInput(): Int
     fun selectStateSystemFromInput(): EStateSystem
+    fun selectStartEpochFromInput(): Int?
+    fun selectEndEpochFromInput(): Int?
 }

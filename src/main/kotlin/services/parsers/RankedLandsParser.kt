@@ -8,7 +8,7 @@ import java.nio.file.Files
 import java.nio.file.Paths
 import kotlin.streams.toList
 
-class SimpleEpochsParser : EpochsParser {
+class RankedLandsParser : EpochsParser {
 
     override fun parse(): List<Epoch> {
         val epochFiles: List<File> = getEpochFilesFromResources()
