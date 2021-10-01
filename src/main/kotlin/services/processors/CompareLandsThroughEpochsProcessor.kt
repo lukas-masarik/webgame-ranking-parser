@@ -1,5 +1,6 @@
 package services.processors
 
+import dto.RankedLand
 import dto.RankedLandsEpoch
 import enums.EOrderAttribute
 import enums.EOrderDirection
@@ -8,12 +9,12 @@ import services.parsers.RankedLandsParser
 import services.parsers.api.EpochsParser
 
 /**
- * Returns winner players' stats.
+ * Returns complex lands' stats.
  *
  * Features:
- *  - specify returned rows
  *  - specify order attribute (prestige or area)
  *  - specify order direction
+ *  - specify returned rows
  *  - specify epoch start
  *  - specify epoch end
  *  - specify rank start
@@ -25,9 +26,9 @@ class CompareLandsThroughEpochsProcessor(
 ) : AbstractRankedLandProcessor(inputReader) {
 
     override fun process() {
-        val landsCount = inputReader.selectReturnCountFromInput()
         val orderAttribute = inputReader.selectOrderAttributeFromInput()
         val orderDirection = inputReader.selectOrderDirectionFromInput()
+        val landsCount = inputReader.selectReturnCountFromInput()
         val epochStart = inputReader.selectStartEpochFromInput()
         val epochEnd = inputReader.selectEndEpochFromInput()
         val rankStart = inputReader.selectStartRankFromInput()
@@ -56,9 +57,13 @@ class CompareLandsThroughEpochsProcessor(
             }
             .take(landsCount)
 
-        for (i in rankedLands.indices) {
-            val rankedLand = rankedLands[i]
-            println("${i+1}.\t${rankedLand.playerName}\t${rankedLand.prestige}\t${rankedLand.area}km2\t${rankedLand.epochNumber}")
+        processOutput(rankedLands)
+    }
+
+    private fun processOutput(rankedLands: List<RankedLand>) {
+        var i = 1
+        rankedLands.forEach { rankedLand ->
+            println("${i++}.\t${rankedLand.playerName}\t${rankedLand.prestige}\t${rankedLand.area}km2\t${rankedLand.epochNumber}")
         }
     }
 }

@@ -1,5 +1,6 @@
 package services.inputreaders.api
 
+import enums.EAggregatingParameter
 import enums.EOrderAttribute
 import enums.EOrderDirection
 import enums.EStateSystem
@@ -15,4 +16,5 @@ interface InputReader {
     fun selectEndEpochFromInput(): Int?
     fun selectStartRankFromInput(): Int?
     fun selectEndRankFromInput(): Int?
+    fun selectAggregatingParameterFromInput(): EAggregatingParameter
 }

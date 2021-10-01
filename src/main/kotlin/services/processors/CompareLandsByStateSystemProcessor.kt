@@ -14,6 +14,7 @@ import services.parsers.api.EpochsParser
  *
  * Features:
  *  - specify state system
+ *  - specify order attribute (prestige or area)
  *  - specify order direction
  *  - specify returned rows
  *  - specify epoch start
@@ -65,9 +66,9 @@ class CompareLandsByStateSystemProcessor(
 
     private fun processOutput(rankedLands: List<RankedLand>, stateSystem: EStateSystem) {
         println(stateSystem.name)
-        for (i in rankedLands.indices) {
-            val rankedLand = rankedLands[i]
-            println("${i+1}.\t${rankedLand.playerName}\t${rankedLand.prestige}\t${rankedLand.area}km2\t${rankedLand.epochNumber}")
+        var i = 1
+        rankedLands.forEach { rankedLand ->
+            println("${i++}.\t${rankedLand.playerName}\t${rankedLand.prestige}\t${rankedLand.area}km2\t${rankedLand.epochNumber}")
         }
     }
 }
