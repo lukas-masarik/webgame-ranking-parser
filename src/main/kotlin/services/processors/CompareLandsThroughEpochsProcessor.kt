@@ -37,8 +37,7 @@ class CompareLandsThroughEpochsProcessor(
         val filteredEpochs = filterEpochs(epochs, epochStart, epochEnd)
         val filteredRanks = filterRanks(filteredEpochs, rankStart, rankEnd)
 
-        val winningLands = filteredRanks.map { it.rankedLands }
-            .map { it.first() }
+        val rankedLands = filteredRanks.flatMap { it.rankedLands }
             .let {
                 when (orderDirection) {
                     EOrderDirection.ASCENDING -> {
@@ -57,9 +56,9 @@ class CompareLandsThroughEpochsProcessor(
             }
             .take(landsCount)
 
-        for (i in winningLands.indices) {
-            val winningLand = winningLands[i]
-            println("${i+1}.\t${winningLand.playerName}\t${winningLand.prestige}\t${winningLand.area}km2\t${winningLand.epochNumber}")
+        for (i in rankedLands.indices) {
+            val rankedLand = rankedLands[i]
+            println("${i+1}.\t${rankedLand.playerName}\t${rankedLand.prestige}\t${rankedLand.area}km2\t${rankedLand.epochNumber}")
         }
     }
 }
