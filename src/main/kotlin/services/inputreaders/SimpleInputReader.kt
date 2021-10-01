@@ -41,10 +41,10 @@ class SimpleInputReader : InputReader {
         print(
             """
                 Available orders:
-                    (1) ASCENDING
-                    (2) DESCENDING
+                    (1) DESCENDING
+                    (2) ASCENDING
                 
-                Choose order: 
+                Choose order (1): 
             """.trimIndent()
         )
         val input = readLine()
@@ -52,11 +52,12 @@ class SimpleInputReader : InputReader {
     }
 
     private fun extractOrderDirectionFromInput(input: String?): EOrderDirection {
-        if (input?.toIntOrNull() == null) selectOrderDirectionFromInput()
+        val userInput = if (input?.isEmpty() == true) "1" else input
+        if (userInput?.toIntOrNull() == null) selectOrderDirectionFromInput()
 
-        return when (input!!.toInt()) {
-            1 -> EOrderDirection.ASCENDING
-            2 -> EOrderDirection.DESCENDING
+        return when (userInput!!.toInt()) {
+            1 -> EOrderDirection.DESCENDING
+            2 -> EOrderDirection.ASCENDING
             else -> selectOrderDirectionFromInput()
         }
     }
