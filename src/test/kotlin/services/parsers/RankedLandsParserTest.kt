@@ -4,8 +4,8 @@ import dto.RankedLand
 import org.junit.jupiter.api.Assertions.*
 import org.junit.jupiter.api.Test
 
-class SimpleEpochsParserTest {
-    private val epochsParser = SimpleEpochsParser()
+class RankedLandsParserTest {
+    private val epochsParser = RankedLandsParser()
 
     @Test
     fun `parse ranked land with alliance`() {
