@@ -1,9 +1,6 @@
 package services.inputreaders.api
 
-import enums.EAggregatingParameter
-import enums.EOrderAttribute
-import enums.EOrderDirection
-import enums.EStateSystem
+import enums.*
 import services.processors.api.Processor
 
 interface InputReader {
@@ -17,4 +14,5 @@ interface InputReader {
     fun selectStartRankFromInput(): Int?
     fun selectEndRankFromInput(): Int?
     fun selectAggregatingParameterFromInput(): EAggregatingParameter
+    fun selectGroupingParameterFromInput(): EGroupingParameter
 }

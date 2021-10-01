@@ -1,12 +1,8 @@
 package services.inputreaders
 
-import enums.EAggregatingParameter
-import enums.EOrderAttribute
-import enums.EOrderDirection
-import enums.EStateSystem
+import enums.*
 import services.inputreaders.api.InputReader
-import services.processors.AggregatePlayersByAlliancesProcessor
-import services.processors.AggregatePlayersProcessor
+import services.processors.AggregateRankedLandsProcessor
 import services.processors.CompareLandsByStateSystemProcessor
 import services.processors.CompareLandsThroughEpochsProcessor
 import services.processors.api.Processor
@@ -20,8 +16,7 @@ class SimpleInputReader : InputReader {
                 Available processes:
                     (1) Compare lands through epochs
                     (2) Compare lands by state system
-                    (3) Aggregate players stats
-                    (4) Aggregate players stats by alliances
+                    (3) Aggregate ranked lands stats
                     (0) Exit program
                 
                 Choose process: 
@@ -38,8 +33,7 @@ class SimpleInputReader : InputReader {
             0 -> exitProcess(1)
             1 -> CompareLandsThroughEpochsProcessor(this)
             2 -> CompareLandsByStateSystemProcessor(this)
-            3 -> AggregatePlayersProcessor(this)
-            4 -> AggregatePlayersByAlliancesProcessor(this)
+            3 -> AggregateRankedLandsProcessor(this)
             else -> selectProcessorFromInput()
         }
     }
@@ -217,13 +211,40 @@ class SimpleInputReader : InputReader {
 
     private fun extractAggregatingParameterFromInput(input: String?): EAggregatingParameter {
         val userInput = if (input?.isEmpty() == true) "1" else input
-        if (userInput?.toIntOrNull() == null) selectOrderAttributeFromInput()
+        if (userInput?.toIntOrNull() == null) selectAggregatingParameterFromInput()
 
         return when (userInput!!.toInt()) {
             1 -> EAggregatingParameter.OCCURRENCE
             2 -> EAggregatingParameter.PRESTIGE
             3 -> EAggregatingParameter.AREA
             else -> selectAggregatingParameterFromInput()
+        }
+    }
+
+    override fun selectGroupingParameterFromInput(): EGroupingParameter {
+        print(
+            """
+                Available grouping parameters:
+                    (1) PLAYER
+                    (2) ALLIANCE
+                    (3) STATE_SYSTEM
+                
+                Choose aggregation parameter (1): 
+            """.trimIndent()
+        )
+        val input = readLine()
+        return extractGroupingParameterFromInput(input)
+    }
+
+    private fun extractGroupingParameterFromInput(input: String?): EGroupingParameter {
+        val userInput = if (input?.isEmpty() == true) "1" else input
+        if (userInput?.toIntOrNull() == null) selectGroupingParameterFromInput()
+
+        return when (userInput!!.toInt()) {
+            1 -> EGroupingParameter.PLAYER
+            2 -> EGroupingParameter.ALLIANCE
+            3 -> EGroupingParameter.STATE_SYSTEM
+            else -> selectGroupingParameterFromInput()
         }
     }
 }
