@@ -90,7 +90,7 @@ class SimpleInputReader : InputReader {
     override fun selectReturnCountFromInput(): Int {
         print(
             """
-                How many result you want to return? 
+                How many result you want to return (10)? 
             """.trimIndent()
         )
         val input = readLine()
@@ -98,7 +98,8 @@ class SimpleInputReader : InputReader {
     }
 
     private fun extractCountFromInput(input: String?): Int {
-        val inputInt = input?.toIntOrNull()
+        val userInput = if (input?.isEmpty() == true) "10" else input
+        val inputInt = userInput?.toIntOrNull()
         if (inputInt == null) selectReturnCountFromInput()
         if (inputInt!! < 1) selectReturnCountFromInput()
         return inputInt
@@ -142,5 +143,29 @@ class SimpleInputReader : InputReader {
             10 -> EStateSystem.UTOPIA
             else -> selectStateSystemFromInput()
         }
+    }
+
+    override fun selectStartEpochFromInput(): Int? {
+        print(
+            """
+                Choose start epoch (leave blank to skip):
+            """.trimIndent()
+        )
+        val input = readLine()
+        return extractEpochNumberFromInput(input)
+    }
+
+    override fun selectEndEpochFromInput(): Int? {
+        print(
+            """
+                Choose end epoch (leave blank to skip):
+            """.trimIndent()
+        )
+        val input = readLine()
+        return extractEpochNumberFromInput(input)
+    }
+
+    private fun extractEpochNumberFromInput(input: String?): Int? {
+        return input?.toIntOrNull()
     }
 }
