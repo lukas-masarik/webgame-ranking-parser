@@ -6,12 +6,11 @@ import enums.EStateSystem
 import services.inputreaders.api.InputReader
 import services.parsers.RankedLandsParser
 import services.parsers.api.EpochsParser
-import services.processors.api.Processor
 
 class PrestigeByStateSystemProcessor(
     inputReader: InputReader,
     private val parser: EpochsParser = RankedLandsParser(),
-) : AbstractRankedLandProcessor(inputReader), Processor {
+) : AbstractRankedLandProcessor(inputReader) {
 
     override fun apply() {
         val stateSystem = inputReader.selectStateSystemFromInput()

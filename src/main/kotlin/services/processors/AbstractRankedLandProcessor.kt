@@ -2,10 +2,11 @@ package services.processors
 
 import dto.Epoch
 import services.inputreaders.api.InputReader
+import services.processors.api.Processor
 
 abstract class AbstractRankedLandProcessor(
     protected val inputReader: InputReader,
-) {
+) : Processor {
 
     fun filterEpochs(epochs: List<Epoch>, epochStart: Int? = null, epochEnd: Int? = null): List<Epoch> {
         val epochsWithoutFirstN = if (epochStart != null) epochs.filter { it.number >= epochStart } else epochs
