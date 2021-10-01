@@ -5,12 +5,13 @@ import enums.EOrderDirection
 import enums.EStateSystem
 import services.inputreaders.api.InputReader
 import services.parsers.SimpleEpochsParser
+import services.parsers.api.EpochsParser
 import services.processors.api.Processor
 
 class PrestigeByStateSystemProcessor(
     private val inputReader: InputReader,
+    private val parser: EpochsParser = SimpleEpochsParser(),
 ) : Processor {
-    private val parser = SimpleEpochsParser()
 
     override fun apply() {
         val stateSystem = inputReader.selectStateSystemFromInput()

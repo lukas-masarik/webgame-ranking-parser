@@ -4,12 +4,13 @@ import enums.EOrderAttribute
 import enums.EOrderDirection
 import services.inputreaders.api.InputReader
 import services.parsers.SimpleEpochsParser
+import services.parsers.api.EpochsParser
 import services.processors.api.Processor
 
 class WinnersByPrestigeOrAreaProcessor(
     private val inputReader: InputReader,
+    private val parser: EpochsParser = SimpleEpochsParser(),
 ) : Processor {
-    private val parser = SimpleEpochsParser()
 
     override fun apply() {
         val landsCount = inputReader.selectReturnCountFromInput()
