@@ -8,6 +8,16 @@ import services.inputreaders.api.InputReader
 import services.parsers.RankedLandsParser
 import services.parsers.api.EpochsParser
 
+/**
+ * Returns players' stats for particular state system.
+ *
+ * Features:
+ *  - specify state system
+ *  - specify order direction
+ *  - specify returned rows
+ *  - specify epoch start
+ *  - specify epoch end
+ */
 class PrestigeByStateSystemProcessor(
     inputReader: InputReader,
     private val parser: EpochsParser<RankedLandsEpoch> = RankedLandsParser(),

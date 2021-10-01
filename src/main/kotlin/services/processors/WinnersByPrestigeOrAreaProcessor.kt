@@ -7,6 +7,16 @@ import services.inputreaders.api.InputReader
 import services.parsers.RankedLandsParser
 import services.parsers.api.EpochsParser
 
+/**
+ * Returns winner players' stats.
+ *
+ * Features:
+ *  - specify returned rows
+ *  - specify order attribute (prestige or area)
+ *  - specify order direction
+ *  - specify epoch start
+ *  - specify epoch end
+ */
 class WinnersByPrestigeOrAreaProcessor(
     inputReader: InputReader,
     private val parser: EpochsParser<RankedLandsEpoch> = RankedLandsParser(),
