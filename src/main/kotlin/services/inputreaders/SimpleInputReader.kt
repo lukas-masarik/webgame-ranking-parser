@@ -4,9 +4,8 @@ import enums.EOrderAttribute
 import enums.EOrderDirection
 import enums.EStateSystem
 import services.inputreaders.api.InputReader
-import services.processors.WinnersByPrestigeOrAreaProcessor
-import services.processors.ParseOnlyProcessor
 import services.processors.PrestigeByStateSystemProcessor
+import services.processors.WinnersByPrestigeOrAreaProcessor
 import services.processors.api.Processor
 import kotlin.system.exitProcess
 
@@ -16,9 +15,8 @@ class SimpleInputReader : InputReader {
         print(
             """
                 Available processes:
-                    (1) Parse only
-                    (2) Winners by prestige or area
-                    (3) Prestige by state system
+                    (1) Winners by prestige or area
+                    (2) Prestige by state system
                     (0) Exit program
                 
                 Choose processor: 
@@ -33,9 +31,8 @@ class SimpleInputReader : InputReader {
 
         return when (input!!.toInt()) {
             0 -> exitProcess(1)
-            1 -> ParseOnlyProcessor()
-            2 -> WinnersByPrestigeOrAreaProcessor(this)
-            3 -> PrestigeByStateSystemProcessor(this)
+            1 -> WinnersByPrestigeOrAreaProcessor(this)
+            2 -> PrestigeByStateSystemProcessor(this)
             else -> selectProcessorFromInput()
         }
     }
