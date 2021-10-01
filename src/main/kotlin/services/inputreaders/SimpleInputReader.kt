@@ -1,9 +1,11 @@
 package services.inputreaders
 
+import enums.EAggregatingParameter
 import enums.EOrderAttribute
 import enums.EOrderDirection
 import enums.EStateSystem
 import services.inputreaders.api.InputReader
+import services.processors.AggregatePlayersProcessor
 import services.processors.CompareLandsByStateSystemProcessor
 import services.processors.CompareLandsThroughEpochsProcessor
 import services.processors.api.Processor
@@ -17,6 +19,7 @@ class SimpleInputReader : InputReader {
                 Available processes:
                     (1) Compare lands through epochs
                     (2) Compare lands by state system
+                    (3) Aggregate player stats
                     (0) Exit program
                 
                 Choose process: 
@@ -33,6 +36,7 @@ class SimpleInputReader : InputReader {
             0 -> exitProcess(1)
             1 -> CompareLandsThroughEpochsProcessor(this)
             2 -> CompareLandsByStateSystemProcessor(this)
+            3 -> AggregatePlayersProcessor(this)
             else -> selectProcessorFromInput()
         }
     }
@@ -191,5 +195,32 @@ class SimpleInputReader : InputReader {
 
     private fun extractRankNumberFromInput(input: String?): Int? {
         return input?.toIntOrNull()
+    }
+
+    override fun selectAggregatingParameterFromInput(): EAggregatingParameter {
+        print(
+            """
+                Available aggregating parameters:
+                    (1) OCCURRENCE
+                    (2) PRESTIGE
+                    (3) AREA
+                
+                Choose aggregation parameter (1): 
+            """.trimIndent()
+        )
+        val input = readLine()
+        return extractAggregatingParameterFromInput(input)
+    }
+
+    private fun extractAggregatingParameterFromInput(input: String?): EAggregatingParameter {
+        val userInput = if (input?.isEmpty() == true) "1" else input
+        if (userInput?.toIntOrNull() == null) selectOrderAttributeFromInput()
+
+        return when (userInput!!.toInt()) {
+            1 -> EAggregatingParameter.OCCURRENCE
+            2 -> EAggregatingParameter.PRESTIGE
+            3 -> EAggregatingParameter.AREA
+            else -> selectAggregatingParameterFromInput()
+        }
     }
 }
