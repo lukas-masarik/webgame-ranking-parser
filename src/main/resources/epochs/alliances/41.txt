@@ -1,0 +1,42 @@
+41. VĚK
+#	Aliance	Členů	Rozloha	Prestiž	Předseda
+1.	[WG-elite] WG-elite	12	116086km2	61750396	l hope you die(#6248) - Erethil II.
+2.	[G] Gladiators	12	223908km2	49717243	Klouzkoland(#120) - Klouzek.cz
+3.	[ČSLA] Česko-Slovenská lidová armáda	12	203177km2	48976880	.:CZ-SK:.Dum spiro,spero(#2543) - KalinV
+4.	[H5N1] Choré Sliepky	12	210920km2	48042443	Opustený a smutný Anjelik(#8222) - Angelos
+5.	[MoM] Morbid obituary Message	12	231622km2	46349726	Zafód Bíblbrox(#4466) - mixhail
+6.	[ManG5] Penzion -BoW-	12	241661km2	43728596	Elfí slečinka(#13536) - dj la peske
+7.	[pařmeni2] Pár pařmenů	12	201567km2	43575596	Fishwagen(#2982) - KillerJohny
+8.	[BOUNTY] Zasněžená vyšší odborná	12	215510km2	40550451	Zasněžený Smrtihlav(#3523) - King Jack
+9.	[:.BoD.:] Brotherhood of Dreadnoughts	12	208001km2	37767963	Neohrožený.Banehalow(#3576) - Banehalow
+10.	[-OST3-] -Old stars team po 3-	12	201494km2	37682077	Italia(#676) - Remus XX
+11.	[:HALA:] Hare Lama	12	203002km2	36150666	Jen tak zlehka(#681) - SCRLovec
+12.	[.-T-.] Toxic	12	180368km2	35728467	Toxi Kanibal(#4419) - Matwar
+13.	[IBHZK] Ich bin hier zur Kur	12	177636km2	34278291	Leninovo hnízdo(#1647) - Sir Lone Wolf
+14.	[P.f.B] (o)(o) Silikoni z Bombaje	12	244638km2	34123417	(o)(o) Silikon Girl Vibro(#66) - Vibromax
+15.	[VU] Vikuňská univerzita	11	159736km2	33592281	francimorJEchlupataVIKUňA(#964) - M4S3R
+16.	[Beast] Beast	10	177208km2	33150687	komat(#9359) - komat
+17.	[.:BOBR:.] Brutalni Opice Bodaj Ropuchy	12	175664km2	33036424	BOBR od PACOVA(#2695) - General.Payton
+18.	[SViNě] Drtíme lamky jak Cyklon	11	158658km2	32981907	Dám ti pusu bez jazyku:DD(#3023) - snasa1
+19.	[D3STROY] The Battle of Daeyans Ford	9	152560km2	32910786	Drum`n`Bass(#9041) - Pepemistr
+20.	[TemLeg] Temné Legie	12	125933km2	32393511	Naboo Reloaded(#731) - Dart.Kanne
+21.	[.A.] ASSASSINS	10	182397km2	31104171	.:.:ASSASSIN:.:.(#35) - Blackthunder
+22.	[P.P.A.] Powerful Pagan Aliance	9	144398km2	30746593	Al Quarra Coyonlu(#348) - Kubikk84
+23.	[HORDA] HORDA CD	12	153666km2	30439455	Safronův háj(#12627) - Safronus
+24.	[-Ol0IOl-] Ražničí	10	143460km2	29925721	..:: Seven Crown ::..(#198) - Floutec
+25.	[.:BoD:.] Brotherhood of Dreadnoughts	12	184713km2	29857491	Neohrožený Banehalow(#3573) - Banehalow
+26.	[AFSA] Aliance fetáků smardů atd...	11	141898km2	29697339	Nahopoč(#6325) - Joe Ulrich
+27.	[fos] fraction of second	12	144822km2	29469029	argo(#7952) - vandien
+28.	[Pokémon] Gonna cath em all:))	7	107615km2	29311359	Dmnce :redface:(#683) - AAA auto .T.lama
+29.	[anx] antrax rulez	11	162108km2	29058149	Antrax Niagara(#10935) - smeti
+30.	[Ganja] hulime, umime	12	178149km2	28877059	Budulínkova zem(#10472) - Budulínek s.r.o
+31.	[Tým] Tým	12	173371km2	28836205	bubu(#132) - neron
+32.	[G-K] Gutiho Kotangentoida	12	133485km2	28717047	Říše Olšovec(#913) - Guti the King
+33.	[GanG] Crips	11	160331km2	28536562	West Side Mafia(#14826) - RosPal
+34.	[heechee] nejsme lidé.......jsme heechee	11	150531km2	28375090	converse O_o(#657) - ElRey
+35.	[L.O.S.] Lososi od Severu	11	165435km2	28148450	Los Komáros(#7984) - Komarenkov
+36.	[*OST3*] *Old stars team po3*	12	159677km2	27853291	Ostia(#677) - Remus XX
+37.	[NV] Neškodný Výprask	12	173782km2	27842244	Pardeeho vlna(#4505) - Michellion
+38.	[Čoko] Čokoládová aliance	12	159495km2	27624934	Tyrrany of Souls(#695) - Kowacs
+39.	[Planeta] Planeta	11	177507km2	27145663	The armed forces(#193) - Prefik
+40.	[/BA/] Brumbálova armáda	6	97357km2	26795458	Má první země(#31) - Boeing

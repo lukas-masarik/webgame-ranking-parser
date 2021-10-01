@@ -1,0 +1,42 @@
+16. VĚK
+#	Aliance	Členů	Rozloha	Prestiž	Předseda
+1.	[UFD] United Forces of Darkness	14	311258km2	85762995	Necroside(#50) - Thomis
+2.	[MA] MAsters	14	283436km2	82036990	Land of Roses(#255) - Lady Dark Rose
+3.	[BH] Black Hand	14	276404km2	79741167	Den of Forlon(#840) - Martind Forlon
+4.	[NATO] Tak a jdeme na to	14	259128km2	68492559	Rambastan(#1002) - Lord Charley
+5.	[USoK] Under Shadow of Kangaroo	14	254896km2	67257896	Dark Kangaroo(#1240) - Lion
+6.	[H.M.S.] Ark Royal	14	204500km2	53018091	Lancaster(#1174) - Chester
+7.	[TK] Trestné Komando	14	204458km2	52036755	Legie z Acoma(#1137) - Friend
+8.	[NSA] NarodniBezpecnostni Vyrad	14	225857km2	51252711	llland(#5) - mtcko
+9.	[AHA] Aliancia Láskavého Triumvirátu	14	211813km2	49981480	Besarabia(#626) - Abdul
+10.	[Ne5] Ne5m1r1t3ln1	14	202245km2	49344585	Daiquiri banana plameňák(#12) - BjeZ
+11.	[H2] Heroes II	14	228065km2	46906372	Mysidia(#1316) - Kurtz
+12.	[BeL] Belgariad	14	177819km2	42535980	Malloreon(#30) - Belgarad
+13.	[3P] Tripartita	14	218741km2	39701687	Dol Nihil(#153) - Razor
+14.	[RIP] Rest In Peace	12	149797km2	34876028	Dark Thoor(#662) - Sheuss
+15.	[OS] Other Side	10	143226km2	33951920	Byv. Dark A1809/LP(#78) - Tom Viper
+16.	[GCC] Gundrum City Corporation	13	162766km2	30463763	Reptilie(#125) - JNK
+17.	[NOE] New Order Establishment	8	104704km2	30234416	Stex(#259) - Cadlo The Great
+18.	[To.Be...] Be Kind, Be Cool, Be Free	14	173443km2	29664275	Shadowood(#282) - Šafik
+19.	[NW] Nuclear Warriors	13	160104km2	26640240	Hapinka(#364) - Gigantos
+20.	[BALROG] BALROG	14	163549km2	25648395	Rage City(#232) - .Slayer.
+21.	[G] Gladiators	13	153917km2	24494302	Beruščino království(#538) - beruskkaa
+22.	[H.C.D.Z.] HromadnáCestaDrogověZávislých	12	170698km2	23495955	Kadaland(#1131) - Kadalora
+23.	[AYES] AntiYES	14	160320km2	23487592	Caladanov(#46) - Lord of Atreides
+24.	[tAoW] the ART of WAR	12	159054km2	23434532	ZuLuLanD(#384) - ZuLu
+25.	[rus] MATKA RUSSIA	14	171902km2	23129898	SKUSAME(#1383) - Horny II
+26.	[DaHe] Dark Heroes	13	161885km2	22581251	Keymakerovo plácek(#297) - Keymaker
+27.	[SR] Sexulane Radosti a coko k tomu	10	113739km2	22438157	Abov(#795) - Krstný otec
+28.	[GH] Grand Heroes	7	72026km2	21163866	Techwarrior(#7) - TECHWARRIOR
+29.	[CZ-SK] Československo	10	108033km2	20488098	energy(#612) - ray
+30.	[KAFE] To je silny kafe	13	182076km2	19721912	Svetlo mi dava silu(#773) - Upek
+31.	[D:Mages] Dark Mages	12	146514km2	19258878	Mirzzaland(#804) - Mirzza
+32.	[S] Shadow	12	131259km2	18347780	Caladan(#53) - MichalekII
+33.	[HK] Hlas Krve	11	104027km2	18182278	Země Slunce(#437) - Zlatovlaska
+34.	[SSZ] Spojení států zavislých	11	118225km2	18061977	Aranoch(#133) - Mr Magoo
+35.	[RDA] Red Dwarf Aliance	10	132942km2	17910458	Tam na konci(#74) - Mazanek
+36.	[PRISTAV] PRISTAV	11	114724km2	17605554	Kingdom of Wallachia(#396) - Phaser
+37.	[P] Pevnost	10	151830km2	16968503	Dragonshade(#640) - Listyx
+38.	[N.O.D.] Brotherhood of N.O.D.	10	99225km2	16659617	ALIENS(#168) - Alienek
+39.	[APG] Amateur Players Group	11	143208km2	16321375	Another perfect day(#1038) - Mr.Hill
+40.	[Hackers] Hackers	8	89742km2	15976561	cuzzzzzzzzzz(#1362) - Lukas Veliky

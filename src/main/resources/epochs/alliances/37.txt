@@ -1,0 +1,42 @@
+37. VĚK
+#	Aliance	Členů	Rozloha	Prestiž	Předseda
+1.	[CRUX] IN HOC SIGNO VINCES	12	349666km2	82234630	MERCURIUS(#1214) - Parcifal
+2.	[SB] SpikeBallers	12	279095km2	79179964	DONT STOP ME NOW(#1512) - xkukx
+3.	[.::R::.] RYTIRI	12	284544km2	74790067	XCOM(#10013) - steamroller
+4.	[R3D] H0T the End of AoA	11	223502km2	61845413	R3D and Y3LLOW(#161) - .Tommy33.
+5.	[Bubáci] Bubáci	7	225489km2	61512565	DDT(#879) - Mandelinka Bram.
+6.	[Rafani] Uprchlíci z kriminálu	12	242833km2	58795689	Rafan striker(#9929) - SprávceChlívku
+7.	[DooM] Kdo chce kam, pomožme mu tam	12	204343km2	56634792	Zloděj z Bagdádu(#5850) - Yurnero
+8.	[UM] Ukrajinska mafie	12	260887km2	50081555	Bohunice(#8075) - Uthden
+9.	[.:BOBR:.] Bombaj Otevře Budoucí Ranvej	12	211224km2	48463478	Anihilator(#4234) - General.Payton
+10.	[WG-elite] WG-elite	11	219688km2	46657865	Proženu kance bučinou(#48) - Nespravedlny
+11.	[G] GLADIATORS	12	200423km2	43558411	Klouzkoland(#531) - Klouzek.cz
+12.	[Hu1v4t1] Hu1v4t1	11	205469km2	41007106	HU1V4T M450CH15T4(#4075) - VargVikernes
+13.	[MATKARUS] MATKARUS	12	211238km2	40385343	YETTI(#4443) - volnýzpůsob
+14.	[nex] Nublex	11	184850km2	39793301	NEX.LEADER(#68) - Dratek
+15.	[=T=] Nedobytná Trója	12	210015km2	38019576	Rise of Hurtalinho(#2283) - Hurtalinho
+16.	[IBHZK] Ich bin hier zur Kur	12	174167km2	37522451	FAiRLiGHT(#1461) - R0CK3D
+17.	[GanG] Crips	12	225068km2	35893187	West Side Mafia(#8321) - RosPal
+18.	[n1] naturalne distingovane idioti	12	200900km2	35306388	orgovanove rotopelo(#52) - esya
+19.	[Tabáček] farma 4ever	12	176627km2	35122359	égorger toutes les lamy(#126) - snasa1
+20.	[S.D.E] Solar and Dark Empire	12	204770km2	34803005	A denial(#416) - Johny02
+21.	[JIL] Jilemnice, ale nejen ta	11	166255km2	34766643	Power PTX(#87) - Diktátor II
+22.	[.:H-A:.] Hell Army	11	192381km2	34723363	Hell Archdemon(#1009) - ACHILLEUS88
+23.	[.BV] bezcharakterní vyděrači	7	116321km2	34698213	Stones Hill(#13614) - Rawito
+24.	[HyeNy] Smrdime kvalitne O.o	12	164949km2	34278888	HyeNa Polly Dolly(#2120) - Poncho
+25.	[H5N2] Lék proti H5N1:))	11	173799km2	34004440	.::-H5N2-::.Říše Skunkyho(#1681) - Skunky.
+26.	[.:BoD:.] Brotherhood of Dreadnoughts	12	203277km2	33910034	Neohrožený Banehalow(#6676) - Banehalow
+27.	[=VW=] Viking Warriors	9	160660km2	33135741	MiniTokyo(#8786) - LorD Drax
+28.	[NERO] Nebezpečné Rovnošaty	12	195223km2	32869371	Neradovo(#1267) - nerado
+29.	[RJ] Rytíři Jedi	12	168208km2	32709180	Ave Branik(#578) - cilitbang
+30.	[-=BofB=-] Band of Brothers	7	121694km2	32582159	Móhanžó-daro(#4335) - stcold
+31.	[:HALA:] Hare Lama	12	176886km2	32565150	South City Rulezz(#853) - SCRLovec
+32.	[sP`] spolecenstvo Pycynek	12	162297km2	32371225	Pycynka`Asche(#1563) - Asche
+33.	[DIKTHRON] Diktator on the throne	11	162491km2	32066775	Just Do It(#10112) - Death Imperator
+34.	[D3m0n1C] coming....	8	153044km2	31408475	poWered.by/mE/(#5598) - H3LL M4KER
+35.	[cz-sk] ceskoslovensko	9	182615km2	31076852	MechTech Country(#14333) - Vladce Seanix
+36.	[=*DC*=] Dark Company	11	132645km2	31019610	Dvě v leže(#840) - Smajdaalf
+37.	[ČSLA] Česko-Slovenská lidová armáda	12	171860km2	30763236	.:CZ-SK:.Neviem nič(#545) - KalinV
+38.	[-=AB=-] Atomic bombermen	12	143328km2	30325181	Čáslav:Slavia - 4:3(#8345) - Dawidek
+39.	[G-K] Gutiho Kotangentoida	12	205531km2	30312969	Říše Olšovec(#175) - Guti the King
+40.	[CENSORED] Top Secred	7	116377km2	29369835	CENSORED(#489) - Chasi Kramer

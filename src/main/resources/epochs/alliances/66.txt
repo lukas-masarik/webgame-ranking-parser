@@ -1,0 +1,42 @@
+66. VĚK
+#	Aliance	Členů	Rozloha	Prestiž	Předseda
+1.	[=*DC*=] Dark Company	10	176850km2	65272558	Banánový Joe(#540) - Joe The Boss
+2.	[Řezníci] Krkovička : řezník a kupec	10	211536km2	62650579	Behind blue eyes(#2741) - Bulva
+3.	[SIL] Silmarillion	10	196889km2	51409956	Nejneobhospodařovávanější(#97) - Martin858
+4.	[DF] Dark Family	10	199150km2	51001888	Dark Krovak(#2479) - Krovak von Les.
+5.	[Wrath] Back to Basic	7	123475km2	43896778	not Famous just Pro(#3136) - Gxx
+6.	[.hack//] hackeriiiii	10	163069km2	42878537	poMik(#5414) - Kenshin Himura
+7.	[68] 68	7	133984km2	42176618	Artek(#184) - Jurgens
+8.	[.:NUKE:.] Nepřítel populace	10	167457km2	40721893	NUKE DRAGON(#575) - Firepower
+9.	[BAMBUSKY] Kradneme kolajnice a zelezo	10	168847km2	40267094	BOH odpúšťa JA nie(#340) - K.N.M KoLLo
+10.	[S.P.K.] spolek přátel koz	10	138506km2	38838059	Pan Filuta(#880) - Čejník II
+11.	[Lotta] Lotta per la sopravvivenza	10	150576km2	37085379	mi si accappona la pelle(#2303) - Prefik
+12.	[UMP] Univerzita mírného pokroku	10	131464km2	34971371	Naboo Reloaded(#201) - Dart.Kanne
+13.	[.::VR::.] velka revoluce	10	156985km2	34212418	Zem tisíce demižónů(#170) - ..Hanz..
+14.	[Ali] Aliance	10	124692km2	34117665	Stát(#1158) - Celerus
+15.	[.::R::.] Rytíři	10	137231km2	33452237	Nukleární observatoř(#2158) - Turbi
+16.	[L.O.S.] losáci od severu	10	130673km2	33091033	LOS made in Uzbekistán(#2397) - .Devilmen.
+17.	[-=LH=-] Lonely Hearts :-*	10	135268km2	32891139	A-=LH=- BUNDA(#410) - Walker
+18.	[Ganja] Ganja	10	149357km2	32192747	Alkáč, neboli alkoholik(#46) - ..Hanz..
+19.	[-=HK=-] Hello Kitty	10	150688km2	31999816	Are you Afraid x)(#2361) - N4TH4N13L
+20.	[*zoo*] Zeal offensive organization	9	62285km2	31263565	500kč za 1000km(#108) - XXXGrey
+21.	[F.o.a.D] ...:::DARKROOM:::...	10	187447km2	30745248	s Kristýnkou *in love*(#560) - trav1
+22.	[ČSLA] Československá lidová armáda	9	122267km2	29921721	.:CZ-SK:.Joudinkov(#2003) - joudinek
+23.	[PUW] Pub u Wočka	10	142284km2	29675843	PUW Alkoholička(#1637) - Athara
+24.	[Bourárna] hrrr do topky	4	56428km2	29156684	Techy(#1048) - Temundzin
+25.	[A.N.D.2] Angels Never Die 2	10	139672km2	28730629	ARCHANGEL - Sokolie oko(#123) - Bonto
+26.	[ToB] Talent od boha	10	155321km2	28193640	*`=/+-.,:((#4118) - Supra1Soul5Play
+27.	[Lordi] Bojovníci starého řádu	10	133557km2	28013317	ZkráceníméhoLORDa-nemožné(#3324) - kopl
+28.	[.:YD:.] .:Your Dead:.	10	146656km2	27934405	.:YD:. Apportez la mort(#2520) - White Dead
+29.	[Sirotci] D1E FOR TOP	10	131784km2	27820729	Profesor xr3d střelec CSc(#165) - xr3d
+30.	[Anarchy] Bezvládí...	10	151276km2	27787017	Touha je zázrak, kámo...(#3692) - thordevil
+31.	[-=DF=-] -=Destilat Fanatics=-	10	145440km2	27492846	-=DF=- Fernet Citrus(#595) - Michal44
+32.	[H2O] Water Bandits	10	126493km2	27449281	waterdog(#1996) - Waterdog
+33.	[KL] Killing Legion	10	150068km2	27043041	KLátím tě(#344) - Reskator
+34.	[AVENGERS] United We Stand	10	113401km2	27006340	Become Wrath(#605) - Mathew Mighty
+35.	[Veverky] Plesnivé Veverky	10	131494km2	26694270	Plísní Olezlá Veverka(#232) - LordStilgar
+36.	[HC] Hardcore pride	10	140950km2	26516529	Narovnávák na vohejbák(#4659) - VeGGetarian
+37.	[ČSB] ČehoSeBojím	10	146139km2	26387227	Bojím se, že nevyhraju :((#2412) - Veriax
+38.	[RQ] RadeQaST	5	101572km2	26324207	Che Guevara(#1763) - H00L1G4N
+39.	[.:BSE:.] Šilené Krávy jsou zpět	9	145271km2	25832088	Petelice u Brna(#2039) - LordDePraga
+40.	[VTIP] Mistři Smíchu	10	130431km2	25210507	Vtípným kopem do koulí(#94) - Gyriko

@@ -1,0 +1,42 @@
+130. VĚK
+#	Aliance	Členů	Rozloha	Prestiž	Předseda
+1.	[M] MOON	10	179652km2	54286719	PrasOvečka anální(marova)(#822) - Eph3dr1ne
+2.	[DF] Dark Family	10	133887km2	47541788	Slecinka DF(#775) - Hanz Guderian
+3.	[KL] Killing Legion	10	178019km2	42761877	(KL)(#758) - 7000000
+4.	[Across] Idealistic Organization	10	144035km2	42067177	Worms World Party(#6969) - marv III
+5.	[MENSA] ...my všichni prací povinní :(	10	160378km2	40571326	CATCH M3 IF YOU CAN(#70) - Sir Extrem
+6.	[KP] KočkoPes	10	153097km2	39661128	Myšohad(#9999) - tvojasmrt
+7.	[80`s] Zlatý ejtýs	10	165059km2	38341848	Walkman a mixtejpy(#320) - VooOool
+8.	[Bull] Black Division	10	162966km2	38134171	GladeRxz(#61) - High Warlord Rxz
+9.	[Anarchy] Farmíme pro lepší minulost	10	126043km2	34991436	Himlhergotdonrvetr(#106) - thordevil
+10.	[ĎA] Ďábelská garda	10	135742km2	34097782	Žááán? Ano MyLORDE?(#1385) - Ranger2222
+11.	[ČSLA] Česko-Slovenská lidová armáda	8	121118km2	33476666	.:CZ-SK:.AK-47ProduceR(#1069) - AKland
+12.	[-=PINP=-] PANDAS IN PYJAMAS	10	119911km2	33239488	Schönau am Königsee(#447) - Herr II
+13.	[Tabáček] Tabáček	10	118707km2	32214343	(.)-(.)(#333) - Veriax
+14.	[Bombing] Bomby v130	10	132295km2	31338477	Bombing Hero(#156) - the last Hero
+15.	[M.A.] Meziplanetární Aliance	10	123288km2	30688754	Fakin Hobol(#35) - smudlas
+16.	[Palmovka] Palm beach	10	129528km2	30047101	licipán(#120) - Babajezi
+17.	[MK] Immortal knights	10	119081km2	29839596	kliksemkliktam(#772) - uzid
+18.	[PKZ] Prdeli Ke Zdi	10	118182km2	29247853	.::PKZ New Kids Nitro::.(#547) - Kwasak
+19.	[Planet-X] Solaris System Experiment	10	129845km2	28210098	PLANET-X Anunnaki King(#183) - ZUMOTRIX
+20.	[=THC-F=] The Heroin Company F	10	118474km2	27352521	THC-Název Země(#2551) - OOggi
+21.	[*WinDe*] Demolition Windows	10	131381km2	26615599	.:W:. blazniva Veverka(#113) - Koumes
+22.	[-=SCS=-] Semtex Culture Squad	10	109577km2	26442832	Letní tábor Kalich(#417) - Black Napalm
+23.	[**SNK**] SmeNaKašu	10	122483km2	26388800	Ferda Mravenec na Kašu(#408) - SnookerLand
+24.	[YOZZEFY] Yozzefy = expy	10	125633km2	26206920	Kampaň proti Burešovi(#114) - Allegro
+25.	[SUX] ůžasná aliance 0:-)	10	141997km2	25855805	SUXessfull(#104) - LuisFigo
+26.	[RoboUtop] 130. věk	10	118721km2	25848541	RU bikova kostka(#665) - Lídiště
+27.	[BumBum] Z hlediska globálního spektra.	10	135846km2	25827321	Demon of Catastrophes(#306) - Diesi
+28.	[ČD] České dráhy, jsme tady pro Vás	10	112195km2	25814480	=_Ex 666 Sataník_=(#527) - Folei
+29.	[Tabácek] Tabácek	10	140895km2	25619397	BUFU(#1184) - snasa1
+30.	[DEAD] Ende schluss	10	123264km2	25601533	-DEAD-PpepeNemaPenachym(#1180) - Diák
+31.	[LORDI] Devil is a loser	9	99840km2	25597401	Lord of (The)rinks(#34) - kopl
+32.	[.:UV:.] Usmolení vidláci	9	100966km2	25390027	Dřepy na okurkovém poli(#51) - RegiFcb
+33.	[.L.O.S.] Jarní losaci	10	134172km2	24127616	LOS made in Zhonguo(#568) - Topisek
+34.	[NBTN] Neser Bo Te Naseru	10	100883km2	23257446	RS-24 Yars(#701) - luque
+35.	[ČSB] ČehoSeBojím	10	111545km2	22813972	Bojím se o přežití...(#111) - Veriax
+36.	[Vanilla] Vanilla Ice	8	114139km2	22597986	Když žid se židem snídá(#1598) - Lets go
+37.	[MGCS] My Granny Can Skate	10	109883km2	22152089	Bam Margera(#820) - Grafical
+38.	[Tabaček] Tabaček	10	185035km2	21899274	Bozk na rozlučku(#399) - snasa1
+39.	[Tabacek] Tabacek	10	150868km2	21589978	Papercut(#422) - snasa1
+40.	[NeRo] NeshlukujteSeRozejdeteSe	10	94687km2	21189505	federální název(#522) - lord big

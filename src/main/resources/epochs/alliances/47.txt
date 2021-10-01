@@ -1,0 +1,42 @@
+47. VĚK
+#	Aliance	Členů	Rozloha	Prestiž	Předseda
+1.	[Kačerov] My z Kačerova	12	253325km2	52616164	Rampa McKvák(#1292) - ...Kápo...
+2.	[=DS=] Dog Soldiers	12	277862km2	52471088	Esgaroth(#6611) - CrazyBob
+3.	[ganja] GANJA	12	213119km2	52235410	země vožralů(#593) - Joker16.
+4.	[FuWG] Funkcni veterani WG	12	179558km2	51413609	SlapkaHezkaCiRybiaTreska(#157) - eska
+5.	[ZERO] ZačínajíERotickáOrganizace	12	221437km2	50932755	lets play cs nubs :P(#6071) - Drunk3n
+6.	[ČSLA] Česko-Slovenská lidová armáda	12	173036km2	47045343	.:CZ-SK:.Dum spiro,spero(#264) - KalinV
+7.	[HOPRDOX] Holou PRdelí DO Xichtu	12	204892km2	44233887	Crazy Itch Radio(#233) - Yurnero
+8.	[..D..] Dragons group off farmer earth	10	167252km2	40667895	Dragon come . Don`t panic(#345) - Zanig Martinator
+9.	[EASY] pOuZe A jEdiNě	11	189704km2	38527212	EASY-zábava neskončila(#6613) - KEPR
+10.	[RAPTOR] Team Raptor	12	176508km2	38465651	RAPTOR-Corpus Delicti(#1394) - A JE TO
+11.	[nEf] Never Ending Flame	6	141009km2	37811632	Spleen And Hourly Idling(#917) - SAHI
+12.	[ROTATK1D] E1D REVEN ROTATK1D	8	108426km2	37014838	ROTATK1D EVOL NI(#3655) - xxxBladexxx
+13.	[WG] WebGay Legenda Začíná :D	12	175455km2	37013331	WebGay Fegres(#1213) - MIG14
+14.	[AlkoholX] The best friends of tecutins	8	125112km2	35489712	Pijem len vynimocne :D(#1242) - PinkPanther
+15.	[HYENY] Neberte nam princeznu	8	95777km2	34592056	Alenka z Říše Divu :-*(#40) - 3Gal
+16.	[UVVB] Uzené veverky v buřtech	6	122566km2	34443563	Manzanie(#4036) - Sir Robertini
+17.	[BEER] Tha power of pivo :D	12	141135km2	33320576	bombardovat mesta(#7884) - tomos81
+18.	[WGŠZ] Lumíci o5 v akci :)	11	165847km2	31656007	Hodný naftař Džejár :)(#3067) - Pegas
+19.	[.::R::.] Rytiri	11	150064km2	31523370	Imperium(#8948) - steamroller
+20.	[DYN] Don`t you know?	7	130740km2	31250639	Tajo velociped(#3749) - .WGKiller.
+21.	[bWt] bratři w tangách	12	149982km2	31169500	Tabula rasa(#42) - Finwalur
+22.	[AUTORITA] Autorita dalším věkem na WG...	12	178577km2	30249991	AUTORITA - Terezka ;-)(#2100) - Lukastrance
+23.	[PC] Panzer Condoms	9	117418km2	30026756	PC :: Jahodový(#936) - VW1303
+24.	[OST3] Old stars team po 3	12	170528km2	29694449	Italia(#150) - Remus XX
+25.	[-GW-] Green Way	12	182046km2	29593306	Tanzanian Magic(#3110) - O.v.e.r.L.o.r.D
+26.	[MZA] Malá Zlá Aliance	10	145855km2	29296279	Pardeeho vlna(#241) - Michellion
+27.	[HeHe] Heaven`s Hell	11	132152km2	28907058	Liar liar pants on fire(#6159) - Beavis
+28.	[=SYNTIA=] =SYNTIA=	12	170065km2	28151869	=SYNTIA= ROLANDKO(#2106) - Gazsi
+29.	[SPARK] antabus je náš nejlepší přítel	12	151124km2	27710443	//SPARK\ ethylik(#5653) - Belter
+30.	[*SS*] SolitareS	12	156937km2	27543556	0ko(#4735) - Bozook
+31.	[Z] Zeměplocha	12	144391km2	27501064	Cori Celesti(#4227) - kIt. .
+32.	[c0n] c0nexia-gaming	4	92886km2	26983465	waste land(#9294) - BlindJustice
+33.	[Legends] jen část legendy	8	131862km2	26703251	Rytir svetla(#1910) - Pernic3k
+34.	[MoM] Morbid obituary Message	6	76689km2	26697681	Zafód Bíblbrox(#3154) - mixhail
+35.	[.:V3R:.] Velká třetí revoluce- škola	12	153694km2	26255310	Po bitvě je každý hrdina(#966) - N4tive
+36.	[BFP] Bad Fat Pipe	12	105645km2	26253984	1411(#2246) - Mista
+37.	[.:V8R:.] Velka 8. Revoluce	12	143242km2	26244900	DERKADERKASTAN(#5751) - Džochar
+38.	[*Winde*] imperium Winde	9	121134km2	26143662	WinduW DraK(#110) - .www.king.cz.
+39.	[DDO] Dratem Do Oka	4	84933km2	26111249	RJAZAŇ(#6744) - IngBadzo
+40.	[KlobaSky] KLoBaSKy	11	142866km2	25545536	????????(#1353) - Ryzka

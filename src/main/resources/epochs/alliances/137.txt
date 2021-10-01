@@ -1,0 +1,42 @@
+137. VĚK
+#	Aliance	Členů	Rozloha	Prestiž	Předseda
+1.	[FETKA] Fetuj jako ponrava	10	146826km2	60957497	Ponrava(#75) - Estetik
+2.	[MRUK] Soustava planet MRUK	10	184755km2	58744251	Aegon Targaryen(#1251) - Drunken
+3.	[Across] Idealistic Organization	10	165564km2	56754980	Peggy Gou(#274) - marv III
+4.	[ALIVE] Alivaci	10	155079km2	54527224	-ALIVE-Zrodila se Rigozda(#699) - ppedrnikar
+5.	[queens] QUEENS	10	155232km2	53831892	Pavilon 8 AHC(#408) - gorem
+6.	[SUX] prostě aliance :)	10	146138km2	50474518	SUXessfull(#923) - LuisFigo
+7.	[VZP] Vyvrženci z pekla	10	160708km2	49561141	Vyvrženec Rufus Dwirefald(#993) - StillDeadCZ
+8.	[Ganja] ganja	10	196204km2	47172670	IBK Kubánský Klan(#382) - gorem
+9.	[-=DH=-] Dark Hunters	10	138096km2	40494452	Amy Pond(#1001) - Ersango
+10.	[-osn-] OsprostenaStaraNota	10	150100km2	40009561	-osn-ruzove v pive(#913) - D1N1AK
+11.	[WMYQ] We Make You Quit	10	176679km2	39560047	Technograd(#521) - zhn
+12.	[CAR] CAR	10	167515km2	38729229	Hrej něco .(#118) - Atlantik
+13.	[SNAKES] jedovatí hadi	10	150870km2	38698434	Chica(#737) - Chica
+14.	[.:xXx:.] CENSORED	10	138359km2	35172931	HELL-fire(#30000) - wasabi666
+15.	[Rafani] Rafani	10	143866km2	34705140	Chlív(#1449) - SprávceChlívku
+16.	[PhaMa] Phantasma Mayhem	9	116102km2	34517928	Tamaki(#1025) - bukvicka13
+17.	[ČD] České dráhy, jsme tady pro Vás	10	125759km2	34447200	=_Rx 699 Moravan_=(#545) - Folei
+18.	[.hunteRs] Team .hunteRs	10	110470km2	34056697	.hunteRs.Ghost(#412) - turalu
+19.	[MENSA] ...prostě (j)elita :)	10	146246km2	33605601	STEPHEN HAWKING(#129) - Sir Extrem
+20.	[PíPíBí] Power Puff Boys	10	170981km2	33542279	Fuzzy Lumpkins(#31) - Muffia
+21.	[**SNK**] SmeNaKašu	10	141857km2	33524892	Liška Bystrouška na Kašu(#372) - Jitus21
+22.	[Anarchy] Farmíme pro lepší budoucnost	10	140573km2	32718193	Srdce mi pofoukáš...(#810) - thordevil
+23.	[.:MoD:.] Miluji Orální Diskuze	10	130649km2	32490813	Žirafa to umí pořádně(#207) - Smrtihlav2
+24.	[CRY] Cry me a river	10	159825km2	32245700	Vraj fair deal, no tak jo(#1221) - Mr. Sedlinno
+25.	[CoverUni] CoverUni	10	148798km2	32187018	Vtipný Tomáš(#280) - hagg1d
+26.	[PKZ] Prdeli Ke Zdi	10	146103km2	30984171	.::PKZ::. Absurdistan(#1229) - Kwasak
+27.	[HOM0] Hodně opravdu moc obnažen	10	129149km2	30657720	Hyundai Elantra(#1453) - SuperSkilla
+28.	[YOZZEFY] Yozzefy = diplomacie	10	147436km2	29883732	poradkyně Schillerová(#497) - Allegro
+29.	[M] MOON	10	174454km2	29835356	Atlan(#116) - Atlantik
+30.	[HOMO] Hlavně opatrně, možná onanuju	10	119258km2	29431551	Jak se to hraje?(#326) - digdaf
+31.	[CBA] Cenzúra Bojazlivej Aničky	10	146029km2	29307353	Robo Kazík(#1223) - marv III
+32.	[DEAD] Deadaci	10	128615km2	28883998	-DEAD-DanikNemaPenachym(#1204) - Diák
+33.	[C.B.] Cripple Bastards	10	114067km2	26358873	HomoRemo(#1108) - Masias
+34.	[P.f.B] Predators from Bombaj	10	128857km2	26254066	Jaimie Lannister(#1253) - Drunken
+35.	[Pussynky] Sněhové pussynky s krémem	10	108018km2	23982762	ROZTOMILÉ K0ŤÁTKO(#62) - Seksymania
+36.	[KZ] Klátíme Zrzky	10	105659km2	23869844	Lazzaros(#1432) - asfsafadf
+37.	[.L.O.S.] Losáci ze severu	8	142784km2	23862084	LOS made in Zhonguo(#1122) - Topisek
+38.	[MK] Immortal knights	8	100248km2	23718169	kliksemkliktam(#1269) - uzid
+39.	[=F4F=] Fight for fun	6	77968km2	23307526	=F4F= YNWA(#578) - jsp
+40.	[DsP] Desperados	10	140061km2	23155344	DsP***Zkusíme to zas(#142) - Blaag

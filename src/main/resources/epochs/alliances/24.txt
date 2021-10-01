@@ -1,0 +1,42 @@
+24. VĚK
+#	Aliance	Členů	Rozloha	Prestiž	Předseda
+1.	[MK] Immortal Knights	10	186572km2	55513389	Do not disturb...(#798) - Zorg
+2.	[tAoW] the Art of War	10	193948km2	48488056	Inkvizitor(#514) - ZuLus
+3.	[INTR] Mul?áci z Hostivaře	10	187268km2	46707987	Silentium(#919) - Facka
+4.	[SB] SpikeBallers	10	168321km2	46004323	OCHO(#4591) - survival.
+5.	[VK] Vibračné Kadidlo	10	155758km2	44308193	Kadící Kačenka(#216) - Razor
+6.	[SoL] Sequence of Light	10	181566km2	44110141	CobraD Teritorry(#2895) - CobraD
+7.	[coRp] coRp crew	10	158090km2	41938720	Deset vrahů v jedné ali(#3570) - powerhead
+8.	[TNT] Tankisti Na Tripu	10	165486km2	40181124	Uni Lab(#14) - Soldier002
+9.	[S.D.E] Solar and Dark Empire	10	170357km2	39663129	Freefall(#27) - Kleky
+10.	[HOPRDOX] Holou prdeli do xichtu	10	193893km2	38980673	Pathetic Torture(#991) - Abduktor
+11.	[SR] Sloboda Rastlín	10	171263km2	38509302	Vykúrený zajko(#93) - Tan X.
+12.	[UFD] United Forces of Darkness	9	116729km2	34959102	ChristiaN Dior(#274) - Zachata
+13.	[P-V] Pouta Války	10	127506km2	33265683	Dravá(#821) - Troskol
+14.	[WoW] Warriors of the World	10	205144km2	32487436	Hand of doom(#3630) - FierceMan
+15.	[BALROG] BALROG	10	128432km2	32145464	Penumbra(#1141) - .Slayer.
+16.	[DW] Dark Warriors	10	145760km2	31334157	Vospaxland(#1419) - vospaxík
+17.	[GST] Global Strike Team	10	171527km2	30046528	AntiPredator(#3063) - LordIlidan
+18.	[NV] Naše Věc	10	123259km2	29787932	Promarněná šance(#8356) - DJ Witch
+19.	[FF] Final Fantasy	10	151504km2	29603979	Be Kind, Be Cool, Be Free(#282) - th3Comma
+20.	[DToA] Dark Templars of AIUR	10	138168km2	27772183	Kaitan(#24) - Josef.Corrino
+21.	[Predator] Predators	10	136720km2	26916847	Kamikazepredator(#235) - xgeorgo
+22.	[LaF] Lamy a Farmari	10	118161km2	25915852	omfg(#2463) - TchYnE
+23.	[PIG] perverse independent gamers	9	142174km2	24818742	BUTCHERED AT BIRTH(#254) - BIG BOSS
+24.	[D:Mages] Dark Mages	10	143932km2	24788329	Maniax(#263) - Mirzza
+25.	[B.K.] BLITZ KRIEG	10	122345km2	24604119	Aegypt(#1272) - Nptoh
+26.	[RBA] Reborn Alliance	10	129765km2	23605849	Samba(#315) - RC
+27.	[FFW] Freedom Warriors	9	120602km2	23314961	Soldier of Freedom(#1809) - TERMINATOR III
+28.	[HV] Hastala Vista	10	143599km2	22980728	SUP, SUP(#11) - Siringa
+29.	[H.M.S.] Ark Royal	10	132509km2	22966965	Lancaster(#313) - Chester
+30.	[WG] Brucknerovo Walmez ghetto	10	128768km2	22341596	Pavel Nedvěd(#3229) - Lag
+31.	[K9] K9	8	123652km2	21807487	krkvochamajdaland(#4579) - Zeratul
+32.	[NHC] No Human Comunity	10	127474km2	21264452	Fanatičtí tuleni(#799) - Tulenka z Arku
+33.	[BH] Black Hand	9	107253km2	20882268	Empirium(#2040) - Lord McLure
+34.	[FF2] Final Fantasy 2	7	99506km2	20654325	Predatory Nightstalker(#2499) - Battleruler
+35.	[X-F] AnvilOfJustice	10	67402km2	20101337	BattleField(#20) - ShamanX
+36.	[SNT] Ser Na To	10	122151km2	19548167	Gecko(#1027) - Alexinho
+37.	[AYES] AYES	7	102468km2	18939144	El Dorado(#8357) - alu
+38.	[S] Shadow	7	121603km2	18931132	Caladan(#609) - MichalekII
+39.	[MDK] Mysterious Dark Knights	10	121154km2	18418287	Ungaria(#2222) - Korgan Bloodaxe
+40.	[HTF] Happy Tree Friends	10	110430km2	18235573	Lumpy(#289) - Erwin Stahler

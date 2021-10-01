@@ -1,0 +1,42 @@
+73. VĚK
+#	Aliance	Členů	Rozloha	Prestiž	Předseda
+1.	[=*AS*=] Admin.Shop	10	198078km2	67443205	za Ctirada, Doga, Dertira (72.(#57) - Gyriko
+2.	[DF] Dark Family	10	199649km2	51214384	Slecinka DF(#1586) - Hanz Guderian
+3.	[Across] Idealistic Organization	10	156763km2	43531085	Úzkoprsý útočí(#2311) - marv III
+4.	[Legend] Legenda Naumo	10	150912km2	38601462	Naumo(#310) - FriedrichPaulus
+5.	[A.N.D.] Angels Never Die	10	147526km2	38095961	ARCHANGEL - Preturius(#438) - Preturius
+6.	[.L.O.S.] Losáci ze severu	10	109433km2	37754212	LOS made in Božkov(#659) - Topisek
+7.	[D1KTATOR] D1E FOR THE DARK SIDE	10	149938km2	37425525	kategorický imperativ(#911) - Vojtiiik
+8.	[(RV)] Ryba vole :D	10	147725km2	37377426	Underbelly(#1893) - ListerD1
+9.	[*`=/-.,] SupraManiacs	10	143063km2	36276222	Back to the Old Skool(#48) - Supra1Soul5Play
+10.	[BFP] Bad Fat Pipe	10	142595km2	35243472	boheMista(#2114) - Mista
+11.	[HOPRDOX] HOlou PRD	10	128774km2	33198397	jak se ti slape(#350) - adduktor
+12.	[A7X] Avenged Sevenfold	10	135802km2	30540776	M.I.A.(#97) - Mephisto
+13.	[ČSB] ČehoSeBojím	10	138726km2	30045314	Bojím se diktatora Šmouly(#2766) - Mihawk
+14.	[DpN] Duchna pre Novačikov	9	114326km2	29768793	U Evženka Hyberného(#75) - Evzen Hyberny
+15.	[WXI*IXW] Web of Wyrd	10	127284km2	27283627	Chce se mě?(#542) - Nevimnemamneumim
+16.	[GFeX] GoLd FéNiX	10	114481km2	26973020	GoLd FéNiX(#184) - Jamailes
+17.	[Anarchy]	10	126858km2	26083570	Touha je zázrak, kámo...(#2495) - thordevil
+18.	[KRTEČEK] Hrabáním k lepším zítřkům...	10	130204km2	25349622	Krteček a makovička(#685) - IMraz
+19.	[VIR] VIR	10	147062km2	25119439	0010110001011111010100100(#384) - FL4SHh@cker
+20.	[n1] navrat idoitu po 010 letech	6	84480km2	24651498	rusi píšu bazukou(#1284) - esya
+21.	[atrs] Anti talenti, rozlámaný sáňky	10	115316km2	24568467	Nacre fortress(#1698) - anduril
+22.	[VÍCADMIN] Víceadministrátoři Webgame	9	111467km2	24184001	brain`s hive(#740) - br4insh4ker
+23.	[.:ADaZ:.] Aliance Divokych a Zlých	10	148259km2	23624753	.:ADaZ:. Vozko-is-back(#233) - Vozicek
+24.	[ALI1234] ALI1234	10	100356km2	23527288	usti(#2320) - vachys39
+25.	[.:WiFi:.] Kabely už neměli	9	120992km2	23488627	.:WiiiiiiFiiiiii:.(#1314) - Simonof
+26.	[S*K] Skunk (Skank) Teritory	7	93075km2	23475648	Oko za oko, Zub za zub(#92) - Bigbosh2
+27.	[*M-E-E*] Magic earth Elemental	10	108061km2	23136652	*** Zem na Vymaz ****(#127) - Moltar
+28.	[LEGO] Stavíme pyramidu	8	101786km2	23073933	LEGO never back down(#2274) - ArchimondS
+29.	[ŠAM] Škola aneb úvod do teorie WG	10	118933km2	22990053	RNDr. Schwarzschild(#546) - M0lna
+30.	[fik007] fik007	10	113955km2	22170533	fik007(#1483) - fik007
+31.	[NWO] New Webgame Order	9	116930km2	22105526	Taekwondo(#2971) - MotherFotr
+32.	[AveCesar] AveCesar a co dál?	10	106181km2	22059654	.:AveCesar:.UJEP(#461) - Ares65
+33.	[-BLOOD-] Blood and Bone	10	118972km2	21996823	Nikdy neodmlouvej kámo(#1990) - losos123
+34.	[ČSLA] Československá lidová armáda	8	72759km2	20985490	.:CZ-SK:.Joudinkov(#250) - joudinek
+35.	[Society] Society	9	97088km2	20798778	Serve the Servants?(#1813) - 21robo21
+36.	[CHRO] Ultimate Chrownage Team	7	80189km2	20612270	Budoucnost je v jádru(#3440) - Duke Nukem
+37.	[Kočky] Kočičí říše	10	125428km2	20283139	Kočka(#153) - Freddie
+38.	[-=D2F=-] -=Destilat 2 Fanatics=-	8	95209km2	20227225	-=DF=- Cuba Libre(#1398) - Degee mDfK
+39.	[Valkaci] Vyhúlení alkáči	10	118527km2	20035757	VALKAC I AM THE CHAMPION(#495) - diefirma
+40.	[ICE] Ice ice baby	5	62253km2	19841831	Země(#1331) - DJ.Snowman

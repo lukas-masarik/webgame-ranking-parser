@@ -1,0 +1,42 @@
+76. VĚK
+#	Aliance	Členů	Rozloha	Prestiž	Předseda
+1.	[-=DF=-] -=Destilat Fanatics=-	10	198298km2	43424919	-=DF=- Finlandia Vodka(#2019) - Michal44
+2.	[DF] Dark Family	10	197437km2	42011325	Slecinka DF(#2097) - Hanz Guderian
+3.	[Across] Idealistic Organization	10	183836km2	38815526	Úzkoprsý útočí(#1465) - marv III
+4.	[-=AB=-] Atomic Bomberman	10	166189km2	36185503	Bomberman Perhalik(#2099) - Perhalik
+5.	[BAMBUSKY] Kaviaros bavinel	10	169388km2	35105639	Kajčas more?(#239) - K.N.M KoLLo
+6.	[=*DC*=] Dark Company	7	104274km2	32592155	Rhadamanthys(#652) - Namibi
+7.	[ManG] Maniiax Gang	10	174310km2	31330184	Nemilosrdná Slečinka(#320) - c4u710n
+8.	[Ponorky] z hladiny na dno	10	134432km2	29155042	U77(#1147) - Cipso
+9.	[ČD] České dráhy, jsme tady pro Vás	10	136989km2	28912506	=_Ex 150 Jan Perner_=(#1938) - cvachta
+10.	[PPP] Pěkně Prohnaná Partička	9	133346km2	28694230	Padneš Paží Předsedy(#127) - Bitr
+11.	[AveCesar] AveCesar a famiglia.	10	129907km2	27749238	.:AveCesar:.Silvie(#394) - Ares65
+12.	[-=LH=-] Lonely Hearts	10	180898km2	27438489	-=LicH=-(#190) - zase jachym
+13.	[NRsF] Nemám Rád stereotypní Farmy	10	142748km2	26844353	NRsF: MessenJah(#412) - ja666
+14.	[=VW=] Viking warriors	10	115242km2	26204334	Bloodhorn(#41) - T.C.F.
+15.	[.:V12R:.] Crymore	10	124764km2	25822985	Coudak je lama(#56) - Lifik
+16.	[DF2] Dark Family II.	10	131882km2	25742135	.:DF2:. CR7(#487) - castropola
+17.	[*WiNDe*] NO HOPE	10	143267km2	25652719	.:W:. Myš pod peřinou(#1268) - Revelation3
+18.	[Ganja] Ganja	10	137992km2	25447087	Alkáč, neboli alkoholik(#958) - ..Hanz..
+19.	[atrs] Anti talenti, rozlámaný sáňky	10	140139km2	25238614	Nacre fortress(#1332) - anduril
+20.	[A.N.D.] Angels never die	10	145263km2	25219321	ARCHANGEL - Eskimakovo(#186) - Bonto
+21.	[.:WiFi:.] Kabely už vymřely	10	123992km2	24808579	.:WiiiiiiFiiiiii:.(#574) - Simonof
+22.	[OS] Other Side	9	126045km2	24569830	4pubCZ(#1276) - Loob
+23.	[Skřítkov] Skřítci a Permoníci	10	135651km2	24510200	Donne chiesa cornea(#1718) - stejski IX.
+24.	[MA] MAsters	9	189198km2	23750844	Horné Grgy(#1061) - Rammstick
+25.	[KRTEČEK] Hrabáním k lepším zítřkům...	10	122054km2	23524578	Krteček a makovička(#2416) - IMraz
+26.	[ToAn] Topinka v Anuse	7	106928km2	22892335	Immortanus(#660) - devilLH
+27.	[AERO] Aeronautics beginning	9	117992km2	22344553	Aerobase(#784) - Moorev
+28.	[::R::] R3S93K7 .:Justice for the 96:.	10	126544km2	22213914	R3S93K7 for the 96(#496) - zampino
+29.	[TSŽ] technicko-sociální žaludi	9	93349km2	22086854	Slammerovo(#32) - Beleriand
+30.	[Anarchy] Farmíme pro lepší minulost	10	109256km2	21639305	Anarchy(#2445) - thordevil
+31.	[DpN] Duchna pre Novačikov	10	124940km2	21591859	U Evženka Hyberného(#37) - Evzen Hyberny
+32.	[Hyuuga] Hyuuga klan	10	118198km2	21381392	Hyuuga Neji(#134) - Lamitec
+33.	[VTIP] Mistři Smíchu	10	170971km2	21061230	Vtipomanie(#2790) - SiRvAcA
+34.	[8765ILA] 8765ILA	9	113756km2	20965772	Cryteen(#2632) - Angelus66
+35.	[S.P.K.] spolek přátel koz	10	112317km2	20674721	Šíňan Nakánoj(#306) - Phoenyks
+36.	[S.S.T.] spojené síly terorismu	10	100095km2	20142901	S.S.T.Trutnov(#450) - alksj
+37.	[ČSB] ČehoSeBojím	7	89209km2	19807933	Bojím se Hello Kitty(#533) - Jackass Mild
+38.	[x.x.x.] DuO DoMeStOs	10	168583km2	19680902	Divokej Kill Bill(#449) - KingSixx
+39.	[Society] Society	10	116244km2	19611769	Serve the Servants?(#399) - 21robo21
+40.	[TemLeg] Temné legie	9	96065km2	19424161	Naboo Reloaded(#36) - Dart.Kanne

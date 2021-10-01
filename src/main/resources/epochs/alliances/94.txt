@@ -1,0 +1,42 @@
+94. VĚK
+#	Aliance	Členů	Rozloha	Prestiž	Předseda
+1.	[LBL] LBL	10	166959km2	55182069	Modrý pták(#1985) - ridgeback
+2.	[S.D.E] Solar and Dark Empire	10	184326km2	50164650	Overkill(#235) - Scalpelexis
+3.	[SOPHIE`S] SOPHIE`S PLAYGROUND	10	196738km2	46918492	SOPHIE`S BDSM(#199) - U.U
+4.	[Junkyard] Twisted Trophy Hunters	10	171098km2	44954340	raggaMAFin(#136) - MAFline
+5.	[Kačerov] My z Kačerova	10	198988km2	44858383	Feel The Beat(#201) - Zorg
+6.	[Legend] Wait for iT	10	159552km2	43384703	Naumo(#48) - FriedrichPaulus
+7.	[Wrath] The One and The Only	10	176324km2	39912498	I Always Get What I Want(#1645) - Gxx
+8.	[DF] Dark Family	10	170294km2	38514867	DF_Energy(#388) - FH
+9.	[AiM] Aina Mörne	10	139255km2	37517253	AiM Učím se být smrtkou(#936) - White Dead
+10.	[cerveza] pivecko cez vianoce	10	141602km2	35235167	hruška(#207) - Dr.hurka
+11.	[S.M.R.T.] Sado Maso Rocket Terror	8	133597km2	34892288	4682 Kusů Ozářené Haše(#233) - King Lear
+12.	[Across] Idealistic Organization	10	136508km2	34655138	Prdol som si. Vadí?(#217) - marv III
+13.	[BumBum] Z hlediska globálního spektra.	10	158987km2	33540838	.:BB:. Absolute Awesome(#266) - TheSokar
+14.	[B.K.] Blitzkrieg	10	166911km2	32740136	Panzer Lehr Division(#360) - Tomasius Velky
+15.	[ALI1234] ALI1234	10	145096km2	31953814	usti(#1649) - vachys39
+16.	[Ganja] Ganja	10	143832km2	31147681	kubánský klan:)(#185) - gorem
+17.	[AveCesar] AveCesar - A je to.	10	131219km2	29201999	.:AveCesar:.Pat(#800) - Ares65
+18.	[**CQR**] Conquerors	10	120335km2	29121571	Lenivý Conqueror(#166) - vanna
+19.	[.L.O.S.] Losáci zo Severu	10	141031km2	28589296	LOS made in Destroyer(#420) - BlackTears
+20.	[-.-] -.-	7	108495km2	27656748	This is the revolution(#2302) - Duskooo
+21.	[Bombing3] Pevné trojky	10	144184km2	27356853	*BombermanPOWWA*(#980) - d3m3n3c3
+22.	[KRTEČEK] Hrabáním k lepším zítřkům...	10	122891km2	26118158	Krteček a makovička(#953) - IMraz
+23.	[Bombing2] B2	10	144613km2	25376288	Bombing strejcek:)(#41) - Kuboj
+24.	[-=LH=-] Lehke Holky	10	179429km2	25371720	-=LH=-OUPÝ PŘEDSEDA(#1678) - Walker
+25.	[MDPA] MordParta	10	118370km2	25064896	satory(#250) - hejkalak
+26.	[T163R] T163R	10	124986km2	24609632	acinotyx(#472) - i am the one
+27.	[ČD] České dráhy, jsme tady pro Vás	10	122688km2	24111512	=_EN 405 Vltava_=(#1553) - cvachta
+28.	[Lords] Give thanks to the Lord	10	111961km2	23683058	Kingdom of Fools(#2198) - Krta
+29.	[LdlS] Liga de las Sombras	10	125351km2	23217902	Yo soy el grande amigo(#531) - Defectorr
+30.	[SPRITE] Teď já budu Sprite a ty žízeň	10	119887km2	22925796	Pocemkamdeš(#411) - demonstrate
+31.	[=*DC*=] Dark Company	10	100569km2	22784520	Silent Hill(#3089) - Eldudik
+32.	[HISTORY] Big Men of History	10	90335km2	22752046	Napoleon Bonaparte(#68) - Mr. Sedlinno
+33.	[ČSLA] Československá lidová armáda	10	129425km2	22726001	.:CZ-SK:.AK-47ProduceR(#1727) - AKland
+34.	[Etc.] Pochod klaunů pokračuje	10	178451km2	22709449	Šití očí k smrti nesnáším(#1956) - ..yossarian..
+35.	[A-A] Agartha and Akasha	8	116988km2	21856968	Serious Tom(#1532) - .bruno.
+36.	[LEGO] stavíme vysoké domečky	10	120807km2	21466812	Oooo(#1095) - ArchimondS
+37.	[CoverUni] CoverUni	10	143520km2	21385914	.....Cover.....(#615) - hagg1d
+38.	[BFP] Bad Fat Pipe	10	89795km2	21294947	boheMISTA(#1831) - Mista
+39.	[S*K] Skunk Teritory	10	137943km2	21159515	Paul Newman(#1117) - ing.JimStreet
+40.	[RoboUtop] Vánoce jsou tady....	10	111265km2	21084199	RUskou vodku, prosím.....(#908) - Lord Carcharias

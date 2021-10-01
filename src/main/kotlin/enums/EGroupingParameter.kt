@@ -6,4 +6,5 @@ enum class EGroupingParameter(
     PLAYER("Player"),
     ALLIANCE("Alliance"),
     STATE_SYSTEM("State system"),
+    LAND_NUMBER("Land number"),
 }

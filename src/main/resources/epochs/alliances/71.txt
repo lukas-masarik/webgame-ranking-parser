@@ -1,0 +1,42 @@
+71. VĚK
+#	Aliance	Členů	Rozloha	Prestiž	Předseda
+1.	[M] MOON	10	184547km2	48580162	Atlan(#38) - Atlantik
+2.	[AotNW] Tatínek vám vyhlásí válku	10	168378km2	43046422	Pan Filuta se zlobí(#702) - Marzaus
+3.	[Wrath] The One and The Only	10	137631km2	38686504	_R.K._(#541) - Gxx
+4.	[DF] Dark Family	10	145814km2	38520787	Slecinka DF(#2026) - Hanz Guderian
+5.	[-=DF=-] -=Destilat Fanatics=-	10	161893km2	38028852	-=DF=- Fernet Citrus(#474) - Michal44
+6.	[*zoo*] Zeal offensive organization	9	142298km2	37484474	*zoofil*želvička(#98) - XXXGrey
+7.	[.:VR:.] velka revoluce	10	152837km2	36538983	heavenonearth(#132) - babygirles
+8.	[cz-sk] ceskoslovensko	8	124784km2	33959006	.:cz-sk:.Zeus(#405) - Vladce Seanix
+9.	[BFP] Bad Fat Pipe	9	135192km2	32406813	boheMista(#54) - Mista
+10.	[.::VR::.] velka revoluce	10	135885km2	31540751	slečinka revoluce(#391) - d13
+11.	[.A.] ASSASSINS	10	95616km2	31314375	.:.:ASSASSIN:.:.(#199) - Blackthunder
+12.	[Across] Idealistic Organization	10	134368km2	30700261	Úzkoprsý útočí(#2173) - marv III
+13.	[Skřítkov] Škola skřítka Rozbušníka	10	147456km2	28066358	Donne chiesa cornea IX.(#2167) - stejski IX.
+14.	[TVN] Tento Věk Nanovo ...	8	129800km2	27737650	X LaNd(#521) - OMartin
+15.	[Akatsuki] Společenstvo zlosynů	10	133801km2	26750737	Bijuu Tobi(#3216) - Lordisko
+16.	[(RV)] Ryba vole :D	10	110815km2	25995152	Underbelly(#257) - ListerD1
+17.	[-P-] profesorovo	9	115866km2	25932052	profesor(#711) - Tulipan Veliký
+18.	[ČSB] Čeho se bojím	10	120182km2	25827083	Bojím se čórek(#2100) - Zmut02
+19.	[LEGO] kostky jsou vrženy	10	132848km2	25626845	LEGO never back down(#1959) - ArchimondS
+20.	[Ponorky] Na dně jsme už byli.	10	115311km2	25473717	U 100(#625) - LittleCryingCory
+21.	[TemLeg] Temné legie	9	104211km2	24923602	Naboo Reloaded(#76) - Dart.Kanne
+22.	[6812] Prometheus	5	91081km2	24443042	Bridge to Terabithia(#124) - A. Valverde
+23.	[BBB] Bláznivě brumlající beránci	6	96060km2	24163600	Save water, drink beer(#443) - .Hellboy.
+24.	[.:WWF:.] World Wrestling Federation	10	111498km2	23960221	.:WWF:. Země medvědů(#397) - Medvidek3000
+25.	[RB] Rebellischen Barbaren	10	116102km2	23761555	Lam3r(#1420) - Lokisek
+26.	[.::U::.] Unstoppble	10	112261km2	22875193	.:U-Stop:.Belik:.(#1241) - Helpik
+27.	[.hunteRs] LEGENDARY .hunteRs	10	122779km2	22826136	.hunteRs.NoiseBomb(#728) - FRaktura
+28.	[-WG-] WEBornej GAMEbrinus	5	77400km2	22442244	Eye of Tiger(#579) - Hadrabator
+29.	[n1] naughty icons	10	145783km2	22371187	Faye Reagan(#67) - Walker
+30.	[.:V3R:.] revolučná škola sexu	10	144954km2	22093383	Sarah Michelle Gellar(#3415) - Alexius
+31.	[VTIP2] Žertování s Mistry smíchu	10	130027km2	21332638	VTIP o šprýmařích(#277) - Isilmir Goraz
+32.	[S.P.K.] spolek přátel koz	10	109602km2	20725294	Kulefuč(#41) - Phoenyks
+33.	[A.N.D.2] Angels never die 2	6	81035km2	20706308	ARCHANGEL - Eskimakovo(#367) - Bonto
+34.	[VTIP] Mistři Smíchu	10	184035km2	20617998	Vtipným kopem do koulí(#172) - Gyriko
+35.	[S*K] Skunk (Skank) Teritory	5	69924km2	20183050	Zhulendrov(#1595) - Bigbosh2
+36.	[KDESHUK] Kde šuk	7	107445km2	20112884	2012 řekni sBohem(#3958) - masterWG
+37.	[Society] Society	10	118362km2	19798485	Serve the Servants(#948) - 21robo21
+38.	[Valkaci] Vyhúlení alkáči	10	94732km2	19609285	VALKAC THE BODYBUILDER(#874) - diefirma
+39.	[ZERO] ZačínajícíERotickáOrganizace	10	175947km2	19596675	webgamista na baterky =)(#237) - Walden r Gwendor
+40.	[*M-E-E*] Magic earth Elemental	8	118712km2	19591028	*** Zem na Vymaz ****(#2840) - Moltar

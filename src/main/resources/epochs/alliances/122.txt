@@ -1,0 +1,42 @@
+122. VĚK
+#	Aliance	Členů	Rozloha	Prestiž	Předseda
+1.	[LBL] LBL	10	166000km2	70858598	Modrý pták(#1713) - ridgeback
+2.	[HiB] Hero is Back	10	179295km2	61336613	Ukaž číču(#781) - Remor
+3.	[.L.O.S.] Losáci ze Severu	10	187233km2	56332297	LOS made in Bum Shake Bam(#726) - BlackTears
+4.	[Across] Idealistic Organization	10	177062km2	43986640	Vendula Chalánková(#226) - marv III
+5.	[M] MOON	10	183636km2	41151411	Atlan(#646) - Atlantik
+6.	[.LL.] Lock and load	10	176133km2	38641349	Valar Morghulis(#345) - Uaah
+7.	[HISTORY] Big Men of History	10	146794km2	38074737	Napoleon Bonaparte(#144) - Mr. Sedlinno
+8.	[Genocida] Bomby,pecky,petelice.	10	164563km2	36316421	vandals groupe(#256) - UniQe
+9.	[=T=] Trója	10	162801km2	35643569	Winter is coming..(#65) - FR3EZY
+10.	[ltf] len taky fukot	10	131336km2	35641152	EarlyBirds(#286) - Poisoindlovo
+11.	[68] 68	10	113922km2	35337399	Artek(#896) - Jurgens
+12.	[M*A*S*H] MyšleníAkceSvačeníHlína	10	156885km2	34826995	Legendary skillZz(#120) - Erwin Stahler
+13.	[Anarchy] Farmíme pro lepší minulost	10	134946km2	34036567	Touha je zázrak, kámo...(#115) - thordevil
+14.	[M.S.K.] Morkovsky Saci Komando	10	132019km2	33395179	Annihilator(#54) - GanjaCore
+15.	[MENSA] ...starej vercajk	10	104495km2	32644780	CATCH ME IF YOU CAN(#91) - Sir Extrem
+16.	[TMBK] TMBK	9	120564km2	32059951	Ještě jedno prosím(#67) - FR3EZY
+17.	[PKZ] Prdeli Ke Zdi	10	131985km2	31848279	.::PKZ Pornstar::.(#1051) - Kwasak
+18.	[DF] Dark Family	9	135378km2	30883299	Dark Helpik(#642) - H3lp1k
+19.	[-THC-] Strana zelených	10	130575km2	29833459	Snorri_Killa(#853) - Method Man
+20.	[D3V1L5] Masters of Underworld	10	136977km2	29739256	Čajna(#1124) - Falkus.
+21.	[B33r] Pivo dělá krásná těla	10	122575km2	29328326	.-B1905-.(#444) - miSSSSh
+22.	[VZP] Vyvrženci z Pekla	10	139476km2	29317752	Vyvrženec Dr.Satan(#894) - StillDeadCZ
+23.	[LW] Legendary Warriors	10	136679km2	28449988	Eror11(#206) - Eror11
+24.	[COOL] Corporation of obscene lambs	10	156093km2	27358788	Smrtící expres ráže .45(#478) - Godzil I.
+25.	[**CQR**] Conquerors	10	142728km2	27206019	Dark Conqueror(#1285) - vanna
+26.	[OKNO] O Kvalitě Nežertujeme	10	151090km2	26017478	Half Dead(#35) - leszek
+27.	[-osn-] Ofuk Starého Niktoša	10	112840km2	25812494	Ojedinely stary nikhaj(#1403) - sWEde
+28.	[YOZZEFY] Yozzefy = expy	10	135384km2	25802007	Svědci Babišovi(#118) - Allegro
+29.	[KOZA] Koblihy zadara	5	67916km2	24498434	Túrin Turambar(#1802) - hlidac3
+30.	[RoboUtop] Jaro je tu.......	10	134374km2	24452800	RU bikova kostka(#294) - Lídiště
+31.	[ČR-Army] ČR-Army	10	119719km2	24447931	Headcrash(#1881) - vrazda
+32.	[Tabacek] Tabacek	10	127688km2	23761062	Kníže Ignor(#232) - ...Aláh...
+33.	[Tabaček] Tabaček	10	161986km2	23624540	Marcel z malého města(#440) - snasa1
+34.	[UTOP-X] UTOP-X Solar Utop Emperor	10	123248km2	22631945	PLANET-X Orbit of Nemesis(#948) - ZUMOTRIX
+35.	[Bali] Bali	8	104717km2	22512649	Mamberamo(#317) - Vibrace
+36.	[-=PINP=-] PANDAS IN PYJAMAS	10	131714km2	22228172	Graupen(#260) - Herr II
+37.	[-=SCS=-] Semtex Culture Squad	10	120793km2	21780778	Letní tábor Kalich(#930) - Black Napalm
+38.	[THZ] Tahle Hra Zaniká	8	117553km2	21419988	semi-automatic lonely boy(#1253) - Zlýsin
+39.	[DEAD] Sjedeme Tě	10	103101km2	21328824	-DEAD-Sjel sem Tě(#97) - Diák
+40.	[VIR] VIR	10	121600km2	21217141	Easy target, feelin this?(#767) - kema

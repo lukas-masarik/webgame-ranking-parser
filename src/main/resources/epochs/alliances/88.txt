@@ -1,0 +1,42 @@
+88. VĚK
+#	Aliance	Členů	Rozloha	Prestiž	Předseda
+1.	[DF] Dark Family	10	199170km2	50005313	Slecinka DF(#1835) - Hanz Guderian
+2.	[M] MOON	10	236685km2	47044883	Atlan(#1753) - Atlantik
+3.	[*`=/-.,] Chapete nekdo ali tag?	10	202002km2	46828827	Better than Supraman(#175) - Supra1Soul5Play
+4.	[Wrath] The One and The Only	10	181799km2	45512983	Dress rehearsal rag(#2108) - Pepemistr
+5.	[*WiNDe*] WiNšujeme Debakl	10	188105km2	45002499	.:W:. Jsem nula(#1775) - kovadlina prvni
+6.	[ManG] Maniiax ganG	9	152121km2	44062442	Sarkasmus je moje milá(#445) - mara8
+7.	[ICE] Ice Ice Baby	10	183906km2	43158184	Ledňáček(#1063) - DJ.Snowman
+8.	[ZT] ZeroTolerance	10	172849km2	42342579	ZT ShutUpAndTakeMyMoney(#122) - bosinek
+9.	[B.K.] BLITZ KRIEG	10	102720km2	42172193	Vyděl sem tvoje mišlenki(#2554) - johnny33
+10.	[CGHMN] CompuGlobalHyperMegaNet	10	180040km2	40509259	peacemaker(#1365) - Mihall
+11.	[Rafani] Rafani na výletě	10	203312km2	40258977	Chlív(#746) - SprávceChlívku
+12.	[SR] Súdruhovia na kRyme	10	184648km2	40025060	Best from West ,`-(#78) - H3LL M4KER
+13.	[Across] Idealistic Organization	10	146815km2	38170678	Rebeka Hlodava(#612) - marv III
+14.	[.:WWF:.] World Wrestling Federation	10	146765km2	37847417	.:WWF:. Země medvědů(#1956) - Medvidek3000
+15.	[-=THC=-] The Heroic Company	10	153299km2	35503751	The Heroic Čulapchorn(#1376) - Čulapchorn
+16.	[ManG2] Maniiax Gang 2	10	153719km2	35036346	Herbalisticka Slecinka(#213) - keshoo
+17.	[ToAn] Trhlá orální Akademie nímandů	10	173154km2	34746386	Schlenker Scheisse(#602) - devilLH
+18.	[ČSB] ČehoSeBojím	10	127330km2	34302814	Bojím se použitého wc(#608) - kousnu te lamo
+19.	[ČD] České dráhy, jsme tady pro Vás	10	137267km2	33428921	=_R 925 Rozkoš_=(#522) - cvachta
+20.	[ČSN] ČehoSeNebojím	10	148499km2	33124264	Nebojím se o svou alianci(#3103) - Jackass Mild
+21.	[NBS] Největší Blbci Světa	10	128937km2	32698554	Největší Blbec Systému(#2863) - Walker
+22.	[.:V3R:.] škola sexu	10	121471km2	32671108	Sexuolog(#578) - AndreFox
+23.	[ČSLA] Československá lidová armáda	10	149972km2	32180877	.:CZ-SK:.Dum spiro,spero(#1257) - KalinV
+24.	[x.x.x.] The Gunners	10	142794km2	31976093	AVICII(#1339) - KingSixx
+25.	[bombing2] tak si dáme další věk	10	165657km2	31342212	Bombing Moredor(#1609) - kaiman
+26.	[AveCesar] AveCesar a římské komando.	10	137919km2	30858222	.:AveCesar:.Smrťák(#1639) - Ares65
+27.	[Ganja] Ganja	10	153289km2	29920959	Alkáč, neboli alkoholik(#186) - ..Hanz..
+28.	[-FaLL3N-] C0MMUN1ST1C NUBS	10	160778km2	29672560	-FaLL3N- Humanoid Typhoon(#1139) - MasterDog
+29.	[HAWKS] Band Of The Hawk	10	129565km2	29476610	Zodd Nosferatu(#144) - nnyjoh
+30.	[VTIP2] Žertování s Mistry smíchu	10	147054km2	29379512	VTIP o neschopných AM(#2743) - Isilmir Goraz
+31.	[-=LH=-] Lonely Hearts	10	197633km2	27541469	-=LH=- IS BACK(#3041) - Walker
+32.	[ManG4] Maniiax Gang 4	10	159232km2	27492324	Zadreta Slecinka(#263) - keshoo
+33.	[WDMS] What does a mech say?	10	153610km2	27166680	Enlightened Bakery(#933) - Cardek87
+34.	[TMNT] Teenage Mutant Ninja Turtles	9	115448km2	26508693	Leonardo(#1011) - LeoDaVinci
+35.	[I.H] Immortal Heroes	10	140083km2	26295870	Arachnid Layr(#2438) - Pabouk
+36.	[C*P] Cold Power	10	140035km2	24712486	Quintara(#634) - Ivanes
+37.	[Lotta] Lotta per la sopravvivenza	10	140304km2	24704419	La nostra e la furia(#1120) - stejski IX.
+38.	[ETD] Ete DestilerE	5	100382km2	24676904	PohyB OheŇ ŠluK a DyM :)(#367) - Pattis IV.
+39.	[ALI1234] ALI1234	10	111554km2	24407291	usti(#1911) - vachys39
+40.	[Akatsuki] Společenstvo zlosynů	10	124048km2	24262147	Bijuu Tobi(#1589) - Lordisko

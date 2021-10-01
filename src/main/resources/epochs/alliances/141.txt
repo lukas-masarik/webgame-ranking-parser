@@ -1,0 +1,42 @@
+141. VĚK
+#	Aliance	Členů	Rozloha	Prestiž	Předseda
+1.	[-osn-] OsprostenaStaraNota	10	160016km2	47093238	-osn-ruzove v pive(#290) - D1N1AK
+2.	[queens] QUEENS	10	136464km2	46512148	Bastard`s office(#1394) - Pitel
+3.	[=T=] Trója	10	135832km2	45624131	Winter is coming..(#209) - FR3EZY
+4.	[SUX] parádní aliance :-*	10	158929km2	43233450	SUXessfull(#136) - LuisFigo
+5.	[FETKA] Fetuj jako ponrava	10	124558km2	42744862	Ponrava(#338) - Estetik
+6.	[ALIVE] Alivaci	10	120673km2	42519610	-ALIVE-(#414) - ppedrnikar
+7.	[PhaMa] Phantasma Mayhem	10	127558km2	39440554	A(#750) - bukvicka13
+8.	[Lotta] Lotta per la sopravvivenza	10	144502km2	39126124	Sento me ruggito(#495) - stejski IX.
+9.	[*UF*] United Farms	10	119763km2	38143352	Enforcer(#33) - Dr.Leckter
+10.	[Imp] Impérium kdovíkde	10	124910km2	38103976	In-for-ma-ce(#465) - Sedmika
+11.	[WMYQ] We make you quit	10	139752km2	36904583	Technograd(#456) - zhn
+12.	[ganja] GANJA	10	142422km2	36163685	IBK Kubánský Klan(#525) - gorem
+13.	[ALI1234] ALI1234	10	133998km2	36079000	usti(#242) - vachys39
+14.	[MENSA] ...prostě (j)elita :)	10	127116km2	35351321	NESERA NAVALTO(#117) - Sir Extrem
+15.	[PKZ] Prdeli Ke Zdi	10	139992km2	35051043	.::PKZ::. Multikar(#1471) - Kwasak
+16.	[KTG] Kattegat	9	126934km2	34681360	NF(#466) - MC Booo
+17.	[B33r] Pivo dělá krásná těla	10	139120km2	33521307	Magnamundie(#852) - Hones
+18.	[MK] Immortal knights	10	122875km2	33447488	kliksemkliktam(#985) - uzid
+19.	[Tabáček] Snášova tlupa neandrtálců	10	115921km2	33165476	Prďácký pivo(#555) - ...Aláh...
+20.	[Afrik] VELKÝ ČERNÝ KLACEK	10	146947km2	33105399	Sao Tome and Principe(#1111) - kill666
+21.	[HuPe] Hudrovači Pelikánů	10	121052km2	32681523	Túrin Turambar(#1135) - hlidac3
+22.	[Europe] Europe	10	118329km2	32206253	Arizona(#309) - Kojot prérijní
+23.	[X] XANAX	9	111785km2	32159303	God bless you(#100) - JimCurry
+24.	[MZA] Miloš - Zahořklý Aparát	10	111545km2	30523095	Klekni si....(#578) - Michellion
+25.	[JTPR] JenTakProRadost	10	117467km2	30142811	Trimerland(#692) - Trimerland
+26.	[TTOC] The Treaty Of Champions	10	104504km2	28897950	Prinzregent Luitpold(#1912) - Lopik511
+27.	[**SNK**] SmeNaKašu	10	139629km2	28574111	Liška Bystrouška na Kašu(#207) - Jitus21
+28.	[VZP] Vyvrženci z Pekla	10	133710km2	28377876	Vyvrženec Othis(#821) - StillDeadCZ
+29.	[AiM] Aina Mörne	10	112766km2	28023195	Halucinogemmí kytička(#62) - fenix23
+30.	[.:MoD:.] Miluji Orální Diskuze	9	114240km2	27982901	Žirafa to umí pořádně(#1168) - Smrtihlav2
+31.	[KZ] Klátíme Zrzky	10	118567km2	27712745	Leadova Máma(#673) - asfsafadf
+32.	[=-KA-=] KlimoArmy :D	10	147103km2	27493062	=-KA-=mSiDalTieDrogy?(#143) - Klimovec
+33.	[SRAN] Tvoje Máma	10	146762km2	27213282	Sádlo tvojí mámy(#460) - Mrkew
+34.	[H.T.] Lamy v letech	6	88518km2	26834902	Dvě piva a pivo(#164) - sir Blade
+35.	[PRDOX] PRdelí DO Xichtu	9	145672km2	26490300	Život je porno ...(#357) - Jacobthebest
+36.	[Anarchy] Farmíme pro horší minulost	10	108338km2	25983164	Padne stín mezi nás...(#1683) - thordevil
+37.	[BRUNTAL2] BRUNTAL JE BRUTAL2	10	141946km2	25565291	FromTheDarknessComesLight(#477) - ratatatatatata
+38.	[ČD] České dráhy, jsme tady pro Vás	10	111076km2	25542560	=_EN 314 Pijan_=(#909) - Folei
+39.	[4] Čtyřlístek	10	97675km2	24720903	Pinďa(#531) - direptor
+40.	[SB] SpikeBallers	10	146509km2	24637500	tahám do odehry(#130) - Walden r Gwendor

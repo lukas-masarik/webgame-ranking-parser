@@ -1,0 +1,42 @@
+31. VĚK
+#	Aliance	Členů	Rozloha	Prestiž	Předseda
+1.	[.::R::.] RYTÍŘI	10	254316km2	68365595	UNIMATRIX(#12621) - steamroller
+2.	[=DS=] Dog Soldiers	10	237199km2	59660091	Castle of Cagliostro(#6178) - Philman
+3.	[n-jedna] n-jedna	10	182497km2	57666059	I see dead people(#1009) - nonPhixion
+4.	[SaH] Sword and Hammer	10	176283km2	53465729	Der eine meistert alles(#2859) - Parcifal
+5.	[IBHZK] Ich bin hier zu Kur	10	147728km2	50455690	Hvezdná Tráva SG1(#5558) - R0CK3D
+6.	[BORG] BORG	10	181149km2	44358209	Borg Queen(#850) - IhateMICRO
+7.	[VENDETA] Krvava pomsta	10	150298km2	43891632	Konopsovo(#4102) - Konopess
+8.	[AoA] Ali of Aligators	10	198061km2	40794623	Drunia(#703) - Druny
+9.	[CE] Crime dEments	10	181849km2	40784963	300vodnych(#587) - Leninus
+10.	[P.f.B] Predators from Bombaj	10	123157km2	38514928	Vibroland(#215) - Vibromax
+11.	[*SC*] Skull Crushers	10	170604km2	38287745	Crusade(#3501) - Crusa1
+12.	[-=HoI=-] Hearts of Alcoholic	9	175854km2	38055431	Pár krát Walker s Colou(#2510) - Kalis3k
+13.	[DW2] Destruction Warriors	9	145483km2	37671628	Metalland(#2283) - Alcohollica
+14.	[HIV] Hlavní imperiální velmoci	6	119911km2	32834339	Dobyju tě ...(#207) - Turbi
+15.	[B.K.] Blitz Krieg	10	153703km2	32650879	Blitz Krieg 6435(#4526) - popadinec
+16.	[-=BOSS=-] big come back	10	171416km2	32342198	Alone in the dark(#834) - Strýko Držgroš
+17.	[K1] K1 Snakes	6	105926km2	31212001	.:Black Mamba:.(#337) - TomiB
+18.	[*ul*] hmmm	10	152012km2	31185300	NuKlEaRkOu do RiTe(#2197) - snasa1
+19.	[=TF=] t33nfuck	10	137584km2	30373527	p3klo(#35) - Koub1s
+20.	[BJJ] Bežíš Jak Ježiš	10	173516km2	30361777	Chroustal058(#9224) - Baro
+21.	[GST] Global Strike Team	10	121260km2	29688728	Zase práááááce(#3309) - .LordIlidan.
+22.	[-=RD=-] Red Dwarf	10	134463km2	29443671	Hololoď(#90) - Tiagar
+23.	[UM] Ukrajinska mafie	10	154084km2	29424315	Bohunice(#446) - Uthden
+24.	[THE] THE EMPIRE OF TAMRIEL	5	89331km2	29176970	Trueflame Blade(#6228) - Sulivan
+25.	[NATO] Tak a jdeme nato	10	150521km2	28834986	Chroustal045(#42) - Erwin Stahler
+26.	[-=GANG=-] Genetalie Afektovaneho NeGy	10	177831km2	28760131	sirKopcemJEnejvetsiKO..OT(#9114) - Gangster.
+27.	[CO] Clockwork Orange	9	122161km2	27220320	silicon valley(#8692) - clockwork orange
+28.	[gw] groupw	10	113626km2	27153861	pornohospodarstvo(#2785) - Roleta
+29.	[WN] WhiteNiggaz	10	145116km2	26849118	KoNtRaFaKt(#9612) - UsherBA
+30.	[-WG-] WEBornej GAMEbrinus	8	120345km2	26795914	Silent Hill(#273) - Eldudik
+31.	[AVA] ali vily amalky	10	152429km2	26624109	Amalka(#13618) - Pepa Bechr
+32.	[ASZ] Proletáři všech zemí spojte se	10	152648km2	26453528	Havlinda(#26) - ONDRY
+33.	[MATKARUS] MATKARUS	10	144407km2	26211761	Yettak(#4132) - volnýzpůsob
+34.	[W.G.M] WebGame Maniac	10	137840km2	25918365	Dnes fakt nezaspim(#360) - Dzindzik
+35.	[SZVM] Spolecne zakopeme vase mrtvoly	9	135703km2	25445652	Zamilovaný hrobař(#5285) - Romulus.
+36.	[SPD] SPORDAT	10	144982km2	25223456	McKayLand(#304) - McKay
+37.	[S.D.E] Solar and Dark Empire	10	128458km2	24526627	Sacred Thunder(#2556) - Scalpelexis
+38.	[ManG6] penzion u slepitchek	10	144841km2	24369444	pipka kuáfná slečinka(#4409) - extr3m
+39.	[digi] DigitalWorld	10	165124km2	23954163	DIGI 1(#9145) - jenik78
+40.	[VSL] Velké smradlavé lamy	6	111416km2	23861673	Tak to každopádně...(#8124) - imdeath

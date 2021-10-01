@@ -1,0 +1,42 @@
+67. VĚK
+#	Aliance	Členů	Rozloha	Prestiž	Předseda
+1.	[D1KTATOR] D1KTATOR DARK WARS	10	225455km2	66255309	Není důležité jak hraješ(#1142) - Vojtiiik
+2.	[Chlastám] Chlastám, Chlastáš, Chlastáme	10	201579km2	51668443	E`xp Born to BumBac TOP(#198) - xr3d
+3.	[H5N1] Choré Sliepky	10	170286km2	44277108	Angels(#3357) - Skunky.
+4.	[=T=] Trója	10	164394km2	43966864	Mejsha(#1360) - FR3EZY
+5.	[S.P.K.] spolek přátel koz	10	139681km2	42454360	pan Filuta se zlobí(#1375) - Čejník II
+6.	[AotNW] Perem to tam horký jo	10	153991km2	42422536	Black and Decker(#1191) - Marzaus
+7.	[.:V2R:.] rLOVEution	10	164298km2	41764992	Korhal(#1148) - Bortas
+8.	[VTIP2] Žertování s mistry smíchu	10	172063km2	39716425	VTIP o šprýmařích(#624) - Isilmir Goraz
+9.	[WG-PROF] WG-PROFESSIONAL	8	144490km2	39295121	The best or nothing(#4646) - jowood2
+10.	[Sirotci] xr3d si honí ego	10	167095km2	39090445	Profesor xr3d střelec CSc(#126) - xr3d
+11.	[.:WWF:.] World Wrestling Federation	10	137615km2	38209298	Země medvědů(#276) - Medvidek3000
+12.	[VTIP] Mistři Smíchu	10	172341km2	38179695	Vtípným kopem do koulí(#50) - Gyriko
+13.	[-=LH=-] Lonely Hearts	9	155533km2	37312196	A-=LH=-OKOLIK(#3525) - Walker
+14.	[Akatsuki] společenstvo zlosynů	10	173278km2	37192377	Bijuu Tobi(#4488) - Lordisko
+15.	[ManG7] Maniiax GanG 7	10	172404km2	36832419	Slečinka Ezekiel 25.17.(#3041) - Peugo407
+16.	[Lordi] Bojovníci starého řádu	10	157436km2	36465698	ZkráceníméhoLORDa-nemožné(#3390) - kopl
+17.	[L.O.S.] Losáci od severu	10	143699km2	36339231	LOS made in Uzbekistán(#2281) - .Devilmen.
+18.	[TemLeg] Temné Legie	10	125038km2	35885392	Naboo Reloaded(#158) - Dart.Kanne
+19.	[ŽsN] žádný sperma nepolykáme	10	188042km2	35700910	...TerminatorStyle...(#2005) - EmAChe
+20.	[M] MOON	10	154729km2	34124748	Atlan(#66) - Atlantik
+21.	[S*K] Skunk Teritory	10	132875km2	33530199	Ajta krajta(#1395) - Bigbosh2
+22.	[AUTORITA] Celé jméno aliance (povinné)	9	126631km2	32655266	Dobré ráno, dámy a pánové(#412) - Lukastrance
+23.	[-=DF=-] -=Destilat Fanatics=-	10	129897km2	31831029	-=DF=- Agent Orange(#1414) - pelicano
+24.	[ČSB] ČehoSeBojím	10	150632km2	31783049	Bojím se BubaKKE(#1612) - labojse
+25.	[Kočky] Kočičí říše	10	155186km2	31252916	Velká kočka(#235) - Freddie
+26.	[HC] Hardcore pride	10	146892km2	31029159	Narovnávák na vohejbák(#2692) - VeGGetarian
+27.	[DEAD] Milujeme Vas :D	9	138360km2	30964847	-DEAD-...................(#434) - PenachyM
+28.	[=PA=] Pekelní Andělé	10	154279km2	30267714	Pannonia(#1896) - István
+29.	[ManG] Maniiax Gang	10	168154km2	30252201	slečinka de puta madre(#2076) - red kox man
+30.	[I.H] Immortal Heroes	10	137069km2	30045966	Arachnid Layr(#2028) - Pabouk
+31.	[NKL] Nefritový KLitak	10	151370km2	29850362	Sanzuniao(#4332) - sin eater
+32.	[A.N.D.] Angels never die	10	157571km2	29844638	ARCHANGEL - Podvraťák(#493) - Aku Aku
+33.	[:.AoA.:] Angels of Apocalypse	10	105669km2	29676519	Angel of Night(#2896) - HardTor69
+34.	[.::VR::.] velka revoluce	10	143105km2	29214602	Nikola Tesla(#273) - kesso
+35.	[DoĎabla] kúsok temnoty v každom z nás	10	149502km2	29190186	Roxor poskrúcaný(#266) - nnyjoh
+36.	[Germanus] Bratrstvo	8	116600km2	29134077	Victoria aut mors(#54) - Lord Pug
+37.	[*WiNDe*] Moc neklikáme :-D	10	153080km2	28960270	.:W. kašlu na vás :-D(#1328) - Koumes
+38.	[OKW] OKW	9	140618km2	28696597	Erich von Manstein(#53) - Naumo
+39.	[STORM] To bude peklo	10	154407km2	27979834	Abeceda Webgame(#252) - E.S.O.
+40.	[NRsF] Naboo Royal security Forces	10	108433km2	27494882	NRsF: Mistr Yoda(#255) - Beast Boban

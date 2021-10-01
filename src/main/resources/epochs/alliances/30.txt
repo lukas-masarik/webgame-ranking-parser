@@ -1,0 +1,42 @@
+30. VĚK
+#	Aliance	Členů	Rozloha	Prestiž	Předseda
+1.	[n-jedna] n-jedna	10	155384km2	50250642	I see dead people(#7821) - nonPhixion
+2.	[.::R::.] RYTÍŘI	10	180635km2	40405891	XCOM(#11171) - steamroller
+3.	[tAoW] the ART of WAR	10	163708km2	36026327	,,,Inkvizitor,,,(#3175) - ZuLus
+4.	[ganja] GANJA	10	141540km2	33310519	goremova země(#74) - gorem
+5.	[GW] Group W	10	141175km2	32790573	Spalovna(#8929) - Roleta
+6.	[B.K.] Blitz Krieg	10	150369km2	32601782	Blitz Krieg 6537(#8135) - Stanley VII
+7.	[BJJ] Bežíš Jak Ježiš	10	128436km2	32598454	Darkness World(#53) - kalman
+8.	[HIV] Hlavní imperiální velmoci	10	148804km2	31667556	Čekání znamená smrt(#1211) - Turbi
+9.	[ZERO] nuly	10	167069km2	31032977	ImY0urN3mEs1s(#6487) - .Zabrda.
+10.	[HOPRDOX] HOlou PRdelí DO Xichtu	10	194020km2	30658199	Brearos(#10823) - adduktor
+11.	[CE] Crime Element	9	134958km2	30520810	crofne a beach volleyball(#9989) - Ponte
+12.	[K1] K1 Masters	8	89984km2	29556813	Alexey Ignashov(#392) - TomiB
+13.	[=T=] Trója	10	145869km2	29328889	Ararat(#621) - zullu
+14.	[=TF=] TraFo	10	119875km2	28725466	p3klo(#11548) - Koub1s
+15.	[THOR] Team of HOnest Rebels	6	96917km2	28342257	Phobos(#5905) - zolina
+16.	[DnA] dEsTr0y.nAtiOn.AllianCe	10	114084km2	27831346	WiSdOOmEr(#3962) - br0ken
+17.	[VENDETA] Krvava pomsta	9	100274km2	27617393	Sakra chce sa mi srat(#10352) - Konopess
+18.	[20th] Century Fox	10	121041km2	27614720	Svěrací kazajka(#5164) - Walker
+19.	[UM] Ukrajinska mafie	10	146466km2	27447464	Bohunice(#6159) - Uthden
+20.	[.::RR::.] RYTÍŘI RELOADED	9	127468km2	27109839	MUSICA ALLO STATO PURO(#1932) - Zex
+21.	[=VW=] Viking Warriors	10	167858km2	27006814	Fear Factory(#1358) - LorD Drax
+22.	[HELL] Hell Riders	9	176913km2	26933044	Ďáblova farma(#98) - Banzay
+23.	[ManG8] Rest in piedcde	10	139884km2	26844316	Zeme obrovskych pavouku(#10268) - Zelená Veverka
+24.	[AoA] Ali of Aligators	10	141577km2	25871658	Terror of Tommy(#1021) - .Tommy33.
+25.	[IBHZK] Ich bin hier zu Kur	8	128273km2	25846047	Leninovo hnízdo(#3504) - Sir Lone Wolf
+26.	[US] Uncanny Salvation	10	127472km2	25781793	Lorgad(#3771) - Givmor
+27.	[SPD] SPORDAT	10	130868km2	25743738	McKayLand(#352) - McKay
+28.	[BORG] BORG	9	143854km2	25392760	BorgMatrix001(#4876) - IhateMICRO
+29.	[MLB] Major League Baseball	4	74354km2	25310212	new york yankees(#19) - grepik
+30.	[*A-A*] Anti Admins	10	120490km2	23974682	Halogaland(#2260) - .Havras.
+31.	[Z.S.G.] Zeme Svateho Gralu	10	146215km2	23855316	Podyland(#167) - MatrixNeo
+32.	[GST] Global Strike Team	10	115104km2	23184017	AntiPredator(#3828) - .LordIlidan.
+33.	[-=THC=-] The Heroic Company	10	118094km2	23176688	The Heroic Protiva(#11349) - Protiva
+34.	[.::AB::.] Auto Bazar	10	114738km2	22949475	Ford mustang GT(#3809) - nevimmmm
+35.	[.:AF:.] AntiFarma	10	120300km2	22797836	Cruel Hannibal(#1182) - King Dino
+36.	[E.D.S] Ekonomiku Decimujicí Spol.	9	149597km2	22760620	Bond, James Bond(#10832) - kleky007
+37.	[WG] Walmez Ghetto	9	120636km2	22477587	Kluk jako BUK(#6191) - Lag
+38.	[Titani] Remember the Titans	8	116343km2	21908784	Predseda(#4675) - Loopo the One
+39.	[KÚ] Kaitanské Útociste	9	126634km2	21686261	Bloody Tempest(#43) - Ball.Lightning
+40.	[D1KTATOR] D1E FOR D1KTATOR	10	181653km2	21312189	.:.D1KTATOR.:.(#21) - .FeXeR.

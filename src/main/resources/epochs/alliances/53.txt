@@ -1,0 +1,42 @@
+53. VĚK
+#	Aliance	Členů	Rozloha	Prestiž	Předseda
+1.	[VT] Vitazne tazenie	11	184042km2	61286819	Víťaz(#328) - imhot3p
+2.	[Řezníci] Krkovička : řezník a kupec	12	228326km2	53528746	Křivě ztočený kabanos(#5022) - Bulva
+3.	[Anarchy] Farmíme pro lepší budoucnost	12	196382km2	48137344	thordevilova farma(#4302) - thordevil
+4.	[.FF.] Fundamental Family	12	206511km2	43478201	slečinka Absurdisthan(#649) - U245
+5.	[Veverky] Veverky bez cíle	12	131578km2	42983159	Veverky nadopované heliem(#62) - Mr Shaman
+6.	[ČSLA] Česko-Slovenská lidová armáda	12	166284km2	42867565	.:CZ-SK:.AK-47producer(#409) - AKland
+7.	[Ganja] ganja	12	210393km2	42842501	Země plná zelené(#309) - Joker16.
+8.	[ICQ] I SeeK You	11	170527km2	42266404	173090403(#293) - ISE
+9.	[ŽsN] Žádný sR a ní nebude	12	174393km2	40338274	..TeRmiNaToR StyLe..(#107) - Soudruh Pípas
+10.	[.hack//] Háčkovací kroužek	12	188200km2	38951643	.hack//Pupíkof(#2973) - Master of Hell
+11.	[Valkaci] Vyhúlení alkáči	12	175506km2	38277750	Kalov magický kalomet(#133) - Det
+12.	[ManG] Maniiax Gang	12	182776km2	38066376	Slečinka relaxuje .... :)(#4074) - mara8
+13.	[DF] Dark Family	11	169003km2	37870436	Dark Lesnovek(#1536) - Hanz Guderian
+14.	[=VB=] Váleční Bulánci	11	153746km2	36034574	Velkej Bulánek(#6228) - Fry4ever
+15.	[GST] Global Strike Team	12	142932km2	35734491	.4fun.(#4026) - .LordIlidan.
+16.	[omerta] Nepísaný Zákon	12	134552km2	34416106	Jemně zvětralé stehýnko(#2013) - lakato1
+17.	[)CD(] CDčka...když to dokážeš	12	164458km2	34048597	Stop me if you can(#974) - green88
+18.	[.::R::.] Rytíři	12	210445km2	34037946	.::R::.ebel(#29) - broookes
+19.	[.::VR::.] velka revoluce	12	162048km2	33967404	slečinka revoluce(#32) - d13
+20.	[Eas-BB] EaS a BumBum2	12	140877km2	33932520	sooo?(#6529) - sifilis
+21.	[80`s] Superhits of the 80`s :-)	9	145484km2	33170899	.:BB:. Bushmills(#2173) - Jiriss
+22.	[.:V3R:.] revolučná škola sexu	12	145555km2	32732482	Monica Sweetheart(#8193) - Alexius
+23.	[MZA] Malá Zlá Aliance	8	132695km2	31884211	Klekni si....(#4013) - Michellion
+24.	[*WiNDe*] Windej si Deli	12	141495km2	31868214	.:W:. FreeRider(#340) - Koumes
+25.	[ADR] Adrastea	12	176303km2	31649074	Temný les kdesi v Gálii(#4247) - Lyall
+26.	[HeHe] Ostré drápky	12	163979km2	30889842	Angel with devils soul(#4513) - Rebelka001
+27.	[***B***] BENDA s.r.o.	12	144579km2	30750625	***B*** land 01(#7151) - 10987654321
+28.	[.:V4R:.] V pro R	12	130854km2	29983265	Ash and dust(#275) - Defender...SID
+29.	[BASTARDS] Aprílové vtipy o Velikonocích	12	148642km2	29607822	BASTARD LAMÁCKÝ PŘEDSEDA(#3763) - skyl
+30.	[ULoT] United Lands of Terror	12	156918km2	29438576	zmaturujem?(#6214) - Meiev
+31.	[LW-with] Legendary Warriors with...	12	167186km2	29418896	LW with Bombarding ANUS(#3050) - warlink
+32.	[*GA*] Guardians Angels	12	157698km2	29283008	*GA* Immortal(#184) - cranberiss
+33.	[FuWG] Did ya balls drop off?	12	196502km2	29157769	doktor/zubar(#356) - eska
+34.	[.:V10R:.] Velká Revoluce po desáté večer	12	158800km2	29149383	Road to Zion(#1168) - renown
+35.	[B.K.] BLITZ KRIEG	12	156039km2	28344470	B.K. je nejlepší :-*(#1328) - johnny33
+36.	[-=DF=-] -=Deadly Force=-	12	127466km2	28292167	S-Jayov(#667) - Michal44
+37.	[FOS] fractionofsecond	12	134301km2	28070801	(*`=/+-.,(:),.-+/=`*)(#92) - Br0nko
+38.	[Čoko] Síla čokolády je ne...	8	99736km2	27810460	Prezident(#3376) - Milka I.
+39.	[N*a*N] Nikdo*a*Nic	12	124178km2	27761997	Optimysta(#2582) - Dejvmark
+40.	[OS] OtherSide	9	141237km2	27696347	Vlčák jak dobrman(#5736) - DOG of WAR

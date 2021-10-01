@@ -1,0 +1,42 @@
+45. VĚK
+#	Aliance	Členů	Rozloha	Prestiž	Předseda
+1.	[LLS] Long Left Side	12	194962km2	48735189	Plísňový popař vmrkváčích(#904) - NiakarAn
+2.	[V.V.V.] Veni Vidi Vici	11	232369km2	45259194	Aj by som si udrel...(#385) - Garithos
+3.	[ČSLA] Česko-slovenská lidová armáda	12	203084km2	43236103	.:CZ-SK:.AK-47producer(#569) - AKland
+4.	[VSL] VelkáSmradlaváLama	10	188524km2	41757796	zAchvILIbUdUmItdOmAnEt:)(#1247) - imdeath
+5.	[H5N1] Choré Sliepky	12	187350km2	40735310	underground(#3006) - J3FO
+6.	[OS] Other Side	12	189138km2	40370771	mOSs je buh ..(#560) - Inchuchuna
+7.	[IBHZK] Wir sind alles hier zur Kur	12	195690km2	39359994	Mortician(#5441) - Wulfgar
+8.	[.:V6R:.] Univerzita Velké Revoluce	12	218220km2	37164288	Endorin(#6454) - Smrtka15
+9.	[*SN*] supernoob	11	178627km2	37089664	mostarie(#3209) - martum
+10.	[UVVB] Uzené veverky v buřtech	5	97265km2	37032361	Manzanie(#2365) - Sir Robertini
+11.	[..BoD..] Brotherhood of Dreadnoughts	12	188977km2	36849986	Neohrožený MATURANT 08(#72) - Zanig Martinator
+12.	[SIL] Silmarillion	10	167508km2	34586995	Nejneobhospodařovávanější(#5407) - Martin858
+13.	[ganja] GANJA	12	174866km2	34293249	Železná ruda(#404) - Joker16.
+14.	[L.O.S.] Lososi od Severu	11	172106km2	34280819	Los Komáros(#9861) - Komarenkov
+15.	[BFP] Bad Fat Pipe	12	184066km2	33646445	Callirhoe: Neříkej mi voe(#2414) - Mista
+16.	[cz-sk] CeskoSlovensko	12	161127km2	33417558	.:cz-sk:.Zeus(#8689) - Vladce Seanix
+17.	[P.f.B] Predators from Bombaj	12	168863km2	32663675	Metalomanie(#802) - SiRvAcA
+18.	[-=AB=-] Atomic Bomberman	12	179848km2	32556337	Bomberman Sph1nx(#4445) - Sph1nx
+19.	[NASA] Nation Aromantic Skunk Alian	12	193773km2	32300544	White widow(#10688) - .rÝžE.
+20.	[.:BoD:.] Brotherhood of Dreadnoughts	12	191564km2	32141984	Neohrožený Pardubák :o)(#3782) - Banehalow
+21.	[StrakerS] Strakers of Dheti	7	102788km2	30853612	Soníku jsi pro mne vším(#7527) - Lord Biry
+22.	[BEER] The power of pivo	12	140707km2	30773524	Lama glama(#494) - XPskFyzik
+23.	[GanG] Crips	12	208164km2	30513508	GanG PimpTown MurderSquad(#11325) - UsherBA
+24.	[S.D.E] Solar and Dark Empire	12	180005km2	28905000	Blue Empire(#6520) - froggy
+25.	[ViRysA] Vi.Rys slaves:)	12	148619km2	28871683	Ryboland(#936) - Vi.Ry
+26.	[:)ski(:] Cocktail and Disco bar	11	133174km2	28647238	Gangsta4ever(#1322) - DonVitoLP
+27.	[.:V2R:.] Univerzita velké revoluce	12	177108km2	27729991	Gryffí učitel(#186) - ZapasnikII
+28.	[Wrath] The Great Day of Wrath	6	89360km2	27067164	I Always Get What I Want(#4389) - Gxx
+29.	[ManG8] Maniiax gang 8	12	160547km2	26548792	Slečinka Ezekiel 25.17(#3346) - Peugo407
+30.	[FoW] Frog on Weed	5	86508km2	25783101	Spamuj1ci zviatko (^o^)(#12636) - Jerwi
+31.	[VALHERU] VALHERU	9	143656km2	25403806	JSEM ZLY(#4106) - Chelaton
+32.	[MZA] Malá Zlá Aliance	8	122945km2	25289154	Pardeeho vlna(#319) - Michellion
+33.	[Lotta] Lotta per la sopravvivenza	11	144072km2	25068102	membro della gestapo(#372) - Prefik
+34.	[TMT] Apocaliptic Knights	9	108438km2	25005683	The Lord of Terror(#4183) - DarkMiki
+35.	[ASA] Aliance Stargate Atlantis	5	86589km2	24901447	::. Professional .::(#627) - J.E.F.F.R.E.Y
+36.	[-=AGE=-] AnTi-GloBaL EuRoPe	11	150041km2	24329555	RaRáŠeK....I know the GoD(#7567) - CubaLibre256
+37.	[VTIP] Mistři smíchu	12	131594km2	24131828	Vtipná Ap0kalypsa(#460) - forio
+38.	[VENDETA] Sama farma	8	113791km2	23897125	No Idea(#501) - .modran
+39.	[B.K.] Blitz Krieg	11	143468km2	23895552	.:.Blitz Krieg.:.(#3706) - johnny33
+40.	[GRF] Gryff	7	109638km2	23838555	Gryff z Erathie(#198) - ZapasnikII

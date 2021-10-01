@@ -1,0 +1,42 @@
+121. VĚK
+#	Aliance	Členů	Rozloha	Prestiž	Předseda
+1.	[M] MOON	10	140207km2	47587137	Atlan(#742) - Atlantik
+2.	[**CQR**] Conquerors	10	133209km2	45233557	Dark Conqueror(#714) - vanna
+3.	[.LL.] Lock and load	10	159980km2	41382320	Valar Morghulis(#663) - Uaah
+4.	[Across] Idealistic Organization	10	155811km2	40963551	Boris Brejcha(#464) - marv III
+5.	[=wale=] TroubleGang	10	165298km2	39834230	Uka kozy(#418) - Hardwell
+6.	[SUX] parádní aliance :-O	10	141510km2	35796412	SUXessfull(#594) - LuisFigo
+7.	[ČSLA] Československá lidová armáda	10	130001km2	35554877	.:CZ-SK:.Joudinkov(#1265) - joudinek
+8.	[OKNO] O Kvalitě Nežertujeme	10	183445km2	35487379	Half Dead(#62) - leszek
+9.	[Tabacek] Tabacek	10	168884km2	35395615	AMSTAFF(#404) - snasa1
+10.	[DEAD] No pain no Gain	10	152092km2	35279909	-DEAD-PocemKamJdeš(#294) - DaniCZeK
+11.	[ManG] Maniiac gang	10	131076km2	34995810	Slečinka de puta madre(#504) - mara8
+12.	[Kombajn] KMB	6	111083km2	34598635	koleje(#1344) - Martin poula
+13.	[COOL] Něco co tam píše godzil	10	149705km2	33960665	... Chceš být fit ...(#346) - Zkusimto
+14.	[MENSA] ...milovníci jídla čili CHILLI	10	146669km2	32423043	Trinidad Scorpion Moruga(#124) - Sir Extrem
+15.	[-.-] -.-	10	140409km2	31534804	-.-..-.-..-.-.-.-...-.-.-(#892) - Duskooo
+16.	[68] 68	10	143629km2	30460304	Artek(#92) - Jurgens
+17.	[Tabaček] Tabaček	10	172814km2	30038271	Four roses(#321) - snasa1
+18.	[Anarchy] Farmíme pro lepší budoucnost	10	130315km2	29644887	Touha je zázrak, kámo...(#120) - thordevil
+19.	[-=SCS=-] Semtex Culture Squad	10	110954km2	29386448	-=SCS=-(#76) - DJsmrt
+20.	[-=FE=-] Fatal noisE	10	108842km2	28470787	Daj mi pokoj(#845) - TranceSexual
+21.	[ALI1234] ALI1234	10	121158km2	28193120	usti(#264) - vachys39
+22.	[YOZZEFY] Yozzefy = expy	10	114457km2	27680881	Svědci Babišovi(#416) - Allegro
+23.	[LW] Legendary Warriors	9	107242km2	27228315	Legendary Night Club(#487) - Archimonde73
+24.	[THZ] Tahle hra zaniká	10	147493km2	27135739	semi-automatic lonely boy(#982) - Zlýsin
+25.	[BOUNTY] Frnda a 40 loupežníků	10	114018km2	26713099	Alibaba a 40 loupežníků(#1320) - Sjezdovka
+26.	[KZ] Klátíme z	10	125861km2	26578361	Propadly mi kola(#1161) - asfsafadf
+27.	[-osn-] osprostena stará nota	10	126942km2	25502021	-osn-ruzove v pive(#590) - D1N1AK
+28.	[B33r] Pivo dělá krásná těla	10	103706km2	25364458	.-B1905-.(#658) - miSSSSh
+29.	[ltf] len taky fukot	9	89712km2	24090226	EarlyBirds(#45) - Poisoindlovo
+30.	[VZP] Vyvrženci z Pekla	10	101753km2	22332043	Vyvrženec Othis(#716) - StillDeadCZ
+31.	[M.S.K.] Morkovsky Saci Komando	10	128128km2	21922682	Annihilator(#181) - GanjaCore
+32.	[PLANET-X] PLANET-X Solaris Emperor	10	111435km2	21471181	PLANET-X Anunnaki King(#1636) - ZUMOTRIX
+33.	[HyeNy] nedrazdi HyeNu bosou nohou	9	91020km2	21274313	HyeNa LW No.1(#1219) - Poncho
+34.	[Bull] Black Division	10	140922km2	20688253	GladeRxz(#678) - High Warlord Rxz
+35.	[D3V1L5] Masters of Underworld	10	110264km2	20640691	Čajna(#951) - Falkus.
+36.	[UTOP-X] UTOP-X Solar Utop Emperor	9	98982km2	20102452	PLANET-X Orbit of Nemesis(#1637) - ZUMOTRIX
+37.	[KjmV] Kde jsi můj Vůdče	10	143293km2	19935121	Říše snů(#1803) - Žerii
+38.	[.:V3R:.] škola sexu	10	139204km2	19824095	SexPatron(#713) - StillDeadCZ
+39.	[=TC=] Talon Company	10	116015km2	19660160	Revenant(#1114) - DeepDepression
+40.	[=T=] Trója	10	109709km2	19473147	Winter is coming..(#681) - FR3EZY

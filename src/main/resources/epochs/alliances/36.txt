@@ -1,0 +1,42 @@
+36. VĚK
+#	Aliance	Členů	Rozloha	Prestiž	Předseda
+1.	[D1KTATOR] KILL FOR THE D1KTATOR	11	206559km2	53369524	P O P R A D(#14165) - .FeXeR.
+2.	[UM] Ukrajinska mafie	12	225460km2	44186965	Bohunice(#3333) - Uthden
+3.	[VENDETA] Krvava pomsta	12	195012km2	44142152	Bloody Angel(#36) - Konopess
+4.	[G] GLADIATORS	12	179381km2	42887951	Funterra(#16015) - Sufun
+5.	[.::R::.] RYTIRI	12	203743km2	42345626	batman zacina(#9171) - steamroller
+6.	[n1] pyro dakujeme	10	132201km2	38177288	vodne bingo..ororoo...(#25) - esya
+7.	[.B.I.S.] banda izolovaných spermií	12	160049km2	37510943	HaHaNerobZoSebaVraha(#5614) - keltiak
+8.	[5uck..m3] 5uck..m3	11	159354km2	37330997	CHCE SA MI PAPAT(#13813) - PedroFuture
+9.	[Tabacek] krutá mezihra	11	150226km2	36605353	mechuju s přehleden(#330) - snasa1
+10.	[:.BoD.:] Brotherhood of Dreadnoughts	12	171498km2	36109126	Neohrožený.Banehalow(#1079) - Banehalow
+11.	[MDPA] MordParta	12	199943km2	35424104	Gumová medvědí jatka(#10654) - moruse
+12.	[:HALA:] Hare Lama	12	179452km2	34332290	South City Rulezz(#4150) - SCRLovec
+13.	[Mgn.] Magnum	8	151668km2	33957314	Nedistán(#16376) - Milned
+14.	[s.d.e] Solar and Dark Empire	11	192176km2	33654753	pro soltariho cokoliv(#17852) - Kleky
+15.	[ManG5] Penzion -BoW-	12	145352km2	33209546	Korejská slečinka(#443) - Šogun IV.
+16.	[omerta] Nepísaný Zákon	12	155694km2	32897429	skartovac fariem...(#12629) - uz iba jeden
+17.	[ManG] Penzion - recepce	12	157322km2	32672562	Šílená slečinka(#179) - Maniiax
+18.	[UVVB] Uzené veverky v buřtech	12	174904km2	32557225	Manzanie(#117) - Sir Robertini
+19.	[ganja] ganja	12	168444km2	32378089	Budulínkova zem(#7578) - Budulínek s.r.o
+20.	[CSA] Celkem Solidní Aktivity	12	199659km2	32092635	.::CSA::..::Rulez::.(#5039) - Billywu
+21.	[.hack//] Hack down death	10	130880km2	31628025	.hack//Drakolín(#635) - Ikonoklas
+22.	[*.:L:.*] L1KV1DATORS	10	143029km2	31617140	Galax(#1303) - jasson
+23.	[=*DC*=] Dark Company	12	128963km2	30650814	Dvě v leže(#6993) - Smajdaalf
+24.	[IBHZK] ich bin hier zur kur	9	143255km2	30377217	i like PRISON BREAK(#10316) - R0CK3D
+25.	[.:BoD:.] Brotherhood of Dreadnoughts	12	166426km2	30307810	Neohrožený Banehalow(#1078) - Banehalow
+26.	[mliko] mliko z THC	11	112617km2	29869141	DevastatorLand(#6876) - Mr.Electro
+27.	[NERO] Nebezpečné Rovnošaty	12	169891km2	29758592	Neradovo(#810) - nerado
+28.	[LLS] Long Left Side	12	199633km2	28988631	TruePac(#1309) - Tpac..
+29.	[BOUNTY] Spolecenstvi zasnezenych zemi	12	183239km2	28672037	Zasnezena Alpinia(#10201) - Sjezdovka
+30.	[SIL] Silmarillion	10	182937km2	28414794	Lopata(#970) - Only
+31.	[.::DS::.] Dobyvatelé světů	12	149873km2	27788402	Killer dobyvatel(#3799) - Tomik04
+32.	[-osn-] Ofuk Stareho Niktoša	8	115027km2	27381504	Osliku, Seš Neohrabanej..(#12008) - zajoo
+33.	[PSM] Pojd se mazlit :-*	12	164886km2	27242495	Azshara(#4477) - sonofsun
+34.	[P.f.B] Predators from Bombaj	12	207391km2	27197995	Vibroland(#670) - Vibromax
+35.	[Čoko] Čokoládová aliance	12	119126km2	26494815	Tyrrany of Souls(#739) - Kowacs
+36.	[-WH-] War Hammer	8	121197km2	26039163	War.Hammer.Kapacita(#14225) - Kapacita
+37.	[-SS-] Silent Society	10	116474km2	25690687	Sil3nt Cosh-boy(#391) - Wulfgar
+38.	[=T=] Trója	10	156844km2	25648309	Ararat(#713) - zullu
+39.	[DUCHODCI] Elitní jednotka důchodců	9	147703km2	24449905	TAX(#1060) - Rhodan
+40.	[:.WOW.:] World of willdress	11	125971km2	23901108	WOW Grandiozne na pohodu(#159) - Lomykar

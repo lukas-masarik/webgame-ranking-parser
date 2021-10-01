@@ -1,0 +1,42 @@
+112. VĚK
+#	Aliance	Členů	Rozloha	Prestiž	Předseda
+1.	[Chlastám] Chlastám, Chlastáš, Chlastáme	10	197725km2	69305160	Zillionaire ft. Zorg(#34) - xr3d
+2.	[M] MOON	10	174457km2	68361753	Atlan(#1010) - Atlantik
+3.	[:O] Bonnie Rotten	10	161623km2	52132120	19MINO94(#62) - 19MINO94
+4.	[-=F*A=-] Fallen Angels	10	194819km2	50851650	-FA- Fallen Angel(#39) - hagg1d
+5.	[68] 68	10	199284km2	41553719	Artek(#37) - Jurgens
+6.	[-osn-] Ofuk Starého Niktoša	10	157486km2	37759344	-osn- Vozíček is back(#1436) - Vozicek
+7.	[Anarchy] Farmíme pro horší minulost	10	129248km2	37397657	Touha je zázrak, kámo...(#125) - thordevil
+8.	[YOZZEFY] Yozzefy = expy	10	117052km2	36441038	Křýžkový Újezdec(#119) - Allegro
+9.	[Cz-Sk.] budem válet	10	163991km2	35773336	.:cz-sk:.T0p0ne43v3r(#177) - no killer
+10.	[ČSLA] Československá lidová armáda	10	154799km2	33571671	.:CZ-SK:.AK-47ProduceR(#98) - AKland
+11.	[=101=] 011100506463	10	125866km2	32072460	tajomstvo :)(#702) - sweetlollipop
+12.	[tpOwCh] the power of wing chun	10	136107km2	31532913	tpOwCh bUchY(#206) - MaximusBuchymus
+13.	[HaK] Hvězdy a kolečka	10	130455km2	31212974	Love Love Love(#1450) - golden.guy
+14.	[KRIEGER] Válečníci	10	131428km2	30956116	KRIEGER no.1(#96) - Vommel
+15.	[BOUNTY] V pekle sudy válej	10	134571km2	29865775	Alibaba a 40 loupežníků(#1431) - Sjezdovka
+16.	[ItNofS] Ve jménu starých časů ...	10	163563km2	29332776	HyChyKyRyDyTyNy(#123) - PanMaur
+17.	[PKZ] Prdeli Ke Zdi	10	133706km2	29298407	.::PKZ Armageddon::.(#1047) - Kwasak
+18.	[**CQR**] Conquerors	10	144808km2	29232751	Dark Conqueror(#1232) - vanna
+19.	[Avengers] The Avengers	10	140199km2	29168633	HULK(#1475) - d3m3n3c3
+20.	[*SnsrN*] S nami sa radsej nezahravaj	10	148530km2	29140713	So mnou si nevylepsis(#204) - fagancek2
+21.	[=BW=] Black Widow	10	121627km2	28434660	Pomsta je sladká(#1440) - Filip I
+22.	[SUX] parádní aliance :D	10	135967km2	28070554	SUXessfull(#659) - LuisFigo
+23.	[.L.O.S.] Losáci ze Severu	10	122083km2	27978141	LOS made in Destroyer(#422) - BlackTears
+24.	[:.AoA.:] Angels of Apocalypse	10	128273km2	27854527	Andílek(#1105) - kubikma
+25.	[LEGO] stavíme San-sia	10	135830km2	26737079	LEGO oOoo(#1426) - ArchimondS
+26.	[D3V1L5] Masters of Underworld	10	128977km2	26001078	Čajna(#312) - Falkus.
+27.	[MZA] Míšovo Zlomyslné Aluminium	10	113101km2	25195710	Klekni si....(#133) - Michellion
+28.	[I.H] Immortal Heroes	10	124851km2	24473180	Arachnid Layr(#317) - Pabouk
+29.	[PR] Psycho Realm	10	150063km2	23725954	nesnasim a nicim(#242) - abraxas
+30.	[2,5gramu] Dva a půl gramu	10	104149km2	23139598	Blueberry(#864) - King Jirka
+31.	[ZSB] Zima sa blíži	10	101419km2	22816929	John Targaryen Sníh(#643) - matto10
+32.	[ČSB] ČehoSeBojím	10	153363km2	22802494	Bojím se izolepy(#470) - labojse
+33.	[MENSA] ...spolek jedlíků CHILLI	10	152442km2	22779177	Trinidad Scorpion Moruga(#150) - Sir Extrem
+34.	[Q.f.] Queen forever	10	104369km2	22484759	Edwardex World(#601) - Edward
+35.	[M.S.K.] Morkovsky Saci Komando	10	127151km2	22076199	Annihilator(#66) - GanjaCore
+36.	[MOVITS] Celé jméno aliance	10	127263km2	21425394	MOVITS(#203) - Hollandan
+37.	[ČD] České dráhy, jsme tady pro Vás	10	103484km2	21400734	expy 4ever(#582) - Folei
+38.	[VALAŠI] Ogaři z Valašska	10	118001km2	21167095	Pálím hlínu a slivovicu(#1090) - yuphon
+39.	[xD] BB výtlem xD	10	145705km2	20806457	knu xD(#967) - Bufon
+40.	[PhaMa] Phantasma Mayhem	10	139830km2	20735574	PhaMa proteinový magnát(#200) - BusteRHUX

@@ -1,0 +1,42 @@
+106. VĚK
+#	Aliance	Členů	Rozloha	Prestiž	Předseda
+1.	[=T=] Trója	10	173224km2	43449548	Winter is coming..(#34) - FR3EZY
+2.	[-=F*A=-] Fallen Angels	10	158448km2	43383323	Valar Morghulis(#913) - Uaah
+3.	[CBA] Cenzúra Bojazlivej Aničky	10	166475km2	38830211	Infected Mushroom(#269) - marv III
+4.	[ČSLA] Československá lidová armáda	10	138179km2	35318773	.:CZ-SK:.AK-47ProduceR(#633) - AKland
+5.	[Tabáček] Tabáček	10	146104km2	34895625	Alfréd(#1754) - snasa1
+6.	[COOL] Corporation of obscene lambs	10	140612km2	33418710	Smrtící expres ráže .45(#485) - Godzil I.
+7.	[tpOwCh] the power of wing chun	10	119695km2	33281947	tpOwCh bUchY(#568) - MaximusBuchymus
+8.	[Across] Idealistic Organization	10	147331km2	32707956	Klangkarussell(#249) - marv III
+9.	[KUK1] Incredible strength	10	155151km2	30146449	PSČ CREW...(#560) - gerbera
+10.	[**CQR**] Conquerors	10	129258km2	29885730	Dark Conqueror(#332) - vanna
+11.	[ZhuP] Zhuleni Pokemoni	10	129509km2	28319160	Zhuleny Pikachu(#699) - fagancek2
+12.	[S*K] Skunk Teritory	10	122698km2	27284947	Floutkov(#800) - Bigbosh2
+13.	[YOZZEFY] Yozzefy = expy	10	115400km2	27019072	Křížkový Újezdec(#170) - Allegro
+14.	[Anarchy] Farmíme pro horší budoucnost	10	115270km2	24285401	Touha je zázrak, kámo...(#134) - thordevil
+15.	[škola] aneb nováčci útočí	10	120814km2	23974075	PaedDr. Archi CSc.(#392) - ArchimondS
+16.	[ŽsN] Židi s análním nádorem	10	157923km2	23932708	Jiří Babica a jeho dobroty(#45) - EmAChe
+17.	[SPRITE] my jsme sprajt a vy žízeň	10	83741km2	23671244	Pocemkamdeš(#76) - demonstrate
+18.	[BOUNTY] Pověste ho vejš	10	102761km2	23662926	Calvera a 40 loupežníků(#1249) - Sjezdovka
+19.	[*-:DE:-*] DEAD END	10	123383km2	22646666	Raketový ohon(#988) - Armyx
+20.	[LordsWG] Domobrana	10	123758km2	21391885	Zohan.:.Disco(#1326) - Bukay
+21.	[anx] antrax rulez	10	107887km2	21386776	AntraX Keltska Risa(#439) - Martinerko
+22.	[MENSA] ...vždy o krok před Tebou	10	110670km2	20658640	PROF. EXTREM CSc.(#120) - Sir Extrem
+23.	[-.-] -.-	10	118340km2	20140532	Vyplac sa mi do posty ^^ (#1331) - Duskooo
+24.	[D3V1L5] Masters Of Underworld	10	135898km2	19675136	Čajna(#1102) - Falkus.
+25.	[ItNofS] Ve jménu starých časů ...	10	116631km2	19644450	Inter Partes(#869) - Pekelná Klobáska
+26.	[UTOP-X] UTOP-X Solar Utop Emperor	10	102546km2	19558972	PLANET-X Orbit of Nemesis(#187) - ZUMOTRIX
+27.	[S.S.T.] Spojené síly terorismu	10	90949km2	19483667	.:S.S.T:. Trutnov(#265) - alksj
+28.	[NBS] Největší Blbci Světa	10	129693km2	19366659	Největší Blbec Systému(#763) - Walker
+29.	[-=N=-] Nostalgie	10	116276km2	19177089	keltská zem(#587) - lugh
+30.	[SOPHIE`S] SPOLEK VEGANU	10	152141km2	18492381	PSYCHO THE RAPIST(#960) - U.U
+31.	[NBTN] Neser Bo Tě Naseru	10	121502km2	18337782	OldTown(#473) - BobinaMen
+32.	[OKNO] O Kvalitě Nežertujeme	10	132976km2	18097477	OKNO of Angmar(#623) - leszek
+33.	[ZSB] Zima se blíží	10	105059km2	17580561	John Sníh(#1281) - matto10
+34.	[PKZ] Prdeli Ke Zdi	10	92027km2	17200071	.::PKZ Drtič odpadu::.(#944) - Kwasak
+35.	[PLANET-X] PLANET-X Solaris Emperor	10	83728km2	17061033	PLANET-X Anunnaki King(#186) - ZUMOTRIX
+36.	[SVK] SVK	10	100822km2	16587502	Es ist vorbei(#198) - mehehehe
+37.	[.:xXx:.] CENSORED	10	93395km2	16497391	HELL-fire(#1320) - wasabi666
+38.	[:.AoA.:] Angels of Apocalypse	10	98640km2	16222817	Andílek(#1154) - kubikma
+39.	[G7] Great 7	10	89253km2	16017225	Sunshine(#70) - Anchor
+40.	[=SBoS=] Škola Bratrstva Oceli	9	89128km2	15919425	Paladin Unubis(#821) - Unubis

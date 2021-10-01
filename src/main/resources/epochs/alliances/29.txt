@@ -1,0 +1,42 @@
+29. VĚK
+#	Aliance	Členů	Rozloha	Prestiž	Předseda
+1.	[MK] Immortal Knights	10	190786km2	49903801	Do not disturb(#148) - Zorg
+2.	[-=THC=-] The Heroic Company	10	176975km2	40625482	Protivov(#9426) - Protiva
+3.	[OPPV] Organizace pro právo vraždit	10	169347km2	39935793	Annexie(#4205) - Belisarios
+4.	[NERO] Nebezpe?né rovnošaty	10	180485km2	38978960	Neradovo(#1783) - nerado
+5.	[LLS] Long Left Side	10	204438km2	36223677	TruePac(#6608) - Tpac..
+6.	[P.f.B] Predators from Bombaj	10	169749km2	35439441	Vibrrroland(#4303) - Vibromax
+7.	[HV] Haleluja Vole	10	167215km2	35325818	Afrika(#518) - Abraham
+8.	[UFO] Ufouni úto?í	10	162675km2	34554024	A Mad Tea Party(#2363) - Overlord Attack
+9.	[-WG-] Webornej Gamebrinus	10	125665km2	34443732	Silent Hill(#783) - Eldudik
+10.	[SK] Star Knights	10	158784km2	33913444	LUKE SKYWALKER(#30) - xkukx
+11.	[B.K.] Blitz Krieg	10	153655km2	33712511	Popadincova farma(#4324) - popadinec
+12.	[k9] lunik 9	10	165330km2	33379105	Nuklearkou do usmevu(#2418) - Zeratul
+13.	[HAV-Š3] Šumbarkistan	10	159870km2	33036657	Lujdzismen(#7770) - Lujdzis13
+14.	[AoA] Ali of Aligators	10	164502km2	32997585	Galactic Senate(#4541) - MaKovice
+15.	[IBHZK] Ich bin hier zu Kur	9	146800km2	32813838	Leninovo hnízdo(#7167) - Sir Lone Wolf
+16.	[TEMPL] Templá?i	10	171370km2	32653241	Svazarm(#53) - Jurgens
+17.	[Tornado] Vzdusny vir	7	137554km2	32537786	Agricolarie(#556) - Walden r Gwendor
+18.	[-=RD=-] Red Dwarf	10	163157km2	32461315	Hololoď(#33) - Tiagar
+19.	[Sleepers] The Sleepers	10	127749km2	32290246	3dom4ever(#7836) - rage against
+20.	[ZERO] nuly	10	91538km2	32027798	ImY0urN3mEs1s(#963) - .Zabrda.
+21.	[WG-elite] WG-elite	10	168962km2	30736159	Hildorova plesnivá jahoda(#40) - Nespravedlny
+22.	[DnA] dEsTr0y.nAtiOn.AllianCe	10	125675km2	30274381	WiSdOOmEr(#1700) - br0ken
+23.	[p.r.3] pax Romanum III	9	142529km2	30269917	provincia Italia(#16067) - SlyViper
+24.	[coRp] coRp cRew	10	157901km2	30259925	MX(#11267) - Matrixxx
+25.	[NASAA] Naša Aliancia	10	153949km2	30258690	Pinsaragua(#989) - Druid33
+26.	[-I-J-F-] ILI JE FARMA	10	177143km2	29721642	AntiPredator(#1305) - .LordIlidan.
+27.	[SQUAD] Deadly Assassins Squad	6	97921km2	29564149	Realm of Chaos(#5965) - malko
+28.	[MATKARUS] MATKARUS	10	188293km2	28652753	MATKARUS(#1015) - JosefViserjonov
+29.	[ganja] GANJA	10	129544km2	28610100	goremova země(#3299) - gorem
+30.	[/Y-X-T/] Yo-xototh	10	116680km2	28534772	Brloh všemocného Kelta(#2042) - Syntaxus the 2nd
+31.	[Valkaci] Vyhuleny alkaci	10	129782km2	28512184	Alkohol je zly(#11581) - HoGoPoGo
+32.	[WG] Masters from Vienna 2005	10	134561km2	28272014	Vladimír Růžička(#3894) - Lag
+33.	[THOR] Team of HOnest Rebels	6	164512km2	27868929	Midgard(#1769) - Charlemagne
+34.	[VK] Vibracne Kadidla	10	125079km2	26841029	Mamberamo(#12203) - ..Riki..
+35.	[anx] antrax rulez	10	152524km2	26823959	AntraX Keltska Risa(#1745) - Martinerko
+36.	[Marvel] Marvel	10	117451km2	26805641	Captain America(#4363) - Dreameater
+37.	[GW] Group W	10	119602km2	26444208	gw.icoland1(#541) - iiigor
+38.	[HS4U] Headshot for You	8	120325km2	26382078	Skillopolis(#2032) - Jojo1
+39.	[CO] Clockwork orange	10	102147km2	25823398	matsushita(#14077) - clockwork orange
+40.	[APRA] Aliance pro rozvoj analfabetu	6	99195km2	25800947	XLandX(#15289) - XKing

@@ -1,0 +1,42 @@
+60. VĚK
+#	Aliance	Členů	Rozloha	Prestiž	Předseda
+1.	[FuWG] Famozni ujovia WebGame-u	10	157301km2	40169121	eska(#29) - eska
+2.	[DEJAVU] The Comedy of Errors	10	176863km2	39072942	William Shakespeare(#122) - Comanndos
+3.	[ManG5] Penzion -BoW-	10	166895km2	39022386	Japonská slečinka(#141) - Šogun IV.
+4.	[A.N.D.] Angels Never Die	10	154921km2	37196765	ARCHANGEL - Andreas(#1412) - MasterAndreas
+5.	[Řezníci] Krkovička : řezník a kupec	10	170874km2	37044711	Behind blue eyes(#1670) - Bulva
+6.	[EPJ] Elitní pivní jednotka	10	172556km2	36259397	Watching Us Die Tonight(#764) - VAMPIRELORD
+7.	[UTOPSE] UTOP SE	10	174100km2	35185613	Astičkov(#2259) - Asticka
+8.	[.4.] 4554551N5	10	168760km2	34202841	.:.:4554551N:.:.(#538) - Blackthunder
+9.	[ManG] Maniiax Gang	10	166294km2	32280698	Nemilosrdná slečinka(#67) - mara8
+10.	[ČSS] Československá spolupráca	10	158225km2	32084952	Comeback ČSS(#1850) - šalanboy
+11.	[CGHMN] CompuGlobalHyperMegaNet	10	139003km2	31398794	mYpEAcEmAkEr(#3123) - Mihall
+12.	[:ZotR:] Zombies of the Revolution	10	146030km2	31143839	Tonight, we dine in hell(#628) - M1S73R
+13.	[AUTORITA] Tux Strikes Back	10	123270km2	31091444	Dobré ráno, dámy a pánové(#3593) - Lukastrance
+14.	[.:V2R:.] rLOVEution	10	128650km2	30359278	T.N.T.(#367) - kesso
+15.	[MZA] Malá Zlá Aliance	10	135231km2	29183791	Klekni si....(#2680) - Michellion
+16.	[AotNW] Alliance of the New World	10	121323km2	29090357	Nedáš si toust?(#3004) - Marzaus
+17.	[-=DF=-] -=Deadly Force=-	10	125554km2	27698823	-=DF=- Gold Tequila(#765) - Michal44
+18.	[B.D.] Binary Division	7	131023km2	27003292	0101010100001000010101010(#3196) - Corvin mc Grey
+19.	[YouTube] Broadcast Yourself.	10	136340km2	26941025	MysteryGuitarMan(#516) - Uaah
+20.	[-=AB2=-] Atomic Bomberman	10	134251km2	26934324	Kde jsi máňo z pekárny(#4135) - Khatmay Siphando
+21.	[TVN] Tento věk naostro ?	10	157166km2	26728285	X LaNd(#622) - OMartin
+22.	[PUW] Pub u Wočka	10	112320km2	26514262	PUW Nymfomanka(#2044) - Athara
+23.	[Akatsuki] Ti vezme Chakru	7	118494km2	26274065	Bijuu Tobi(#4245) - Lordisko
+24.	[TRICK] ***No Farm - No Top***	10	125549km2	25934478	Freestyle(#3612) - CZFreestyler
+25.	[-cz-] Crvena zvezda	10	122309km2	25876565	Proletáři všech zemí ...(#839) - erromasterr
+26.	[**CQR**] Conquerors	9	125965km2	25723424	Dark Conqueror(#1813) - vanna
+27.	[L.O.S.] Losáci	9	104747km2	25144026	LOS s oblohou(#3661) - .Devilmen.
+28.	[RoboUtop] Jubilejní 60. věk	10	122170km2	24351011	RU šit tě nebudu(#721) - Lord Carcharias
+29.	[GanG] Crips	4	80923km2	24337039	Pimp(#4560) - UsherBA
+30.	[HU1V4T1] Forza Bong	7	111499km2	23945224	Ornament z Pijavic(#5552) - VargVikernes
+31.	[Čoko] Stará garda opět zasahuje	8	89062km2	23793150	Pan Filuta se moc zlobí(#2866) - Milka I.
+32.	[OSVČ] Soukromníci	10	124692km2	23740060	Stěhovák to zmák(#3165) - Itzamna
+33.	[.A.] ASSASSINS	10	152149km2	23674195	::.:ASSASSIN:.::(#2197) - Otooo
+34.	[Mang3] Maniiax Gang	9	138632km2	23667458	slečinka ze zahrobi(#3146) - Moltar
+35.	[68] 68	6	93193km2	23626877	Artek(#149) - Jurgens
+36.	[CZ] Czech Republic	10	148260km2	23602999	Chica(#1535) - Chica
+37.	[CHŽHO] Chodící Žumpy Hnusného Odpadu	4	69332km2	23567919	Naprosto jetej mimoň(#3466) - HolyShot
+38.	[-T-K-] Tlupa Kaprov Reborn	9	120878km2	23220556	GifficiDimExhibitor(#2592) - ando
+39.	[SR] Sympatické Rituše	7	110102km2	22623389	kríza vedomia(#344) - esya
+40.	[C.B.] Cripple Bastards	10	154356km2	22205003	Legie se vrací(#112) - NoRemorse

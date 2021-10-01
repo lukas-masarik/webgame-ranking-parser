@@ -1,0 +1,42 @@
+111. VĚK
+#	Aliance	Členů	Rozloha	Prestiž	Předseda
+1.	[VIR] VIR	10	184888km2	48933032	1000100101111111001100011(#76) - Mrkvička777
+2.	[:O] Bonnie Rotten	10	148598km2	45253774	Lets go brat všech čobolů(#636) - 19MINO94
+3.	[PR] Psycho Realm	10	149465km2	42797843	nesnasim a nicim(#1352) - abraxas
+4.	[cz-sk] we are back	10	177332km2	39691188	.:cz-sk:.Yn3v3rSt0pm3(#148) - no killer
+5.	[Tabáček] Tabáček	10	115100km2	38470901	bozk na rozlučku(#134) - snasa1
+6.	[ItNofS] Ve jménu starých časů ...	10	147422km2	38262962	HyChyKyRyDyTyNy(#125) - PanMaur
+7.	[ALI1234] ALI1234	10	135170km2	36145052	usti(#1347) - vachys39
+8.	[YOZZEFY] Yozzefy = expy	10	136148km2	34798993	Křížkový Újezdec(#103) - Allegro
+9.	[Anarchy] Farmíme pro horší budoucnost	10	122301km2	33846110	Touha je zázrak, kámo...(#105) - thordevil
+10.	[VALAŠI] Ogaři z Valašska	10	135749km2	29495448	Pálím hlínu a slivovicu(#1918) - yuphon
+11.	[TOB] The Oil Barons	5	81240km2	29394552	Modrý pták(#737) - ridgeback
+12.	[ZSB] Zima sa blíži	10	126997km2	28736655	John Targaryen Sníh(#1022) - matto10
+13.	[=101=] 011100506463	10	129685km2	28661254	00120001222102210(#962) - Gingi
+14.	[RSQ] Rogue Squadron	10	108245km2	28124904	Detroyer(#301) - FOvka
+15.	[ČD] České dráhy, jsme tady pro Vás	10	132147km2	27735468	=_Sp 1903 Labe_=(#181) - cvachta
+16.	[Chlastám] Chlastám, Chlastáš, Chlastáme	10	131387km2	26994343	Chlastám, abych přežil(#1399) - xr3d
+17.	[MENSA] Mimořádná vánoční nadílka	10	98945km2	26198345	Trinidad Scorpion Moruga(#117) - Sir Extrem
+18.	[PhaMa] Phantasma Mayhem	10	136200km2	26127723	PhaMa proteinový magnát(#182) - BusteRHUX
+19.	[tpOwCh] the power of wing chun	10	147076km2	25646985	tpOwCh bUchY(#583) - MaximusBuchymus
+20.	[D3V1L5] Masters Of Underworld	8	111383km2	25523142	Čajna(#569) - Falkus.
+21.	[=BW=] Black Widow	10	139851km2	25124273	Pomsta je sladká(#1550) - Filip I
+22.	[Q.f.] Queen forever	10	120949km2	24963374	Edwardex World(#952) - Edward
+23.	[-osn-] Ofuk Starého Niktoša	10	118133km2	24175544	Zem esa Rimmra(#503) - Lord Kamzo
+24.	[LordsWG] Spolek anonymních alkoholiků	10	110092km2	23748531	Zohan.:.Disco(#553) - Bukay
+25.	[*SnsrN*] S nami si radsej nezacinaj	10	135843km2	23252132	So mnou si nevylepsis(#1638) - fagancek2
+26.	[N-N-N] N-N-N vs SB	10	184496km2	23147591	Vaše pr** pozná středověk(#1166) - ASA
+27.	[UTOP-X] UTOP-X Solar Utop Emperor	10	126689km2	22937500	PLANET-X Orbit of Nemesis(#173) - ZUMOTRIX
+28.	[Rounders] Rounders	9	124260km2	22794837	Tony Soprano(#755) - ridgeback
+29.	[-=SWK=-] Scorpions Web Knights	10	122936km2	22364765	Tarvona(#534) - Tarvon
+30.	[HUN] Hunové	8	106440km2	20714752	Antikapitalista3(#89) - Prciik88
+31.	[Belgie] Belgie	10	111814km2	20699972	PANgalaktickýMEGACLOUMÁK(#247) - onidroB
+32.	[B33r] Pivo dělá krásná těla	9	97663km2	20492885	Holba(#409) - Hunder Druhý
+33.	[HJN] Hlavni Je Nebrecet	10	114465km2	20478016	Multikar(#1566) - Kwasak
+34.	[MZA] Myslíme Zásadně Alogicky	10	127175km2	20424830	Klekni si....(#167) - Michellion
+35.	[GoD] Game of Drones	10	124786km2	20299389	.................(#72) - Sample
+36.	[M.S.K.] Morkovsky Saci Komando	10	86763km2	20147206	Annihilator(#212) - GanjaCore
+37.	[PLANET-X] PLANET-X Solaris Emperor	10	113305km2	19165671	PLANET-X Anunnaki King(#172) - ZUMOTRIX
+38.	[G7] Great 7	10	102875km2	18899381	Sunshine(#658) - Anchor
+39.	[KRIEGER] Bojovníci	9	105866km2	18823555	Revizor no.1(#1172) - Vommel
+40.	[*Č*S*P*] Česko-slovenskí pařani	10	116376km2	18788555	*Č*S*P* Lonsdale(#1303) - masterboy

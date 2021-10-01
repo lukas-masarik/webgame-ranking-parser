@@ -1,0 +1,42 @@
+69. VĚK
+#	Aliance	Členů	Rozloha	Prestiž	Předseda
+1.	[.::vr::.] velka revoluce	10	192722km2	54291087	Bídák Ken(#632) - d13
+2.	[ManG] Maniiax gang	10	176216km2	49851691	Slečinka?Nope,Chuck Testa(#2048) - mara8
+3.	[DF] Dark Family	10	198382km2	48131642	Slecinka DF(#2195) - Hanz Guderian
+4.	[.::VR::.] velka revoluce	10	181667km2	45685867	slečinka revoluce(#371) - d13
+5.	[CGHMN] CompuGlobalHyperMegaNet	10	159188km2	44213968	Peacemaker(#804) - Mihall
+6.	[M] MOON	10	166003km2	42872287	Atlan(#197) - Atlantik
+7.	[Rounders] Let`s play some cards	8	127521km2	42828774	Winter is coming(#116) - Dezider
+8.	[FC] Famiglia Corleone	10	180685km2	40691564	Don Vito Corleone(#483) - Sneer
+9.	[.:YD:.] .:Your Dead:.	10	171574km2	39827857	.:YD:. Smrt si tě najde(#2038) - White Dead
+10.	[TP] Tvůrčí Právo	10	143286km2	39221892	.Gavrilo Princip.(#2325) - F0rsaken S0ul
+11.	[AotNW] Armee du Nord	10	153210km2	37431226	Máme rádi Šprckuláše(#2052) - Marzaus
+12.	[*zoo*] Zeal offensive organization	10	203846km2	33218360	*zoofil*Brachypelma(#881) - XXXGrey
+13.	[ZERO] 000000000000	10	189439km2	33072252	webgamista na baterky =)(#2143) - Walden r Gwendor
+14.	[Skřítkov] Škola skřítka Rozbušníka	9	132794km2	32947127	Donne chiesa cornea(#692) - stejski IX.
+15.	[Across] Idealistic Organization	10	161227km2	31393094	Úzkoprsý útočí(#2123) - marv III
+16.	[G-K] Gutiho Kotangentoida	10	116197km2	31234285	G-K is not dead(#380) - Guti the King
+17.	[Kačerov] My z Kačerova	10	181876km2	30622130	Kachňák Coav(#771) - Coav
+18.	[.:PES:.] Predseda Exli Ste?	6	116601km2	29686322	PEStrý Výber Sabotáží(#2362) - Paul.MuadDib
+19.	[x.x.x.] x.x.x.	10	150575km2	29335097	Speedy Gonzales(#2481) - KingSixx
+20.	[H5N1] Choré Sliepky	10	176833km2	29273866	Jack Daniels(#69) - Angelos
+21.	[SmeTop] dem walkerovi ukazat :D	10	136080km2	28969299	co to kuwa ?(#2249) - ultratypek
+22.	[ČSB] ČehoSeBojím	10	136938km2	28946174	Bojím se že se nebojím(#2654) - labojse
+23.	[NAOS] Náš admirál ochránca a stratég	10	114315km2	28534985	NAOS Swain(#1428) - aiRenQo
+24.	[Ganja] Ganja	10	153732km2	26620674	modus(#1770) - Joker16.
+25.	[=T=] Trója	8	122279km2	26561169	Mejsha(#975) - FR3EZY
+26.	[FauxPas] Don`t Feed The Trolls	4	68884km2	26448099	neprejdes lebo to nevies(#1673) - Smeidak
+27.	[DooM] Poprvé po letech	9	121658km2	26009037	Divocí a zlí(#249) - maniacz
+28.	[BumBum2] No tak sme zakerny no a co	10	168808km2	25955500	Al Srajda s.r.o. xD(#518) - IdiotZpovolania
+29.	[VTIP2] Žertování s Mistry smíchu	10	153726km2	25472462	VTIP a hejhulák(#183) - Isilmir Goraz
+30.	[NRsF] Not Really Simpsons family	10	113602km2	24999086	NRsF: Kent Brockman(#47) - ja666
+31.	[Akatsuki] společenstvo zlosynů	9	152994km2	24751703	Bijuu Tobi(#1336) - Lordisko
+32.	[Rafani] Rafani	10	191433km2	24569119	Chlív strikes back(#378) - SprávceChlívku
+33.	[.hunteRs] Team .hunteRs	10	120978km2	24294977	.hunteRs.Legendary(#502) - FRaktura
+34.	[68] 68	6	82735km2	24157282	Artek(#187) - Jurgens
+35.	[-=DF=-] -=Destilat Fanatics=-	9	98541km2	24001134	-=D2F=- Red Absinth(#3980) - Ulrik
+36.	[AveCesar] AveCesar a nová éra.	10	120489km2	23887415	.:AveCesar:.Dita(#539) - Ares65
+37.	[L.O.S.] Losáci od severu	10	116263km2	23850391	LOS made in Uzbekistán(#700) - .Devilmen.
+38.	[KRTEČEK] Hrabáním k lepším zítřkům...	10	134633km2	23766164	Krteček a makovička(#1932) - IMraz
+39.	[Chlívek] Ludus Magnus	5	69623km2	23576030	Michael Phelps(#2201) - Ivan IV
+40.	[A.N.D.2] Angles Never Die 2	10	125211km2	22774549	ARCHANGEL - Sokolie oko(#299) - Bonto

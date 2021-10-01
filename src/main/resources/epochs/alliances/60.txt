@@ -1,0 +1,42 @@
+61. VĚK
+#	Aliance	Členů	Rozloha	Prestiž	Předseda
+1.	[CZ] Czech Republic	10	144276km2	41069508	Chica(#169) - Chica
+2.	[-=LH=-] Lonely Hearts	10	155836km2	37926768	VILA ANA-=LH=-KA(#933) - Walker
+3.	[.:V2R:.] rLOVEution	10	147921km2	36986301	rhnmdm(#922) - kesso
+4.	[PlanEx] Planet Expres	10	128881km2	34036928	Philip J. Fry(#1603) - Moe
+5.	[.::VR::.] LETNI VR KEMP	10	167067km2	32324398	Yoji Biomehanika(#3638) - DPR
+6.	[AotNW] Alliance of the New World	10	154334km2	31633301	Rampa McKvak(#2773) - Marzaus
+7.	[ManG] Maniiax GanG	10	148591km2	31465119	Nemilosrdná slečinka(#1934) - mara8
+8.	[Křováci] ...s klackama v ruce	10	173692km2	30862397	Křovák Freestyler(#1550) - Vasulin
+9.	[D] Discworld	10	141785km2	29943455	Wyrmberg(#1894) - Roger
+10.	[.:YD:.] .:Your Dead:.	10	142070km2	29510236	Apportez la mort(#54) - White Dead
+11.	[UVVB] Uzené veverky v buřtech	10	133378km2	29358281	Manzanie(#5665) - Sir Robertini
+12.	[**CQR**] Conquerors	10	131033km2	29280973	Dark Conqueror(#48) - vanna
+13.	[Hrošíci.] Cesta do špenátových polí	10	159574km2	29269386	hippopotamus(#327) - Mexičan
+14.	[.:WWF:.] World Wrestling Federation	10	131494km2	28990128	.:WWF:.**-JAMAJKA-**(#1234) - STR4T0V4R1US
+15.	[H5N1] Choré Sliepky	8	128854km2	28568940	Maybe..(#598) - Skunky.
+16.	[Titans] Titáni	10	181224km2	28418432	Kronos(#286) - Dexter VI
+17.	[Anarchy] Farmíme pro horší budoucnost	8	132315km2	28328977	Touha je zázrak, kámo...(#3490) - thordevil
+18.	[ČSLA] Československá lidová armáda	10	128654km2	27919245	.:CZ-SK:.Joudinkov(#2046) - joudinek
+19.	[AUTORITA] Celé jméno aliance (povinné)	10	139533km2	27725192	Dobré ráno, dámy a pánové(#275) - Lukastrance
+20.	[KULE7] KULE7	7	95490km2	27713834	Cesta srdce :))(#2996) - dzafa kri.
+21.	[:bum:] :bum:erang...oplatky se pečou	10	136161km2	27319802	-=TOP=-(#172) - BuDzOgAn AlieN
+22.	[ganja] GANJA	10	155512km2	26216341	Alkáč, neboli alkoholik(#49) - ..Hanz..
+23.	[.:LWB:.] LandWirtrechtsBewegung	9	123991km2	26039101	H-29TM Perrigen Falls(#1046) - HolyShot
+24.	[RAPTOR] Team Raptor	9	120452km2	25566600	Requiem pro Marušku(#732) - Aram Chroustal
+25.	[-T-K-] Tlupa Kaprov Reborn	10	128338km2	24604073	GifficiDimExhibitor(#1678) - ando
+26.	[N-N-N] Nečum - Nebreč - Neotravuj	5	120340km2	24207025	Nečum a zastavuj(#4313) - ....ASA....
+27.	[=PA=] Pekelní Andělé	10	134939km2	23937705	Pannonia(#2385) - István
+28.	[HKPAO] Hustokrutopřísná ali ocasov	6	90233km2	23253276	I`m Your Destiny(#2595) - fighteros
+29.	[68] 68	6	108886km2	23068790	Artek(#151) - Jurgens
+30.	[CGHMN] CompuGobalHyperMegaNet	7	92357km2	22868381	mYpEAcEmAkEr(#2780) - Mihall
+31.	[omerta] Nepísaný Zákon	10	134816km2	22825529	OKAY AWESOME(#423) - lakato1
+32.	[-cz-] Crvena zvezda	10	129049km2	22733038	Zpátky ni krok(#2010) - erromasterr
+33.	[GanG] Crips	9	141248km2	22486378	GanG Pimp(#2802) - UsherBA
+34.	[.:NUKE:.] Nepřítel populace	10	127429km2	22057711	NUKE Dragon(#1459) - Firepower
+35.	[H2O] Water Bandits	9	117704km2	21641473	Mjöllnir(#3487) - thordevil
+36.	[RYBA] Rybičky	9	99837km2	21591649	Kapřík(#929) - 97643210
+37.	[Lordi] Bojovníci starého řádu	10	120820km2	21566898	ZkráceníméhoLORDa-nemožné(#1670) - kopl
+38.	[VENDETA] Krvavá pomsta	10	117561km2	21281366	VENDETA pravá(#4845) - Dulda
+39.	[cz-sk] ceskoslovensko	10	111637km2	21002684	.:cz-sk:.Zeus(#2967) - Vladce Seanix
+40.	[RoboUtop] je léto, pojď vyrazíme ven...	10	96216km2	20566847	RU ka v RU kávu(#1848) - Lídiště

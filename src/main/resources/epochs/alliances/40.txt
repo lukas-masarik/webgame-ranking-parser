@@ -1,0 +1,42 @@
+40. VĚK
+#	Aliance	Členů	Rozloha	Prestiž	Předseda
+1.	[.:BoD:.] Brotherhood of Dreadnoughts	12	203062km2	53244784	Neohrožený Banehalow(#5562) - Banehalow
+2.	[G] GLADIATORS	12	211372km2	52899211	Funterra(#103) - Sufun
+3.	[GanG] Crips	11	225584km2	50826407	West Side Mafia(#1230) - RosPal
+4.	[.:BOBR:.] Brutalni Opice Bodaj Rantly	12	222095km2	48525685	Bobr Elite Team(#9859) - General.Payton
+5.	[U] Umělá Hmota	12	229852km2	47735323	Actus Purus(#3788) - Tatíček Thant
+6.	[ČSLA] Česko-Slovenská lidová armáda	10	211054km2	44652417	.:CZ-SK:.Joudinkov(#400) - joudinek
+7.	[UM] Ukrajinska mafie	12	199431km2	44023976	UM mafián Voloďa(#618) - Trelevepiks
+8.	[ManG5] Penzion -BoW-	12	189557km2	42940880	Japonská slečinka(#219) - Šogun IV.
+9.	[H5N1] Choré Sliepky	12	233633km2	42761460	Anjelik(#8441) - Angelos
+10.	[=T=] Trója - admission free	11	234526km2	41103963	Ararat(#782) - zullu
+11.	[.KEVLAR.] KEVLAR BUSINESSMEN	12	85992km2	40383200	kevlar by Det(#350) - HLAVATYS
+12.	[BOUNTY] Spolecenstvi zasnezenych zemi	12	179678km2	39565873	Zet(#900) - Sjezdovka
+13.	[OS] OtherSide	12	166741km2	38122825	Vlčák jak dobrman(#1761) - DOG of WAR
+14.	[IBHZK] Ich bin hier zur Kur	12	194340km2	37878950	Mortician(#6665) - Wulfgar
+15.	[.:H-A:.] Hell Army	10	174421km2	37683772	Hell Archdemon(#4817) - ACHILLEUS88
+16.	[LLS] Long Left Side	12	215306km2	37500608	Krankonošovo(#9336) - NiakarAn
+17.	[B-URAF-S] 4eVER TOGETHER	12	145072km2	37132235	Království stínu(#380) - Lichtenstein
+18.	[-=THC=-] The Heroic Company	10	173405km2	36415889	Protiva je ***********(#2272) - Čulapchorn
+19.	[V1K1NG] wtf? :-D	9	146635km2	36148187	odin(#14727) - Makac fakac luky
+20.	[Tabáček] http://snasa-wz.cz/tabacek/	10	138667km2	36116803	Resistance is futile ...(#3255) - HoGoPoGo
+21.	[ganja] ganja	11	167660km2	34603517	Budulínkova zem(#907) - Budulínek s.r.o
+22.	[Friends] tak to musíte vedle .)	4	108654km2	33883176	Nepřítel kousajících fčel(#6274) - z4s3 MULT4K
+23.	[...EX...] ...............EX.............	11	167296km2	33652193	Teletabis(#5801) - Tinky binky ex
+24.	[SP] Společenstvo Prstenů	12	171031km2	33603899	Rudná země(#1156) - Sir Peko
+25.	[P.f.B] Gay Predators from Bombaj	11	200671km2	33561832	(_,_) Gay Vibro Zebra(#263) - Vibromax
+26.	[G-K] Gutiho Kotangentoida	10	169990km2	33556658	Říše Olšovec(#262) - Guti the King
+27.	[HOR] Heroes of Rofenhavan	12	175225km2	33457728	Gaborn Val Orden(#5095) - ParaZit
+28.	[L.O.S.] Lososi od Severu	9	152659km2	33436451	Los Komáros(#9536) - Komarenkov
+29.	[JIHAD] JIHAD - Biochemical Warfare	12	142942km2	32671128	Makaveli(#1384) - Lancer
+30.	[OST3] Old stars team po3	11	173588km2	32604517	Italia(#302) - Remus XX
+31.	[SyRs] Sky Rangers	12	146822km2	32551344	Leman Russ(#2526) - Mishka
+32.	[anx] antrax rulez	12	176952km2	32470169	Antrax Niagara(#10578) - smeti
+33.	[-=AB=-] Atomic Bombermen	12	201492km2	32170016	Rabbit = FarmersNightmare(#7563) - Perhalik
+34.	[T3r0r1sT] Rob0krt1 Wins	12	139844km2	31754685	DaWenLAND(#10075) - Cenzor3d
+35.	[W.G.M] W.G.M4n14c	12	183212km2	31750587	W.G.M0nst3r(#1175) - Dzindzik
+36.	[cz-sk] CeskoSlovensko	12	197295km2	31355563	Mam malu armu ahoru landu(#8263) - Vladce Seanix
+37.	[=*ss*=] Sex Shop	12	107354km2	31194957	Roztáčím hvězdná kola(#4988) - Tharwain Ukrutný
+38.	[ManG7] Penzion u vody	12	183383km2	31015929	Porcelanova slečinka(#831) - Norreen
+39.	[J.J] Jižní javol	9	132814km2	30865536	S.J hnidákov(#17081) - spalenv
+40.	[Beast] Beast	12	165887km2	30828116	Hussaria(#8404) - DeJure

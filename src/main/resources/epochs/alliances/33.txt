@@ -1,0 +1,42 @@
+33. VĚK
+#	Aliance	Členů	Rozloha	Prestiž	Předseda
+1.	[S.D.E] Solar and Dark Empire	12	248290km2	51770123	Klekí Petra(#182) - Kleky
+2.	[FED] Federace	12	209358km2	47525307	Ufounek(#781) - ...Ufounek...
+3.	[MoM] Morbid obituary Message	12	189373km2	42614304	Traal(#548) - mixhail
+4.	[UM] Ukrajinska mafie	12	182224km2	42108464	Bohunice(#2857) - Uthden
+5.	[MATKARUS] MATKARUS	12	185158km2	41512390	MATKARUS(#560) - JosefViserjonov
+6.	[nex] nublex	12	189051km2	40298343	NEX-DRATEK(#7430) - pushTheTempo
+7.	[VENDETA] Krvava pomsta	12	171346km2	40048310	,(#613) - Konopess
+8.	[.:BAR:.] BARBARS RUSS	11	92172km2	38453625	MOSCOW(#483) - DONBOSS
+9.	[HOR] Heroes Of Rofenhaven	11	177995km2	37621447	Celinor(#513) - Sepie
+10.	[GanG] Crips	11	182584km2	37159132	West Side Mafia(#3190) - RosPal
+11.	[P.P.A.] Powerful Pagan Aliance	12	183329km2	36762764	Al Quarra Coyonlu(#952) - Kubikk84
+12.	[KD] Konto deb1lov	10	132505km2	36683317	deb1l.Ech0(#2814) - Jilad
+13.	[B.A.F] Bojis, Bojis?	7	154248km2	35836256	Pentadekanol(#9723) - Malý Chemik
+14.	[M.A.S.H.] Mobile.Army.Surgincal.Hospital	12	153325km2	35537968	mjr.Biry(#43) - Lord Biry
+15.	[Valkaci] Vyhuleni alkaci	12	159612km2	35296338	Aladinov land(#14723) - pajoncek
+16.	[MK] Immortal Knights	12	148108km2	35145630	Aquadilla(#137) - Bruster
+17.	[NE5] NE5MRTELN1	12	181989km2	34432229	NE5MRTELN1(#3784) - NESMRTLN1
+18.	[FDTD] From Dusk Till Dawn	12	153886km2	34222199	Solidní farma(#10122) - Liberty
+19.	[.:BoD:.] Brotherhood of Dreadnoughts	12	177661km2	33775467	HC Moeller Pardubice(#7147) - Banehalow
+20.	[-=THC=-] The Heroic Company	12	171084km2	33754826	The Herioc Protiva(#248) - Protiva
+21.	[PaM] Parádne Milovanie	11	164707km2	33300259	Poloha č. 69(#2190) - reDIce
+22.	[.::R::.] RYTÍŘI	11	199904km2	33025618	GAWAIN(#3332) - steamroller
+23.	[DnA] dEsTr0y.nAtiOn.AllianCe	10	146812km2	32606763	lojzzaland(#4346) - Iojzza
+24.	[MDPA] MordParta	12	192855km2	32107647	Hovězí jatka(#2815) - sejk
+25.	[A*o*B] Ali of Beer	10	139870km2	31852015	grrrrr....(#11854) - Zilos
+26.	[S.M.R.T.] Sado Maso Rocket Terror	12	140602km2	31473562	S.M.R.Ť.ák - lammmmmmmmer(#93) - King Lear
+27.	[NERO] Nebezpečné Rovnošaty	12	185529km2	31346047	Neradovo(#1849) - nerado
+28.	[ADR] Adrastea	12	162812km2	31208825	Nie Nette(#4950) - Johny Fontane
+29.	[=BH=] Blue Hope	7	137816km2	31047149	A3(#14127) - Tinukedaya
+30.	[:::NB:::] Nazdar Bazar	12	190326km2	30484796	Bagrov(#78) - Bagr Veliký
+31.	[-LEDA-] leda tak jinej nazev	12	177517km2	30305924	Black Angels(#91) - Labbakan
+32.	[GST] Gangsta Suicide Team	12	173845km2	30276445	AntiPredator(#210) - .LordIlidan.
+33.	[w-w-w] Web Wild Warriors	3	74429km2	30093423	Abydos(#9541) - Dr. D. Jackson
+34.	[DMT] .:.DMT.:.	12	151961km2	30024760	.:.DMT.:. ::.::::::::::(#7054) - martdur veliký
+35.	[B.K.] Blitz Krieg	12	151739km2	29828413	Blitz Krieg 7356(#1017) - popadinec
+36.	[B=S] BrAtRsKá SíLa	12	165060km2	29756033	Brutal-Brothers(#1715) - 3D
+37.	[-=WK=-] Web Kings	12	145979km2	29549239	=====EQUILIBRIUM=====(#2060) - striklend
+38.	[DW2] Dark Warriors	12	175252km2	29525848	Metalland(#2145) - Alcohollica
+39.	[.hack//] Tak, a máte nás tu zas	12	146100km2	29245171	.hack//Ayaya(#7418) - Kenshin Himura
+40.	[BORG.II] pwrd by total-brutal	11	152191km2	29153891	Ambah-ambah pata anda(#3811) - .modran

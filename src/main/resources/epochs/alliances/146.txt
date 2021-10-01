@@ -1,0 +1,42 @@
+146. VĚK
+#	Aliance	Členů	Rozloha	Prestiž	Předseda
+1.	[SIL] Silmarillion	10	207809km2	99043376	RTX 3080(#858) - Martin858
+2.	[M] MOON	10	223322km2	95856698	Atlan(#127) - Atlantik
+3.	[=L.O.T=] Lord Of Tactic	10	147818km2	78052814	Mojasmrt(#213) - tvojasmrt
+4.	[TLD] The Last Dance	10	141115km2	55760939	Utáhneme_i_6_válek(#142) - masterWG
+5.	[*UF*] United Farms	10	146384km2	51575232	Enforcer(#53) - Dr.Leckter
+6.	[ČSB] ČehoSeBojím	10	148192km2	50893700	Bojím se labutích zobáčků(#1133) - DaweKilla
+7.	[MÁMA] Tvoje druhá máma	10	134834km2	50072049	Bomby tvojí mámy(#402) - gugoslav
+8.	[queens] QUEENS	10	146269km2	48716340	Pavilon 8 AHC(#165) - gorem
+9.	[AiM] Aina Morne	10	129655km2	44883470	Halucinogenní kytička(#860) - fenix23
+10.	[=T=] Trója	10	149850km2	43138421	Winter is coming..(#599) - FR3EZY
+11.	[Anarchy] Farmíme pro lepší budoucnost	10	139984km2	41410081	Srdce mi pofoukáš...(#140) - thordevil
+12.	[**CQR**] Conquerors	10	100665km2	39181316	Dark Conqueror(#947) - vanna
+13.	[ganja] GANJA	10	172949km2	38758962	Velky uličník(#658) - trubkatrubkovic
+14.	[MK] Immortal knights	10	155888km2	38612562	kliksemkliktam(#1006) - uzid
+15.	[D1000] Dům tisíce mrtvol	10	118779km2	38091070	Oko Mordoru(#1092) - StillDeadCZ
+16.	[Afrik] VELKÝ ČERNÝ KLACEK	10	123596km2	36243123	Zimbabwe(#69) - Lord Rechleek
+17.	[AHA] Aliancia Láskavého Triumvirátu	10	140854km2	35887189	B*E*S*A*R*A*B*I*A(#131) - Abdul
+18.	[Bubáci] Bubáci	10	158873km2	35236321	Inspiro(#49) - dentitios
+19.	[YOZZEFY] Yozzefy = klídek	10	138027km2	34904267	Babiš nekompetentní hňup(#139) - Allegro
+20.	[Chilli] Hot n Spicy	10	122481km2	33230940	Old but good(#99) - Supra1Soul5Play
+21.	[.L.O.S.] Losaci zavreni v oboře	10	120638km2	32580059	LOS made in Zhonguo(#1122) - Topisek
+22.	[MUL] Multimilionar	5	75516km2	31815465	Jožko Kukuricúdus(#1178) - gorbatčov
+23.	[ALIVE] Namezdni	10	135960km2	31614677	Namezdni lovec Peppo Fett(#525) - ppedrnikar
+24.	[--.] --.	10	137917km2	31534217	LightSoySauce(#43) - Dj Nemisek
+25.	[MZA] Miloš - Zahořklý Aparát	10	138396km2	31304845	Pardeeho vlna(#432) - Michellion
+26.	[Imp] Impérium povstalců	10	110942km2	29840115	Malonia(#884) - Sedmika
+27.	[Tabáček] Tabáček	10	162823km2	29197426	Aiur(#795) - Xinik
+28.	[A.N.D.] Angels Never Die	10	126481km2	28134330	ARCHANGEL-Aquileje(#1246) - Turdos
+29.	[BumBum] Z hlediska globálního spektra.	10	151650km2	27291957	maly uličník(#805) - trubkatrubkovic
+30.	[ENIGMA] Slečno, a nejste vy modelka?	10	146376km2	26660588	Šťavnatá Slečinka(#474) - Jwenda
+31.	[CBA] Cenzúra Bojazlivej Aničky	10	111582km2	26352382	SINNERS(#92) - marv III
+32.	[CAR] CAR	10	128870km2	26264547	Jeskyňka(#482) - Atlantik
+33.	[TLC] The Last Chance	10	123527km2	24273166	The Last Chance(#2020) - masterWG
+34.	[B33r] Pivo dělá krásná těla	10	132392km2	22788777	Magnamundie(#813) - Hones
+35.	[DEAD] Diadaci	10	140840km2	22426544	-DEAD-BabyPpepe(#690) - Diák
+36.	[N.n.n-2] No nic no 2	10	104743km2	22399485	Napalm Death(#158) - Carcas
+37.	[**SNK**] SmeNaKašu	10	119683km2	22010654	Liška Bystrouška na Kašu(#207) - Jitus21
+38.	[BTC] Bitcoin	10	154754km2	21770110	Peter Lynch(#218) - Drunken
+39.	[Evropa] Evropa	10	112391km2	21386613	Poušť(#2222) - Kojot prérijní
+40.	[Steel] Thunder Steel	10	118286km2	20444542	Powerslave(#971) - Dark moon spider

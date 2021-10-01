@@ -1,0 +1,42 @@
+149. VĚK
+#	Aliance	Členů	Rozloha	Prestiž	Předseda
+1.	[-4F-] 4 the Future	10	182707km2	57902990	Hello empty future(#81) - hagg1d
+2.	[EMP] Emil, Márův Prostitut	10	168408km2	55603279	Hra s Márou=sexu s Klárou(#543) - FARR FARR AWAYY
+3.	[UNIQUE] ????.......????	10	144707km2	52773711	Laugh TillYouPee(#459) - trisíííček
+4.	[ganja] GANJA	10	183133km2	51777682	IBK Kubánský Klan(#190) - gorem
+5.	[n1] nulitni idioiit nulitne nulitn	10	183296km2	49331173	Buď agilný, buď IN(#398) - ftacik
+6.	[VN] Prázdninová rekreakce	10	168051km2	45316726	Ruka v teple(#788) - Nicole Kidmann
+7.	[CZ] Czech Republic	10	140344km2	44068011	Chica(#172) - Chica
+8.	[.:YD:.] .:Your Death:.	10	148457km2	42388268	Tvé oči tě mohou klamat.(#282) - White Dead
+9.	[Bull] Black Division	10	163711km2	42333018	GladeRxz(#576) - High Warlord Rxz
+10.	[(V)oo(V)] The Crabs	10	193277km2	39870829	Krabistán(#171) - blasticek
+11.	[ALIVE] Namezdni ladici	8	117048km2	39153701	Námezdní lovec R2Degee2(#9871) - Degee
+12.	[ČSB] ČehoSeBojím	10	169623km2	37062318	Bojím se o přežití...(#144) - Veriax
+13.	[MÁMA] Tvoje druhá máma	10	127757km2	36587443	Tvoje máma tvojí mámy(#942) - gugoslav
+14.	[YOZZEFY] Yozzefy = farmy = nedobývat	10	144207km2	36463597	Zemanovi zvoní hrana(#288) - Allegro
+15.	[NUKE] Nukleární Ukrajince Krade Emil	10	148592km2	34777343	Puppet Master(#542) - FARR FARR AWAYY
+16.	[AveCesar] AveCesar a pohodové klikání.	10	116598km2	32471960	.:AveCesar:. Caesar(#211) - Ares65
+17.	[PíPíBí] Power Puff Boys	10	147813km2	30614233	Fuzzy Lumpkins(#841) - Muffia
+18.	[MENSA] ...prostě (j)elita :)	10	158153km2	30351882	NESERA NAVALTO(#964) - Sir Extrem
+19.	[=T=] Trója	10	164820km2	29136855	Winter is coming..(#735) - FR3EZY
+20.	[-=LH=-] Lonely Hearts	10	140529km2	29112088	VY-=LH=-UL MI KYJ(#662) - Walker
+21.	[N.n.n-2] No nic no 2	10	125178km2	29095714	Napalm Death(#772) - Carcas
+22.	[heechee] nejsme lidé.......jsme heechee	10	112642km2	28776167	Zivot lopticka(#1168) - MOTOR O1L
+23.	[queens] QUEENS	9	150398km2	28727639	Pavilon 8 AHC(#196) - gorem
+24.	[Imp] Impérium prázdninového provozu	10	117768km2	28339638	Džigy džigy(#268) - Sedmika
+25.	[Polévka] Gazpacho je lék	10	158115km2	28325637	Pho-Bo(#653) - ViewSonick
+26.	[.:L30N:.] Lví smečka	9	104485km2	27692748	Irokamai(#88) - Apoc
+27.	[PKZ] Prdeli Ke Zdi	10	105982km2	27348506	.::PKZ::. slušný název(#1224) - lord big
+28.	[MCH] MoloCH	10	108452km2	27020822	Houstone?Máme problém...(#540) - Paklíč
+29.	[-=KA=-] Killa Army	10	173866km2	27014815	-=KA=-pička meskalinu(#868) - Athara
+30.	[OLYMP] Sídlo bohů	10	126483km2	26781546	Ty taky ne(#352) - Banlord
+31.	[SRAN] Tvoje Máma	10	143342km2	26363395	Pucuju sasanku tvojí mámy(#1059) - Vládce Kabraxis
+32.	[TTOC] the treaty of champions	8	82504km2	26164237	Spadlo ti to, asi vítr(#74) - zedna
+33.	[*`=/-.,] Supramen	10	159119km2	25921569	Supraman(#136) - Supra1Soul5Play
+34.	[Anarchy] Farmíme pro horší minulost	10	133415km2	25691898	Srdce mi pofoukáš...(#837) - thordevil
+35.	[=BSC=] Best Selected Company	8	109354km2	25099418	KoNeCOmeZení(#422) - Katan333
+36.	[Bubáci] Gumkáči	10	170653km2	24579882	Zářící Spasitel(#909) - .DuKeLuKe.
+37.	[SK] Starý Kontinent	10	108096km2	24219359	Prérie(#338) - Kojot prérijní
+38.	[Bullos] Black Division Two	10	115737km2	23539655	GladeDiktátoR(#1279) - High Warlord Rxz
+39.	[MaNTiNeL] ...	10	129224km2	22396074	Na Kridlech Valkyr(#558) - o.O.oDin
+40.	[KGB] Komitet Gosudarstvennoy Bezopa	10	86882km2	22292191	Wano country(#249) - mcweb

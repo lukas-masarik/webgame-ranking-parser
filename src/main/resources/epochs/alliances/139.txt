@@ -1,0 +1,42 @@
+139. VĚK
+#	Aliance	Členů	Rozloha	Prestiž	Předseda
+1.	[Across] Idealistic Organization	10	184934km2	61729639	KULEHA(#381) - marv III
+2.	[PhaMa] Phantasma Mayhem	10	141161km2	52565856	COVID-20(#211) - bukvicka13
+3.	[MK] Immortal knights	10	160717km2	52278762	kliksemkliktam(#986) - uzid
+4.	[Ganja] ganja	10	161580km2	50704386	Lipous(#178) - Joker16.
+5.	[queens] QUEENS	10	142298km2	47927467	Bastard`s office(#1042) - Pitel
+6.	[DEAD] Deadiaci	10	174393km2	45018818	-DEAD-PpepeNeniRigorek(#236) - Diák
+7.	[-osn-] OsprostenaStaraNota	10	171562km2	44200252	-osn- DonGenaroFlores(#1580) - KuXIV
+8.	[Epson] Fetson	10	140701km2	43963166	Dawe(#1399) - Cenzor3d
+9.	[ALIVE] Alivediaci	10	112990km2	42502455	-ALIVE-Zrodila se Rigozda(#168) - ppedrnikar
+10.	[-=DH=-] Dark Hunters	10	134445km2	42301727	RANDALOVA KARAVANA III.(#456) - RANDAL
+11.	[Tabacek] Tabacek	10	160661km2	42172324	NORDIC SPIRIT(#309) - snasa1
+12.	[100] Kocouři :)*	10	177730km2	42066719	1120(#1120) - Defectorr
+13.	[COVER] REVOC	10	136745km2	39680308	73737(#37373) - LuisFigo
+14.	[AC/DC] Back in Black	10	123071km2	39614354	viruju(#217) - Walden r Gwendor
+15.	[VZP] Vyvrženci z pekla	10	138811km2	38304797	Vyvrženec Pivní nadšenec(#207) - StillDeadCZ
+16.	[**CQR**] Conquerors	10	164379km2	36249051	Dark Conqueror(#682) - vanna
+17.	[*WinDe*] WiNDe4ever	10	156084km2	36134052	.:W:. for fun(#72) - .www.king.cz.
+18.	[Anarchy] Farmíme pro horší budoucnost	10	125249km2	35574888	Srdce mi pofoukáš...(#437) - thordevil
+19.	[SUX] parádní aliance :-*	10	149613km2	34781586	SUXessfull(#843) - LuisFigo
+20.	[ThermX] ThermX	10	133506km2	32461123	Mizumono(#60) - hum4nic
+21.	[MaNTiNeL] .	10	135529km2	31304560	Na Kridlech Valkyr(#503) - o.O.oDin
+22.	[SB] SpikeBallers	10	134128km2	31273617	DONT STOP ME NOW(#233) - xkukx
+23.	[PíPíBí] Power Puff Boys	10	144322km2	30996754	Fuzzy Lumpkins(#198) - Muffia
+24.	[CBA] Cenzúra Bojazlivej Aničky	10	116385km2	30789557	FIČÚR(#402) - marv III
+25.	[Imp] Impérium květinkové galaxie	10	113746km2	30478354	Vládkyněvšecho(#917) - Sedmika
+26.	[MATKARUS] MATKA is BACK	10	113551km2	29862473	Kutuzov(#124) - Šejdíř
+27.	[.:xXx:.] CENSORED	10	122633km2	29270703	HELL-fire(#10000) - wasabi666
+28.	[YOZZEFY] Yozzefy = farmy	10	136680km2	27980078	Babišovy roušky(#1010) - Allegro
+29.	[EUR] Europe	10	131453km2	27854288	Pythonian(#1038) - OLYMPÍK
+30.	[FReaKS] Sluníčkové princezničky	10	114818km2	27649494	Princeznička .ička(#570) - šůrovač
+31.	[MRUK] Soustava planet MRUK	10	167107km2	26679282	Elon Musk jr.(#1043) - Drunken
+32.	[-=F*L=-] FARMALAMA	10	120870km2	26046909	Janiciar(#313) - CyberDuck
+33.	[N-N-N] Nečum, Nebreč, Neotravuj	10	163491km2	25869600	Umři(#892) - Banlord
+34.	[FATHERS] ... děti doma = ráj na zemi :)	10	124346km2	25797020	the GODFATHER(#828) - Sir Extrem
+35.	[MENSA] ...stav nouze	10	145365km2	24965868	STEPHEN HAWKING(#230) - Sir Extrem
+36.	[SRAN] Tvoje máma	10	137779km2	24223229	Kozačky tvojí mámy(#533) - Vládce Kabraxis
+37.	[SPRITE] Teď já budu sprite a ty žízeň	4	68696km2	23941428	Paradox(#142) - Deus
+38.	[SR] Spanilé Roznecovadlá	10	115803km2	23898135	Acetónsko(#229) - esya
+39.	[?] ??????????????????????????????	4	52892km2	23828283	Batýsek(#377) - ...Kápo...
+40.	[-=L*F=-] LAMAFARMA	10	117379km2	23335253	Barbar Onan(#153) - Chujo

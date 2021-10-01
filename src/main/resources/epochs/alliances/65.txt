@@ -1,0 +1,42 @@
+65. VĚK
+#	Aliance	Členů	Rozloha	Prestiž	Předseda
+1.	[=*DC*=] Dark Company	10	172097km2	56852414	D.C Robotics(#614) - Dark Caromdura
+2.	[RAPTOR] Team Raptor	10	169959km2	38903170	Tři velká B v hudbě(#1962) - Aram Chroustal
+3.	[CoverUni] CoverUni	10	158247km2	38731250	.:::Cover:::.(#3879) - jedi malec
+4.	[=T=] Trója	10	162976km2	37923165	Mejsha(#1735) - FR3EZY
+5.	[Lordi] Bojovníci starého řádu	10	158783km2	34704224	ZkráceníméhoLORDa-nemožné(#382) - kopl
+6.	[Ganja] Ganja	10	168102km2	34365912	Eski Girl(#685) - Dhany
+7.	[VTIP] Mistři Smíchu	10	146584km2	34286336	Vtipný Chuck Norris(#37) - Gyriko
+8.	[Anarchy] Trpělivost přináší výsledky	10	138791km2	33882351	Touha je zázrak, kámo...(#3929) - thordevil
+9.	[AotNW] A co se mám napsat?	10	158429km2	33201712	Být či nebýt stromem(#716) - Marzaus
+10.	[HOPRDOX] HOlou PRdelí DO Xichtu	10	155061km2	32899531	koroptvičkové království(#438) - adduktor
+11.	[Chlastám] Chlastám, Chlastáš, Chlastáme	10	182660km2	32395669	E`xp Born to BumBac TOP(#174) - xr3d
+12.	[TP] Tvůrčí Právo	10	172983km2	31351944	Mistr Yoda(#387) - LordBlsan
+13.	[KL] Killing Legion	10	189030km2	30462041	Augustus Pater patriae(#3329) - Reskator
+14.	[AveCesar] AveCesar a změna je život.	10	151944km2	30109894	.:AveCesar:.Vilma(#3127) - Ares65
+15.	[.A.] ASSASSINS	10	249759km2	30107236	.:.:ASSASSIN:.:.(#3701) - Blackthunder
+16.	[cerveza] pivo	10	166264km2	30020949	Hruška(#1163) - hurka
+17.	[Legend] Wait for iT	10	106668km2	29736047	Uttica(#487) - Naumo
+18.	[.:ADaZ:.] Aliance Divokých a Zlých	10	139907km2	29635492	.:ADaZ:.Vozoland(#57) - Vozicek
+19.	[-=DF=-] -=Destilat Fanatics=-	10	145253km2	29436189	-=DF=- Fernet Citrus(#1580) - Michal44
+20.	[.:V3R:.] revolučná škola sexu	10	138574km2	28929896	Klaudi:)(#4934) - Alexius
+21.	[M] MOON	5	80663km2	28654656	Atlan(#125) - Atlantik
+22.	[*TY*] TROSKY	8	137926km2	27910538	Mrcha jedna(#1642) - MacrosSK
+23.	[Lotta] Lotta per la sopravvivenza	10	120219km2	27816979	arma del genio(#445) - 8ruk1z1
+24.	[-=HK=-] Hello Kitty	10	150495km2	27527136	Please. Don` t Cry.(#2932) - N4TH4N13L
+25.	[.:?:.] CeNsoReD	8	134899km2	27336717	Milujem Aďku:-*(#4676) - rybka es atrás
+26.	[SZS] Strategie Zkušenost Spolupráce	10	156844km2	27179328	SZS maestro(#265) - Q4z3R
+27.	[-=LH=-] Lonely Hearts	10	165058km2	27066603	VY-=LH=-ADIM TE OD SRDCE(#64) - Walker
+28.	[*WiNDe*] Wi Nás Deprimujete :-D	10	127004km2	26929185	Myš pod peřinou(#3297) - Revelation3
+29.	[H2O] Water Bandits	10	140902km2	26450735	Mirain(#1180) - Waterdog
+30.	[SWINGERS] HordcoreParty	7	113196km2	26420778	S*S La Cocaina(#3046) - Bc.Phoenix
+31.	[AUTORITA] Celé jméno aliance (povinné)	10	150093km2	26412644	Dobré ráno, dámy a pánové(#490) - Lukastrance
+32.	[NEXT] Škola mírného pokroku	10	118707km2	26249984	Ředitel zeměkoule(#1311) - Naquadah
+33.	[ALIEN] ALIancia ENviromentalistov	5	119187km2	26170659	DIPLOMAT cinko(#985) - cinkocanko
+34.	[VTIP2] Žertování s Mistry smíchu	10	105293km2	26050253	VTIP o šprýmařích(#1299) - Isilmir Goraz
+35.	[AVENGERS] United We Stand	9	97002km2	25991631	Become Wrath(#1433) - Mathew Mighty
+36.	[I.H] Immortal Heroes	9	106478km2	25831491	Arachnid Layr(#3593) - Pabouk
+37.	[WARLORDS] WARLORDS of WEBGAME	10	126799km2	25699373	WARLORDS KRAKONOSOVO(#1924) - parashoot
+38.	[LPA] legion of fallen angels	10	120345km2	25571179	MEGATRON(#402) - MORDUS
+39.	[GST] Gloubl Strajk Tím	10	140281km2	25174551	Slečinka z pradávna...(#1172) - webby01
+40.	[-=ElW=-] LanD of SuccesS	5	81811km2	25043305	Tears of the dragon(#1880) - .Baťa.

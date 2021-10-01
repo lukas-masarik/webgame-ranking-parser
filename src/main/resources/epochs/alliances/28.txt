@@ -1,0 +1,42 @@
+28. VĚK
+#	Aliance	Členů	Rozloha	Prestiž	Předseda
+1.	[=DS=] Dog Soldiers	10	262264km2	72876742	Spike and Jet(#587) - Philman
+2.	[D1KTATOR] *-=D1KTATOR=-*	10	234357km2	64133955	WeyRoN(#4964) - .FeXeR.
+3.	[coRp] coRp	10	167979km2	59698231	IAtlantisI(#6814) - IJamesI
+4.	[UFO] Ufouni útočí	10	178250km2	59079635	IFuBeSmellinUgonnaBeFelon(#6173) - Brandik
+5.	[VK] Vibračné Kadidlo	10	202516km2	58729164	Běžně do řiti lezu Něžně(#15347) - Razor
+6.	[k9] k9	10	199811km2	57288352	Cistim, periem(#1370) - Zeratul
+7.	[D.P.] Davová Psychóza alebo čo.	10	190443km2	55501019	Rozumíš mi čomu ja chápem(#19) - esya
+8.	[O.k.] Onanujici Kleptomani	10	160438km2	54985673	nevim(#410) - Bohdalka
+9.	[def] defianc	10	164943km2	53571730	Def(#9031) - crusher666
+10.	[Sleepers] The Sleepers	10	149700km2	52916569	Thinkpol(#7023) - rivvy
+11.	[=-RŠ--] Rychlé Šípy	10	177637km2	52198541	rychlonozka(#752) - zase jachym
+12.	[ICQ] I Seek You	10	179091km2	51955378	119310584(#5865) - Black Warrior
+13.	[HAV-Š3] Šumbarkistán 3	10	180181km2	50205587	jeremyland(#8643) - jeremy13
+14.	[SWK] Skill Will Kill	10	170741km2	49814546	Goodbye bye, blue sky(#9132) - kopff
+15.	[SK] Sporting Kingdom	10	150416km2	49402352	GARRY KASPAROV(#41) - HypnoticaL
+16.	[KREV] KREV	8	132266km2	46229210	XCOM(#8952) - steamroller
+17.	[.::R::.] Rytíři	10	197786km2	45280924	Rytíř Avalon(#589) - steamroller
+18.	[-=RD=-] Red Dwarf	10	183479km2	45171904	Hololoď(#45) - Tiagar
+19.	[Valkaci] Vyhuleny alkaci	10	157556km2	45001632	Krasnaja to zemicka(#9812) - HoGoPoGo
+20.	[MORRIS:1] Phillip Morris:one	10	172432km2	44223339	Marlboro(#1116) - Boh Anubis
+21.	[GW] GroupW	10	169323km2	43749118	Kočikáreň(#1339) - Roleta
+22.	[SADOMASO] Jsme hodní...sadisti	10	193610km2	41483978	P.R.A.S.O.I.D.O.V.(#1938) - Kockin
+23.	[KKA] Královská koloniální aliance	10	158543km2	41009869	Britannia(#436) - LeosA
+24.	[68] 68	10	235202km2	38645966	Svazarm(#34) - Jurgens
+25.	[VoH] Voices of Honor	10	141476km2	38363333	downhill(#171) - Kleky
+26.	[WG-elite] WG-elite	10	161257km2	37866900	Deepinkova líbivá prcina(#40) - Nespravedlny
+27.	[G] Gladiatods	10	150176km2	36735691	Funterra(#12286) - Sufun
+28.	[V.V.V.] Veni Vidi Vici	10	171898km2	36212518	Legio XXI. Rapax(#2023) - Spider21
+29.	[20th] Century Fox	10	173226km2	34403663	Alkoholik Barney(#5614) - Walker
+30.	[-=THC=-] The Heroic Company	10	167456km2	34238936	Nerob z komara velblouda(#15826) - Protiva
+31.	[H.M.S.] Ark Royal	10	138299km2	33859105	Lancaster(#6483) - Chester
+32.	[H2] Heroes 2	10	120970km2	33762090	Drahoshuland(#1610) - Drahosh
+33.	[IBHZK] Ich bin hier zur Kur	10	133314km2	33372485	JemněMiMěHoMni(#3718) - Sir Lone Wolf
+34.	[.::DM::.] Dragons Masters	10	128373km2	32829871	Morion(#12698) - Morghoth
+35.	[.:S:.] Samotáři	10	173800km2	31472104	Doudland(#5494) - Doudik
+36.	[OPPV] Organizace Pro Právo Vraždit	10	148982km2	31130004	Ideopolice(#5930) - Xaralis
+37.	[KÚ] Kaitanské Útočiště	10	197594km2	29940871	Bloody Tempest(#455) - Ball.Lightning
+38.	[M4] Malacky	10	115953km2	29725759	N30(#1960) - soji
+39.	[anx] antrax rulez	9	139685km2	29676027	Keltska Risa(#4710) - Martinerko
+40.	[BH] Black Hand	10	123091km2	29644222	Mount Deismaar(#15812) - Hondo

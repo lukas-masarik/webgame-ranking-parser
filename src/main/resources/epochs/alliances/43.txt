@@ -1,0 +1,42 @@
+43. VĚK
+#	Aliance	Členů	Rozloha	Prestiž	Předseda
+1.	[UM] Ukrajinska mafie	11	250237km2	52491394	UM Bohunice(#9742) - Uthden
+2.	[TrPazÚsT] Krátká těla=dlouhé údy :)	12	252712km2	44642382	Trpaslík s vymytým mozgem(#5374) - Drunk3n
+3.	[UVVB] Uzené veverky v buřtech	11	148954km2	43781742	Manzanie(#529) - Sir Robertini
+4.	[.::R::.] RYTIRI	12	169508km2	39613452	MiG-29 OVT Mortal Kombat(#766) - steamroller
+5.	[L.O.S.] Lososi od Severu	12	190009km2	38842423	Los Komáros(#80) - Komarenkov
+6.	[.::VR::.] velká revoluce	12	155926km2	37903685	slečinka revoluce(#2536) - d13
+7.	[PRDOPEČ] Prášek do pečení	12	225790km2	37371087	Rajastán(#596) - Daeron
+8.	[P.f.B] predátorský swině z bombaje	12	194583km2	36771211	swině metalová vácca(#693) - SiRvAcA
+9.	[????????] ??????????????????????????????	12	93708km2	36673822	????????????????????????(#309) - Francimor Veliký
+10.	[D1KTATOR] D1KTATOR NEVER D1E	11	179921km2	36292733	ReGenesis(#1007) - xxxBladexxx
+11.	[ZERO] ZačínajícíERotickáOrganizace	12	212459km2	35708632	králíček playboy :P(#269) - Walden r Gwendor
+12.	[.::RS::.] Rytíři Spamu	12	151735km2	34513477	Vrchní spamer Vojtiiik(#2173) - Vojtiiik
+13.	[FOS] Fraction of second	12	173492km2	34032023	Psikulenaroštu(#4133) - Krex
+14.	[LLS] Long Left Side	11	160520km2	33429782	Make Love, Not Webgame(#1533) - NiakarAn
+15.	[JIL] Fatal Error	12	165420km2	31982619	Nebreč,stejně umřeš(#1059) - Diktátor II
+16.	[Bubáci] Bubáci	7	138534km2	31970943	DDT(#913) - Mandelinka Bram.
+17.	[Ganja] Ganja	11	147478km2	31934380	Zase skola? Chjo(#3921) - Joker16.
+18.	[A*o*B] Ali of Beer	8	142116km2	31908267	Breeding Death(#4740) - Zilos
+19.	[ADR] Adrastea	12	176206km2	31820486	Temný les kdesi v Gálii(#244) - Lyall
+20.	[-=THC=-] The Heroic Company	12	213579km2	31466439	-=THC=- Forever(#4090) - Čulapchorn
+21.	[Valkaci] Vyhúlení alkáči	12	184486km2	31163326	Dam si :(/) a vyhladim ta(#839) - HoGoPoGo
+22.	[=DS=] Dog Soldiers	9	137774km2	30660340	MUJ DÍROV(#239) - ToM0
+23.	[=FB=] Farmící Bulánci	12	145754km2	30176094	::::::::...........::::::(#5919) - LordZoltan
+24.	[D3STROY] Gotta D3stroy Em All	6	119790km2	30150716	Herr Jakub Hajánek(#682) - Pepemistr
+25.	[J.J] Jižní javol	11	148565km2	29845656	J.J hnidákov(#4020) - spalenv
+26.	[IDS-JMK] Integrovaný dopravní systémJMK	12	167905km2	29793628	Error//global-skilled(#1064) - Juanita
+27.	[SB] SpikeBallers	12	138815km2	29356141	Natííí :love: Zlatííí :-*(#467) - xkukx
+28.	[RAFANI] Uprchlíci z Kriminálu	12	226986km2	29208429	RAbid FANatic(#773) - Hyperactiv
+29.	[OKN] O Kvalite Nežertujeme	7	108357km2	29088638	Last Train Home(#4451) - Grunt7
+30.	[cz-sk] CeskoSlovensko	12	166614km2	29043445	Mam Malu Armu aHoru Landu(#7275) - Vladce Seanix
+31.	[S.D.E] Solar and Dark Empire	10	149091km2	28812216	World of Soltari(#5837) - soltari
+32.	[Tabáček] Tabáček	12	193142km2	28756129	100DNIvLIHUaFURTŽIJU(#1041) - snasa1
+33.	[anx] antrax rulez	12	156576km2	28358625	Antrax Niagara(#28) - smeti
+34.	[.:BOBR:.] BrutaliceOpice	9	144426km2	28140614	Bobr Elite Team(#4038) - General.Payton
+35.	[HORDA] HORDA CD	12	167403km2	28057278	HellGuard of emerGency(#1018) - Ellector
+36.	[.:V3R:.] Škola Velké Revoluce	12	202770km2	27504763	Endorin(#33) - Smrtka15
+37.	[SS] Summer Shooters	9	143080km2	27388308	Šabľa v sprche :)(#4338) - LorD Drax
+38.	[ManG5] Penzion -BoW-	12	156080km2	27305662	Fúzatá slečinka(#732) - eLmiNo
+39.	[M.W.] mysterious warriors	11	134330km2	27113745	Nevyzpytatelná lamka(#118) - Vlasic III
+40.	[CRUX] IN HOC SIGNO VINCES	12	161059km2	26985356	ALEF ELOHIM(#290) - Parcifal

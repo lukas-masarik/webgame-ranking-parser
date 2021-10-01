@@ -1,0 +1,42 @@
+128. VĚK
+#	Aliance	Členů	Rozloha	Prestiž	Předseda
+1.	[LBL] LBL	10	136707km2	77155286	Modrý pták(#31) - ridgeback
+2.	[NKL] Poslední menu	10	211036km2	52701809	0000007(#333) - 7000000
+3.	[=T=] Trója	10	144272km2	49094463	Winter is coming..(#66) - FR3EZY
+4.	[KL] Killing Legion	10	165824km2	42879182	[KL](#66666) - 7000000
+5.	[ČSB] ČehoSeBojím	10	154578km2	42648095	Bojím se náledí(#886) - SOH
+6.	[Across] Idealistic Organization	10	159009km2	36610687	San Piego(#50) - marv III
+7.	[SUX] vánoční aliance :)	10	151590km2	36386925	SUXessfull(#624) - LuisFigo
+8.	[YOZZEFY] Yozzefy = expy	10	125184km2	35037632	Kampaň proti Burešovi(#96) - Allegro
+9.	[MENSA] ...Vánoční pohodička	10	125362km2	33381703	CATCH M3 IF YOU CAN(#448) - Sir Extrem
+10.	[Anarchy] Farmíme pro horší minulost	10	131392km2	32622092	Touha je zázrak, kámo...(#451) - thordevil
+11.	[90`s] 90`s	10	116759km2	31977790	Nik Slotr(#125) - Shafter
+12.	[**CQR**] Conquerors	10	130810km2	31792498	Dark Conqueror(#1164) - vanna
+13.	[PhaMa] Phantasma Mayhem	10	125619km2	29307682	Alice in Abyss(#870) - bukvicka13
+14.	[DEAD] Welcome to the Hell Kitchen	10	126462km2	29266677	-DEAD- Pecado(#310) - Rigor Mortiz
+15.	[PKZ] Prdeli Ke Zdi	10	130054km2	29050322	.::PKZ Multikar::.(#542) - Kwasak
+16.	[MK] Immortal knights	10	115935km2	27898743	kliksemkliktam(#897) - uzid
+17.	[-=PINP=-] PANDAS IN PYJAMAS	10	93526km2	27759796	Schönau am Königsee(#287) - Herr II
+18.	[queens] QUEENS	10	107216km2	27429581	AHC Pavilon 8(#112) - gorem
+19.	[*Č*S*P*] Česko*Slovenský*Pařani	10	106830km2	26958403	*Č*S*P* Arogantní uličník(#906) - masterboy
+20.	[BumBum2] BumBum cvaj	10	142771km2	26942190	GETREADYFORTHENEXTROUND(#635) - jckl
+21.	[TOPdown] TOPdown	10	142513km2	24720173	nebicko v papulke(#381) - fagancek2
+22.	[-=SCS=-] Semtex Culture Squad	10	124487km2	24636857	Amaterasu(#68) - DJsmrt
+23.	[SB] SpikeBallers	10	133880km2	24115849	Aeternum Vale..(#127) - DieWalker
+24.	[ALI1234] ALI1234	10	109149km2	23686830	usti(#1094) - vachys39
+25.	[RoboUtop] RoboUtop	10	128806km2	23648673	RU bikova kostka(#343) - Lídiště
+26.	[ManG] Maniac Gang	10	176698km2	23530860	Lechtivá slečinka(#1068) - c4u710n
+27.	[-=DH=-] Dark Hunters	10	129209km2	23521656	Amy Pond(#60) - Ersango
+28.	[C.B.] Cripple bastards	10	130090km2	23183952	Vyhulím Ťa(#3182) - Remor
+29.	[Ponorky] Naspat na dno	10	124315km2	23033815	U 77(#1074) - Cipso
+30.	[PA] Polnočná Aliancia	7	88533km2	22436898	starý skiller KOALA(#733) - koala59
+31.	[.:UV:.] Usmolení Vidláci	10	103457km2	22311542	zbytek ze zbytků(#34) - lord Wampireli
+32.	[**SNK**] SmeNaKašu	10	115550km2	21590608	Ferda Mravenec na Kašu(#275) - SnookerLand
+33.	[VerLab] Verík a Labík	10	170054km2	21201263	Muschi Muschi(#1594) - labojse
+34.	[Bull] Black Division	10	117008km2	20927553	GladeRxz(#40) - High Warlord Rxz
+35.	[S.P.A] Spasitelia	10	143572km2	20386565	Bombardér I.(#715) - .G.R.U.M.Y.
+36.	[VZP] Vyvrženci z pekla	10	84002km2	19594582	Vyvrženec Othis(#971) - StillDeadCZ
+37.	[.L.O.S.] Vianočný Losáci	10	127340km2	19298055	LOS made in Destroyer(#203) - BlackTears
+38.	[=HORDA=] For the Horde	10	137382km2	19182523	Hladím idioty(#673) - Krutopepek
+39.	[Tabáček] Veselé Vánoce 2018	10	97158km2	18966854	Vánoční perníček(#387) - snasa1
+40.	[ZERO] ZačínajícíERotickáOrganizace	10	98798km2	18452570	ZERO(#5555) - Caballero

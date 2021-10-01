@@ -1,0 +1,42 @@
+120. VĚK
+#	Aliance	Členů	Rozloha	Prestiž	Předseda
+1.	[**CQR**] Conquerors	10	157872km2	50405575	Dark Conqueror(#638) - vanna
+2.	[VENDETA] Bloody VENDETA	10	169142km2	47516157	Bloody New Year(#91) - Konopess
+3.	[ČSLA] Československá lidová armáda	10	148544km2	40698499	.:CZ-SK:.Joudinkov(#519) - joudinek
+4.	[SUX] parádní aliance :-*	10	141992km2	35292048	SUXessfull(#39) - LuisFigo
+5.	[-THC-] Strana zelených	10	144819km2	35001349	Snorri_Killa(#1205) - Method Man
+6.	[MRUK] NASA program	10	138226km2	33545024	David Copperfield(#121) - Drunk3n
+7.	[ALI1234] ALI1234	10	129448km2	31029326	usti(#708) - vachys39
+8.	[-osn-] Ofuk Starého Niktoša	10	132913km2	30940819	-osn- Land of Immortals(#1308) - Mydliak
+9.	[MENSA] ...spolek jedlíků CHILLI 2018	10	153607km2	30352146	Trinidad Scorpion Moruga(#413) - Sir Extrem
+10.	[M.S.K.] Morkovsky Saci Komando	10	145130km2	30143319	Annihilator(#118) - GanjaCore
+11.	[StrakerS] StrakerS of Dheti	6	86779km2	29875141	Karak Dum(#933) - Reich Graf
+12.	[.L.O.S.] Losáci ze severu	10	122462km2	29577500	LOS made in Zhongguo(#37) - Topisek
+13.	[ČD] České dráhy, jsme tady pro Vás	10	120346km2	29385678	=_EN 407 Chopin_=(#36) - cvachta
+14.	[.:V3R:.] škola sexu	10	144848km2	29049847	Sexuolog(#300) - AndreFox
+15.	[VTIP] Mistři Smíchu	9	127334km2	28753146	VTIP o politicích(#471) - hmnt
+16.	[PKZ] Prdeli Ke Zdi	10	121759km2	28619269	.::PKZ Nightmare::.(#765) - Kwasak
+17.	[Anarchy] Farmíme pro horší minulost	10	126189km2	28018077	Touha je zázrak, kámo...(#1282) - thordevil
+18.	[YOZZEFY] Yozzefy = expy	10	123532km2	27692699	Křížkový Újezdec(#220) - Allegro
+19.	[=ASC=] Australia-Slovakia Connection	10	128808km2	27297123	Toxalania(#1072) - Toxaloxa
+20.	[=L.O.T=] Lord Of Tactic	10	146970km2	27283064	Lord Of Tactic(#143) - tvojasmrt
+21.	[68] 68	10	120691km2	26862516	Artek(#191) - Jurgens
+22.	[Bull] Black Division	10	173258km2	26347766	GladeRxz(#132) - High Warlord Rxz
+23.	[LW] Legendary Warriors	10	118483km2	25757822	Legendary Night Club(#88) - Archimonde73
+24.	[ČSB] ČehoSeBojím	10	120201km2	25561730	Bojím se o tvou zem(#1662) - SOH
+25.	[LW2] Legendary Warriors 2	10	118757km2	25186227	Eror11(#319) - Eror11
+26.	[MOVITS] MODEL NO. 9	10	126398km2	24862843	Budu Vám pít KR3W(#533) - Greenpower
+27.	[HyeNy] Vracaju uder	10	95186km2	24609918	HyeNa LW No.1(#946) - Poncho
+28.	[=T=] Trója	10	127445km2	24556264	Winter is coming..(#34) - FR3EZY
+29.	[L.O.S.] Losáci	10	109798km2	24437564	LOS made in Losos(#947) - .Devilmen.
+30.	[cerveza] pivo	10	119599km2	23764046	Easy target, feelin this?(#716) - kema
+31.	[LordsWG] Spolek anonymních alkoholiků	10	112067km2	21794566	Zohan.:.Disco(#667) - Bukay
+32.	[HONÍME] Honíme si trika	7	91354km2	21723422	Strejda KURT(#267) - KURT
+33.	[RoboUtop] 120. věk	10	104547km2	21710798	RUskou vodku, prosím.....(#1832) - Lord Carcharias
+34.	[Inn] zase pacáky	10	142402km2	21376605	Iceman(#438) - K8po
+35.	[HOPRDOX] HOlou PRdelí DO Xichtu	10	107081km2	20503760	Tell me how horny you are(#129) - Drunk3n
+36.	[IF] Ignorant Fools	5	68927km2	20439595	Who wants to live forever(#1465) - Zorg
+37.	[RAPTOR] Team Raptor	10	102387km2	20329781	Valach v Praze(#491) - Aram Chroustal
+38.	[BEER] We all love beer	10	134501km2	20218352	Buď kuře, ne Babiš :/(#1661) - Mellor
+39.	[*Č*Š*P*] Česko-Slovenský Pařmeni	10	113894km2	19328148	*Č*S*P* nemam te rad(#744) - masterboy
+40.	[Tabacek] Tabacek	10	116071km2	19107916	Kníže Ignor(#232) - ...Aláh...

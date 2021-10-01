@@ -1,0 +1,42 @@
+39. VĚK
+#	Aliance	Členů	Rozloha	Prestiž	Předseda
+1.	[UM] Ukrajinska mafie	12	265760km2	57990159	UM mafian Bohunice(#13075) - Uthden
+2.	[H5N1] Chore Sliepky	12	234545km2	56219800	Anjelik(#4111) - Angelos
+3.	[D1KTATOR] K1LL FOR D1KTATOR	9	169173km2	55487395	EARTHSHATTER(#13751) - .FeXeR.
+4.	[MoM] Morbid obituary Message	11	217303km2	53643017	HellGuard of Noffub(#216) - sir Blade
+5.	[-=KA=-] Killa Army	12	229961km2	52404038	Fúzatá pani Jolana(#14000) - sNufFk0.
+6.	[GanG] Crips	12	219325km2	51496193	GanG Karvinaá(#13749) - RosPal
+7.	[G] GLADIATORS	12	227411km2	50516171	Klouzkoland(#311) - Klouzek.cz
+8.	[=T=] Trója	11	199848km2	50226215	Ararat(#95) - zullu
+9.	[ČSLA] Česko-Slovenská lidová armáda	12	220753km2	48783291	.:CZ-SK:.Jefe de Estado(#1083) - KalinV
+10.	[**CQR**] CONQUERORS	12	187292km2	47797124	Pajinova země(#2383) - PajinXXX
+11.	[WG-elite] WG-elite	12	193530km2	46765443	Blahodárná duše(#1034) - Nespravedlny
+12.	[...EX...] .............EX...............	11	190494km2	46100420	Dobelice(#4429) - Tinky binky ex
+13.	[n1] navrat idiotu	12	219740km2	45981718	MUZUtiZASEDNOUTmistoVbuse(#12272) - s.o.n.g.o.
+14.	[.B.I.S.] banda izolovaných spermií	12	183711km2	45620667	spermos sos keltos(#333) - keltiak
+15.	[.:BoD:.] Brotherhood of Dreadnoughts	12	186357km2	45583319	Neohrožený Banehalow(#4448) - Banehalow
+16.	[FuWg] Fakultní univerzita Webgame	12	183806km2	44297234	ProfesorEskalator de`pňak(#12817) - eska
+17.	[.:H-A:.] Hell Army	12	186215km2	43449793	Hell Archdemon(#10802) - ACHILLEUS88
+18.	[ADR] Adrastea	12	196421km2	42801075	Temný les kdesi v Gálii(#752) - Lyall
+19.	[P.f.B] Predators from Bombaj	12	215674km2	42458838	Vibromax PLEASURE 2000(#679) - Vibromax
+20.	[ManG] penzion recepce	12	168569km2	42230318	Šílená slečinka(#122) - Maniiax
+21.	[-=GL=-] -=Godfather Lili=-	12	208938km2	41168825	Desert Coffin(#13741) - Solon Jhee
+22.	[SoL] Sequence of Light	12	194318km2	41118484	SoL Somalec opluty Lamou(#4638) - K4mik4dzE
+23.	[vendeta] krvava pomsta	12	223596km2	40760600	Bloody Dagger(#6006) - Konopess
+24.	[D3STROY] D3STROY THE WORLD	12	179134km2	39923104	.:Shrine of Azura:.(#3932) - Pepemistr
+25.	[NERO] Nebezpečné Rovnošaty	12	198621km2	38502055	Neradovo(#4391) - nerado
+26.	[IBHZK] Ich Bin Hier Zur Kur	12	171641km2	37328481	Grind core(#933) - Adipocir3
+27.	[-=NO=-] New Order	12	202926km2	37322927	42nd Street(#1532) - PietroM
+28.	[Jukatáni] Jukatáni	11	213911km2	37178218	Jukatán - odhodlaný(#11113) - Aida
+29.	[V1K1NG] aaaa	12	195317km2	36942501	Lukiasko je najkrajší(#2807) - Makac fakac luky
+30.	[WGŠZ] WG škola závisláků	12	157638km2	36461231	Olympic(#207) - vepe VI
+31.	[A*o*B] Ali Of Beer	12	231950km2	35203736	NASRAAAAAAAAAAAAAAT(#6730) - Zilos
+32.	[ganja] ganja	12	154513km2	35019334	Budulínkova zem(#5823) - Budulínek s.r.o
+33.	[H2] HEROES II	12	150670km2	34946553	MasterPJs land(#4339) - BrutoniusIII
+34.	[heechee] nejsme lidé.......jsme heechee	11	184366km2	34688149	converse O_o(#10036) - ElRey
+35.	[HYENY] DEKADA SMRADU :D	6	100065km2	34536887	Jedna...dve... Uchyl jde(#2041) - saiyajiNN
+36.	[ManG5] Penzion -BoW-	12	165104km2	34226235	Japonská slečinka(#94) - Šogun IV.
+37.	[w.g.m] web game mongoli	12	145707km2	33568627	W.G.Monster(#6892) - Dzindzik
+38.	[L.O.S.1.] Lososi od severu poprvé:)	10	136731km2	32835602	Los Komáros(#8782) - Komarenkov
+39.	[BOUNTY] Zasněžené země čeká doba temna	12	176941km2	32712031	zasnezeny medvidek(#3511) - medvidek98
+40.	[K1] K1	5	92209km2	32672038	Seznáš,že jméno mé je Bůh(#14189) - TomiB

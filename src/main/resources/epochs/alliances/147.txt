@@ -1,0 +1,42 @@
+147. VĚK
+#	Aliance	Členů	Rozloha	Prestiž	Předseda
+1.	[CHOS] Chaos of slayer	10	151310km2	44627607	Daniel Mrtík(#449) - vhero
+2.	[ALIVE] Namezdni	10	155119km2	43331777	Namezdni lovec Peppo Fett(#403) - ppedrnikar
+3.	[Lotta] Lotta per la sopravvivenza	10	114896km2	42985619	La nostra e la furia(#95) - stejski IX.
+4.	[HEIST] La casa de papel	10	165311km2	41256966	Andrés de Fonollosa(#4455) - Topisek
+5.	[D1000] Dům tisíce mrtvol	10	152639km2	39991269	Cpt.Spaulding(#1316) - StillDeadCZ
+6.	[Chilli] Hot n Spicy	10	125125km2	39722072	Dragons breath(#90) - Supra1Soul5Play
+7.	[CAR] CAR	10	146456km2	38785481	CAR(#49) - Atlantik
+8.	[MÁMA] Tvoje druhá máma	10	107713km2	38611089	Pussinka tvojí mámy(#316) - gugoslav
+9.	[*UF*] United Farms	10	113761km2	36124150	Memento mori(#1160) - XQG
+10.	[MK] Immortal knights	10	135293km2	32753920	kliksemkliktam(#866) - uzid
+11.	[ENIGMA] Svačina	10	109725km2	32420391	Kuřecí bábovka(#1042) - BoryTruno
+12.	[Anarchy] Farmíme pro lepší minulost	10	114074km2	30589655	Srdce mi pofoukáš...(#709) - thordevil
+13.	[Vazelína] Kdo maže ten jede	10	138338km2	30140683	Ho un grosso cazzo(#62) - pelizid
+14.	[queens] QUEENS	10	126698km2	29951594	Pavilon 8 AHC(#652) - gorem
+15.	[YOZZEFY] Yozzefy = farmy	10	123021km2	29205816	Babiši, kdy se uklidíš?(#484) - Allegro
+16.	[MZA] Miloš -Zahořklý Aparát	10	110746km2	28660522	Pardeeho vlna(#564) - Michellion
+17.	[ganja] GANJA	10	139995km2	28345490	Velky uličník(#1422) - trubkatrubkovic
+18.	[MK2] Immortal knights2	10	116666km2	27896208	hanasland(#608) - hanass
+19.	[L.O.S.] Losaci chteji ven	10	124877km2	26373287	LOS made in Zhonguo(#1122) - Topisek
+20.	[*`=/-.] Supramen	10	147601km2	26076826	Supraman(#81) - Supra1Soul5Play
+21.	[MENSA] ...prostě (j)elita :)	10	149617km2	25951622	NESERA NAVALTO(#77) - Sir Extrem
+22.	[Most] Dycky Degee	9	94288km2	25749529	-DEAD-Rest in pieces(#1008) - Diák
+23.	[Iron] Iron Maiden	10	97036km2	25332969	Powerslave(#237) - Dark moon spider
+24.	[N.n.n-2] No nic no 2	10	104329km2	24911677	Napalm Death(#218) - Carcas
+25.	[SNAKES] jedovatí hadi	10	121602km2	24845692	Chica(#105) - Chica
+26.	[Imp] Impérium rozzlobených farmiček	10	111283km2	24677343	Malonia(#939) - Sedmika
+27.	[PíPíBí] Power Puff Boys	10	118548km2	24341083	Fuzzy Lumpkins(#187) - Muffia
+28.	[-=L*F=-] LAMAFARMA	10	121575km2	23988002	\_^ +sun+ ^_/(#1396) - happyguy
+29.	[BTC] Bitcoin	10	154449km2	22327902	Elon Musk jr.(#278) - Drunken
+30.	[SRAN] Tvoje Máma fandí SRANU	10	154867km2	22215303	Pucuju sasanku tvojí mámy(#331) - Vládce Kabraxis
+31.	[.:MoD:.] Miluji Orální Diskuze	10	113151km2	22184019	Žirafa to umí pořádně(#140) - Smrtihlav2
+32.	[Europe] Europe	10	126234km2	22159420	Arizona(#54) - Kojot prérijní
+33.	[Evropa] Evropa	10	117203km2	21944934	Poušť(#222) - Kojot prérijní
+34.	[ManG] Maniiax Gang	10	150792km2	21352577	HRA S FÁRREM, SPLNĚNÝ SEN(#420) - mara8
+35.	[SUX] znechucená aliance :D	10	165773km2	21322776	SUXessfull(#212) - LuisFigo
+36.	[Jukatáni] Jukatáni	10	120868km2	20374960	Odvar z čapího lejna(#895) - Arachnid
+37.	[**SNK**] SmeNaKašu	10	108277km2	20299747	Liška Bystrouška na Kašu(#148) - Jitus21
+38.	[Polévka] Gulášovka je lék	10	127628km2	20178739	Pepík(#210) - ViewSonick
+39.	[B33r] Pivo dělá krásná těla	10	111676km2	20113338	Magnamundie(#688) - Hones
+40.	[PKZ] Prdeli Ke Zdi	6	99829km2	20009000	.::PKZ::. Like a Boss(#1064) - Kwasak

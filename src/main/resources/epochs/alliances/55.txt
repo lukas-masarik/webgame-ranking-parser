@@ -1,0 +1,42 @@
+55. VĚK
+#	Aliance	Členů	Rozloha	Prestiž	Předseda
+1.	[BOUNTY] Návrat zasněžených fundů	10	195720km2	66631307	Tento způsobe léta zdá se(#5561) - Sjezdovka
+2.	[cerveza] cerveza	10	159726km2	54430023	salamista(#195) - buko10
+3.	[Wrath] Nezájem - vše řešíme rozvědkou	8	127617km2	53352543	I won`t be ignored(#5611) - Gxx
+4.	[DEJAVU] DEJAVU aneb Comanndos is Back	10	213764km2	52311523	::: DIVINE ::: Bastard(#5961) - Comanndos
+5.	[CHELSEA] CHELSEA	10	175865km2	51721651	Frank Lampard(#114) - .Serious Sam.
+6.	[.::R::.] Rytíři	10	175981km2	46857161	Balmung(#548) - steamroller
+7.	[KLASIK] KLASIK	10	181792km2	45344545	Po delší době KLASIK :))(#1806) - kvasiva
+8.	[WG-elite] WG-elite	8	153095km2	44113551	Bishamon(#143) - wrYsp
+9.	[.A.] ASSASSINS	10	184843km2	43825876	.:.:ASSASSIN:.:.(#293) - Blackthunder
+10.	[BH] Black Hand	9	153089km2	42667614	Československá federace(#3107) - Orcidian
+11.	[Anarchy] Farmíme pro lepší budoucnost	10	160165km2	41414711	Touha je zázrak kámo...(#1792) - thordevil
+12.	[Lotta] Lotta per la sopravvivenza	10	169405km2	41298474	mi si accappona la pelle(#3063) - Prefik
+13.	[=T=] Trója	10	157107km2	39574038	Mejsha(#1844) - FR3EZY
+14.	[VT] Pauza :)	10	169916km2	38282944	D.E.F.E.N.D.E.R.(#45) - jedi malec
+15.	[UP] United Psychos	10	176803km2	37754452	D1KTATOR ACmilan(#1241) - ACmilan
+16.	[B.D.] Binary Divison	9	163818km2	37412602	010101010.UČITEL.10101010(#2995) - Corvin mc Grey
+17.	[anx] antrax rulez	10	159316km2	36618439	AntraX Niagara(#595) - smeti
+18.	[AlkoholX] To si vypiješ	10	163850km2	35420267	Tequila Sunrise(#4600) - Uaah
+19.	[=STW=] Simply the Worst	10	158831km2	34712250	Naše pravda je ta pravá..(#5655) - Small Wizard
+20.	[KULE7] KULE7 FOREVER	10	102594km2	34576851	.:Ball Lightning:.(#2179) - DaMarkus
+21.	[=FF=] Fifejdy - Frablovec - FUN	7	120673km2	34440620	ale nejtěžší bylo EKO :-/(#4982) - stcold
+22.	[ČSLA] Česko-Slovenská lidová armáda	10	153131km2	33428459	.:CZ-SK:.Dum spiro,spero(#60) - KalinV
+23.	[cz-sk] ceskoslovensko	10	138143km2	33348798	.:cz-sk:.Zeus(#3637) - Vladce Seanix
+24.	[.hack//] háčkovací kroužek	10	129010km2	32715407	.hack//Pupíkov(#329) - Master of Hell
+25.	[ManG3] Maniiax Gang 3	10	152652km2	31745208	slečinka Absurdisthan(#705) - U245
+26.	[FARMERS] Legenda se vrací....	10	167071km2	31438640	Photograph(#5483) - LukO cZ
+27.	[LPX] Latou po xichte	6	118979km2	31282747	Boh(#3170) - West007
+28.	[TemLeg] Temné legie	10	124943km2	30469634	Naboo Reloaded(#35) - Dart.Kanne
+29.	[574ND4R7] hard core playazz	10	146704km2	30177825	Hold Your Head Up High(#321) - Jiriss
+30.	[.::BR::.] Bloudiví Rytíři	10	138968km2	30089487	Colada(#144) - Turbi
+31.	[LW] Legendary Warriors	10	116555km2	29856841	Legendary Farmer(#2388) - Carcin
+32.	[ICQ] I SeeK You	9	161071km2	28754590	173090403(#238) - ISE
+33.	[AA] Allstars aliance	10	134758km2	28694026	Star happy holiday(#177) - Helmus
+34.	[=*DC*=] Dark Company	10	135809km2	28438114	Dark Kopřivniceeee(#1685) - Dark Caromdura
+35.	[-SC-] Skull Collectors	10	131749km2	27636747	Hlada sa mumakyyy(#42) - Efca
+36.	[DMNCWG] Platíme za chyby adminů	10	103455km2	27565959	Jihomoravské Vínečko(#3024) - MotherFotr
+37.	[IBHZK] IchBinHierZurKur Strikes BACK	10	116294km2	26805174	Black to the future(#4662) - R0CK3D
+38.	[.:V3R:.] revolučná škola sexu	10	144269km2	26678964	Carmen Electra(#734) - Alexius
+39.	[.:V10R:.] Velká revoluce po desáté večer	10	127186km2	26339525	Road to Zion(#2163) - renown
+40.	[.:BV:.] Banda Vocasů	9	131347km2	26218503	Vocas farmář Sawy(#3745) - sawyer007

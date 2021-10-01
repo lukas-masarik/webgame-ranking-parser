@@ -1,0 +1,42 @@
+125. VĚK
+#	Aliance	Členů	Rozloha	Prestiž	Předseda
+1.	[SUX] pasivní aliance 8-)	10	139344km2	39343589	SUXessfull(#422) - LuisFigo
+2.	[MENSA] ...fotři na tahu	10	148219km2	36657573	CATCH M3 IF YOU CAN(#145) - Sir Extrem
+3.	[Ganja] ganja	10	150810km2	36504045	Myspulin(#498) - Joker16.
+4.	[Bull] Black Division	10	147313km2	35400057	GladeRxz(#653) - High Warlord Rxz
+5.	[SOCH] Slayers of chaos	10	120868km2	34698099	Fallen_Angel(#296) - vhero
+6.	[L.O.S] Losáci z jihu	10	130964km2	34409774	LOS made in Holiday(#35) - Topisek
+7.	[SIL] Silmarillion	10	132008km2	33258965	Winter is Walking Dead(#365) - Martin858
+8.	[Anarchy] Farmíme pro lepší budoucnost	10	135457km2	32418649	Touha je zázrak, kámo...(#138) - thordevil
+9.	[C.B.] Cripple bastards	10	134861km2	31966951	Vyhulím Ťa(#79) - Remor
+10.	[90`s] Vykopávky na tahu	10	143251km2	31541663	Mič Bjůkenen(#560) - VooOool
+11.	[RoboUtop] Skillovy ovečky	10	115442km2	31016155	RUžový tank(#223) - Lord Carcharias
+12.	[*SnsrN*] S nami sa radsej nezahravaj	10	122354km2	30575580	1lll11l1l111ll1l11lll11l1(#1103) - TranceSexual
+13.	[zooutop] Nahodit pacak	10	122793km2	30140071	Vrchni piskac zooutop(#215) - ppedrnikar
+14.	[ALI1234] ALI1234	10	134678km2	29854042	usti(#341) - vachys39
+15.	[YOZZEFY] Yozzefy = expy	9	128918km2	29559932	Svědci Babišovi(#91) - Allegro
+16.	[B33r] Pivo dělá krásná těla	10	113552km2	28811245	Magnamundie(#400) - Hones
+17.	[COOL] Godzil co tam píšeš :D	10	151867km2	28378555	... Chceš být fit ...(#606) - Zkusimto
+18.	[Ponorky] Naspat na dno	10	109765km2	26417643	U77(#1221) - Cipso
+19.	[U.u.K.] Uhrice u Kukurice	10	115946km2	25979843	Anarchy in U.u.K.(#914) - GanjaCore
+20.	[.:TN:.] Temna noc	9	115040km2	25867736	Římané(#692) - hexsa
+21.	[ZERO] ZačínajícíERotickáOrganizace	10	139173km2	25649309	0(#99) - Caballero
+22.	[Planet-X] Solaris System Experiment	10	117685km2	25508439	Zep Tepi(#738) - Marek Da Emperor
+23.	[FETKA] Fetuj jako ponrava	10	144377km2	25475861	n1 More(#49) - Estetik
+24.	[VzP] Vyvrženci z Pekla	10	140055km2	25194546	Vyvrženec Othis(#130) - StillDeadCZ
+25.	[mXt] metaXtren	10	100969km2	23559544	Bobíkov(#199) - BOBSTEIN
+26.	[Bombing] Bombové léto	10	131555km2	23422562	Bombing Hero(#225) - the last Hero
+27.	[-=F*A=-] Fallen Angels	10	97868km2	23165666	-FA- Franta Alkoholik(#61) - hagg1d
+28.	[LEGO] kostky jsou vrženy	10	131369km2	22610222	LEGO PaedDr. Archi CSc.(#479) - ArchimondS
+29.	[.Ganja.] .ganja.	10	168844km2	21782030	Lipous(#502) - Joker16.
+30.	[UTOP-X] UTOP-X Solar Utop Emperor	10	111251km2	21109570	PLANET-X Orbit of Nemesis(#1219) - ZUMOTRIX
+31.	[LordsWG] Čakry hard	10	112019km2	20755183	MAXIMUS DECIMUS VERIYGIUS(#704) - MySEl
+32.	[D1000] Dům Tisíce Mrtvol	8	96919km2	20744822	Vyvrženec RufusDwirefald(#136) - StillDeadCZ
+33.	[PhaMa] Phantasma Mayhem	10	139779km2	19968092	Jebat alláha pálit mešity(#166) - BusteRHUX
+34.	[=T=] Trója	10	141324km2	19909151	Chulimanga(#243) - FR3EZY
+35.	[SB] SpikeBallers	10	98877km2	19353409	Aeternum Vale..(#1236) - DieWalker
+36.	[OMS] OneManShow	10	109107km2	18699604	Castiana(#457) - zbehllik
+37.	[KZ] Klátíme Zrzky	8	102099km2	18567221	Bolla Ball(#806) - PozarniSbor
+38.	[MGCS] My Granny Can Skate	10	86317km2	18544449	.::PKZ diktator2::.(#171) - Grafical
+39.	[=wale=] TroubleGang	10	129544km2	17886050	Dead man walking ...(#472) - Hardwell
+40.	[VN] Vostrý náboje	10	93120km2	17111999	.22 Hornet(#363) - Nicole Kidmann

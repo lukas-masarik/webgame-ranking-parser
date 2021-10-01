@@ -1,0 +1,42 @@
+127. VĚK
+#	Aliance	Členů	Rozloha	Prestiž	Předseda
+1.	[queens] QUEENS	10	145797km2	45559912	AHC Pavilon 8(#383) - gorem
+2.	[Ganja] ganja	10	151897km2	38467137	Mamba(#801) - Joker16.
+3.	[-THC-] Strana zelených	10	144789km2	36888288	Snorri_Killa(#1290) - Method Man
+4.	[SOCH] Slayers of chaos	10	125259km2	36254543	Cauky Land(#992) - Brawek
+5.	[Tabáček] Tabáček	10	160348km2	35659890	Czech Virus(#605) - snasa1
+6.	[SIL] Silmarillion	10	179560km2	35507473	Dwight Schrute(#505) - Martin858
+7.	[**SNK**] SmeNaKašu	10	124343km2	35172033	Ferda Mravenec na Kašu(#408) - SnookerLand
+8.	[-=DH=-] Dark Hunters	7	99565km2	34458354	Amy Pond(#1001) - Ersango
+9.	[68] 68	10	134684km2	32215806	Artek(#44) - Jurgens
+10.	[YOZZEFY] Yozzefy = expy	10	121403km2	31979872	Svědci Babišovi(#91) - Allegro
+11.	[ZERO] ZačínajícíERotickáOrganizace	10	137638km2	31332932	ZERO(#974) - Caballero
+12.	[SUX] nebezpečná aliance :-O	10	146383km2	30402341	SUXessfull(#688) - LuisFigo
+13.	[PKZ] Prdeli Ke Zdi	10	126508km2	30078260	.::PKZ Prasopysk::.(#1428) - Kwasak
+14.	[Bombing] Bombit komouše	10	140658km2	29841276	Bombing Hero(#513) - the last Hero
+15.	[DEAD] Milujeme Vás	10	111448km2	29436582	-DEAD-PpepeNemaPenachym(#631) - Diák
+16.	[=HORDA=] For the Horde	8	108462km2	28455851	Thunder Bluff(#12221) - Krutopepek
+17.	[=T=] Trója	10	159498km2	27193459	Winter is coming..(#173) - FR3EZY
+18.	[Anarchy] Farmíme pro horší budoucnost	10	120539km2	26339255	Touha je zázrak, kámo...(#401) - thordevil
+19.	[eXa] eXalogic	10	115949km2	26199174	Invalidus(#575) - Hadesland
+20.	[SB] SpikeBallers	10	132930km2	26152704	Aeternum Vale..(#159) - DieWalker
+21.	[N-N-N] Nečum, nebreč, neotravuj	10	126637km2	25435609	Vaše pr** pozná středověk(#716) - ASA
+22.	[zooutop] Zvireci sebranka	9	103660km2	24028178	Necum na Surikatu(#359) - ppedrnikar
+23.	[B33r] Pivo dělá krásná těla	10	110448km2	23962406	Magnamundie(#793) - Hones
+24.	[ManG] Maniiax Gang	10	130759km2	23829024	Sarkasmus je moje milá(#556) - mara8
+25.	[nBd.] Never Back Down	10	137819km2	23219233	UmimKopnoutDoAuta(#764) - HromikSir
+26.	[MK] Immortal knights	10	105406km2	23095958	kliksemkliktam(#844) - uzid
+27.	[RoboUtop] Slavíme 100. let republiky	10	126133km2	22986248	RUnczech(#409) - Lord Carcharias
+28.	[*MAFIE*] Mafie	8	97342km2	22364783	.................(#1234) - Sample.
+29.	[PRDOX] PRdelí DO Xichtu	10	157349km2	21623695	In Memoriam Halooser(#63) - pmtiep
+30.	[-=VH=-] Vozová Hradba	10	110968km2	20937714	Žižka(#666) - perunpiczo
+31.	[Planet-X] Solaris System Experiment	10	111060km2	20822024	Zep Tepi(#104) - Marek Da Emperor
+32.	[MENSA] ...fotři na tahu	10	159112km2	20790435	CATCH ME IF YOU CAN(#499) - Sir Extrem
+33.	[-=SCS=-] Semtex Culture Squad	10	91896km2	20215026	Letní tábor Kalich(#439) - Black Napalm
+34.	[ČSB] ČehoSeBojím	10	121491km2	20200103	Bojím se rakataka(#1528) - labojse
+35.	[D1000] Dům Tisíce Mrtvol	10	149621km2	19880963	Vyvrženec Spoilding(#131) - StillDeadCZ
+36.	[Bull] Black Division	10	158189km2	19787336	GladeRxz(#255) - High Warlord Rxz
+37.	[LEGO] stavíme Sankt-Petěrburg	10	94387km2	19440548	LEGO PaedDr. Archi CSc.(#922) - ArchimondS
+38.	[G-S] Gangster-Squad	10	134815km2	19406764	Tu Veneno(#256) - Ex.Dirty.löwe.
+39.	[-=PINP=-] PANDAS IN PYJAMAS	10	91674km2	19187050	Schönau am Königsee(#189) - Herr II
+40.	[S.P.A] Spasitelia	10	160639km2	19063318	Soul of a lion(#58) - .G.R.U.M.Y.

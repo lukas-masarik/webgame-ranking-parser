@@ -1,0 +1,42 @@
+72. VĚK
+#	Aliance	Členů	Rozloha	Prestiž	Předseda
+1.	[VÍCADMIN] Víceadministrátoři Webgame	10	190644km2	47844059	Někdo tam nahoře se dívá(#749) - podwratak
+2.	[DF] Dark Family	10	204163km2	45440357	Slecinka DF(#1771) - Hanz Guderian
+3.	[=*ss*=] Sex Shop	8	142397km2	41805928	Ostravsky VELKOSRAZ 14.4.(#160) - PEJSEKaKOČIČKA
+4.	[BFP] Bad Fat Pipe	10	144640km2	37695171	boheMista(#1402) - Mista
+5.	[-=DF=-] -=Destilat Fanatics=-	10	146516km2	36467650	-=DF=- Fernet Citrus(#2230) - Michal44
+6.	[Across] Idealistic Organization	10	139531km2	36041751	Úzkoprsý útočí(#2029) - marv III
+7.	[ManG] maniiax gang	10	153122km2	34495700	Nemilosrdná Slečinka(#1203) - c4u710n
+8.	[=*DC*=] Dark Company	9	143310km2	33786640	Rhadamanthys(#2155) - Namibi
+9.	[-osn-] Ofuk starého niktoša	10	133706km2	33074889	-osn- Vozo-is-back(#85) - Vozicek
+10.	[.::R::.] Rytíři	9	132827km2	32511686	mister BomBaStic(#1979) - .FaLLeN25.
+11.	[ZEVL] Zevlouni	10	146290km2	32014899	do močálu se močí(#997) - adduktor
+12.	[Ganja] Ganja	10	161679km2	30523787	Střechy jsou mi chodníkem(#652) - Dhany
+13.	[x.x.x.] Leo Messi je Bůh	10	157230km2	30491735	Speedy Gonzales(#1209) - KingSixx
+14.	[PaKO] Spolek ohrožených lam	10	147394km2	29571614	Víla zubnička(#186) - Folmis
+15.	[KRTEČEK] Hrabáním k lepším zítřkům...	10	141853km2	28632671	Krteček a makovička(#2717) - IMraz
+16.	[:.AoA.:] Angels of Apocalypse	10	128072km2	27468338	Angel of Night(#2130) - HardTor69
+17.	[PORNO] Evoluce pornografie	9	140337km2	27214294	Abeceda Webgame(#61) - E.S.O.
+18.	[CHARITA] Uvidíme, co z toho bude.	10	129636km2	26894700	Fesdurius(#2370) - Kazatel Havlis
+19.	[DpN] Duchna pre Novačikov	9	103755km2	26538524	Dark Fénix(#2441) - Jamailes
+20.	[.hunteRs] Team .hunteRs	10	127187km2	25284071	.hunteRs.Afterlife(#1239) - FRaktura
+21.	[S.P.K.] spolek přátel koz	10	122888km2	25240766	Kulefuč(#37) - Phoenyks
+22.	[P1] přežijeme aspon 1 den	9	145413km2	25228678	P1 vic jak den nepreziju(#2116) - XXXGrey
+23.	[StrakerS] Power of Jedi	10	113053km2	24916843	Cien anos de soledad(#724) - podwratak
+24.	[-=D2F=-] -=Destilat 2 Fanatics=-	10	99723km2	24854764	-=DF=- Cuba Libre(#2492) - Degee mDfK
+25.	[(RV)] Ryba vole :D	10	112109km2	24301749	Underbelly(#2067) - ListerD1
+26.	[AveCesar] AveCesar a jaro je tady.	10	134858km2	24049499	.:AveCesar:.Ledce(#534) - Ares65
+27.	[S.S.T.] Spojene sily terorismu	10	111436km2	24016128	nBD.Trutnov(#1664) - alksj
+28.	[68] 68	10	133119km2	23674809	Artek(#55) - Jurgens
+29.	[PH] Peha	4	64386km2	22912847	Jožko Kukuricúdus(#1048) - gorbatčov
+30.	[DF2] Dark Family II.	10	132939km2	22854110	Cristiano Ronaldo(#84) - castropola
+31.	[SZS] Strategie Zkušenost Spolupráce	10	141076km2	22378507	SZS maestro(#57) - Q4z3R
+32.	[A7X] Avenged Sevenfold	10	118852km2	22346879	M.I.A.(#46) - Mephisto
+33.	[ALI1234] ALI1234	10	122949km2	22190620	usti(#1442) - vachys39
+34.	[*zoo*] Zeal offensive organization	10	85774km2	22110847	ppedrova prazdna hlava(#2114) - XXXGrey
+35.	[HyeNy] Bordel, Spina, Smrad	10	173331km2	22025321	autistická zelená(#2431) - efendi sheltox
+36.	[.A.] ASSASSINS	10	114069km2	21828764	.:.:ASSASSIN:.:.(#1871) - Blackthunder
+37.	[TSI] Turbo Stratified Injection	10	99164km2	21523778	FoxtrotUniformCharlieKilo(#2828) - Tutanchamon
+38.	[CHRO] Ultimate Chrownage Team	10	105412km2	21484196	Budoucnost je v jádru(#3190) - Duke Nukem
+39.	[-BLOOD-] Blood and Bone	10	110048km2	21186566	HeadShot do Hlavy(#828) - cervenytrpaslik
+40.	[H2O] Water Bandits	10	113885km2	21091324	waterdog(#1839) - Waterdog

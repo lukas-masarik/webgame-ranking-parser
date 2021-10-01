@@ -1,0 +1,42 @@
+105. VĚK
+#	Aliance	Členů	Rozloha	Prestiž	Předseda
+1.	[VKVSL] Velmi křehký varan snědl lamu	10	120651km2	49072512	VARAN Z HOR(#688) - U.U
+2.	[OPVV] Omyj penis vlažnou vodou	10	70137km2	46558892	Sarkasmus je moje milá(#147) - mara8
+3.	[K-K-K] Klekni, Kuř, Kloktej	10	191282km2	46231681	Kdybyste viděli jak Piši kliká(#1958) - ASA
+4.	[SPRITE] my jsme sprajt a vy žízeň	10	161562km2	42285742	GOLD nafurt.(#727) - demonstrate
+5.	[.L.O.S.] Losáci ze Severu	10	143169km2	41827965	LOS made in Destroyer(#367) - BlackTears
+6.	[CHRP] Chrapúni	10	158212km2	40763013	Pozorovatel - davam pozor(#405) - kullino
+7.	[REC] Recidivisté	10	65270km2	40327609	Lechtivá slečinka(#136) - c4u710n
+8.	[DEJAVU] Star Wars Edition	10	122523km2	38810453	Luke Skywalker(#156) - Comanndos
+9.	[KUK] Incredible strength	10	177056km2	38617817	PSČ CREW...(#420) - gerbera
+10.	[VVC] Vultures in Vivid Color	10	119052km2	36772280	rikudou sennin(#1286) - Lucky6186
+11.	[D1R1GENT] Nazdar čo si ma nepametáš...:D	10	122945km2	36041570	ToP 1(#344) - Morfeus
+12.	[S.S.T.] Spojené síly terorismu	10	133145km2	35842701	.:S.S.T:.Ahmed z Trutnova(#302) - alksj
+13.	[OKNO] O Kvalitě Nežertujeme	10	151414km2	35164940	BloodInTheBreeze(#212) - leszek
+14.	[*SnsrN*] S nam si radšej nezačinaj	10	159871km2	34361568	Se mnou si nenahrabeš(#1599) - Floutec
+15.	[=T=] Trója	10	140723km2	34076846	Winter is coming..(#1003) - FR3EZY
+16.	[ČSLA] Československá lidová armáda	10	141168km2	33448588	.:CZ-SK:.AK-47ProduceR(#426) - AKland
+17.	[VT] Vitazne Tazenie	10	165600km2	33106666	Imho je...GOOD GUY(#355) - imhot3p
+18.	[nBd.] Never Back Down	10	123452km2	32159231	neBudu dojit(#49) - Topisek
+19.	[ALI1234] ALI1234	10	131667km2	31821982	usti(#735) - vachys39
+20.	[Across] Idealistic Organization	10	146325km2	31479718	Boris Brejcha(#1167) - marv III
+21.	[YOZZEFY] Yozzefy = expy	10	132441km2	30257748	Křýžkový Újezdec(#1282) - Allegro
+22.	[x.x.x.] Čapí hnízdo	10	136325km2	30255490	Paradise city(#857) - KingSixx
+23.	[ZSB] Zima sa blíží	10	130038km2	30113777	John Sníh(#866) - matto10
+24.	[Tabáček] Tabáček	10	138262km2	29606264	Vědomí Nevědomí Svědomí(#86) - snasa1
+25.	[MENSA] ...jen tak lehce eroticky	10	138943km2	29432374	PROF. EXTREM CSc.(#956) - Sir Extrem
+26.	[Anarchy] Farmíme pro horší minulost	10	124851km2	29387501	Touha je zázrak, kámo...(#87) - thordevil
+27.	[WG-PROF] WG-PROFESSIONAL	10	158093km2	29069722	Chosen one(#710) - jowood2
+28.	[LordsWG] Domobrana	10	137217km2	27894339	-= Sp1r1t misell =-(#604) - MySEl
+29.	[PR] Psycho Realm	10	159232km2	27722032	nesnasim a nicim(#1818) - abraxas
+30.	[Ponorky] Naspat na dno..	10	123159km2	27215190	U77(#1643) - Cipso
+31.	[Bull] Black Division	10	123521km2	26891554	=B= BullMasteR(#213) - High Warlord Rxz
+32.	[Start] aneb nováčci útočí	9	109782km2	24390523	Strejda KURT(#1306) - KURT
+33.	[D3V1L5] Masters Of Underworld	10	139894km2	24214220	Čajna(#143) - Falkus.
+34.	[Ganja] Ganja	10	121354km2	23058569	Alkáč, neboli alkoholik(#603) - ..Hanz..
+35.	[=wale=] Tvoje máma má malý čůča ...	6	101236km2	22964417	Bohatej a krásnej ...(#273) - Hardwell
+36.	[Ancient] Divide et impera	9	106812km2	22784580	Všem DĚKUJI za gratulace(#1817) - Zorg
+37.	[ItNofS] Ve jménu starých časů ...	10	125009km2	22267424	HyChyKyRyDyTyNy(#107) - PanMaur
+38.	[DVEŘE] Neklepej nebo ti otevřem	10	139443km2	21615027	Mrtvý prd ví.(#596) - Dupooooo
+39.	[*`=/-.,] Supramaniac	10	129269km2	21399984	Am I right?(#781) - Supra1Soul5Play
+40.	[***PV***] Pod vlivem	10	147538km2	21150945	JiříBabica a jeho dobroty(#806) - EmAChe

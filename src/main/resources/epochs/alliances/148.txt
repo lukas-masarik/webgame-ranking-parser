@@ -1,0 +1,41 @@
+148. VĚK
+#	Aliance	Členů	Rozloha	Prestiž	Předseda
+1.	[ALIVE] Namezdni lovci	10	122770km2	48269929	Namezdni lovec Peppo Fett(#429) - ppedrnikar
+2.	[CE] homeoffiCEEEEEEEEEEEEEEEEEEEEE	10	166095km2	44814755	asymptomatická kverulácia(#83) - Leninus
+3.	[*`=/-.,] Supramen	10	145259km2	44312081	Supraman(#69) - Supra1Soul5Play
+4.	[PíPíBí] Power Puff Boys	10	135777km2	43647084	Fuzzy Lumpkins(#230) - Muffia
+5.	[42] Pro radost	10	130574km2	41793993	ZLÝ PES(#42000) - mara8
+6.	[Skritkov] Skritkov	10	119181km2	41098984	peli je zid(#381) - stejski IX.
+7.	[MENSA] ...prostě (j)elita :)	10	127660km2	39975932	NESERA NAVALTO(#142) - Sir Extrem
+8.	[YOZZEFY] Yozzefy = farmy	10	142767km2	39879026	Vlastizrada(#466) - Allegro
+9.	[Bubáci] Bubáci	10	211488km2	38317593	Duhovka(#851) - .DuKeLuKe.
+10.	[-4F-] 4 the Future	10	137553km2	37730020	Vtipný Tomas(#56) - hagg1d
+11.	[Anarchy] Farmíme pro horší budoucnost	10	132206km2	37450509	Srdce mi pofoukáš...(#195) - thordevil
+12.	[PKZ] Prdeli Ke Zdi	10	116589km2	33049944	.::PKZ::. Multikar(#685) - Kwasak
+13.	[K0MUN1ST] Rozvědka a rakety	10	56309km2	29546014	Raketový inženýr(#425) - masterWG
+14.	[Evropa] Evropa	10	127974km2	27797937	Prérie(#3333) - Kojot prérijní
+15.	[D1000] Dům tisíce mrtvol	10	154984km2	27599733	Rob Zombie(#1126) - StillDeadCZ
+16.	[**SNK**] SmeNaKašu	10	123166km2	25577240	Liška Bystrouška na Kašu(#288) - Jitus21
+17.	[.:MoD:.] Modifikovaná orální diskuze	9	110572km2	25305836	Žirafa to umí pořádně(#258) - Smrtihlav2
+18.	[FH] Führerovi hvězdičky	10	121937km2	24619038	Slava Ukrayini(#493) - Athara
+19.	[::FŘ::] Fénixův Řád	10	119026km2	24228230	Petr Pan(#1082) - Kaery
+20.	[MÁMA] Tvoje máma tentokrát nefarmí	10	143312km2	24060935	Pussinka tvojí mámy(#359) - gugoslav
+21.	[ganja] GANJA	10	144303km2	22470389	Velky uličník(#108) - trubkatrubkovic
+22.	[-DooM-] Všude dobře, doma nejlíp...	10	140621km2	22026783	Divocí a zlí(#257) - maniacz
+23.	[MaNTiNeL] ...	10	138980km2	21582617	Spermosrk Párnorix(#547) - VooOool
+24.	[SRAN] Tvoje Máma	10	147580km2	21534438	Pucuju sasanku tvojí mámy(#398) - Vládce Kabraxis
+25.	[A.N.D.] Angels Never Die	10	96041km2	21404073	ARCHANGEL-Aquileje(#1144) - Turdos
+26.	[AveCesar] AveCesar a nové impérium.	10	125016km2	21227191	.:AveCesar:. Brumbál(#294) - Ares65
+27.	[Europe] Europe	10	114477km2	21165839	Poušť(#80) - Kojot prérijní
+28.	[B33r] Pivo dělá krásná těla	10	133251km2	21007776	Magnamundie(#867) - Hones
+29.	[=T=] Trója	10	144788km2	20890206	Chulimanga(#1390) - FR3EZY
+30.	[ATP] Aliance případného triumfu	10	101742km2	20802406	Přirozený talent(#1110) - 4n.Tr4x
+31.	[MK2] Immortal knights 2	10	135695km2	20071199	hanasland2(#143) - hanass
+32.	[MK] Immortal knights	10	136168km2	19920211	kliksemkliktam(#506) - uzid
+33.	[.:YD:.] .:Your Death:.	10	110659km2	19736708	Tvé oči tě mohou klamat.(#33) - White Dead
+34.	[SUX] nabušená aliance 8-)	10	95203km2	19626309	SUXessfull(#705) - LuisFigo
+35.	[TLC] The Last Chance	10	149386km2	19188198	NO_brain(#1079) - hráčsjménem
+36.	[BION] Believe it or Not	10	103798km2	18474094	what if i told you(#204) - azumax
+37.	[Nnn2] No nic no 2	10	105737km2	17378831	Sodom(#633) - Carcas
+38.	[PaTo] PaToLoGiE	4	58686km2	16970249	Sao Tome and Principe(#822) - kill666
+39.	[Weed] Bohu dušu a mne dukáty	8	73726km2	16934827	Kladivo na čarodějnice(#1243) - .Al Capone.

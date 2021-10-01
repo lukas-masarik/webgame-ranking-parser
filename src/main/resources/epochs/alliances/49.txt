@@ -1,0 +1,42 @@
+49. VĚK
+#	Aliance	Členů	Rozloha	Prestiž	Předseda
+1.	[SB] SpikeBallers	12	303333km2	112895320	VRCHNÍ GAYLORD(#4418) - xkukx
+2.	[POVKO] POGO V KOTLI	12	212882km2	51191771	Metalomanie(#461) - SiRvAcA
+3.	[ČSLA] Česko-Slovenská lidová armáda	12	167799km2	45962321	.:CZ-SK:.Dum spiro,spero(#2101) - KalinV
+4.	[.A.] ASSASSINS	12	231600km2	42954194	::.:4554551N::.:(#46) - Blackthunder
+5.	[H5N1] Choré Sliepky	12	172437km2	42408519	stat plny spokojnosti(#65) - J3FO
+6.	[Z] Zeměplocha	12	193112km2	39263899	Cori Celesti(#4818) - kIt. .
+7.	[ManG] Maniiax gang	12	211405km2	38695573	Decimus.slečinka(#5447) - alien407
+8.	[Kačerov] My z Kačerova	12	232850km2	37785222	Kačer Hyper je prasák(#462) - ...Kápo...
+9.	[AUTORITA] Každý věk lepší a lepší.......	12	174026km2	36264115	AUTORITA - KONEČNĚ JE TU(#351) - Lukastrance
+10.	[BuFu] Blb3c uZ FurT	11	172351km2	36163350	KORINKA JE NAJUZASNEJSIA(#6930) - oOo0oOo0
+11.	[=FF=] =Frigidní Friendi=	12	156193km2	35133370	FF Discofil na dovolene(#1022) - Joe091
+12.	[*GA*] Guardians Angels	12	170872km2	34129728	Asopovo řecké Saganaki(#57) - cranberiss
+13.	[B.D.] Binary Division	12	181690km2	33046985	0111001011111010101011011(#934) - Corvin mc Grey
+14.	[CSA] Celkem Solidní Aktivity	12	154495km2	32506513	.::CSA::.HUHUHUHAHA(#2751) - Billywu
+15.	[HeHe] Heaven`s Hell	12	148408km2	31320087	*B*R*I*S*I*N*G*R*(#5835) - Rebelka001
+16.	[/Fe4r/] IN CHLAST WE TRUST	12	119548km2	31183257	ANOTHER DAY IS GONE...(#175) - .adm1n.
+17.	[DF] Dark Family	12	151829km2	31110686	Dark Lesnovek(#3275) - Hanz Guderian
+18.	[***B***] BENDA s.r.o.	10	137789km2	30320220	***B*** land 01(#3376) - 10987654321
+19.	[H2O] Water Bandits	12	143175km2	30185078	Medras(#1829) - Mirain
+20.	[Lotta] Lotta per la sopravvivenza	12	177583km2	30101905	mi si accappona la pelle(#197) - Prefik
+21.	[TMT] Apocaliptic Knights	6	101706km2	29120286	The Lord of Terror(#1025) - DarkMiki
+22.	[::R::] R3S93K7 ON THE WORLD	12	158875km2	29042675	R3S93K7 Chaozz Zampi(#1111) - zampino
+23.	[PONORKY] Opat ku dnu	12	162960km2	28214389	U 20(#3587) - B.Franklin
+24.	[-=AB=-] Atomic Bomberman	10	131400km2	27966411	Bomberman Sph1nx(#198) - Sph1nx
+25.	[S*K] Skank Teritory	10	117385km2	27882887	Boskov(#4083) - Bigbosh2
+26.	[RSQ] Rogue Squadron	12	140155km2	27851386	Rogue Leaf on the Wind(#640) - Ranger Mike
+27.	[CCN] Cococaine	11	141067km2	27647768	=KOKS= master(#4059) - Manuel Casltess
+28.	[BOUNTY] Společenství Zasněžených Zemí	11	113617km2	27232502	Zasnezena Alpinia(#5387) - Sjezdovka
+29.	[-=BT=-] Bene Tleilax	12	142853km2	26745597	chin(#4951) - chinchila
+30.	[VICADMIN] Víceadministrátoři Webgame	12	115160km2	26214036	Ter Leeloo II.(#1731) - just mozeg
+31.	[VMCh] Velmi Málo Chápaví	7	126575km2	26048485	za Verunkuuuuu =o*(#493) - Fereofar
+32.	[ManG5] Penzion -BoW-	12	134897km2	25763057	Fúzatá Slečinka(#473) - eLmiNo
+33.	[BE] Black Eagles	5	59237km2	25496304	1. zem nebyla založena.(#2044) - CrazyBob
+34.	[.B.I.S.] banda izolovaných spermií	12	127235km2	25492732	IDEME TO TU OSEFOVAT..(#7917) - keltiak
+35.	[.:V10R:.] Velká revoluce po desáté večer	12	183853km2	25047744	Tááááááááákovýhle oči(#3748) - Pepina
+36.	[VALHERU] VALHERU	8	111707km2	24611568	JSEM ZLY(#3835) - Chelaton
+37.	[.:YD*DM*] Demolition Men	10	122128km2	24151213	NeW G@nj@ L@nD(#7063) - Tony86
+38.	[TFMJ] Total Full Metal Jacket	12	134025km2	23894628	argo(#8041) - vandien
+39.	[LEGIE] Legie Zatracenců	11	133162km2	23633421	Diego(#597) - Mireo
+40.	[.:KAI:.] Rytíři řádu KAI	10	139871km2	23539917	Sommerlund(#316) - tacmund

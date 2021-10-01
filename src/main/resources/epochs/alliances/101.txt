@@ -1,0 +1,42 @@
+101. VĚK
+#	Aliance	Členů	Rozloha	Prestiž	Předseda
+1.	[-=DF=-] -=Destilat Fanatics=-	10	141069km2	37318781	-=DF=- Absolut Vodka(#154) - Michal44
+2.	[=T=] Trója	10	168472km2	35871001	Winter is coming..(#302) - FR3EZY
+3.	[DF] Dark Family	10	149729km2	34998735	Slecinka DF(#1115) - Hanz Guderian
+4.	[M] MOON	10	126061km2	33668731	Atlan(#48) - Atlantik
+5.	[MK] Immortal Knights	10	149208km2	32968846	DJ haLOOSER ft. Posel Boží(#1448) - Zorg
+6.	[-.-] -.-	8	129331km2	32700737	qwertzuIopasdfghjklyxcvbn(#394) - H3lp1k
+7.	[.L.O.S.] Losáci zo Severu	10	129326km2	32642936	LOS made in Destroyer(#176) - BlackTears
+8.	[Across] Idealistic Organization	10	129040km2	31087630	Karol Duchoň(#266) - marv III
+9.	[SPRITE] my jsme sprajt a vy žízeň	10	130116km2	30962912	Pocemkamdeš(#1691) - demonstrate
+10.	[MENSA] Mimořádně nadaní...	10	147183km2	29836052	PROF. EXTREM CSc.(#628) - Sir Extrem
+11.	[YOZZEFY] Yozzefy = expy	10	120171km2	29369515	Křížkový Újezdec(#424) - Allegro
+12.	[-osn-] Ofuk starého niktoša	10	142006km2	28557073	-osn- stále málo :-D(#1014) - D1N1AK
+13.	[ZSB] Zima se blíží	10	134315km2	27129146	Jon Sníh(#1692) - matto10
+14.	[S*K] Skunk Teritory	10	95783km2	26535259	Bigboshov(#264) - Bigbosh2
+15.	[=101=] 1100101	10	168035km2	26533821	0010110001011111010100100(#805) - FL4SHh@cker
+16.	[N-N-N] Nečum, Nebreč, Neotravuj	10	143278km2	26271435	vy budete čumět(#1395) - ASA
+17.	[MLN] Millennials	10	126671km2	25965664	2nd not good enough(#662) - golden.guy
+18.	[PLANET-X] Solaris System Emperor	10	118351km2	25958983	PLANET-X Anunnaki King(#142) - ZUMOTRIX
+19.	[Troppau] Opava city	10	118733km2	25931512	Imagination(#306) - PATRIARCH.
+20.	[UTOPSE] UTOP SE	9	111526km2	25078675	Dong Ya Qian(#101) - Topisek
+21.	[Anarchy] Farmíme pro horší minulost	10	116695km2	25002796	Touha je zázrak, kámo...(#1393) - thordevil
+22.	[x.x.x.] Vinobraní	8	93587km2	24910392	Poetry slam(#492) - KingSixx
+23.	[B.K.] Blitz Krieg	10	117793km2	24876644	Bigballs(#500) - Zgerbos
+24.	[FNT] farmime na top	10	55294km2	24736808	TheForceAwakens Kylo Ren(#279) - K3NO
+25.	[C*P] Cold Power	10	119100km2	24308652	Quintara(#440) - Ivanes
+26.	[NewCo.] New Companions	10	111680km2	24041117	Olajiktan(#98) - Kuboj
+27.	[LordsWG] Hviezdne vojny zo Syrie	10	100000km2	23372373	Zohan.:.Disco(#910) - Bukay
+28.	[S.S.T.] Spojené síly terorismu	10	112182km2	23071085	.:S.S.T:.Ahmed z Trutnova(#312) - alksj
+29.	[-=F*A=-] Fallen Angels	10	157553km2	22971608	-FA- Franta Alkoholik(#774) - hagg1d
+30.	[***B***] BENDA s.r.o.	9	103196km2	22291767	***B***eran Pecik(#860) - 10987654321
+31.	[Inn] Pacifismus	10	108159km2	22225658	Zodiac(#1534) - K8po
+32.	[-=FE=-] Fatal noisE	10	113915km2	22083580	.:YD:. I am HAPPY(#497) - fenix23
+33.	[Titans] Incredible strength	10	98900km2	21803009	Guess what, I am so hot(#752) - 2xcl.
+34.	[Nechtej] Nechtej mne poznat	10	99961km2	21424172	Zavrene opicky v kleci(#1964) - Homeerius
+35.	[RoR] RISE of REDS	9	124419km2	21086740	Secret Master(#654) - ExDirty.Resident
+36.	[AiM] Aina Mörne	10	105205km2	20978661	Bacilonosná Kytička(#824) - Oligarf
+37.	[Tabacek] Tabáček	10	117166km2	20351746	R.I.P. snasa1(#412) - KURT
+38.	[RANGERS] Give thanks to the Lord	10	84064km2	20234190	(:-)(#1018) - Arekez
+39.	[ManG] Maniiax Gang	10	60087km2	19947034	Sarkasmus je moje milá(#124) - mara8
+40.	[ČD] České dráhy, jsme tady pro Vás	10	100715km2	19933261	=_Rx 777 Pancíř_=(#1589) - cvachta

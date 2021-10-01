@@ -1,0 +1,42 @@
+84. VĚK
+#	Aliance	Členů	Rozloha	Prestiž	Předseda
+1.	[DDO] Drátem do Oka	10	186618km2	45402038	Hurá do toho(#911) - Neprávem Smazán
+2.	[T3R0R1ST] jdeme farmit xD	10	179937km2	45285223	Dawe(#886) - Cenzor3d
+3.	[NBS] Největší Blbci Světa	10	197218km2	44794586	Walker me jeste ukecal(#2498) - XXXGrey
+4.	[cerveza] cerveza	10	152486km2	44576903	Farmenie moze zabijat(#960) - ftacik
+5.	[DF] Dark Family	10	169633km2	44524402	Slecinka DF(#1264) - Hanz Guderian
+6.	[AHA] Aliancia Láskavého Triumvirátu	10	182986km2	44488290	B*E*S*A*R*A*B*I*A(#131) - Abdul
+7.	[D1KTATOR] D1KTUJEME SI TO SVOJE	10	166799km2	43550607	Impossible is Nothing(#678) - Vojtiiik
+8.	[SUX] AMITY IS A SUCCESSFULL VICTORY	10	193332km2	43139053	mister BomBaStic(#486) - .FaLLeN25.
+9.	[.hunteRs] We are .hunteRs	10	172438km2	42560727	.hunteRs.Ghost(#2385) - turalu
+10.	[MK] Immortal Knights	10	138849km2	38886193	Humákov(#70) - Zorg
+11.	[Bubáci] Budete se bát	10	165456km2	38763148	Ego sum via veritas(#670) - podwratak
+12.	[ToAn] Torpédo v Análiách	10	147783km2	37679640	Schimmel an der Eichel(#2842) - devilLH
+13.	[=L.O.T=] Lord of tactic	10	148919km2	36152853	Lord Of Tactic(#442) - tvojasmrt
+14.	[DemoniC] stokujeme vonku	8	141393km2	35665532	Pozitívny dopad ,`-(#548) - H3LL M4KER
+15.	[NARCISI] Máme dlouhý ocasy	10	155509km2	34020014	Ten NEJhezčí s NEJvětším(#804) - Odi et amo
+16.	[Lego] Stavíme Hvěždu smrti	10	132919km2	33957842	LEGO kostečky(#1955) - ArchimondS
+17.	[E] Empire	10	147510km2	31490597	Security Breach(#1097) - Scareman
+18.	[MENSA] Mimořádně nadaní...	10	145159km2	31447045	PROF. EXTREM CSc.(#2345) - Sir Extrem
+19.	[ČSB] ČehoSeBojím	10	173990km2	31039261	kuřbuřtazduř(#1626) - labojse
+20.	[-=THC=-] The Heroic Company	10	127734km2	30354089	The Heroic Čulapchorn(#172) - Čulapchorn
+21.	[:.AoA.:] Angels of Apocalypse	10	112086km2	30031097	Andílek(#189) - kubikma
+22.	[AiM] Aina Mörne	10	144460km2	29068988	Nákupní centrum u Kytičky(#1162) - Oligarf
+23.	[ČSLA] Československá lidová armáda	10	119250km2	27560205	.:CZ-SK:.Dum spiro,spero(#2303) - KalinV
+24.	[*`=/-.,] Supramaniacs	10	136784km2	27116791	Better than Supraman(#58) - Supra1Soul5Play
+25.	[Chlastám] Chlastám, Chlastáš, Chlastáme	10	123633km2	27009909	Máma mi říkala, že můžu..(#1668) - xr3d
+26.	[*SnsrN*] s nami si radsej nezacinaj	10	138463km2	26790710	0011001100101101011110011(#1601) - fagancek2
+27.	[D1R1GENT] jedem si bomby	10	149802km2	25006360	ToP 1(#583) - Morfeus
+28.	[VALHERU] VALHERU	10	121041km2	24651870	bouřlivý kanec(#1582) - Prometheuss
+29.	[-osn-] Ofuk starého niktoša	10	127996km2	24463973	-osn-Ja som Vozík Vozíček(#112) - Vozicek
+30.	[AveCesar] AveCesar a znovu pohromadě.	10	135133km2	24050460	.:AveCesar:.Ave Já(#360) - Ares65
+31.	[M] MOON	8	109695km2	24021254	Měsíc bez alkoholu.((#463) - Erethil II.
+32.	[ČD] České dráhy, jsme tady pro Vás	10	96700km2	23505506	=_Sp 1819 Loutkař_=(#1042) - cvachta
+33.	[UVVB] Uzené veverky v buřtech	10	144770km2	23415099	Manzanie(#125) - Sir Robertini
+34.	[NbP] Násilí bez Pravidel	10	118059km2	23349925	Sweet*Paradise*(#1180) - ESCORT
+35.	[BOUNTY] Ty si nějakej zvědavej, hele	10	111276km2	22833106	Calvera a 40 loupežníků(#2507) - Sjezdovka
+36.	[Bombing2] Hurá do práce	10	119548km2	22345507	Bombing strejček :)(#141) - Kuboj
+37.	[I.H] Immortal Heroes	8	98274km2	22093108	Arachnid Layr(#2034) - Pabouk
+38.	[Tabáček] Tabáček	10	151398km2	21584373	Zakázané Ovoce chutií(#225) - snasa1
+39.	[BFP] Bad Fat Pipe	6	89816km2	21294694	boheMISTA(#668) - Mista
+40.	[Ganja] Ganja	10	152141km2	21129617	Alkáč, neboli alkoholik(#1407) - ..Hanz..

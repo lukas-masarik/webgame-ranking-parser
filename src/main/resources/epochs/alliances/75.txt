@@ -1,0 +1,42 @@
+75. VĚK
+#	Aliance	Členů	Rozloha	Prestiž	Předseda
+1.	[-=LH=-] Lonely Hearts	10	186985km2	64282744	Pááán Srdcař(#1941) - Walker
+2.	[VTIP] Mistři Smíchu	10	200000km2	54148485	:-* Daj mi pusinku :-*(#1401) - šalanboy
+3.	[ManG] Maniiax GanG	10	198947km2	53515249	Nemilosrdná Slečinka(#308) - c4u710n
+4.	[.::VR::.] velka revoluce	10	177486km2	47227458	Aestiel(#1699) - Aiki
+5.	[Across] Idealistic Organization	10	168476km2	38386657	Úzkoprsý útočí(#1506) - marv III
+6.	[VÍCADMIN] Víceadministrátoři Webgame	10	170189km2	36335549	brain`s hive(#1003) - br4insh4ker
+7.	[-=ZULU=-] Choré Hyeny :)	10	135004km2	33440439	Krematoria(#1075) - Džon Vejn
+8.	[AveCesar] AveCesar a plánovači.	10	133274km2	32707625	.:AveCesar:.Caesar(#327) - Ares65
+9.	[DF] Dark Family	10	176474km2	31275356	Slecinka DF(#1334) - Hanz Guderian
+10.	[Anarchy] Anarchy	10	135364km2	29808989	Anarchy(#1593) - thordevil
+11.	[Skřítkov] Škola skřítka Rozbušníka	10	112184km2	29044180	Donne chiesa cornea(#252) - stejski IX.
+12.	[::R::] R3S93K7 New Generation	10	172930km2	28484130	R3S93K7 Wíídx(#88) - bukvicka13
+13.	[Hyuuga] Hyuuga z Konohy	10	137558km2	28380161	-osn- Kakuzu(#919) - Lamitec
+14.	[WHO] Who are you?	5	102989km2	27263799	Naumo(#45) - FriedrichPaulus
+15.	[BFP] Bad Fat Pipe	10	123670km2	27163582	boheMista(#2250) - Mista
+16.	[*`=/-.,] Supramaniacs	10	134962km2	27064992	Back to the Old Skool(#675) - Supra1Soul5Play
+17.	[***B***] BENDA s.r.o.	10	113257km2	26859345	El ***B***unda(#63) - benda a spol.
+18.	[ToAn] Total Analation	9	139981km2	26645644	Immortanal(#529) - devilLH
+19.	[LEGO] stavíme čínskou zeď	10	108599km2	26038681	LEGO never back down(#1093) - ArchimondS
+20.	[MB] Metal Brothers	10	113396km2	23622259	Hellgates(#681) - Schneemo
+21.	[P.f.B] Predators from Bombaj	4	92320km2	23186547	Dexter(#1384) - Vibromax
+22.	[FC] Famiglia Corleone	10	174888km2	23168068	Vito Corleone(#132) - Reens
+23.	[TemLeg] Temné legie	6	65256km2	23116546	Naboo(#820) - Dart.Kanne
+24.	[NRsF] Nemám Rád selfF******	6	94771km2	22603688	NRsF: MOSTRASTAS(#791) - Beast Boban
+25.	[.:WiFi:.] Kabely už nezbyly	10	124143km2	22504773	.:WiiiiiiFiiiiii:.(#900) - Simonof
+26.	[KRTEČEK] Hrabáním k lepším zítřkům...	10	130657km2	22416256	Krteček a makovička(#541) - IMraz
+27.	[.L.O.S.] Losáci ze severu	10	138436km2	21791584	L.O.S. made in Božkov(#617) - Topisek
+28.	[S.S.T.] spojené síly terorismu	10	112027km2	21668538	S.S.T.Trutnov(#536) - alksj
+29.	[SSo] Elite Population Reduction	6	93758km2	21531572	FIND YOUR DIGNITY(#1788) - Brhel
+30.	[MA] MAsters	10	173646km2	20530910	Horné Grgy(#2173) - Rammstick
+31.	[ŠAM] Škola sabotění a mechingu	10	111169km2	20339099	RNDr. Schwarzschild(#256) - M0lna
+32.	[-BLOOD-] Blood and Bone	10	92105km2	20259625	Nikdy neodmlouvej kámo(#2200) - losos123
+33.	[Akatsuki] společenstvo zlosynů	6	102565km2	19535092	Bijuu Tobi(#175) - Lordisko
+34.	[*zoo*] Zeal offenzive organization	10	170635km2	19390929	...::::FEAR:::::....(#800) - XXXGrey
+35.	[ChRTI] Charita robustního tahání int.	10	138440km2	19259428	Země chrťátek(#261) - M0lna
+36.	[ARSENAL] Emirates Stadium	10	95103km2	19250210	Nicklas Bendtner(#131) - noo
+37.	[4FUN] 1111	9	120731km2	19243936	de lege ferenda(#1600) - gerbera
+38.	[DF2] Dark Family II.	9	94786km2	18962727	.:NW:. Karak Dum(#369) - Reich Graf
+39.	[W.?.R] W4R*	10	113261km2	18704725	W4R(#719) - GanjaMeen
+40.	[-UB-] Use Brain :omg:	9	110298km2	18554069	Dawe(#2001) - Cenzor3d

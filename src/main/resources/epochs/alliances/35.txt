@@ -1,0 +1,42 @@
+35. VĚK
+#	Aliance	Členů	Rozloha	Prestiž	Předseda
+1.	[n-jedna] E pluribus unum	12	204789km2	71037785	Dont hate, appreciate(#431) - nonPhixion
+2.	[D1KTATOR] D1E FOR THE D1KTATOR	12	238452km2	65038509	Kingdom of Angels(#45) - Raciolky
+3.	[P.f.B] Predators from Bombaj	11	248483km2	64588670	MA.::R::.IN(#3815) - Vibromax
+4.	[DooM] DoomTroopers	8	177707km2	61232703	Záludný Alakhai(#2772) - Yurnero
+5.	[Zero] ZačínajícíERotickáOrganizace	11	247624km2	56355032	jAjsEmlEtAdlO,kdOjEvIc(#12256) - imdeath
+6.	[=T=] Trója	12	258672km2	56097587	Ararat(#4805) - zullu
+7.	[nex] nublex	11	211624km2	53196526	NEX-TECHTLEMECHTLE(#5706) - j0k3r
+8.	[Mgn] MAGNUM	7	181321km2	45891501	Nedistán(#16075) - Milned
+9.	[.::R::.] RYTIRI	12	184636km2	45585090	FENIX(#15941) - steamroller
+10.	[Tabáček] http://tabacek.xf.cz	11	169505km2	43142919	... ty dračice ...(#341) - snasa1
+11.	[RAFANI] RAFANI	12	205132km2	41841446	Rafan srdcem slávista(#790) - SprávceChlívku
+12.	[ganja] ganja	12	159144km2	41065480	Budulínkova zem(#820) - Budulínek s.r.o
+13.	[=*DC*=] Dark Company	12	199375km2	41064021	Duaketon Ciekumen(#4486) - Dark Caromdura
+14.	[UM] Ukrajinska mafie	8	188486km2	39041451	Bohunice(#7403) - Uthden
+15.	[=STB=] Simply The Best	8	166252km2	38410729	Co clovek, to kalasnikov(#1021) - Small Wizard
+16.	[ASA] Aliance Stargate Atlantis	12	182825km2	38385966	Asghard(#244) - Dest
+17.	[G7] Great 7	12	170371km2	38218300	7th Druhá tráva(#16084) - VV
+18.	[ManG6] penzion u slepitchek	12	156654km2	38158216	pipka bruce chodi naostro(#1080) - extr3m
+19.	[IBHZK] 1ch B1n H1er Zu(r) Kur	9	148684km2	37753248	64kbps musí stačit všem(#9990) - R0CK3D
+20.	[-=THC=-] The Heroic Company	12	154141km2	37468637	The Heroic Čulapchorn(#4176) - Čulapchorn
+21.	[G] Gladiators	11	175841km2	37321643	Klouzkoland(#718) - Klouzek.cz
+22.	[.:PPA:.] Powerful Pagan Aliance	12	184605km2	37223636	Al Quarra Coyonlu(#635) - Kubikk84
+23.	[n2] to 2 je icslo sest ye otaynik	5	102637km2	37124686	Koitus interruptus(#10187) - kuliver
+24.	[Z] Zeměplocha	12	181086km2	37000981	Cori Celesti(#83) - kIt. .
+25.	[VSL] VelkéSmradlavéLamy	9	164905km2	36362610	stejně to nedávám(#14323) - imdeath
+26.	[.:BoD:.] Brotherhood of Dreadnoughts	12	186044km2	36355115	Neohrožený Banehalow(#843) - Banehalow
+27.	[.hack//] Háčkovací kroužek	12	171733km2	35083739	.hack//Pupíkov(#442) - Master of Hell
+28.	[UFO] penetracni ufoni	10	171457km2	34674996	horny achran(#412) - Pivní Dědek
+29.	[*lamky*] Najvacsie lamky na wg	10	126177km2	33799820	Ristle je Pan pralesa(#1031) - ristle
+30.	[.B.I.S.] Banda izolovaných spermií	12	134718km2	33245797	JEtoFUKnázevNENÍdůležitej(#9767) - onidroB
+31.	[BOUNTY] Spolecenstvi zasnezenych zemi	12	183376km2	33242993	Zasnezena Alpinia(#901) - Sjezdovka
+32.	[HyeNy] yNeyH	11	138827km2	33003060	HyeNa NeNažRaNá(#3700) - saiyajiNN
+33.	[M.A.S.H.] čti....::::(baj d lí):::....	9	125687km2	32693229	........RTA MA LICENCI...(#3070) - Lord Biry
+34.	[HOR] Heroes Of Rofenhaven	12	132535km2	32545256	Celinor(#14368) - Sepie
+35.	[heechee] nejsme lidé.......jsme heechee	12	166957km2	32384220	converse(#218) - ElRey
+36.	[NE5] NE5MRTELN1	12	207891km2	32093334	NE5MRTELN1(#1938) - NESMRTLN1
+37.	[Čoko] Čokoládová aliance	12	150087km2	31678294	Tyranny Of Souls(#5029) - Kowacs
+38.	[SIL] Silmarillion	12	169476km2	31595942	Silmaril(#4079) - Only
+39.	[ManG5] Penzion -BoW-	12	158708km2	31350032	Slečinka Otisberg(#6431) - Kalikulka
+40.	[:.BoD.:] Brotherhood of Dreadnoughts	11	155894km2	29770968	Neohrožený.Banehalow(#854) - Banehalow

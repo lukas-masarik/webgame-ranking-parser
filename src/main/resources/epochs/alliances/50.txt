@@ -1,0 +1,42 @@
+50. VĚK
+#	Aliance	Členů	Rozloha	Prestiž	Předseda
+1.	[SB] SpikeBallers	12	271867km2	57621688	DONT STOP ME NOW(#1258) - xkukx
+2.	[G.U.M.I.] Gumídci méďové	12	213013km2	55906496	Brůča farmář z Nupak(#364) - Nupacak
+3.	[BumBum] Z hlediska globálního spektra.	12	210775km2	51439350	.:BB:. Červenec(#4175) - TheSokar
+4.	[AHA] A*H*A	12	219149km2	49828247	Láska je sviňa(#90) - Turbi
+5.	[=DS=] Dog Soldiers	12	254643km2	49317729	IT`S SNOWING SOMEHERE NOW(#6504) - .adm1n.
+6.	[KL] Killing legion	12	200962km2	48047015	Dej si 2 rumy a řízek(#5177) - Reskator
+7.	[Kačerov] My z Kačerova	12	195823km2	43956142	Anti ADMlN KÁPO(#4533) - ...Kápo...
+8.	[JOKES] Joke	12	202630km2	40803488	Never ani ty mne(#378) - j0k3r
+9.	[ŽsN] Žádný spaní nebude	12	165516km2	35875343	TakNaCoCekaS(#155) - Soudruh Pípas
+10.	[Lotta] Lotta per la sopravvivenza	12	186704km2	35545635	mi si accappona la pelle(#3666) - Prefik
+11.	[ČSLA] Česko-Slovenská Lidová Armáda	12	169471km2	34806166	.:CZ-SK:.Dum spiro,spero(#353) - KalinV
+12.	[Veverky] Veverky fundamentálně nahoře	12	146202km2	34445136	Malá uličnice fčelka Mája(#164) - Mr Shaman
+13.	[B.K.] BLITZ KRIEG	12	147263km2	33701490	B.K. je nejlepsi ali :)(#1759) - johnny33
+14.	[12345] 123456	12	188639km2	32161009	::::::::-Not all-::::::::(#3955) - Bíbou
+15.	[*GA*] Guardians Angels	12	148598km2	31542675	*GA* - Crackbrain(#95) - cranberiss
+16.	[AUTORITA] želvičková pizza vládne všem..	12	190190km2	31485333	AUTORITA - TAK TO NĚJAK..(#3656) - Lukastrance
+17.	[Nedivoč] Není risk ožrat si pysk	6	105219km2	30817725	Voloďa(#4492) - Siriuss
+18.	[TMT] Apocaliptic Knights	11	134619km2	29957904	The Lord of Darkness(#854) - Insolitus
+19.	[BOŽKOOOV] VODKA,RUM I ZELENÁ	12	150206km2	29581277	Chlastám vodku :P(#4460) - White Dead
+20.	[POVKO] POGO NA VÝROČÁKU	9	156854km2	29512641	MELODIC DEATH METAL(#664) - SiRvAcA
+21.	[BRUTAL] BaranRanoUlialTavamAlko	11	136013km2	29191169	Fialko ten Duel je Moj(#77) - oOo0oOo0
+22.	[omerta] Nepísaný Zákon	11	155172km2	29037975	Trblietaj sa hviezdička(#744) - lakato1
+23.	[ČSS] Ceskoslovesnká spolupráca	12	159307km2	28927758	Som Mirko a nie Pivko(#3807) - šalanboy
+24.	[VJF] Vsichni jedou farmu	6	119370km2	28516113	Farma land :D(#3936) - UfonJakMaByt
+25.	[ManG2] Maniiax Gang 2	12	144742km2	28337181	Slecinka ze Sintavy(#7997) - keshoo
+26.	[***B***] BENDA s.r.o.	12	153101km2	28314256	***B*** land 01(#737) - 10987654321
+27.	[:.AoA.:] Angels of Apocalypse	11	160578km2	28058778	Fallen Angel of Fake(#3971) - Infernus
+28.	[Synchro] Synchronizované světy	10	144022km2	28050812	Ix(#2651) - Spawn
+29.	[DIEUSA] Smrt imperialistům,sláva anime	12	155991km2	27886048	Ero-Senin(#1546) - Dimmu
+30.	[.:V11R:.] Velká revoluce v 11 ráno	11	154692km2	27436350	BasaZFyzikyToJeSíla(#4719) - Telwin
+31.	[*-PcnB-*] Pravý cikán nemá Boty	12	157195km2	27412289	Chuligán co nezná Bolest(#65) - Fr05t1dll0
+32.	[H2O] Water Bandits	12	130541km2	27361766	Medras(#2753) - Mirain
+33.	[OST3] Old stars team po 3	11	122233km2	26891839	Italia(#237) - Remus XX
+34.	[RoboUtop] Robokracie Utopie	12	136632km2	26574295	RU Chloumek Town(#916) - Lord Carcharias
+35.	[cz-sk] Ceskoslovensko	7	135415km2	26519946	.:cz-sk:.Pluto(#7889) - Vladce Seanix
+36.	[VALHERU] VALHERU	12	161762km2	26226530	Khazad-dum(#4808) - gugoslav
+37.	[*zoo2*] Zeal offensive organization2	6	102997km2	24919865	500km za cenu 10.25kč(#108) - XXXGrey
+38.	[VICADMIN] Víceadministrátoři Webgame	12	105949km2	24686835	Ter Leeloo II.(#898) - just mozeg
+39.	[FOS] fractionofsecond	12	154610km2	24674779	gutenftak(#660) - povasek
+40.	[Anarchy] Hrajem si to svoje...	10	124105km2	24616643	Touha je zázrak kámo...(#4788) - thordevil

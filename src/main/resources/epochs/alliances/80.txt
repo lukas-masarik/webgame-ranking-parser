@@ -1,0 +1,42 @@
+80. VĚK
+#	Aliance	Členů	Rozloha	Prestiž	Předseda
+1.	[Ganja] Ganja	10	182241km2	47168316	Alkáč, neboli alkoholik(#312) - ..Hanz..
+2.	[NBS] Největší blbci světa	10	177345km2	43676968	For fun aby se nereklo(#836) - XXXGrey
+3.	[*WiNDe*] Awesome band	10	177972km2	40437567	.:W:. Myš pod peřinou(#566) - Revelation3
+4.	[*`=/-.,] Supramaniacs	10	165081km2	39233472	Back to the Old Skool(#73) - Supra1Soul5Play
+5.	[RAPTOR] Team Raptor	10	164575km2	39024780	Valach v Praze(#727) - Aram Chroustal
+6.	[.hunteRs] We are .hunteRs	10	164975km2	36640453	.hunteRs.Bombardááá(#1187) - FRaktura
+7.	[BOUNTY] Královské námořnictvo	10	137066km2	35643903	Alpinia(#2598) - Sjezdovka
+8.	[BFP] Bad Fat Pipe	10	133834km2	33615377	boheMISTA(#206) - Mista
+9.	[KS] Killing Skills	10	151650km2	32422432	Guma wybil OKNO(#2301) - leszek
+10.	[škola] znalosti leží na dosah	10	133852km2	30600009	mostarie(#2368) - martum
+11.	[.:WWF:.] World Wrestling Federation	10	134676km2	30139964	.:WWF:. Imperial age(#452) - Leooon
+12.	[Lotta] Lotta per la sopravvivenza	10	156281km2	30025761	Qíčepu(#59) - pelizid
+13.	[c0n] conexia	8	129051km2	29393624	waste land(#3168) - BlindJustice
+14.	[UVVB] Uzené veverky v buřtech	8	148683km2	29092131	Manzanie(#1591) - Sir Robertini
+15.	[ToAn] Torrent k Análiam	10	131207km2	28812771	Porouchaný svěrač(#3078) - devilLH
+16.	[FT3] DUROTAR	10	129940km2	27489010	STARKY(#281) - darkemperato
+17.	[LW] Legendary Warriors	10	127603km2	26534211	Legendary Night Club(#524) - Archimonde73
+18.	[SAM] Samotáři	9	123167km2	24668224	SAM - Máme jubileum(#134) - Libinak
+19.	[PATROLA] Stará Gotko Parta	10	110248km2	24521244	SGP_Major(#119) - Srdco
+20.	[PORNO] Evoluce pornografie	10	110906km2	24270677	Abeceda Webgame(#3331) - E.S.O.
+21.	[DpN] Duchna pre Novačikov	10	126830km2	24096872	U Evženka Hyberného(#44444) - Evzen Hyberny
+22.	[S.S.T.] Spojene sily terorismu	10	129860km2	23767956	S.S.T.Trutnov(#2077) - alksj
+23.	[Anarchy]	10	99140km2	23759330	Anarchy(#107) - thordevil
+24.	[VD] Vyšší dívčí	10	99395km2	23574058	Kalamity Jane(#2321) - T3r3zk4
+25.	[=L.O.T=] Lord of tactic	10	119682km2	23439921	Lord Of Tactic(#975) - tvojasmrt
+26.	[Vlnky] Vlnky	10	104765km2	23366008	Fanatické Obyvatelstvo(#1532) - Tears of the sun
+27.	[VTIP] Mistři Smíchu	9	151897km2	23349164	Vtipný buldozér(#251) - Wlad
+28.	[(RV)] Ryba vole :D	10	122560km2	22408679	Red Dwarf(#2540) - ListerD1
+29.	[Krutor] Krutopohlavní	6	112729km2	22360800	.,:Miluju;Verunku:,.(#2033) - Primaaat
+30.	[CA*MO] Captain Morgan	9	177786km2	22225591	.::Dark Angeles::.(#272) - rudabill
+31.	[MDPA] MorDPartA	10	123769km2	22185808	Quatzalcoatl(#45) - a18m1g5d15n
+32.	[=FF=] Frigid Friends	9	115827km2	21883680	caput(#1447) - Josefko
+33.	[Swingers] Nadržané slečinky	8	99015km2	21132515	Rachel Starr(#1597) - Ing.Phoenix
+34.	[-=THC=-] The Heroic Company	9	95279km2	21003911	Terrible Harm Construct(#290) - J.T.Ripper
+35.	[*RA*] Rektální anestezie	10	115753km2	20738248	1. zem byla založena(#1362) - Jendasking
+36.	[:.AoA.:] Angels of Apocalypse	10	90140km2	20693589	AoA: 1st peace republic(#771) - Chalid II.
+37.	[HOPRDOX] HOlou PRdelí DO Xichtu	7	72746km2	20666454	Trá pho nhí(#2348) - sporťačka
+38.	[PDHT] Pivo Delá Hezká Tela	7	90024km2	20539403	Rychle prachy(#3343) - pixer
+39.	[Skins] Skins	10	182007km2	19903210	SiR KoufaR(#65535) - Caesar159
+40.	[SUX] AMITY IS A SUCCESSFULL VICTORY	7	99571km2	19835057	St4r3j Z4rK4v1 j3 t4Dy :D(#217) - LuisFigo

@@ -1,0 +1,42 @@
+83. VĚK
+#	Aliance	Členů	Rozloha	Prestiž	Předseda
+1.	[M] MOON	10	195553km2	61420176	Atlan(#105) - Atlantik
+2.	[*WiNDe*] Wichcaný jak mraky	10	181181km2	55796482	.:W:. Myš pod peřinou(#317) - Revelation3
+3.	[NBS] Největší Blbci Světa	10	168644km2	50929233	Anarchy from HELL(#43) - .Hellboy.
+4.	[UVVB] Uzené veverky v buřtech	10	159157km2	43814966	Manzanie(#1280) - Sir Robertini
+5.	[UP] United Psychos	10	183162km2	39740609	Prosím, útočtě zde :)(#728) - Odi et amo
+6.	[PíPíBí] Power Puff Boys	10	173475km2	37612387	Fuzzy Lumpkins(#78) - Muffia
+7.	[BOUNTY] Výměna mečů	10	126676km2	35339618	Ali Baba a 40 loupežníků(#2098) - Sjezdovka
+8.	[R(O.o)FL] Rolling On the Floor Laughing	10	150408km2	35117584	klikam Sem a Tam(#231) - R4d1X
+9.	[MK] Immortal Knights	10	141804km2	34998188	Na čumendo...(#1466) - Zorg
+10.	[Chlastám] Chlastám, Chlastáš, Chlastáme	10	119354km2	33877599	meum tempus ueniet(#1976) - xr3d
+11.	[KÚ] Kaitanské Útočisko	10	156100km2	33448708	AutoDiscover(#561) - Nepozeraj
+12.	[KABAT] KABAT	9	141763km2	33279698	FEDERER ROGER(#1497) - Agassi...
+13.	[VO] Vtipní odpadlíci	10	133625km2	32939717	Vtipný Revizák(#1018) - James Veliky
+14.	[*SnsrN*] s nami si radsej nezacinaj	10	124832km2	31559481	0011000111000011110000011(#559) - TranceSexual
+15.	[Ganja] Ganja	10	176590km2	31197637	Budulínkova zem(#1134) - Budulínek s.r.o
+16.	[=L.O.T=] Lord of tactic	10	161090km2	31012252	Lord Of Tactic(#1241) - tvojasmrt
+17.	[sP`] Společenství Pyčynek	10	134955km2	30577169	=)(#972) - sparke
+18.	[BFP] Bad Fat Pipe	10	146169km2	30116608	boheMISTA(#1058) - Mista
+19.	[.L.O.S.] Alkoholický Losáci	10	154673km2	29889113	LOS made in Destroyer(#67) - BlackTears
+20.	[cerveza] cerveza	10	107184km2	29784117	Its time to chew gum(#64) - Naquadah
+21.	[COOL] Corporation of obscene lambs	8	139157km2	29148701	Smrtící expres ráže .45(#1741) - Godzil I.
+22.	[HyeNy] Crocuta crocuta	10	125499km2	29012705	King Julien(#1983) - Tosinek
+23.	[AveCesar] AveCesar a šéf je doma :D	10	130689km2	28967211	.:AveCesar:.Šéf je zpět(#379) - Ares65
+24.	[HOPRDOX] HOlou PRdelí DO Xichtu	10	168661km2	28559989	do močálu se močí(#2667) - adduktor
+25.	[CoverUni] CoverUni	9	116085km2	28449586	Dragon Sheep(#797) - D.r.a.k.
+26.	[PPP] Pozdravit Poprosit Poděkovat	10	130684km2	27891007	Klid v Duši(#1544) - bomby
+27.	[cz-sk] ceskoslovensko	7	91225km2	27499543	Quick-Instalater..(#2755) - TCK
+28.	[mef] gangstarr	10	76557km2	27408936	NBA(#188) - Robbie
+29.	[ČD] České dráhy, jsme tady pro Vás	10	115053km2	26547594	=_Ex 580 D1 Express_=(#1048) - cvachta
+30.	[Fex] Fenix	10	141187km2	26533615	mam rad XP(#126) - its no good
+31.	[UM] Ukrajinská mafie	8	101677km2	26358742	UM - Oblast 51(#162) - Zanig Martinator
+32.	[.A.] ASSASSINS	10	135620km2	26187821	.:.:ASSASSIN:.:.(#59) - Blackthunder
+33.	[NbP] Násilí bez pravidel	10	143398km2	26145856	Sweet*Paradise*(#1785) - ESCORT
+34.	[McH] MoloCH	10	134572km2	25667516	Houstone, máme problém(#1370) - Paklíč
+35.	[ČSLA] Československá lidová armáda	10	150305km2	25645835	.:CZ-SK:.Joudinkov(#121) - joudinek
+36.	[:.AoA.:] Angels of Apocalypse	10	100401km2	25082226	AoA: 1st peace republic(#1601) - Chalid II.
+37.	[MENSA] Mimořádně nadaní...	10	129924km2	24344063	PROF. EXTREM CSc.(#41) - Sir Extrem
+38.	[H2] Heroes II	10	100534km2	24341544	pohodaland(#1137) - Oko
+39.	[.::R::.] Rytíři	10	107863km2	24085944	B*E*S*A*R*A*B*I*A(#201) - Abdul
+40.	[KL] Killing Legion	10	133813km2	24068731	ACS Fotball(#1317) - Reskator

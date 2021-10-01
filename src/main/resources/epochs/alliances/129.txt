@@ -1,0 +1,42 @@
+129. VĚK
+#	Aliance	Členů	Rozloha	Prestiž	Předseda
+1.	[VENDETA] Bloody VENDETA	10	183243km2	64816515	Bloody Koňopes(#841) - Konopess
+2.	[=T=] Trója	10	194130km2	59442473	Winter is coming..(#266) - FR3EZY
+3.	[L.O.S.] LOSkuták	10	141698km2	48789541	LOS made in Losos(#1283) - .Devilmen.
+4.	[SUX] šílená aliance :-O	10	163518km2	47966684	SUXessfull(#479) - LuisFigo
+5.	[LORDI] Devil is a loser	10	136317km2	46591607	Lord of (The)rinks(#75) - kopl
+6.	[Elixír] Života	10	127451km2	40324721	FARMAR(#289) - .G.R.U.M.Y.
+7.	[queens] QUEENS	10	162762km2	38603540	AHC Pavilon 8(#108) - gorem
+8.	[-=DH=-] Dark Hunters	10	125709km2	38595506	Amy Pond(#1001) - Ersango
+9.	[VZP] Vyvrženci z pekla	10	136615km2	37312102	Vyvrženec Othis(#500) - StillDeadCZ
+10.	[-WoW-] World of War	10	137856km2	36998898	Eror11(#762) - Eror11
+11.	[ZERO] ZačínajícíERotickáOrganizace	10	139843km2	36705271	ZERO(#133) - Caballero
+12.	[.L.O.S.] Losáci ze severu	10	130813km2	36215502	LOS made in Zhonguo(#38) - Topisek
+13.	[-THC-] Strana zelených	10	147378km2	35397823	Snorri_Killa(#1057) - Method Man
+14.	[80`s] 80`s	10	151412km2	34745483	Mrkváče a Trvalá(#559) - VooOool
+15.	[OT] Old Times	10	128762km2	34596657	Tady nikdo neni(#537) - masterboy
+16.	[D] Discworld	10	139448km2	34014417	Ulice u Kotve a Ráhna(#899) - Roger
+17.	[ČSB] ČehoSeBojím	10	153191km2	33957330	Bojím se o tvou zem(#1224) - SOH
+18.	[ĎA] Ďábelská garda	10	145184km2	33550763	Hans Josef Wagemueller(#273) - Ranger2222
+19.	[-=SCS=-] Semtex Culture Squad	10	123362km2	33236532	-=SCS=- Supreme Laeder(#88) - DJsmrt
+20.	[KL] Killing Legion	10	164361km2	32932327	(KL)(#111) - 7000000
+21.	[MUL] Multimilionár	6	76161km2	32727900	Duško Kreken(#8888) - gorbatčov
+22.	[Planet-X] Solaris System Experiment	10	119758km2	32107094	Zep Tepi(#334) - Marek Da Emperor
+23.	[YOZZEFY] Yozzefy = expy	10	135870km2	31828943	Kampaň proti Burešovi(#87) - Allegro
+24.	[NKL] Poslední menu	10	164620km2	31471305	7000000(#99999) - 7000000
+25.	[CBA] Cenzúra Bojazlivej Aničky	10	160670km2	31446948	Crash Team Racing(#665) - marv III
+26.	[PKZ] Prdeli Ke Zdi	10	124435km2	29668465	.::PKZ New Kids Turbo::.(#970) - Kwasak
+27.	[Bombing] Bomby v novém roce 2019	10	132551km2	29399325	Bombing Hero(#213) - the last Hero
+28.	[Anarchy] Farmíme pro lepší budoucnost	10	124064km2	29029423	Touha je zázrak, kámo...(#1295) - thordevil
+29.	[68] 68	10	112447km2	28745695	Artek(#121) - Jurgens
+30.	[Tabáček] Opravdové nuly	10	141735km2	27971070	BUFU(#2121) - snasa1
+31.	[M.A.] Meziplanetární Aliance	10	119958km2	26726655	Fakin Hobol(#35) - smudlas
+32.	[B33r] Pivo dělá krásná těla	10	121299km2	26693908	Magnamundie(#958) - Hones
+33.	[Ganja] ganja	10	125913km2	26382643	Lipous(#867) - Joker16.
+34.	[-H-] The Hammers	9	112976km2	23901105	MajsterŠtyk(#338) - DaniCZeK
+35.	[.:UV:.] Usmolení Vidláci	10	124493km2	23597051	Dřepy na okurkovém poli(#395) - RegiFcb
+36.	[LEGO] kostky jsou vrženy	10	100978km2	23563973	LEGO PaedDr. Archi CSc.(#531) - ArchimondS
+37.	[MK] Immortal knights	10	114271km2	23449076	kliksemkliktam(#792) - uzid
+38.	[Q.f.] Queen forever	10	100404km2	23378906	World Devastation(#593) - Edward
+39.	[MENSA] ...my všichni prací povinní :(	10	160311km2	22980061	CATCH ME IF YOU CAN(#298) - Sir Extrem
+40.	[**SNK**] SmeNaKašu	10	141638km2	22834569	Ferda Mravenec na Kašu(#242) - SnookerLand
