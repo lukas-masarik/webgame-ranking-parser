@@ -1,28 +1,43 @@
 package services.processors
 
+import dto.RankedLandsEpoch
 import enums.EOrderAttribute
 import enums.EOrderDirection
 import services.inputreaders.api.InputReader
 import services.parsers.RankedLandsParser
 import services.parsers.api.EpochsParser
-import services.processors.api.Processor
 
-class WinnersByPrestigeOrAreaProcessor(
-    private val inputReader: InputReader,
-    private val parser: EpochsParser = RankedLandsParser(),
-) : AbstractRankedLandProcessor(), Processor {
+/**
+ * Returns winner players' stats.
+ *
+ * Features:
+ *  - specify returned rows
+ *  - specify order attribute (prestige or area)
+ *  - specify order direction
+ *  - specify epoch start
+ *  - specify epoch end
+ *  - specify rank start
+ *  - specify rank end
+ */
+class CompareLandsThroughEpochsProcessor(
+    inputReader: InputReader,
+    private val parser: EpochsParser<RankedLandsEpoch> = RankedLandsParser(),
+) : AbstractRankedLandProcessor(inputReader) {
 
-    override fun apply() {
+    override fun process() {
         val landsCount = inputReader.selectReturnCountFromInput()
         val orderAttribute = inputReader.selectOrderAttributeFromInput()
         val orderDirection = inputReader.selectOrderDirectionFromInput()
         val epochStart = inputReader.selectStartEpochFromInput()
         val epochEnd = inputReader.selectEndEpochFromInput()
+        val rankStart = inputReader.selectStartRankFromInput()
+        val rankEnd = inputReader.selectEndRankFromInput()
 
         val epochs = parser.parse()
         val filteredEpochs = filterEpochs(epochs, epochStart, epochEnd)
+        val filteredRanks = filterRanks(filteredEpochs, rankStart, rankEnd)
 
-        val winningLands = filteredEpochs.map { it.rankedLands }
+        val winningLands = filteredRanks.map { it.rankedLands }
             .map { it.first() }
             .let {
                 when (orderDirection) {

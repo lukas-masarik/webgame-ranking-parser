@@ -4,8 +4,8 @@ import enums.EOrderAttribute
 import enums.EOrderDirection
 import enums.EStateSystem
 import services.inputreaders.api.InputReader
-import services.processors.PrestigeByStateSystemProcessor
-import services.processors.WinnersByPrestigeOrAreaProcessor
+import services.processors.CompareLandsByStateSystemProcessor
+import services.processors.CompareLandsThroughEpochsProcessor
 import services.processors.api.Processor
 import kotlin.system.exitProcess
 
@@ -15,11 +15,11 @@ class SimpleInputReader : InputReader {
         print(
             """
                 Available processes:
-                    (1) Winners by prestige or area
-                    (2) Prestige by state system
+                    (1) Compare lands through epochs
+                    (2) Compare lands by state system
                     (0) Exit program
                 
-                Choose processor: 
+                Choose process: 
             """.trimIndent()
         )
         val input = readLine()
@@ -31,8 +31,8 @@ class SimpleInputReader : InputReader {
 
         return when (input!!.toInt()) {
             0 -> exitProcess(1)
-            1 -> WinnersByPrestigeOrAreaProcessor(this)
-            2 -> PrestigeByStateSystemProcessor(this)
+            1 -> CompareLandsThroughEpochsProcessor(this)
+            2 -> CompareLandsByStateSystemProcessor(this)
             else -> selectProcessorFromInput()
         }
     }
@@ -148,7 +148,7 @@ class SimpleInputReader : InputReader {
     override fun selectStartEpochFromInput(): Int? {
         print(
             """
-                Choose start epoch (leave blank to skip):
+                Choose start epoch (leave blank to skip): 
             """.trimIndent()
         )
         val input = readLine()
@@ -158,7 +158,7 @@ class SimpleInputReader : InputReader {
     override fun selectEndEpochFromInput(): Int? {
         print(
             """
-                Choose end epoch (leave blank to skip):
+                Choose end epoch (leave blank to skip): 
             """.trimIndent()
         )
         val input = readLine()
@@ -166,6 +166,30 @@ class SimpleInputReader : InputReader {
     }
 
     private fun extractEpochNumberFromInput(input: String?): Int? {
+        return input?.toIntOrNull()
+    }
+
+    override fun selectStartRankFromInput(): Int? {
+        print(
+            """
+                Choose start rank (leave blank to skip): 
+            """.trimIndent()
+        )
+        val input = readLine()
+        return extractRankNumberFromInput(input)
+    }
+
+    override fun selectEndRankFromInput(): Int? {
+        print(
+            """
+                Choose end rank (leave blank to skip): 
+            """.trimIndent()
+        )
+        val input = readLine()
+        return extractRankNumberFromInput(input)
+    }
+
+    private fun extractRankNumberFromInput(input: String?): Int? {
         return input?.toIntOrNull()
     }
 }
