@@ -66,6 +66,12 @@ class CompareLandsByStateSystemProcessor(
 
     private fun processOutput(rankedLands: List<RankedLand>, stateSystem: EStateSystem) {
         println(stateSystem.name)
+        if (rankedLands.isEmpty()) {
+            println("No results.")
+            return
+        }
+
+        println("#\tPlayer\tPrestige\tArea\tEpoch")
         var i = 1
         rankedLands.forEach { rankedLand ->
             println("${i++}.\t${rankedLand.playerName}\t${rankedLand.prestige}\t${rankedLand.area}km2\t${rankedLand.epochNumber}")
