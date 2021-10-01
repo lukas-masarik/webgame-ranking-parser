@@ -3,15 +3,17 @@ package services.processors
 import dto.RankedLand
 import dto.RankedLandsEpoch
 import enums.EAggregatingParameter
+import enums.EGroupingParameter
 import enums.EOrderDirection
 import services.inputreaders.api.InputReader
 import services.parsers.RankedLandsParser
 import services.parsers.api.EpochsParser
 
 /**
- * Returns aggregated player stats by alliances
+ * Returns aggregated stats for players
  *
  * Features:
+ *  - specify grouping parameter (player, alliance, state_system)
  *  - specify aggregating parameter (occurrence, prestige, area)
  *  - specify order direction
  *  - specify returned rows
@@ -20,12 +22,13 @@ import services.parsers.api.EpochsParser
  *  - specify rank start
  *  - specify rank end
  */
-class AggregatePlayersByAlliancesProcessor(
+class AggregateRankedLandsProcessor(
     inputReader: InputReader,
     private val parser: EpochsParser<RankedLandsEpoch> = RankedLandsParser(),
 ) : AbstractRankedLandProcessor(inputReader) {
 
     override fun process() {
+        val groupingParameter = inputReader.selectGroupingParameterFromInput()
         val aggregatingParameter = inputReader.selectAggregatingParameterFromInput()
         val orderDirection = inputReader.selectOrderDirectionFromInput()
         val landsCount = inputReader.selectReturnCountFromInput()
@@ -38,8 +41,14 @@ class AggregatePlayersByAlliancesProcessor(
         val filteredEpochs = filterEpochs(epochs, epochStart, epochEnd)
         val filteredRanks = filterRanks(filteredEpochs, rankStart, rankEnd)
 
-        val alliancesWithResults = filteredRanks.flatMap { it.rankedLands }
-            .groupBy { it.alliance }
+        val resultMap = filteredRanks.flatMap { it.rankedLands }
+            .let {
+                when (groupingParameter) {
+                    EGroupingParameter.PLAYER -> it.groupBy { it.playerName }
+                    EGroupingParameter.ALLIANCE -> it.groupBy { it.alliance }
+                    EGroupingParameter.STATE_SYSTEM -> it.groupBy { it.stateSystem }
+                }
+            }
             .let {
                 when (orderDirection) {
                     EOrderDirection.ASCENDING -> {
@@ -74,22 +83,22 @@ class AggregatePlayersByAlliancesProcessor(
             .take(landsCount)
             .toMap()
 
-        processOutput(alliancesWithResults)
+        processOutput(resultMap, groupingParameter)
     }
 
-    private fun processOutput(alliancesWithResults: Map<String?, List<RankedLand>>) {
-        if (alliancesWithResults.isEmpty()) {
+    private fun processOutput(resultMap: Map<String?, List<RankedLand>>, groupingParameter: EGroupingParameter) {
+        if (resultMap.isEmpty()) {
             println("No results.")
             return
         }
 
-        println("#\tAlliance\tOccurrence\tPrestige sum\tArea sum")
+        println("#\t${groupingParameter.value}\tOccurrence\tPrestige sum\tArea sum")
         var i = 1
-        alliancesWithResults.forEach { alliance, rankedResults ->
+        resultMap.forEach { (groupingParameter, rankedResults) ->
             val occurrenceCount = rankedResults.size
             val prestigeSum = rankedResults.sumOf { it.prestige }
             val areaSum = rankedResults.sumOf { it.area }
-            println("${i++}.\t${alliance ?: ""}\t$occurrenceCount\t$prestigeSum\t${areaSum}km2")
+            println("${i++}.\t${groupingParameter ?: ""}\t$occurrenceCount\t$prestigeSum\t${areaSum}km2")
         }
     }
 }
