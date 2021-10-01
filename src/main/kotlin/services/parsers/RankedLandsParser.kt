@@ -30,7 +30,7 @@ class RankedLandsParser : EpochsParser<RankedLandsEpoch> {
     }
 
     private fun getEpochFilesFromResources(): List<File> {
-        val resource = javaClass.classLoader.getResource(EPOCHS_FOLDER)
+        val resource = javaClass.classLoader.getResource(EPOCHS_LANDS_FOLDER)
         return Files.walk(Paths.get(resource.toURI()))
             .filter(Files::isRegularFile)
             .map { it.toFile() }
@@ -58,6 +58,6 @@ class RankedLandsParser : EpochsParser<RankedLandsEpoch> {
     }
 }
 
-private const val EPOCHS_FOLDER = "epochs"
+private const val EPOCHS_LANDS_FOLDER = "epochs/lands"
 private const val REGEX_EPOCH_NUMBER = "\\d+"
 private const val REGEX_RANKED_LAND = "(\\d+)\\.\\t(.*)\\(\\#(\\d+)\\)\\s\\-\\s(.*)\\t(\\d+)km2\\t(\\d+)\\t(.*)\\t([a-zA-Z]{3,4})\\t(\\d+)"
