@@ -5,6 +5,7 @@ import enums.EOrderAttribute
 import enums.EOrderDirection
 import enums.EStateSystem
 import services.inputreaders.api.InputReader
+import services.processors.AggregatePlayersByAlliancesProcessor
 import services.processors.AggregatePlayersProcessor
 import services.processors.CompareLandsByStateSystemProcessor
 import services.processors.CompareLandsThroughEpochsProcessor
@@ -19,7 +20,8 @@ class SimpleInputReader : InputReader {
                 Available processes:
                     (1) Compare lands through epochs
                     (2) Compare lands by state system
-                    (3) Aggregate player stats
+                    (3) Aggregate players stats
+                    (4) Aggregate players stats by alliances
                     (0) Exit program
                 
                 Choose process: 
@@ -37,6 +39,7 @@ class SimpleInputReader : InputReader {
             1 -> CompareLandsThroughEpochsProcessor(this)
             2 -> CompareLandsByStateSystemProcessor(this)
             3 -> AggregatePlayersProcessor(this)
+            4 -> AggregatePlayersByAlliancesProcessor(this)
             else -> selectProcessorFromInput()
         }
     }
