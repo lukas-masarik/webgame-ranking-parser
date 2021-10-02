@@ -4,7 +4,7 @@ import enums.*
 import services.inputreaders.api.InputReader
 import services.processors.AggregateRankedLandsProcessor
 import services.processors.CompareLandsByStateSystemProcessor
-import services.processors.CompareLandsThroughEpochsProcessor
+import services.processors.ListRankedLandsProcessor
 import services.processors.api.Processor
 import kotlin.system.exitProcess
 
@@ -31,7 +31,7 @@ class SimpleInputReader : InputReader {
 
         return when (input!!.toInt()) {
             0 -> exitProcess(1)
-            1 -> CompareLandsThroughEpochsProcessor(this)
+            1 -> ListRankedLandsProcessor(this)
             2 -> CompareLandsByStateSystemProcessor(this)
             3 -> AggregateRankedLandsProcessor(this)
             else -> selectProcessorFromInput()

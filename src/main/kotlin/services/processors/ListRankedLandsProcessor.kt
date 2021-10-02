@@ -20,7 +20,7 @@ import services.parsers.api.EpochsParser
  *  - specify rank start
  *  - specify rank end
  */
-class CompareLandsThroughEpochsProcessor(
+class ListRankedLandsProcessor(
     inputReader: InputReader,
     private val parser: EpochsParser<RankedLandsEpoch> = RankedLandsParser(),
 ) : AbstractRankedLandProcessor(inputReader) {
