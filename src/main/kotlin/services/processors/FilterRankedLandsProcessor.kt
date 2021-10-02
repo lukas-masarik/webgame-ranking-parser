@@ -45,7 +45,7 @@ class FilterRankedLandsProcessor(
             .let {
                 when (filteringParameter) {
                     EFilteringParameter.PLAYER -> it.filter { it.playerName.lowercase() == filteringQuery.lowercase() }
-                    EFilteringParameter.ALLIANCE -> it.filter { it.alliance?.lowercase() == filteringQuery.lowercase() }
+                    EFilteringParameter.ALLIANCE -> it.filter { it.alliance?.lowercase() == filteringQuery.ifBlank { null }?.lowercase() }
                     EFilteringParameter.STATE_SYSTEM -> it.filter { it.stateSystem.lowercase() == filteringQuery.lowercase() }
                     EFilteringParameter.LAND_NUMBER -> it.filter { it.landNumber == (filteringQuery.toIntOrNull() ?: 0) }
                 }
