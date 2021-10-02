@@ -102,7 +102,7 @@ class SimpleInputReader : InputReader {
         val userInput = if (input?.isEmpty() == true) "10" else input
         val inputInt = userInput?.toIntOrNull()
         if (inputInt == null) selectReturnCountFromInput()
-        if (inputInt!! < 1) selectReturnCountFromInput()
+        if (inputInt!! < 0) selectReturnCountFromInput()
         return inputInt
     }
 

@@ -55,7 +55,13 @@ class CompareLandsThroughEpochsProcessor(
                     }
                 }
             }
-            .take(landsCount)
+            .let {
+                if (landsCount != 0) {
+                    it.take(landsCount)
+                } else {
+                    it.toList()
+                }
+            }
 
         processOutput(rankedLands)
     }

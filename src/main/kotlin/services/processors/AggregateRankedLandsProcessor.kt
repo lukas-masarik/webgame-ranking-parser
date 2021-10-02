@@ -80,9 +80,13 @@ class AggregateRankedLandsProcessor(
                     }
                 }
             }
-            .toList()
-            .take(landsCount)
-            .toMap()
+            .let {
+                if (landsCount != 0) {
+                    it.toList().take(landsCount).toMap()
+                } else {
+                    it.toMap()
+                }
+            }
 
         processOutput(resultMap, groupingParameter)
     }
