@@ -1,6 +1,6 @@
 package enums
 
-enum class EOrderDirection {
+enum class ESortDirection {
     ASCENDING,
     DESCENDING,
 }

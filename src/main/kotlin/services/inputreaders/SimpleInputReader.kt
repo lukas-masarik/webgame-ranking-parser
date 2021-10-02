@@ -14,7 +14,7 @@ class SimpleInputReader : InputReader {
         print(
             """
                 Available processes:
-                    (1) Compare lands through epochs
+                    (1) List ranked lands
                     (2) Filter ranked lands stats (filter specific player, alliance, ...)
                     (3) Aggregate ranked lands stats (aggregate stats for players, alliances, ...)
                     (0) Exit program
@@ -32,13 +32,13 @@ class SimpleInputReader : InputReader {
         return when (input!!.toInt()) {
             0 -> exitProcess(1)
             1 -> ListRankedLandsProcessor(this)
-            3 -> FilterRankedLandsProcessor(this)
-            4 -> AggregateRankedLandsProcessor(this)
+            2 -> FilterRankedLandsProcessor(this)
+            3 -> AggregateRankedLandsProcessor(this)
             else -> selectProcessorFromInput()
         }
     }
 
-    override fun selectOrderDirectionFromInput(): EOrderDirection {
+    override fun selectSortDirectionFromInput(): ESortDirection {
         print(
             """
                 Available orders:
@@ -52,18 +52,18 @@ class SimpleInputReader : InputReader {
         return extractOrderDirectionFromInput(input)
     }
 
-    private fun extractOrderDirectionFromInput(input: String?): EOrderDirection {
+    private fun extractOrderDirectionFromInput(input: String?): ESortDirection {
         val userInput = if (input?.isEmpty() == true) "1" else input
-        if (userInput?.toIntOrNull() == null) selectOrderDirectionFromInput()
+        if (userInput?.toIntOrNull() == null) selectSortDirectionFromInput()
 
         return when (userInput!!.toInt()) {
-            1 -> EOrderDirection.DESCENDING
-            2 -> EOrderDirection.ASCENDING
-            else -> selectOrderDirectionFromInput()
+            1 -> ESortDirection.DESCENDING
+            2 -> ESortDirection.ASCENDING
+            else -> selectSortDirectionFromInput()
         }
     }
 
-    override fun selectOrderAttributeFromInput(): EOrderAttribute {
+    override fun selectSortAttributeFromInput(): ESortAttribute {
         print(
             """
                 Available attributes:
@@ -77,14 +77,14 @@ class SimpleInputReader : InputReader {
         return extractOrderAttributeFromInput(input)
     }
 
-    private fun extractOrderAttributeFromInput(input: String?): EOrderAttribute {
+    private fun extractOrderAttributeFromInput(input: String?): ESortAttribute {
         val userInput = if (input?.isEmpty() == true) "1" else input
-        if (userInput?.toIntOrNull() == null) selectOrderAttributeFromInput()
+        if (userInput?.toIntOrNull() == null) selectSortAttributeFromInput()
 
         return when (userInput!!.toInt()) {
-            1 -> EOrderAttribute.PRESTIGE
-            2 -> EOrderAttribute.AREA
-            else -> selectOrderAttributeFromInput()
+            1 -> ESortAttribute.PRESTIGE
+            2 -> ESortAttribute.AREA
+            else -> selectSortAttributeFromInput()
         }
     }
 
@@ -104,46 +104,6 @@ class SimpleInputReader : InputReader {
         if (inputInt == null) selectReturnCountFromInput()
         if (inputInt!! < 0) selectReturnCountFromInput()
         return inputInt
-    }
-
-    override fun selectStateSystemFromInput(): EStateSystem {
-        print(
-            """
-                Available state systems:
-                    (1) ANARCHY
-                    (2) COMMUNISM
-                    (3) DEMOCRACY
-                    (4) DICTATORSHIP
-                    (5) FEUDALISM
-                    (6) FUNDAMENTALISM
-                    (7) REPUBLIC
-                    (8) ROBOCRACY
-                    (9) TECHNOCRACY
-                    (10) UTOPIA
-                
-                Choose state system: 
-            """.trimIndent()
-        )
-        val input = readLine()
-        return extractStateSystemFromInput(input)
-    }
-
-    private fun extractStateSystemFromInput(input: String?): EStateSystem {
-        if (input?.toIntOrNull() == null) selectStateSystemFromInput()
-
-        return when (input!!.toInt()) {
-            1 -> EStateSystem.ANARCHY
-            2 -> EStateSystem.COMMUNISM
-            3 -> EStateSystem.DEMOCRACY
-            4 -> EStateSystem.DICTATORSHIP
-            5 -> EStateSystem.FEUDALISM
-            6 -> EStateSystem.FUNDAMENTALISM
-            7 -> EStateSystem.REPUBLIC
-            8 -> EStateSystem.ROBOCRACY
-            9 -> EStateSystem.TECHNOCRACY
-            10 -> EStateSystem.UTOPIA
-            else -> selectStateSystemFromInput()
-        }
     }
 
     override fun selectStartEpochFromInput(): Int? {

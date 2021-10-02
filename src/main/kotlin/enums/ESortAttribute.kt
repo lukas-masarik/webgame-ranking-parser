@@ -1,6 +1,6 @@
 package enums
 
-enum class EOrderAttribute {
+enum class ESortAttribute {
     PRESTIGE,
     AREA,
 }

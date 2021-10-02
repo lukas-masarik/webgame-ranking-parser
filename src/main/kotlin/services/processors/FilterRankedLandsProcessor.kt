@@ -6,8 +6,21 @@ import enums.*
 import services.inputreaders.api.InputReader
 import services.parsers.RankedLandsParser
 import services.parsers.api.EpochsParser
-import java.time.temporal.TemporalQuery
 
+/**
+ * Returns filtered stats.
+ *
+ * Features:
+ *  - specify filtering parameter (player, alliance, state system, land number)
+ *  - specify filtering query (string based on filtering parameter)
+ *  - specify sort attribute (prestige or area)
+ *  - specify sort direction
+ *  - specify returned rows
+ *  - specify epoch start
+ *  - specify epoch end
+ *  - specify rank start
+ *  - specify rank end
+ */
 class FilterRankedLandsProcessor(
     inputReader: InputReader,
     private val parser: EpochsParser<RankedLandsEpoch> = RankedLandsParser(),
@@ -16,8 +29,8 @@ class FilterRankedLandsProcessor(
     override fun process() {
         val filteringParameter = inputReader.selectFilteringParameterFromInput()
         val filteringQuery = inputReader.selectFilteringQueryFromInput()
-        val orderAttribute = inputReader.selectOrderAttributeFromInput()
-        val orderDirection = inputReader.selectOrderDirectionFromInput()
+        val sortAttribute = inputReader.selectSortAttributeFromInput()
+        val SortDirection = inputReader.selectSortDirectionFromInput()
         val landsCount = inputReader.selectReturnCountFromInput()
         val epochStart = inputReader.selectStartEpochFromInput()
         val epochEnd = inputReader.selectEndEpochFromInput()
@@ -38,17 +51,17 @@ class FilterRankedLandsProcessor(
                 }
             }
             .let {
-                when (orderDirection) {
-                    EOrderDirection.ASCENDING -> {
-                        when (orderAttribute) {
-                            EOrderAttribute.PRESTIGE -> it.sortedBy { it.prestige }
-                            EOrderAttribute.AREA -> it.sortedBy { it.area }
+                when (SortDirection) {
+                    ESortDirection.ASCENDING -> {
+                        when (sortAttribute) {
+                            ESortAttribute.PRESTIGE -> it.sortedBy { it.prestige }
+                            ESortAttribute.AREA -> it.sortedBy { it.area }
                         }
                     }
-                    EOrderDirection.DESCENDING -> {
-                        when (orderAttribute) {
-                            EOrderAttribute.PRESTIGE -> it.sortedByDescending { it.prestige }
-                            EOrderAttribute.AREA -> it.sortedByDescending { it.area }
+                    ESortDirection.DESCENDING -> {
+                        when (sortAttribute) {
+                            ESortAttribute.PRESTIGE -> it.sortedByDescending { it.prestige }
+                            ESortAttribute.AREA -> it.sortedByDescending { it.area }
                         }
                     }
                 }

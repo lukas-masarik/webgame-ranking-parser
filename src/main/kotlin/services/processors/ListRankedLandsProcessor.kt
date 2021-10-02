@@ -2,18 +2,18 @@ package services.processors
 
 import dto.RankedLand
 import dto.RankedLandsEpoch
-import enums.EOrderAttribute
-import enums.EOrderDirection
+import enums.ESortAttribute
+import enums.ESortDirection
 import services.inputreaders.api.InputReader
 import services.parsers.RankedLandsParser
 import services.parsers.api.EpochsParser
 
 /**
- * Returns complex lands' stats.
+ * Returns overall lands' stats.
  *
  * Features:
- *  - specify order attribute (prestige or area)
- *  - specify order direction
+ *  - specify sort attribute (prestige or area)
+ *  - specify sort direction
  *  - specify returned rows
  *  - specify epoch start
  *  - specify epoch end
@@ -26,8 +26,8 @@ class ListRankedLandsProcessor(
 ) : AbstractRankedLandProcessor(inputReader) {
 
     override fun process() {
-        val orderAttribute = inputReader.selectOrderAttributeFromInput()
-        val orderDirection = inputReader.selectOrderDirectionFromInput()
+        val sortAttribute = inputReader.selectSortAttributeFromInput()
+        val sortDirection = inputReader.selectSortDirectionFromInput()
         val landsCount = inputReader.selectReturnCountFromInput()
         val epochStart = inputReader.selectStartEpochFromInput()
         val epochEnd = inputReader.selectEndEpochFromInput()
@@ -40,17 +40,17 @@ class ListRankedLandsProcessor(
 
         val rankedLands = filteredRanks.flatMap { it.rankedLands }
             .let {
-                when (orderDirection) {
-                    EOrderDirection.ASCENDING -> {
-                        when (orderAttribute) {
-                            EOrderAttribute.PRESTIGE -> it.sortedBy { it.prestige }
-                            EOrderAttribute.AREA -> it.sortedBy { it.area }
+                when (sortDirection) {
+                    ESortDirection.ASCENDING -> {
+                        when (sortAttribute) {
+                            ESortAttribute.PRESTIGE -> it.sortedBy { it.prestige }
+                            ESortAttribute.AREA -> it.sortedBy { it.area }
                         }
                     }
-                    EOrderDirection.DESCENDING -> {
-                        when (orderAttribute) {
-                            EOrderAttribute.PRESTIGE -> it.sortedByDescending { it.prestige }
-                            EOrderAttribute.AREA -> it.sortedByDescending { it.area }
+                    ESortDirection.DESCENDING -> {
+                        when (sortAttribute) {
+                            ESortAttribute.PRESTIGE -> it.sortedByDescending { it.prestige }
+                            ESortAttribute.AREA -> it.sortedByDescending { it.area }
                         }
                     }
                 }

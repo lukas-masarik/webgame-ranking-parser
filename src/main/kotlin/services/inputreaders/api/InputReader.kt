@@ -5,10 +5,9 @@ import services.processors.api.Processor
 
 interface InputReader {
     fun selectProcessorFromInput(): Processor
-    fun selectOrderDirectionFromInput(): EOrderDirection
-    fun selectOrderAttributeFromInput(): EOrderAttribute
+    fun selectSortDirectionFromInput(): ESortDirection
+    fun selectSortAttributeFromInput(): ESortAttribute
     fun selectReturnCountFromInput(): Int
-    fun selectStateSystemFromInput(): EStateSystem
     fun selectStartEpochFromInput(): Int?
     fun selectEndEpochFromInput(): Int?
     fun selectStartRankFromInput(): Int?
