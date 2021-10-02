@@ -104,33 +104,33 @@ class FilterRankedLandsProcessor(
     }
 
     private fun processAllianceOutput(rankedLands: List<RankedLand>) {
-        println("#\tPrestige\tArea\tState system\tPlayer\tEpoch\tRank")
+        println("#\tPlayer\tPrestige\tArea\tState system\tEpoch\tRank")
         var i = 1
         rankedLands.forEach { rankedLand ->
             println(
-                "${i++}.\t${rankedLand.prestige}\t${rankedLand.area}km2\t${rankedLand.stateSystem}\t${rankedLand.playerName}\t${rankedLand.epochNumber}\t" +
+                "${i++}.\t${rankedLand.playerName}\t${rankedLand.prestige}\t${rankedLand.area}km2\t${rankedLand.stateSystem}\t${rankedLand.epochNumber}\t" +
                         "${rankedLand.rank}."
             )
         }
     }
 
     private fun processStateSystemOutput(rankedLands: List<RankedLand>) {
-        println("#\tPrestige\tArea\tPlayer\tAlliance\tEpoch\tRank")
+        println("#\tPlayer\tPrestige\tArea\tAlliance\tEpoch\tRank")
         var i = 1
         rankedLands.forEach { rankedLand ->
             println(
-                "${i++}.\t${rankedLand.prestige}\t${rankedLand.area}km2\t${rankedLand.playerName}\t${rankedLand.alliance}\t${rankedLand.epochNumber}\t" +
+                "${i++}.\t${rankedLand.playerName}\t${rankedLand.prestige}\t${rankedLand.area}km2\t${rankedLand.alliance}\t${rankedLand.epochNumber}\t" +
                         "${rankedLand.rank}."
             )
         }
     }
 
     private fun processLandNumberOutput(rankedLands: List<RankedLand>) {
-        println("#\tPrestige\tArea\tState System\tPlayer\tAlliance\tEpoch\tRank")
+        println("#\tPlayer\tPrestige\tArea\tState System\tAlliance\tEpoch\tRank")
         var i = 1
         rankedLands.forEach { rankedLand ->
             println(
-                "${i++}.\t${rankedLand.prestige}\t${rankedLand.area}km2\t${rankedLand.stateSystem}\t${rankedLand.playerName}\t${rankedLand.alliance}\t" +
+                "${i++}.\t${rankedLand.playerName}\t${rankedLand.prestige}\t${rankedLand.area}km2\t${rankedLand.stateSystem}\t${rankedLand.alliance}\t" +
                         "${rankedLand.epochNumber}\t${rankedLand.rank}."
             )
         }
