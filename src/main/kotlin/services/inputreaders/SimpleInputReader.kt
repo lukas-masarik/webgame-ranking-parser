@@ -3,7 +3,7 @@ package services.inputreaders
 import enums.*
 import services.inputreaders.api.InputReader
 import services.processors.AggregateRankedLandsProcessor
-import services.processors.CompareLandsByStateSystemProcessor
+import services.processors.FilterRankedLandsProcessor
 import services.processors.ListRankedLandsProcessor
 import services.processors.api.Processor
 import kotlin.system.exitProcess
@@ -15,8 +15,8 @@ class SimpleInputReader : InputReader {
             """
                 Available processes:
                     (1) Compare lands through epochs
-                    (2) Compare lands by state system
-                    (3) Aggregate ranked lands stats
+                    (2) Filter ranked lands stats (filter specific player, alliance, ...)
+                    (3) Aggregate ranked lands stats (aggregate stats for players, alliances, ...)
                     (0) Exit program
                 
                 Choose process: 
@@ -32,8 +32,8 @@ class SimpleInputReader : InputReader {
         return when (input!!.toInt()) {
             0 -> exitProcess(1)
             1 -> ListRankedLandsProcessor(this)
-            2 -> CompareLandsByStateSystemProcessor(this)
-            3 -> AggregateRankedLandsProcessor(this)
+            3 -> FilterRankedLandsProcessor(this)
+            4 -> AggregateRankedLandsProcessor(this)
             else -> selectProcessorFromInput()
         }
     }
@@ -248,5 +248,54 @@ class SimpleInputReader : InputReader {
             4 -> EGroupingParameter.LAND_NUMBER
             else -> selectGroupingParameterFromInput()
         }
+    }
+
+    override fun selectFilteringParameterFromInput(): EFilteringParameter {
+        print(
+            """
+                Available filtering parameters:
+                    (1) PLAYER
+                    (2) ALLIANCE
+                    (3) STATE SYSTEM
+                    (4) LAND NUMBER
+                
+                Choose filtering parameter (1): 
+            """.trimIndent()
+        )
+        val input = readLine()
+        return extractFilteringParameterFromInput(input)
+    }
+
+    private fun extractFilteringParameterFromInput(input: String?): EFilteringParameter {
+        val userInput = if (input?.isEmpty() == true) "1" else input
+        if (userInput?.toIntOrNull() == null) selectFilteringParameterFromInput()
+
+        return when (userInput!!.toInt()) {
+            1 -> EFilteringParameter.PLAYER
+            2 -> EFilteringParameter.ALLIANCE
+            3 -> EFilteringParameter.STATE_SYSTEM
+            4 -> EFilteringParameter.LAND_NUMBER
+            else -> selectFilteringParameterFromInput()
+        }
+    }
+
+    override fun selectFilteringQueryFromInput(): String {
+        print(
+            """
+                Filter examples:
+                    For player: [mara8|MAFline|thordevil]
+                    For alliance: [SB|M|**CQR**]
+                    For state system: [anar|demo|dikt|feud|fund|kom|rep|robo|tech|utop]
+                    For land number: [42|984]
+                
+                Choose filter parameter: 
+            """.trimIndent()
+        )
+        val input = readLine()
+        return extractFilteringQueryFromInput(input)
+    }
+
+    private fun extractFilteringQueryFromInput(input: String?): String {
+        return input ?: selectFilteringQueryFromInput()
     }
 }

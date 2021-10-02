@@ -15,4 +15,6 @@ interface InputReader {
     fun selectEndRankFromInput(): Int?
     fun selectAggregatingParameterFromInput(): EAggregatingParameter
     fun selectGroupingParameterFromInput(): EGroupingParameter
+    fun selectFilteringParameterFromInput(): EFilteringParameter
+    fun selectFilteringQueryFromInput(): String
 }
