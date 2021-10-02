@@ -72,10 +72,10 @@ class CompareLandsThroughEpochsProcessor(
             return
         }
 
-        println("#\tPlayer\tPrestige\tArea\tEpoch")
+        println("#\tPlayer\tPrestige\tArea\tEpoch\tRank")
         var i = 1
         rankedLands.forEach { rankedLand ->
-            println("${i++}.\t${rankedLand.playerName}\t${rankedLand.prestige}\t${rankedLand.area}km2\t${rankedLand.epochNumber}")
+            println("${i++}.\t${rankedLand.playerName}\t${rankedLand.prestige}\t${rankedLand.area}km2\t${rankedLand.epochNumber}\t${rankedLand.rank}.")
         }
     }
 }

@@ -1,7 +1,7 @@
 package dto
 
 data class RankedLand(
-    val order: Int,
+    val rank: Int,
     val landName: String,
     val landNumber: Int,
     val playerName: String,

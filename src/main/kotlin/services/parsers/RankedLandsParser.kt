@@ -44,7 +44,7 @@ class RankedLandsParser : EpochsParser<RankedLandsEpoch> {
     fun parseRankedLand(rankedLandLine: String, epochNumber: Int): RankedLand {
         val rankedLandMatchResult = REGEX_RANKED_LAND.toRegex().find(rankedLandLine)?.groupValues ?: throw IllegalArgumentException("Invalid ranked land line.")
         return RankedLand(
-            order = rankedLandMatchResult[1].toInt(),
+            rank = rankedLandMatchResult[1].toInt(),
             landName = rankedLandMatchResult[2],
             landNumber = rankedLandMatchResult[3].toInt(),
             playerName = rankedLandMatchResult[4],

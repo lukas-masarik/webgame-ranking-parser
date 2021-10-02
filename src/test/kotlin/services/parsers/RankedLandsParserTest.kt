@@ -15,7 +15,7 @@ class RankedLandsParserTest {
         assertEquals(
             rankedLand,
             RankedLand(
-                order = 2,
+                rank = 2,
                 landName = "Black Stronghold",
                 landNumber = 209,
                 playerName = "Black Warrior",
@@ -37,7 +37,7 @@ class RankedLandsParserTest {
         assertEquals(
             rankedLand,
             RankedLand(
-                order = 1,
+                rank = 1,
                 landName = "Borobudur",
                 landNumber = 521,
                 playerName = "Lone Wolf",
