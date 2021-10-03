@@ -91,7 +91,7 @@ class SimpleInputReader : InputReader {
     override fun selectReturnCountFromInput(): Int {
         print(
             """
-                How many result you want to return (10)? 
+                How many result you want to return (0 for all, default 10)? 
             """.trimIndent()
         )
         val input = readLine()
