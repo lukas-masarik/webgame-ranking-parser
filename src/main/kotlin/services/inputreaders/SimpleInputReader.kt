@@ -258,4 +258,68 @@ class SimpleInputReader : InputReader {
     private fun extractFilteringQueryFromInput(input: String?): String {
         return input ?: selectFilteringQueryFromInput()
     }
+
+    override fun selectFilterPlayerQueryFromInput(): String {
+        print(
+            """
+                Player name examples: [mara8|MAFline|thordevil]
+                
+                Type player name: 
+            """.trimIndent()
+        )
+        val input = readLine()
+        return extractFilterPlayerQueryFromInput(input)
+    }
+
+    private fun extractFilterPlayerQueryFromInput(input: String?): String {
+        return input ?: selectFilterPlayerQueryFromInput()
+    }
+
+    override fun selectFilterAllianceQueryFromInput(): String? {
+        print(
+            """
+                Alliance name examples: [M, Anarchy, **CQR**]
+                
+                Type alliance name: 
+            """.trimIndent()
+        )
+        val input = readLine()
+        return extractFilterAllianceQueryFromInput(input)
+    }
+
+    private fun extractFilterAllianceQueryFromInput(input: String?): String? {
+        return input?.ifBlank { null }
+    }
+
+    override fun selectFilterStateSystemQueryFromInput(): String {
+        print(
+            """
+                State system examples: [anar|demo|dikt|feud|fund|kom|rep|robo|tech|utop]
+                
+                Type state system: 
+            """.trimIndent()
+        )
+        val input = readLine()
+        return extractFilterStateSystemQueryFromInput(input)
+    }
+
+    private fun extractFilterStateSystemQueryFromInput(input: String?): String {
+        return input ?: selectFilterStateSystemQueryFromInput()
+    }
+
+    override fun selectFilterLandNumberQueryFromInput(): String {
+        print(
+            """
+                Land number examples: [42|111|94]
+                
+                Type land number: 
+            """.trimIndent()
+        )
+        val input = readLine()
+        return extractFilterLandNumberQueryFromInput(input)
+    }
+
+    private fun extractFilterLandNumberQueryFromInput(input: String?): String {
+        return if (input?.toIntOrNull() is Number) input else selectFilterLandNumberQueryFromInput()
+    }
 }

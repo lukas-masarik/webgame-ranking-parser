@@ -16,4 +16,8 @@ interface InputReader {
     fun selectGroupingParameterFromInput(): EGroupingParameter
     fun selectFilteringParameterFromInput(): EFilteringParameter
     fun selectFilteringQueryFromInput(): String
+    fun selectFilterPlayerQueryFromInput(): String
+    fun selectFilterAllianceQueryFromInput(): String?
+    fun selectFilterStateSystemQueryFromInput(): String
+    fun selectFilterLandNumberQueryFromInput(): String
 }

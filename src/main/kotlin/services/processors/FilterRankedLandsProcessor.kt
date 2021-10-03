@@ -28,7 +28,12 @@ class FilterRankedLandsProcessor(
 
     override fun process() {
         val filteringParameter = inputReader.selectFilteringParameterFromInput()
-        val filteringQuery = inputReader.selectFilteringQueryFromInput()
+        val filteringQuery = when (filteringParameter) {
+            EFilteringParameter.PLAYER -> inputReader.selectFilterPlayerQueryFromInput()
+            EFilteringParameter.ALLIANCE -> inputReader.selectFilterAllianceQueryFromInput()
+            EFilteringParameter.STATE_SYSTEM -> inputReader.selectFilterStateSystemQueryFromInput()
+            EFilteringParameter.LAND_NUMBER -> inputReader.selectFilterLandNumberQueryFromInput()
+        }
         val sortAttribute = inputReader.selectSortAttributeFromInput()
         val SortDirection = inputReader.selectSortDirectionFromInput()
         val landsCount = inputReader.selectReturnCountFromInput()
@@ -44,10 +49,10 @@ class FilterRankedLandsProcessor(
         val rankedLands = filteredRanks.flatMap { it.rankedLands }
             .let {
                 when (filteringParameter) {
-                    EFilteringParameter.PLAYER -> it.filter { it.playerName.lowercase() == filteringQuery.lowercase() }
-                    EFilteringParameter.ALLIANCE -> it.filter { it.alliance?.lowercase() == filteringQuery.ifBlank { null }?.lowercase() }
-                    EFilteringParameter.STATE_SYSTEM -> it.filter { it.stateSystem.lowercase() == filteringQuery.lowercase() }
-                    EFilteringParameter.LAND_NUMBER -> it.filter { it.landNumber == (filteringQuery.toIntOrNull() ?: 0) }
+                    EFilteringParameter.PLAYER -> it.filter { it.playerName.lowercase() == filteringQuery!!.lowercase() }
+                    EFilteringParameter.ALLIANCE -> it.filter { it.alliance?.lowercase() == filteringQuery?.ifBlank { null }?.lowercase() }
+                    EFilteringParameter.STATE_SYSTEM -> it.filter { it.stateSystem.lowercase() == filteringQuery!!.lowercase() }
+                    EFilteringParameter.LAND_NUMBER -> it.filter { it.landNumber == (filteringQuery!!.toIntOrNull() ?: 0) }
                 }
             }
             .let {
@@ -77,7 +82,7 @@ class FilterRankedLandsProcessor(
         processOutput(rankedLands, filteringParameter, filteringQuery)
     }
 
-    private fun processOutput(rankedLands: List<RankedLand>, filteringParameter: EFilteringParameter, filteringQuery: String) {
+    private fun processOutput(rankedLands: List<RankedLand>, filteringParameter: EFilteringParameter, filteringQuery: String?) {
         println("${filteringParameter.value}: $filteringQuery")
         if (rankedLands.isEmpty()) {
             println("No results.")
