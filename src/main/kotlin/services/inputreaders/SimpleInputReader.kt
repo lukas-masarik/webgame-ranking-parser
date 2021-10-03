@@ -3,8 +3,8 @@ package services.inputreaders
 import enums.*
 import services.inputreaders.api.InputReader
 import services.processors.AggregateRankedLandsProcessor
-import services.processors.CompareLandsByStateSystemProcessor
-import services.processors.CompareLandsThroughEpochsProcessor
+import services.processors.FilterRankedLandsProcessor
+import services.processors.ListRankedLandsProcessor
 import services.processors.api.Processor
 import kotlin.system.exitProcess
 
@@ -14,9 +14,9 @@ class SimpleInputReader : InputReader {
         print(
             """
                 Available processes:
-                    (1) Compare lands through epochs
-                    (2) Compare lands by state system
-                    (3) Aggregate ranked lands stats
+                    (1) List ranked lands
+                    (2) Filter ranked lands stats (filter specific player, alliance, ...)
+                    (3) Aggregate ranked lands stats (aggregate stats for players, alliances, ...)
                     (0) Exit program
                 
                 Choose process: 
@@ -31,14 +31,14 @@ class SimpleInputReader : InputReader {
 
         return when (input!!.toInt()) {
             0 -> exitProcess(1)
-            1 -> CompareLandsThroughEpochsProcessor(this)
-            2 -> CompareLandsByStateSystemProcessor(this)
+            1 -> ListRankedLandsProcessor(this)
+            2 -> FilterRankedLandsProcessor(this)
             3 -> AggregateRankedLandsProcessor(this)
             else -> selectProcessorFromInput()
         }
     }
 
-    override fun selectOrderDirectionFromInput(): EOrderDirection {
+    override fun selectSortDirectionFromInput(): ESortDirection {
         print(
             """
                 Available orders:
@@ -52,18 +52,18 @@ class SimpleInputReader : InputReader {
         return extractOrderDirectionFromInput(input)
     }
 
-    private fun extractOrderDirectionFromInput(input: String?): EOrderDirection {
+    private fun extractOrderDirectionFromInput(input: String?): ESortDirection {
         val userInput = if (input?.isEmpty() == true) "1" else input
-        if (userInput?.toIntOrNull() == null) selectOrderDirectionFromInput()
+        if (userInput?.toIntOrNull() == null) selectSortDirectionFromInput()
 
         return when (userInput!!.toInt()) {
-            1 -> EOrderDirection.DESCENDING
-            2 -> EOrderDirection.ASCENDING
-            else -> selectOrderDirectionFromInput()
+            1 -> ESortDirection.DESCENDING
+            2 -> ESortDirection.ASCENDING
+            else -> selectSortDirectionFromInput()
         }
     }
 
-    override fun selectOrderAttributeFromInput(): EOrderAttribute {
+    override fun selectSortAttributeFromInput(): ESortAttribute {
         print(
             """
                 Available attributes:
@@ -77,14 +77,14 @@ class SimpleInputReader : InputReader {
         return extractOrderAttributeFromInput(input)
     }
 
-    private fun extractOrderAttributeFromInput(input: String?): EOrderAttribute {
+    private fun extractOrderAttributeFromInput(input: String?): ESortAttribute {
         val userInput = if (input?.isEmpty() == true) "1" else input
-        if (userInput?.toIntOrNull() == null) selectOrderAttributeFromInput()
+        if (userInput?.toIntOrNull() == null) selectSortAttributeFromInput()
 
         return when (userInput!!.toInt()) {
-            1 -> EOrderAttribute.PRESTIGE
-            2 -> EOrderAttribute.AREA
-            else -> selectOrderAttributeFromInput()
+            1 -> ESortAttribute.PRESTIGE
+            2 -> ESortAttribute.AREA
+            else -> selectSortAttributeFromInput()
         }
     }
 
@@ -102,48 +102,8 @@ class SimpleInputReader : InputReader {
         val userInput = if (input?.isEmpty() == true) "10" else input
         val inputInt = userInput?.toIntOrNull()
         if (inputInt == null) selectReturnCountFromInput()
-        if (inputInt!! < 1) selectReturnCountFromInput()
+        if (inputInt!! < 0) selectReturnCountFromInput()
         return inputInt
-    }
-
-    override fun selectStateSystemFromInput(): EStateSystem {
-        print(
-            """
-                Available state systems:
-                    (1) ANARCHY
-                    (2) COMMUNISM
-                    (3) DEMOCRACY
-                    (4) DICTATORSHIP
-                    (5) FEUDALISM
-                    (6) FUNDAMENTALISM
-                    (7) REPUBLIC
-                    (8) ROBOCRACY
-                    (9) TECHNOCRACY
-                    (10) UTOPIA
-                
-                Choose state system: 
-            """.trimIndent()
-        )
-        val input = readLine()
-        return extractStateSystemFromInput(input)
-    }
-
-    private fun extractStateSystemFromInput(input: String?): EStateSystem {
-        if (input?.toIntOrNull() == null) selectStateSystemFromInput()
-
-        return when (input!!.toInt()) {
-            1 -> EStateSystem.ANARCHY
-            2 -> EStateSystem.COMMUNISM
-            3 -> EStateSystem.DEMOCRACY
-            4 -> EStateSystem.DICTATORSHIP
-            5 -> EStateSystem.FEUDALISM
-            6 -> EStateSystem.FUNDAMENTALISM
-            7 -> EStateSystem.REPUBLIC
-            8 -> EStateSystem.ROBOCRACY
-            9 -> EStateSystem.TECHNOCRACY
-            10 -> EStateSystem.UTOPIA
-            else -> selectStateSystemFromInput()
-        }
     }
 
     override fun selectStartEpochFromInput(): Int? {
@@ -248,5 +208,118 @@ class SimpleInputReader : InputReader {
             4 -> EGroupingParameter.LAND_NUMBER
             else -> selectGroupingParameterFromInput()
         }
+    }
+
+    override fun selectFilteringParameterFromInput(): EFilteringParameter {
+        print(
+            """
+                Available filtering parameters:
+                    (1) PLAYER
+                    (2) ALLIANCE
+                    (3) STATE SYSTEM
+                    (4) LAND NUMBER
+                
+                Choose filtering parameter (1): 
+            """.trimIndent()
+        )
+        val input = readLine()
+        return extractFilteringParameterFromInput(input)
+    }
+
+    private fun extractFilteringParameterFromInput(input: String?): EFilteringParameter {
+        val userInput = if (input?.isEmpty() == true) "1" else input
+        if (userInput?.toIntOrNull() == null) selectFilteringParameterFromInput()
+
+        return when (userInput!!.toInt()) {
+            1 -> EFilteringParameter.PLAYER
+            2 -> EFilteringParameter.ALLIANCE
+            3 -> EFilteringParameter.STATE_SYSTEM
+            4 -> EFilteringParameter.LAND_NUMBER
+            else -> selectFilteringParameterFromInput()
+        }
+    }
+
+    override fun selectFilteringQueryFromInput(): String {
+        print(
+            """
+                Filter examples:
+                    For player: [mara8|MAFline|thordevil]
+                    For alliance: [SB|M|**CQR**]
+                    For state system: [anar|demo|dikt|feud|fund|kom|rep|robo|tech|utop]
+                    For land number: [42|984]
+                
+                Choose filter parameter: 
+            """.trimIndent()
+        )
+        val input = readLine()
+        return extractFilteringQueryFromInput(input)
+    }
+
+    private fun extractFilteringQueryFromInput(input: String?): String {
+        return input ?: selectFilteringQueryFromInput()
+    }
+
+    override fun selectFilterPlayerQueryFromInput(): String {
+        print(
+            """
+                Player name examples: [mara8|MAFline|thordevil]
+                
+                Type player name: 
+            """.trimIndent()
+        )
+        val input = readLine()
+        return extractFilterPlayerQueryFromInput(input)
+    }
+
+    private fun extractFilterPlayerQueryFromInput(input: String?): String {
+        return input ?: selectFilterPlayerQueryFromInput()
+    }
+
+    override fun selectFilterAllianceQueryFromInput(): String? {
+        print(
+            """
+                Alliance name examples: [M, Anarchy, **CQR**]
+                
+                Type alliance name: 
+            """.trimIndent()
+        )
+        val input = readLine()
+        return extractFilterAllianceQueryFromInput(input)
+    }
+
+    private fun extractFilterAllianceQueryFromInput(input: String?): String? {
+        return input?.ifBlank { null }
+    }
+
+    override fun selectFilterStateSystemQueryFromInput(): String {
+        print(
+            """
+                State system examples: [anar|demo|dikt|feud|fund|kom|rep|robo|tech|utop]
+                
+                Type state system: 
+            """.trimIndent()
+        )
+        val input = readLine()
+        return extractFilterStateSystemQueryFromInput(input)
+    }
+
+    private fun extractFilterStateSystemQueryFromInput(input: String?): String {
+        return input ?: selectFilterStateSystemQueryFromInput()
+    }
+
+    override fun selectFilterLandNumberQueryFromInput(): String {
+        print(
+            """
+                Land number examples: [42|111|94]
+                
+                Type land number: 
+            """.trimIndent()
+        )
+        val input = readLine()
+        return extractFilterLandNumberQueryFromInput(input)
+    }
+
+    private fun extractFilterLandNumberQueryFromInput(input: String?): String {
+        return if (input?.toIntOrNull() is Number) input else selectFilterLandNumberQueryFromInput()
     }
 }

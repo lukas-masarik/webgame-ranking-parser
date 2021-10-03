@@ -4,16 +4,16 @@ import dto.RankedLand
 import dto.RankedLandsEpoch
 import enums.EAggregatingParameter
 import enums.EGroupingParameter
-import enums.EOrderDirection
+import enums.ESortDirection
 import services.inputreaders.api.InputReader
 import services.parsers.RankedLandsParser
 import services.parsers.api.EpochsParser
 
 /**
- * Returns aggregated stats for players
+ * Returns aggregated stats.
  *
  * Features:
- *  - specify grouping parameter (player, alliance, state_system)
+ *  - specify grouping parameter (player, alliance, state system, land number)
  *  - specify aggregating parameter (occurrence, prestige, area)
  *  - specify order direction
  *  - specify returned rows
@@ -30,7 +30,7 @@ class AggregateRankedLandsProcessor(
     override fun process() {
         val groupingParameter = inputReader.selectGroupingParameterFromInput()
         val aggregatingParameter = inputReader.selectAggregatingParameterFromInput()
-        val orderDirection = inputReader.selectOrderDirectionFromInput()
+        val sortDirection = inputReader.selectSortDirectionFromInput()
         val landsCount = inputReader.selectReturnCountFromInput()
         val epochStart = inputReader.selectStartEpochFromInput()
         val epochEnd = inputReader.selectEndEpochFromInput()
@@ -51,8 +51,8 @@ class AggregateRankedLandsProcessor(
                 }
             }
             .let {
-                when (orderDirection) {
-                    EOrderDirection.ASCENDING -> {
+                when (sortDirection) {
+                    ESortDirection.ASCENDING -> {
                         when (aggregatingParameter) {
                             EAggregatingParameter.OCCURRENCE -> it.toList()
                                 .sortedBy { (_, values) -> values.size }
@@ -65,7 +65,7 @@ class AggregateRankedLandsProcessor(
                                 .toMap()
                         }
                     }
-                    EOrderDirection.DESCENDING -> {
+                    ESortDirection.DESCENDING -> {
                         when (aggregatingParameter) {
                             EAggregatingParameter.OCCURRENCE -> it.toList()
                                 .sortedByDescending { (_, values) -> values.size }
@@ -80,9 +80,13 @@ class AggregateRankedLandsProcessor(
                     }
                 }
             }
-            .toList()
-            .take(landsCount)
-            .toMap()
+            .let {
+                if (landsCount != 0) {
+                    it.toList().take(landsCount).toMap()
+                } else {
+                    it.toMap()
+                }
+            }
 
         processOutput(resultMap, groupingParameter)
     }

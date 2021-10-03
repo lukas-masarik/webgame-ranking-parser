@@ -18,7 +18,7 @@ abstract class AbstractRankedLandProcessor(
             rankedLandsEpochs.map { rankedLandsEpoch ->
                 RankedLandsEpoch(
                     number = rankedLandsEpoch.number,
-                    rankedLands = rankedLandsEpoch.rankedLands.filter { it.order >= rankStart }
+                    rankedLands = rankedLandsEpoch.rankedLands.filter { it.rank >= rankStart }
                 )
             }
         } else {
@@ -29,7 +29,7 @@ abstract class AbstractRankedLandProcessor(
             epochsLandsWithStartRank.map { rankedLandsEpoch ->
                 RankedLandsEpoch(
                     number = rankedLandsEpoch.number,
-                    rankedLands = rankedLandsEpoch.rankedLands.filter { it.order <= rankEnd }
+                    rankedLands = rankedLandsEpoch.rankedLands.filter { it.rank <= rankEnd }
                 )
             }
         } else {
