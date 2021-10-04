@@ -1,5 +1,3 @@
-package app
-
 import services.inputreaders.SimpleInputReader
 
 object WebgameRankingParser {
