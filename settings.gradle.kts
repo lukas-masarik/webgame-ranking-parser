@@ -1,3 +1,3 @@
 
-rootProject.name = "webgame-epochs-parser"
+rootProject.name = "webgame-ranking-parser"
 
