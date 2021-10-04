@@ -93,11 +93,11 @@ class AggregateRankedLandsProcessor(
 
     private fun processOutput(resultMap: Map<String?, List<RankedLand>>, groupingParameter: EGroupingParameter) {
         if (resultMap.isEmpty()) {
-            println("No results.")
+            println("Žádné výsledky.")
             return
         }
 
-        println("#\t${groupingParameter.value}\tOccurrence\tPrestige sum\tArea sum")
+        println("#\t${groupingParameter.value}\tÚčast\tPrestiž suma\tRozloha suma")
         var i = 1
         resultMap.forEach { (groupingParameter, rankedResults) ->
             val occurrenceCount = rankedResults.size

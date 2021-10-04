@@ -85,7 +85,7 @@ class FilterRankedLandsProcessor(
     private fun processOutput(rankedLands: List<RankedLand>, filteringParameter: EFilteringParameter, filteringQuery: String?) {
         println("${filteringParameter.value}: $filteringQuery")
         if (rankedLands.isEmpty()) {
-            println("No results.")
+            println("Žádné výsledky.")
             return
         }
 
@@ -98,7 +98,7 @@ class FilterRankedLandsProcessor(
     }
 
     private fun processPlayerOutput(rankedLands: List<RankedLand>) {
-        println("#\tPrestige\tArea\tState system\tAlliance\tEpoch\tRank")
+        println("#\tPrestiž\tRozloha\tVláda\tAliance\tVěk\tUmístění")
         var i = 1
         rankedLands.forEach { rankedLand ->
             println(
@@ -109,7 +109,7 @@ class FilterRankedLandsProcessor(
     }
 
     private fun processAllianceOutput(rankedLands: List<RankedLand>) {
-        println("#\tPlayer\tPrestige\tArea\tState system\tEpoch\tRank")
+        println("#\tHráč\tPrestiž\tRozloha\tVláda\tVěk\tUmístění")
         var i = 1
         rankedLands.forEach { rankedLand ->
             println(
@@ -120,7 +120,7 @@ class FilterRankedLandsProcessor(
     }
 
     private fun processStateSystemOutput(rankedLands: List<RankedLand>) {
-        println("#\tPlayer\tPrestige\tArea\tAlliance\tEpoch\tRank")
+        println("#\tHráč\tPrestiž\tRozloha\tAliance\tVěk\tUmístění")
         var i = 1
         rankedLands.forEach { rankedLand ->
             println(
@@ -131,7 +131,7 @@ class FilterRankedLandsProcessor(
     }
 
     private fun processLandNumberOutput(rankedLands: List<RankedLand>) {
-        println("#\tPlayer\tPrestige\tArea\tState System\tAlliance\tEpoch\tRank")
+        println("#\tHráč\tPrestiž\tRozloha\tVláda\tAliance\tVěk\tUmístění")
         var i = 1
         rankedLands.forEach { rankedLand ->
             println(

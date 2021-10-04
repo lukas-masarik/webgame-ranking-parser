@@ -68,11 +68,11 @@ class ListRankedLandsProcessor(
 
     private fun processOutput(rankedLands: List<RankedLand>) {
         if (rankedLands.isEmpty()) {
-            println("No results.")
+            println("Žádné výsledky.")
             return
         }
 
-        println("#\tPlayer\tPrestige\tArea\tEpoch\tRank")
+        println("#\tHráč\tPrestiž\tRozloha\tVěk\tUmístění")
         var i = 1
         rankedLands.forEach { rankedLand ->
             println("${i++}.\t${rankedLand.playerName}\t${rankedLand.prestige}\t${rankedLand.area}km2\t${rankedLand.epochNumber}\t${rankedLand.rank}.")

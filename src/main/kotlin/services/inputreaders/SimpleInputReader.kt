@@ -13,13 +13,13 @@ class SimpleInputReader : InputReader {
     override fun selectProcessorFromInput(): Processor {
         print(
             """
-                Available processes:
-                    (1) List ranked lands
-                    (2) Filter ranked lands stats (filter specific player, alliance, ...)
-                    (3) Aggregate ranked lands stats (aggregate stats for players, alliances, ...)
-                    (0) Exit program
+                Dostupné programy:
+                    (1) Procházet žebříček zemí
+                    (2) Filtrovat žebříček zemí (podle hráče, aliance, vlády, ...)
+                    (3) Seskupovat žebříček zemí (podle hráčů, aliancí, vlád, ...)
+                    (0) Ukončit program
                 
-                Choose process: 
+                Zvol program: 
             """.trimIndent()
         )
         val input = readLine()
@@ -41,11 +41,11 @@ class SimpleInputReader : InputReader {
     override fun selectSortDirectionFromInput(): ESortDirection {
         print(
             """
-                Available orders:
-                    (1) DESCENDING
-                    (2) ASCENDING
+                Dostupné řazení:
+                    (1) sestupně
+                    (2) vzestupně
                 
-                Choose order (1): 
+                Vyber řazení (defaultně 1): 
             """.trimIndent()
         )
         val input = readLine()
@@ -66,11 +66,11 @@ class SimpleInputReader : InputReader {
     override fun selectSortAttributeFromInput(): ESortAttribute {
         print(
             """
-                Available attributes:
-                    (1) PRESTIGE
-                    (2) AREA
+                Dostupné atributy pro řazení:
+                    (1) prestiž
+                    (2) rozloha
                 
-                Choose attribute (1): 
+                Vyber řadící atribut (defaulntě 1): 
             """.trimIndent()
         )
         val input = readLine()
@@ -91,7 +91,7 @@ class SimpleInputReader : InputReader {
     override fun selectReturnCountFromInput(): Int {
         print(
             """
-                How many result you want to return (0 for all, default 10)? 
+                Kolik řádků výsledku chceš vrátit (0 pro všechny, defaultně 10)? 
             """.trimIndent()
         )
         val input = readLine()
@@ -109,7 +109,7 @@ class SimpleInputReader : InputReader {
     override fun selectStartEpochFromInput(): Int? {
         print(
             """
-                Choose start epoch (leave blank to skip): 
+                Vyber počáteční věk (nech prázdné pro nezadání limitu): 
             """.trimIndent()
         )
         val input = readLine()
@@ -119,7 +119,7 @@ class SimpleInputReader : InputReader {
     override fun selectEndEpochFromInput(): Int? {
         print(
             """
-                Choose end epoch (leave blank to skip): 
+                Vyber konečný věk (nech prázdné pro nezadání limitu): 
             """.trimIndent()
         )
         val input = readLine()
@@ -133,7 +133,7 @@ class SimpleInputReader : InputReader {
     override fun selectStartRankFromInput(): Int? {
         print(
             """
-                Choose start rank (leave blank to skip): 
+                Vyber počáteční pořadí zemí (nech prázdné pro nezadání limitu): 
             """.trimIndent()
         )
         val input = readLine()
@@ -143,7 +143,7 @@ class SimpleInputReader : InputReader {
     override fun selectEndRankFromInput(): Int? {
         print(
             """
-                Choose end rank (leave blank to skip): 
+                Vyber konečné pořadí zemí (nech prázdné pro nezadání limitu): 
             """.trimIndent()
         )
         val input = readLine()
@@ -157,12 +157,12 @@ class SimpleInputReader : InputReader {
     override fun selectAggregatingParameterFromInput(): EAggregatingParameter {
         print(
             """
-                Available aggregating parameters:
-                    (1) OCCURRENCE
-                    (2) PRESTIGE
-                    (3) AREA
+                Dostupné agregační parametry:
+                    (1) účast
+                    (2) prestiž
+                    (3) rozloha
                 
-                Choose aggregation parameter (1): 
+                Vyber agregační parametr (defaultně 1): 
             """.trimIndent()
         )
         val input = readLine()
@@ -184,13 +184,13 @@ class SimpleInputReader : InputReader {
     override fun selectGroupingParameterFromInput(): EGroupingParameter {
         print(
             """
-                Available grouping parameters:
-                    (1) PLAYER
-                    (2) ALLIANCE
-                    (3) STATE SYSTEM
-                    (4) LAND NUMBER
+                Dostupné seskupující parametry:
+                    (1) hráč
+                    (2) aliance
+                    (3) vláda
+                    (4) číslo země
                 
-                Choose aggregation parameter (1): 
+                Vyber seskupující parametr (defaultně 1): 
             """.trimIndent()
         )
         val input = readLine()
@@ -213,13 +213,13 @@ class SimpleInputReader : InputReader {
     override fun selectFilteringParameterFromInput(): EFilteringParameter {
         print(
             """
-                Available filtering parameters:
-                    (1) PLAYER
-                    (2) ALLIANCE
-                    (3) STATE SYSTEM
-                    (4) LAND NUMBER
+                Dostpuné filtrující parametry:
+                    (1) hráč
+                    (2) aliance
+                    (3) vláda
+                    (4) číslo země
                 
-                Choose filtering parameter (1): 
+                Vyber filtrující parametr (defaultně 1): 
             """.trimIndent()
         )
         val input = readLine()
@@ -239,32 +239,12 @@ class SimpleInputReader : InputReader {
         }
     }
 
-    override fun selectFilteringQueryFromInput(): String {
-        print(
-            """
-                Filter examples:
-                    For player: [mara8|MAFline|thordevil]
-                    For alliance: [SB|M|**CQR**]
-                    For state system: [anar|demo|dikt|feud|fund|kom|rep|robo|tech|utop]
-                    For land number: [42|984]
-                
-                Choose filter parameter: 
-            """.trimIndent()
-        )
-        val input = readLine()
-        return extractFilteringQueryFromInput(input)
-    }
-
-    private fun extractFilteringQueryFromInput(input: String?): String {
-        return input ?: selectFilteringQueryFromInput()
-    }
-
     override fun selectFilterPlayerQueryFromInput(): String {
         print(
             """
-                Player name examples: [mara8|MAFline|thordevil]
+                Příklady jména hráče: [mara8|MAFline|thordevil]
                 
-                Type player name: 
+                Napíš jméno hráče: 
             """.trimIndent()
         )
         val input = readLine()
@@ -278,9 +258,9 @@ class SimpleInputReader : InputReader {
     override fun selectFilterAllianceQueryFromInput(): String? {
         print(
             """
-                Alliance name examples: [M, Anarchy, **CQR**]
+                Příklady jména aliance: [M, Anarchy, **CQR**]
                 
-                Type alliance name: 
+                Napiš jméno aliance: 
             """.trimIndent()
         )
         val input = readLine()
@@ -294,9 +274,9 @@ class SimpleInputReader : InputReader {
     override fun selectFilterStateSystemQueryFromInput(): String {
         print(
             """
-                State system examples: [anar|demo|dikt|feud|fund|kom|rep|robo|tech|utop]
+                Dostupné vlády: [anar|demo|dikt|feud|fund|kom|rep|robo|tech|utop]
                 
-                Type state system: 
+                Zvol vládu: 
             """.trimIndent()
         )
         val input = readLine()
@@ -310,9 +290,9 @@ class SimpleInputReader : InputReader {
     override fun selectFilterLandNumberQueryFromInput(): String {
         print(
             """
-                Land number examples: [42|111|94]
+                Příklady čísla země: [42|111|94]
                 
-                Type land number: 
+                Napiš číslo země: 
             """.trimIndent()
         )
         val input = readLine()
