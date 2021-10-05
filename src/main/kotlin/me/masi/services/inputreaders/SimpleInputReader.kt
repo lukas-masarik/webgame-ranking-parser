@@ -19,7 +19,7 @@ class SimpleInputReader : InputReader {
                     (3) Seskupovat zebricek zemi (podle hracu, alianci, vlad, ...)
                     (0) Ukoncit program
                 
-                Zvol program: 
+                Zvol program (defaultně 1): 
             """.trimIndent()
         )
         val input = readLine()
@@ -27,9 +27,10 @@ class SimpleInputReader : InputReader {
     }
 
     private fun extractProcessorFromInput(input: String?): Processor {
-        if (input?.toIntOrNull() == null) selectProcessorFromInput()
+        val userInput = if (input?.isEmpty() == true) "1" else input
+        if (userInput?.toIntOrNull() == null) selectProcessorFromInput()
 
-        return when (input!!.toInt()) {
+        return when (userInput!!.toInt()) {
             0 -> exitProcess(1)
             1 -> ListRankedLandsProcessor(this)
             2 -> FilterRankedLandsProcessor(this)
