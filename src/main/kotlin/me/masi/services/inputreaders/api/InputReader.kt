@@ -1,7 +1,7 @@
-package services.inputreaders.api
+package me.masi.services.inputreaders.api
 
-import enums.*
-import services.processors.api.Processor
+import me.masi.enums.*
+import me.masi.services.processors.api.Processor
 
 interface InputReader {
     fun selectProcessorFromInput(): Processor

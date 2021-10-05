@@ -1,13 +1,13 @@
-package services.processors
+package me.masi.services.processors
 
-import dto.RankedLand
-import dto.RankedLandsEpoch
-import enums.EAggregatingParameter
-import enums.EGroupingParameter
-import enums.ESortDirection
-import services.inputreaders.api.InputReader
-import services.parsers.RankedLandsParser
-import services.parsers.api.EpochsParser
+import me.masi.dto.RankedLand
+import me.masi.dto.RankedLandsEpoch
+import me.masi.enums.EAggregatingParameter
+import me.masi.enums.EGroupingParameter
+import me.masi.enums.ESortDirection
+import me.masi.services.inputreaders.api.InputReader
+import me.masi.services.parsers.RankedLandsParser
+import me.masi.services.parsers.api.EpochsParser
 
 /**
  * Returns aggregated stats.

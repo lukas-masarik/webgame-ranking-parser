@@ -1,12 +1,12 @@
-package services.processors
+package me.masi.services.processors
 
-import dto.RankedLand
-import dto.RankedLandsEpoch
-import enums.ESortAttribute
-import enums.ESortDirection
-import services.inputreaders.api.InputReader
-import services.parsers.RankedLandsParser
-import services.parsers.api.EpochsParser
+import me.masi.dto.RankedLand
+import me.masi.dto.RankedLandsEpoch
+import me.masi.enums.ESortAttribute
+import me.masi.enums.ESortDirection
+import me.masi.services.inputreaders.api.InputReader
+import me.masi.services.parsers.RankedLandsParser
+import me.masi.services.parsers.api.EpochsParser
 
 /**
  * Returns overall lands' stats.

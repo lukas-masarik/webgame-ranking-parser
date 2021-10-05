@@ -1,8 +1,8 @@
-package services.processors
+package me.masi.services.processors
 
-import dto.RankedLandsEpoch
-import services.inputreaders.api.InputReader
-import services.processors.api.Processor
+import me.masi.dto.RankedLandsEpoch
+import me.masi.services.inputreaders.api.InputReader
+import me.masi.services.processors.api.Processor
 
 abstract class AbstractRankedLandProcessor(
     protected val inputReader: InputReader,

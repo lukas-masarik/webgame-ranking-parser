@@ -1,11 +1,11 @@
-package services.inputreaders
+package me.masi.services.inputreaders
 
-import enums.*
-import services.inputreaders.api.InputReader
-import services.processors.AggregateRankedLandsProcessor
-import services.processors.FilterRankedLandsProcessor
-import services.processors.ListRankedLandsProcessor
-import services.processors.api.Processor
+import me.masi.enums.*
+import me.masi.services.inputreaders.api.InputReader
+import me.masi.services.processors.AggregateRankedLandsProcessor
+import me.masi.services.processors.FilterRankedLandsProcessor
+import me.masi.services.processors.ListRankedLandsProcessor
+import me.masi.services.processors.api.Processor
 import kotlin.system.exitProcess
 
 class SimpleInputReader : InputReader {
@@ -19,7 +19,7 @@ class SimpleInputReader : InputReader {
                     (3) Seskupovat zebricek zemi (podle hracu, alianci, vlad, ...)
                     (0) Ukoncit program
                 
-                Zvol program: 
+                Zvol program (defaultně 1): 
             """.trimIndent()
         )
         val input = readLine()
@@ -27,9 +27,10 @@ class SimpleInputReader : InputReader {
     }
 
     private fun extractProcessorFromInput(input: String?): Processor {
-        if (input?.toIntOrNull() == null) selectProcessorFromInput()
+        val userInput = if (input?.isEmpty() == true) "1" else input
+        if (userInput?.toIntOrNull() == null) selectProcessorFromInput()
 
-        return when (input!!.toInt()) {
+        return when (userInput!!.toInt()) {
             0 -> exitProcess(1)
             1 -> ListRankedLandsProcessor(this)
             2 -> FilterRankedLandsProcessor(this)

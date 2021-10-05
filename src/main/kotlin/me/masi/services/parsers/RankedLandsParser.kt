@@ -1,8 +1,8 @@
-package services.parsers
+package me.masi.services.parsers
 
-import dto.RankedLand
-import dto.RankedLandsEpoch
-import services.parsers.api.EpochsParser
+import me.masi.dto.RankedLand
+import me.masi.dto.RankedLandsEpoch
+import me.masi.services.parsers.api.EpochsParser
 import java.io.File
 import java.nio.file.Files
 import java.nio.file.Paths
@@ -58,6 +58,6 @@ class RankedLandsParser : EpochsParser<RankedLandsEpoch> {
     }
 }
 
-private const val EPOCHS_LANDS_FOLDER = "epochs/lands"
+private const val EPOCHS_LANDS_FOLDER = "rankings/lands"
 private const val REGEX_EPOCH_NUMBER = "\\d+"
 private const val REGEX_RANKED_LAND = "(\\d+)\\.\\t(.*)\\(\\#(\\d+)\\)\\s\\-\\s(.*)\\t(\\d+)km2\\t(\\d+)\\t(.*)\\t([a-zA-Z]{3,4})\\t(\\d+)"
