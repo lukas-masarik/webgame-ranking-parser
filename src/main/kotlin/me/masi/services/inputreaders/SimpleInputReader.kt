@@ -19,7 +19,7 @@ class SimpleInputReader : InputReader {
                     (3) Seskupovat zebricek zemi (podle hracu, alianci, vlad, ...)
                     (0) Ukoncit program
                 
-                Zvol program (defaultně 1): 
+                Zvol program (defaultne 1): 
             """.trimIndent()
         )
         val input = readLine()
@@ -189,7 +189,7 @@ class SimpleInputReader : InputReader {
                     (1) hrac
                     (2) aliance
                     (3) vlada
-                    (4) císlo zeme
+                    (4) cislo zeme
                 
                 Vyber seskupujici parametr (defaultne 1): 
             """.trimIndent()
