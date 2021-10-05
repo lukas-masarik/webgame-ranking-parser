@@ -1,4 +1,4 @@
-package enums
+package me.masi.enums
 
 enum class EGroupingParameter(
     val value: String,

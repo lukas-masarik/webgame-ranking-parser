@@ -1,6 +1,7 @@
-package services.parsers
+package me.masi.services.parsers
 
-import dto.RankedLand
+import me.masi.dto.RankedLand
+import me.masi.services.parsers.RankedLandsParser
 import org.junit.jupiter.api.Assertions.*
 import org.junit.jupiter.api.Test
 

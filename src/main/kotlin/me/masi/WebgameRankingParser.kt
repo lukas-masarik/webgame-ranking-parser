@@ -1,4 +1,6 @@
-import services.inputreaders.SimpleInputReader
+package me.masi
+
+import me.masi.services.inputreaders.SimpleInputReader
 
 object WebgameRankingParser {
     @JvmStatic

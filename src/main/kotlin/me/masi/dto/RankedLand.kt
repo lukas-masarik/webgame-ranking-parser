@@ -1,4 +1,4 @@
-package dto
+package me.masi.dto
 
 data class RankedLand(
     val rank: Int,

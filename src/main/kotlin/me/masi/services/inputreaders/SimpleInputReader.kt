@@ -1,11 +1,11 @@
-package services.inputreaders
+package me.masi.services.inputreaders
 
-import enums.*
-import services.inputreaders.api.InputReader
-import services.processors.AggregateRankedLandsProcessor
-import services.processors.FilterRankedLandsProcessor
-import services.processors.ListRankedLandsProcessor
-import services.processors.api.Processor
+import me.masi.enums.*
+import me.masi.services.inputreaders.api.InputReader
+import me.masi.services.processors.AggregateRankedLandsProcessor
+import me.masi.services.processors.FilterRankedLandsProcessor
+import me.masi.services.processors.ListRankedLandsProcessor
+import me.masi.services.processors.api.Processor
 import kotlin.system.exitProcess
 
 class SimpleInputReader : InputReader {

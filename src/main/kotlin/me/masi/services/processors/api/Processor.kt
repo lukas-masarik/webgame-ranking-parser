@@ -1,4 +1,4 @@
-package services.processors.api
+package me.masi.services.processors.api
 
 interface Processor {
     fun process()

@@ -1,4 +1,4 @@
-package services.parsers.api
+package me.masi.services.parsers.api
 
 
 interface EpochsParser<out T> {
