@@ -19,11 +19,11 @@ class LandsRankingParser : RankingParser<LandsRanking> {
 
     override fun parse(): List<LandsRanking> {
         // use from IDE
-        /*val epochFiles = getEpochFilesFromResources()
-        return parseRankedLandsFiles(epochFiles)*/
+        val epochFiles = getEpochFilesFromResources()
+        return parseRankedLandsFiles(epochFiles)
         // use to generate jar
-        val epochFiles = getEpochPathsFromResourcesInJar()
-        return parseRankedLandsPaths(epochFiles)
+        /*val epochFiles = getEpochPathsFromResourcesInJar()
+        return parseRankedLandsPaths(epochFiles)*/
     }
 
     private fun parseRankedLandsFiles(epochFiles: List<File>): List<LandsRanking> {
