@@ -1,7 +1,7 @@
 package me.masi.services.parsers.api
 
 
-interface EpochsParser<out T> {
+interface RankingParser<out T> {
     /**
      * Parse files with copied epoch result.
      * @return list of parsed results.

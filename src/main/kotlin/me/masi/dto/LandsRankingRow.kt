@@ -1,7 +1,7 @@
 package me.masi.dto
 
-data class RankedLand(
-    val rank: Int,
+data class LandsRankingRow(
+    val ranking: Int,
     val landName: String,
     val landNumber: Int,
     val playerName: String,

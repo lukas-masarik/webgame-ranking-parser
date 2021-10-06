@@ -1,13 +1,13 @@
 package me.masi.services.processors
 
-import me.masi.dto.RankedLand
-import me.masi.dto.RankedLandsEpoch
+import me.masi.dto.LandsRankingRow
+import me.masi.dto.LandsRanking
 import me.masi.enums.EFilteringParameter
 import me.masi.enums.ESortAttribute
 import me.masi.enums.ESortDirection
 import me.masi.services.inputreaders.api.InputReader
-import me.masi.services.parsers.RankedLandsParser
-import me.masi.services.parsers.api.EpochsParser
+import me.masi.services.parsers.LandsRankingParser
+import me.masi.services.parsers.api.RankingParser
 
 /**
  * Returns filtered stats.
@@ -23,9 +23,9 @@ import me.masi.services.parsers.api.EpochsParser
  *  - specify rank start
  *  - specify rank end
  */
-class FilterRankedLandsProcessor(
+class FilterLandsRankingProcessor(
     inputReader: InputReader,
-    private val parser: EpochsParser<RankedLandsEpoch> = RankedLandsParser(),
+    private val parser: RankingParser<LandsRanking> = LandsRankingParser(),
 ) : AbstractRankedLandProcessor(inputReader) {
 
     override fun process() {
@@ -46,9 +46,9 @@ class FilterRankedLandsProcessor(
 
         val epochs = parser.parse()
         val filteredEpochs = filterEpochs(epochs, epochStart, epochEnd)
-        val filteredRanks = filterRanks(filteredEpochs, rankStart, rankEnd)
+        val filteredRanks = filterRankings(filteredEpochs, rankStart, rankEnd)
 
-        val rankedLands = filteredRanks.flatMap { it.rankedLands }
+        val rankedLands = filteredRanks.flatMap { it.landsRankingRows }
             .let {
                 when (filteringParameter) {
                     EFilteringParameter.PLAYER -> it.filter { it.playerName.lowercase() == filteringQuery!!.lowercase() }
@@ -84,61 +84,61 @@ class FilterRankedLandsProcessor(
         processOutput(rankedLands, filteringParameter, filteringQuery)
     }
 
-    private fun processOutput(rankedLands: List<RankedLand>, filteringParameter: EFilteringParameter, filteringQuery: String?) {
+    private fun processOutput(landsRankingRows: List<LandsRankingRow>, filteringParameter: EFilteringParameter, filteringQuery: String?) {
         println("${filteringParameter.value}: $filteringQuery")
-        if (rankedLands.isEmpty()) {
-            println("Žádné výsledky.")
+        if (landsRankingRows.isEmpty()) {
+            println("Zadne vysledky.")
             return
         }
 
         when (filteringParameter) {
-            EFilteringParameter.PLAYER -> processPlayerOutput(rankedLands)
-            EFilteringParameter.ALLIANCE -> processAllianceOutput(rankedLands)
-            EFilteringParameter.STATE_SYSTEM -> processStateSystemOutput(rankedLands)
-            EFilteringParameter.LAND_NUMBER -> processLandNumberOutput(rankedLands)
+            EFilteringParameter.PLAYER -> processPlayerOutput(landsRankingRows)
+            EFilteringParameter.ALLIANCE -> processAllianceOutput(landsRankingRows)
+            EFilteringParameter.STATE_SYSTEM -> processStateSystemOutput(landsRankingRows)
+            EFilteringParameter.LAND_NUMBER -> processLandNumberOutput(landsRankingRows)
         }
     }
 
-    private fun processPlayerOutput(rankedLands: List<RankedLand>) {
-        println("#\tPrestiž\tRozloha\tVláda\tAliance\tVěk\tUmístění")
+    private fun processPlayerOutput(landsRankingRows: List<LandsRankingRow>) {
+        println("#\tPrestiz\tRozloha\tVlada\tAliance\tVek\tUmisteni")
         var i = 1
-        rankedLands.forEach { rankedLand ->
+        landsRankingRows.forEach { rankedLand ->
             println(
                 "${i++}.\t${rankedLand.prestige}\t${rankedLand.area}km2\t${rankedLand.stateSystem}\t${rankedLand.alliance}\t${rankedLand.epochNumber}\t" +
-                        "${rankedLand.rank}."
+                        "${rankedLand.ranking}."
             )
         }
     }
 
-    private fun processAllianceOutput(rankedLands: List<RankedLand>) {
-        println("#\tHráč\tPrestiž\tRozloha\tVláda\tVěk\tUmístění")
+    private fun processAllianceOutput(landsRankingRows: List<LandsRankingRow>) {
+        println("#\tHrac\tPrestiz\tRozloha\tVlada\tVek\tUmisteni")
         var i = 1
-        rankedLands.forEach { rankedLand ->
+        landsRankingRows.forEach { rankedLand ->
             println(
                 "${i++}.\t${rankedLand.playerName}\t${rankedLand.prestige}\t${rankedLand.area}km2\t${rankedLand.stateSystem}\t${rankedLand.epochNumber}\t" +
-                        "${rankedLand.rank}."
+                        "${rankedLand.ranking}."
             )
         }
     }
 
-    private fun processStateSystemOutput(rankedLands: List<RankedLand>) {
-        println("#\tHráč\tPrestiž\tRozloha\tAliance\tVěk\tUmístění")
+    private fun processStateSystemOutput(landsRankingRows: List<LandsRankingRow>) {
+        println("#\tHrac\tPrestiz\tRozloha\tAliance\tVek\tUmisteni")
         var i = 1
-        rankedLands.forEach { rankedLand ->
+        landsRankingRows.forEach { rankedLand ->
             println(
                 "${i++}.\t${rankedLand.playerName}\t${rankedLand.prestige}\t${rankedLand.area}km2\t${rankedLand.alliance}\t${rankedLand.epochNumber}\t" +
-                        "${rankedLand.rank}."
+                        "${rankedLand.ranking}."
             )
         }
     }
 
-    private fun processLandNumberOutput(rankedLands: List<RankedLand>) {
-        println("#\tHráč\tPrestiž\tRozloha\tVláda\tAliance\tVěk\tUmístění")
+    private fun processLandNumberOutput(landsRankingRows: List<LandsRankingRow>) {
+        println("#\tHrac\tPrestiz\tRozloha\tVlada\tAliance\tVek\tUmisteni")
         var i = 1
-        rankedLands.forEach { rankedLand ->
+        landsRankingRows.forEach { rankedLand ->
             println(
                 "${i++}.\t${rankedLand.playerName}\t${rankedLand.prestige}\t${rankedLand.area}km2\t${rankedLand.stateSystem}\t${rankedLand.alliance}\t" +
-                        "${rankedLand.epochNumber}\t${rankedLand.rank}."
+                        "${rankedLand.epochNumber}\t${rankedLand.ranking}."
             )
         }
     }
