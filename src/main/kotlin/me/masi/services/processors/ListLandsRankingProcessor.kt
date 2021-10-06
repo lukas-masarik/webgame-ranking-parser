@@ -1,12 +1,12 @@
 package me.masi.services.processors
 
-import me.masi.dto.RankedLand
-import me.masi.dto.RankedLandsEpoch
+import me.masi.dto.LandsRankingRow
+import me.masi.dto.LandsRanking
 import me.masi.enums.ESortAttribute
 import me.masi.enums.ESortDirection
 import me.masi.services.inputreaders.api.InputReader
-import me.masi.services.parsers.RankedLandsParser
-import me.masi.services.parsers.api.EpochsParser
+import me.masi.services.parsers.LandsRankingParser
+import me.masi.services.parsers.api.RankingParser
 
 /**
  * Returns overall lands' stats.
@@ -20,9 +20,9 @@ import me.masi.services.parsers.api.EpochsParser
  *  - specify rank start
  *  - specify rank end
  */
-class ListRankedLandsProcessor(
+class ListLandsRankingProcessor(
     inputReader: InputReader,
-    private val parser: EpochsParser<RankedLandsEpoch> = RankedLandsParser(),
+    private val parser: RankingParser<LandsRanking> = LandsRankingParser(),
 ) : AbstractRankedLandProcessor(inputReader) {
 
     override fun process() {
@@ -36,9 +36,9 @@ class ListRankedLandsProcessor(
 
         val epochs = parser.parse()
         val filteredEpochs = filterEpochs(epochs, epochStart, epochEnd)
-        val filteredRanks = filterRanks(filteredEpochs, rankStart, rankEnd)
+        val filteredRanks = filterRankings(filteredEpochs, rankStart, rankEnd)
 
-        val rankedLands = filteredRanks.flatMap { it.rankedLands }
+        val rankedLands = filteredRanks.flatMap { it.landsRankingRows }
             .let {
                 when (sortDirection) {
                     ESortDirection.ASCENDING -> {
@@ -66,16 +66,16 @@ class ListRankedLandsProcessor(
         processOutput(rankedLands)
     }
 
-    private fun processOutput(rankedLands: List<RankedLand>) {
-        if (rankedLands.isEmpty()) {
-            println("Žádné výsledky.")
+    private fun processOutput(landsRankingRows: List<LandsRankingRow>) {
+        if (landsRankingRows.isEmpty()) {
+            println("Zadne vysledky.")
             return
         }
 
-        println("#\tHráč\tPrestiž\tRozloha\tVěk\tUmístění")
+        println("#\tHrac\tPrestiz\tRozloha\tVek\tUmisteni")
         var i = 1
-        rankedLands.forEach { rankedLand ->
-            println("${i++}.\t${rankedLand.playerName}\t${rankedLand.prestige}\t${rankedLand.area}km2\t${rankedLand.epochNumber}\t${rankedLand.rank}.")
+        landsRankingRows.forEach { rankedLand ->
+            println("${i++}.\t${rankedLand.playerName}\t${rankedLand.prestige}\t${rankedLand.area}km2\t${rankedLand.epochNumber}\t${rankedLand.ranking}.")
         }
     }
 }

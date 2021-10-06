@@ -2,9 +2,9 @@ package me.masi.services.inputreaders
 
 import me.masi.enums.*
 import me.masi.services.inputreaders.api.InputReader
-import me.masi.services.processors.AggregateRankedLandsProcessor
-import me.masi.services.processors.FilterRankedLandsProcessor
-import me.masi.services.processors.ListRankedLandsProcessor
+import me.masi.services.processors.AggregateLandsRankingProcessor
+import me.masi.services.processors.FilterLandsRankingProcessor
+import me.masi.services.processors.ListLandsRankingProcessor
 import me.masi.services.processors.api.Processor
 import kotlin.system.exitProcess
 
@@ -13,13 +13,13 @@ class SimpleInputReader : InputReader {
     override fun selectProcessorFromInput(): Processor {
         print(
             """
-                Dostupné programy:
+                Dostupne programy:
                     (1) Prochazet zebricek zemi
                     (2) Filtrovat zebricek zemi (podle hrace, aliance, vlady, ...)
                     (3) Seskupovat zebricek zemi (podle hracu, alianci, vlad, ...)
                     (0) Ukoncit program
                 
-                Zvol program (defaultně 1): 
+                Vyber program (defaultne 1): 
             """.trimIndent()
         )
         val input = readLine()
@@ -32,9 +32,9 @@ class SimpleInputReader : InputReader {
 
         return when (userInput!!.toInt()) {
             0 -> exitProcess(1)
-            1 -> ListRankedLandsProcessor(this)
-            2 -> FilterRankedLandsProcessor(this)
-            3 -> AggregateRankedLandsProcessor(this)
+            1 -> ListLandsRankingProcessor(this)
+            2 -> FilterLandsRankingProcessor(this)
+            3 -> AggregateLandsRankingProcessor(this)
             else -> selectProcessorFromInput()
         }
     }
@@ -120,7 +120,7 @@ class SimpleInputReader : InputReader {
     override fun selectEndEpochFromInput(): Int? {
         print(
             """
-                Vyber konecný vek (nech prazdne pro nezadani limitu): 
+                Vyber konecny vek (nech prazdne pro nezadani limitu): 
             """.trimIndent()
         )
         val input = readLine()
@@ -134,7 +134,7 @@ class SimpleInputReader : InputReader {
     override fun selectStartRankFromInput(): Int? {
         print(
             """
-                Vyber pocatecni poradí zemi (nech prazdne pro nezadani limitu): 
+                Vyber pocatecni poradi zemi (nech prazdne pro nezadani limitu): 
             """.trimIndent()
         )
         val input = readLine()
@@ -189,7 +189,7 @@ class SimpleInputReader : InputReader {
                     (1) hrac
                     (2) aliance
                     (3) vlada
-                    (4) císlo zeme
+                    (4) cislo zeme
                 
                 Vyber seskupujici parametr (defaultne 1): 
             """.trimIndent()
@@ -245,7 +245,7 @@ class SimpleInputReader : InputReader {
             """
                 Priklady jmena hrace: [mara8|MAFline|thordevil]
                 
-                Napis jmeno hrace: 
+                Zadej jmeno hrace: 
             """.trimIndent()
         )
         val input = readLine()
@@ -261,7 +261,7 @@ class SimpleInputReader : InputReader {
             """
                 Priklady jmena aliance: [M, Anarchy, **CQR**]
                 
-                Napis jmeno aliance: 
+                Zadej jmeno aliance: 
             """.trimIndent()
         )
         val input = readLine()
@@ -277,7 +277,7 @@ class SimpleInputReader : InputReader {
             """
                 Dostupne vlady: [anar|demo|dikt|feud|fund|kom|rep|robo|tech|utop]
                 
-                Zvol vladu: 
+                Zadej vladu: 
             """.trimIndent()
         )
         val input = readLine()
@@ -293,7 +293,7 @@ class SimpleInputReader : InputReader {
             """
                 Priklady cisla zeme: [42|111|94]
                 
-                Napis cislo zeme: 
+                Zadej cislo zeme: 
             """.trimIndent()
         )
         val input = readLine()

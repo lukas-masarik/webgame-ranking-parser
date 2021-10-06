@@ -1,13 +1,13 @@
 package me.masi.services.processors
 
-import me.masi.dto.RankedLand
-import me.masi.dto.RankedLandsEpoch
+import me.masi.dto.LandsRankingRow
+import me.masi.dto.LandsRanking
 import me.masi.enums.EAggregatingParameter
 import me.masi.enums.EGroupingParameter
 import me.masi.enums.ESortDirection
 import me.masi.services.inputreaders.api.InputReader
-import me.masi.services.parsers.RankedLandsParser
-import me.masi.services.parsers.api.EpochsParser
+import me.masi.services.parsers.LandsRankingParser
+import me.masi.services.parsers.api.RankingParser
 
 /**
  * Returns aggregated stats.
@@ -22,9 +22,9 @@ import me.masi.services.parsers.api.EpochsParser
  *  - specify rank start
  *  - specify rank end
  */
-class AggregateRankedLandsProcessor(
+class AggregateLandsRankingProcessor(
     inputReader: InputReader,
-    private val parser: EpochsParser<RankedLandsEpoch> = RankedLandsParser(),
+    private val parser: RankingParser<LandsRanking> = LandsRankingParser(),
 ) : AbstractRankedLandProcessor(inputReader) {
 
     override fun process() {
@@ -39,9 +39,9 @@ class AggregateRankedLandsProcessor(
 
         val epochs = parser.parse()
         val filteredEpochs = filterEpochs(epochs, epochStart, epochEnd)
-        val filteredRanks = filterRanks(filteredEpochs, rankStart, rankEnd)
+        val filteredRanks = filterRankings(filteredEpochs, rankStart, rankEnd)
 
-        val resultMap = filteredRanks.flatMap { it.rankedLands }
+        val resultMap = filteredRanks.flatMap { it.landsRankingRows }
             .let {
                 when (groupingParameter) {
                     EGroupingParameter.PLAYER -> it.groupBy { it.playerName }
@@ -91,13 +91,13 @@ class AggregateRankedLandsProcessor(
         processOutput(resultMap, groupingParameter)
     }
 
-    private fun processOutput(resultMap: Map<String?, List<RankedLand>>, groupingParameter: EGroupingParameter) {
+    private fun processOutput(resultMap: Map<String?, List<LandsRankingRow>>, groupingParameter: EGroupingParameter) {
         if (resultMap.isEmpty()) {
-            println("Žádné výsledky.")
+            println("Zadne vysledky.")
             return
         }
 
-        println("#\t${groupingParameter.value}\tÚčast\tPrestiž suma\tRozloha suma")
+        println("#\t${groupingParameter.value}\tUcast\tPrestiz suma\tRozloha suma")
         var i = 1
         resultMap.forEach { (groupingParameter, rankedResults) ->
             val occurrenceCount = rankedResults.size
