@@ -18,8 +18,10 @@ import kotlin.streams.toList
 class RankedLandsParser : EpochsParser<RankedLandsEpoch> {
 
     override fun parse(): List<RankedLandsEpoch> {
-        //val epochFiles = getEpochFilesFromResources()
-        //return parseRankedLandsFiles(epochFiles)
+        // use from IDE
+        /*val epochFiles = getEpochFilesFromResources()
+        return parseRankedLandsFiles(epochFiles)*/
+        // use to generate jar
         val epochFiles = getEpochPathsFromResourcesInJar()
         return parseRankedLandsPaths(epochFiles)
     }
@@ -113,6 +115,5 @@ class RankedLandsParser : EpochsParser<RankedLandsEpoch> {
 }
 
 private const val RANKING_LANDS_FOLDER = "rankings/lands"
-private const val RANKING_LANDS_FOLDER_JAR = "src/main/resources/rankings/lands"
 private const val REGEX_EPOCH_NUMBER = "\\d+"
 private const val REGEX_RANKED_LAND = "(\\d+)\\.\\t(.*)\\(\\#(\\d+)\\)\\s\\-\\s(.*)\\t(\\d+)km2\\t(\\d+)\\t(.*)\\t([a-zA-Z]{3,4})\\t(\\d+)"
