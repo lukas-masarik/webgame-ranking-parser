@@ -27,15 +27,12 @@ class SimpleInputReader : InputReader {
     }
 
     private fun extractProcessorFromInput(input: String?): Processor {
-        val userInput = if (input?.isEmpty() == true) "1" else input
-        if (userInput?.toIntOrNull() == null) selectProcessorFromInput()
-
-        return when (userInput!!.toInt()) {
+        return when (input?.toIntOrNull()) {
             0 -> exitProcess(1)
             1 -> ListLandsRankingProcessor(this)
             2 -> FilterLandsRankingProcessor(this)
             3 -> AggregateLandsRankingProcessor(this)
-            else -> selectProcessorFromInput()
+            else -> ListLandsRankingProcessor(this)
         }
     }
 
@@ -54,13 +51,10 @@ class SimpleInputReader : InputReader {
     }
 
     private fun extractOrderDirectionFromInput(input: String?): ESortDirection {
-        val userInput = if (input?.isEmpty() == true) "1" else input
-        if (userInput?.toIntOrNull() == null) selectSortDirectionFromInput()
-
-        return when (userInput!!.toInt()) {
+        return when (input?.toIntOrNull()) {
             1 -> ESortDirection.DESCENDING
             2 -> ESortDirection.ASCENDING
-            else -> selectSortDirectionFromInput()
+            else -> ESortDirection.DESCENDING
         }
     }
 
@@ -79,13 +73,10 @@ class SimpleInputReader : InputReader {
     }
 
     private fun extractOrderAttributeFromInput(input: String?): ESortAttribute {
-        val userInput = if (input?.isEmpty() == true) "1" else input
-        if (userInput?.toIntOrNull() == null) selectSortAttributeFromInput()
-
-        return when (userInput!!.toInt()) {
+        return when (input?.toIntOrNull()) {
             1 -> ESortAttribute.PRESTIGE
             2 -> ESortAttribute.AREA
-            else -> selectSortAttributeFromInput()
+            else -> ESortAttribute.PRESTIGE
         }
     }
 
@@ -100,11 +91,12 @@ class SimpleInputReader : InputReader {
     }
 
     private fun extractCountFromInput(input: String?): Int {
-        val userInput = if (input?.isEmpty() == true) "10" else input
-        val inputInt = userInput?.toIntOrNull()
-        if (inputInt == null) selectReturnCountFromInput()
-        if (inputInt!! < 0) selectReturnCountFromInput()
-        return inputInt
+        val userInput = input?.toIntOrNull() ?: 10
+        return if (userInput < 0) {
+            10
+        } else {
+            userInput
+        }
     }
 
     override fun selectStartEpochFromInput(): Int? {
@@ -171,14 +163,11 @@ class SimpleInputReader : InputReader {
     }
 
     private fun extractAggregatingParameterFromInput(input: String?): EAggregatingParameter {
-        val userInput = if (input?.isEmpty() == true) "1" else input
-        if (userInput?.toIntOrNull() == null) selectAggregatingParameterFromInput()
-
-        return when (userInput!!.toInt()) {
+        return when (input?.toIntOrNull()) {
             1 -> EAggregatingParameter.OCCURRENCE
             2 -> EAggregatingParameter.PRESTIGE
             3 -> EAggregatingParameter.AREA
-            else -> selectAggregatingParameterFromInput()
+            else -> EAggregatingParameter.OCCURRENCE
         }
     }
 
@@ -199,15 +188,12 @@ class SimpleInputReader : InputReader {
     }
 
     private fun extractGroupingParameterFromInput(input: String?): EGroupingParameter {
-        val userInput = if (input?.isEmpty() == true) "1" else input
-        if (userInput?.toIntOrNull() == null) selectGroupingParameterFromInput()
-
-        return when (userInput!!.toInt()) {
+        return when (input?.toIntOrNull()) {
             1 -> EGroupingParameter.PLAYER
             2 -> EGroupingParameter.ALLIANCE
             3 -> EGroupingParameter.STATE_SYSTEM
             4 -> EGroupingParameter.LAND_NUMBER
-            else -> selectGroupingParameterFromInput()
+            else -> EGroupingParameter.PLAYER
         }
     }
 
@@ -228,15 +214,12 @@ class SimpleInputReader : InputReader {
     }
 
     private fun extractFilteringParameterFromInput(input: String?): EFilteringParameter {
-        val userInput = if (input?.isEmpty() == true) "1" else input
-        if (userInput?.toIntOrNull() == null) selectFilteringParameterFromInput()
-
-        return when (userInput!!.toInt()) {
+        return when (input?.toIntOrNull()) {
             1 -> EFilteringParameter.PLAYER
             2 -> EFilteringParameter.ALLIANCE
             3 -> EFilteringParameter.STATE_SYSTEM
             4 -> EFilteringParameter.LAND_NUMBER
-            else -> selectFilteringParameterFromInput()
+            else -> EFilteringParameter.PLAYER
         }
     }
 
@@ -253,7 +236,7 @@ class SimpleInputReader : InputReader {
     }
 
     private fun extractFilterPlayerQueryFromInput(input: String?): String {
-        return input ?: selectFilterPlayerQueryFromInput()
+        return input ?: ""
     }
 
     override fun selectFilterAllianceQueryFromInput(): String? {
@@ -277,7 +260,7 @@ class SimpleInputReader : InputReader {
             """
                 Dostupne vlady: [anar|demo|dikt|feud|fund|kom|rep|robo|tech|utop]
                 
-                Zadej vladu: 
+                Zadej vladu (defaultne anar): 
             """.trimIndent()
         )
         val input = readLine()
@@ -285,7 +268,7 @@ class SimpleInputReader : InputReader {
     }
 
     private fun extractFilterStateSystemQueryFromInput(input: String?): String {
-        return input ?: selectFilterStateSystemQueryFromInput()
+        return input ?: "anar"
     }
 
     override fun selectFilterLandNumberQueryFromInput(): String {
@@ -293,7 +276,7 @@ class SimpleInputReader : InputReader {
             """
                 Priklady cisla zeme: [42|111|94]
                 
-                Zadej cislo zeme: 
+                Zadej cislo zeme (defaultne 1): 
             """.trimIndent()
         )
         val input = readLine()
@@ -301,6 +284,6 @@ class SimpleInputReader : InputReader {
     }
 
     private fun extractFilterLandNumberQueryFromInput(input: String?): String {
-        return if (input?.toIntOrNull() is Number) input else selectFilterLandNumberQueryFromInput()
+        return input?.toIntOrNull()?.toString() ?: "1"
     }
 }
