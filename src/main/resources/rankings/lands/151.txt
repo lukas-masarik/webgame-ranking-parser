@@ -1,0 +1,42 @@
+151. VĚK
+#	Země	Rozloha	Prestiž	Aliance	Vláda	Kol
+1.	Maškaráda(#331) - .Grim.	27858km2	20536806	Bubáci	Utop	3682
+2.	lištička(#357) - Seksymania	22222km2	14636746	-=AB=-	Kom	3698
+3.	Vy-=LH=-adimta(#1029) - .Aragornikk.	19000km2	14051346	-=LH=-	Utop	3603
+4.	Lucifer Morningstar(#59) - Comanndos	23666km2	13624789	DEJAVU	Tech	3657
+5.	Barsoom(#189) - StillDeadCZ	26239km2	13095158	DEAD	Demo	3965
+6.	Amy Pond(#101) - Ersango	19499km2	12907258	-=DH=-	Kom	3946
+7.	Fuzzy Lumpkins(#111) - Muffia	30117km2	10804177	PíPíBí	Feud	3962
+8.	we will see(#829) - Lord Demokrat	21680km2	10513130	VÍCADMIN	Demo	3693
+9.	Air...(#36) - kill666	25291km2	9495881	*UF*	Tech	3930
+10.	Puppet Master(#601) - FARR FARR AWAYY	11222km2	9486442	EMP	Kom	3922
+11.	Krabistán(#46) - blasticek	19067km2	9191884	(V)oo(V)	Tech	3979
+12.	Toss a coin to UR winner(#389) - F0rsaken S0ul	10061km2	8991195	UNIQUE	Utop	3653
+13.	Coffin Dance :)(#150) - LukO cZ	16052km2	8765848	VN	Utop	3942
+14.	Tak dobrej, že se liskneš(#901) - Ph0en1x	16121km2	8552804	Jolanda	Utop	4015
+15.	My mother told me(#1338) - fighteros	17067km2	8245785	=OSS=	Utop	3882
+16.	Tragedis(#478) - Joker16.	21680km2	8218635	ganja	Robo	3919
+17.	NO_brain(#761) - hráčsjménem	10799km2	8174888	NO=b=ON	Tech	3963
+18.	Zlatý oči tvojí mámy(#528) - lugh	13929km2	8000000	MÁMA	Utop	3682
+19.	Plávajúca sliepka(#1411) - Nemrhut3	19345km2	7751387	VINICNE	Utop	3910
+20.	Whisky(#1178) - Dr.hurka	15532km2	7672397	Bubáci	Utop	3950
+21.	Hryzanec do venca x)(#322) - LOtr cyru5	15643km2	7589362	-4F-	Utop	3879
+22.	Rest in Piss(#58) - Martin858	15000km2	7378591	S	Utop	3944
+23.	Farmář hledá ženu(#200) - masterWG	26999km2	7266807	TLC	Robo	3817
+24.	Angel_Fallen(#664) - vhero	21556km2	7220875	PíPíBí	Demo	3976
+25.	-= Sp1r1t sisell =-(#31) - MySEl	12702km2	7177475	HAMAS	Tech	3942
+26.	Imho je člen skupiny H16(#1285) - esya	16550km2	7107713	-4F-	Utop	3965
+27.	Král Urucskyyyy(#1015) - král urucskýý	15961km2	6981764	HEIST	Utop	3927
+28.	Revizor Kain(#773) - Valkia	16223km2	6944476	**SNK**	Utop	3955
+29.	Cartel de Medellín(#52) - blasticek	21186km2	6933316	ganja	Fund	3979
+30.	n3vím jak hrát 3(#173) - zase jachym	21584km2	6892796	SR	Feud	4063
+31.	Resurrected Valhalla(#543) - kaamilko	19888km2	6870035	R	Demo	3948
+32.	LA BOKKA DE LÄ COKKA(#436) - MAFline	18888km2	6842891	DEJAVU	Robo	3979
+33.	.:P:.UNx NOT DEAD(#701) - Skillgannon	13681km2	6726512	-=DH=-	Demo	3944
+34.	-ALIVE- Namezdni jouda(#272) - ppedrnikar	16004km2	6711780	ALIVE	Utop	3920
+35.	Laugh TillYouPee(#6666) - trisíííček	20500km2	6651476	queens	Demo	3968
+36.	Multikar(#1430) - Kwasak	19999km2	6592134	HJN	Robo	3557
+37.	prcinov(#1470) - kund1bal	14187km2	6532768	Lickme	Tech	3760
+38.	.:AveCesar:. Akční podzim(#685) - Daerwok	19276km2	6457886	AveCesar	Utop	3973
+39.	.:BB:. čumíš na mě?(#1395) - Bufon	15482km2	6457188	EPJ	Utop	3953
+40.	-osn- Mastodont(#1527) - mahamar kaddafi	16960km2	6441284	-osn-	Utop	3672

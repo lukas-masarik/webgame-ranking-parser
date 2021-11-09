@@ -1,0 +1,42 @@
+151. VĚK
+#	Aliance	Členů	Rozloha	Prestiž	Předseda
+1.	[-4F-] 4 the Future	10	134751km2	51655717	Hello empty future(#122) - hagg1d
+2.	[Bubáci] Bubáci	10	132018km2	50990347	Ten Hodný(#683) - .DuKeLuKe.
+3.	[UNIQUE] Pouch My Tenis	10	116390km2	46865662	uniQue man von Triss(#666) - trisíííček
+4.	[DEAD] Nevahej a toc	10	140276km2	44249931	-DEAD-BabyPpepe(#535) - Diák
+5.	[S] SUN	10	121571km2	43650159	vlasy zlatovlasky(#224) - Atlantik
+6.	[-=DH=-] Dark Hunters	10	110277km2	42166472	Amy Pond(#101) - Ersango
+7.	[L.O.S.] LOS made in Tequila and Rum	10	129910km2	41366035	Connor McJesus(#495) - Shrunke
+8.	[PíPíBí] Power Puff Boys	10	181841km2	39837664	Fuzzy Lumpkins(#111) - Muffia
+9.	[(V)oo(V)] The Crabs	10	142214km2	36469559	Krabistán(#46) - blasticek
+10.	[SR] Senzačné Respirátory	10	140697km2	35557354	Boris_Final.psd(#1031) - esya
+11.	[SIL] Silmarillion	10	117059km2	35097143	Mr. Jones of Manor Farm(#41) - Martin858
+12.	[.:L30N:.] Lví smečka	10	123884km2	34546753	Irokamai(#460) - Apoc
+13.	[MENSA] ...prostě (j)elita :)	10	144317km2	34523246	NESERA NAVALTO(#107) - Sir Extrem
+14.	[**SNK**] SmeNaKašu	10	115221km2	32187985	Liška Bystrouška na Kašu(#270) - Jitus21
+15.	[Anarchy] Farmíme pro lepší minulost	10	130583km2	31092538	Padne stín mezi nás...(#119) - thordevil
+16.	[ganja] GANJA	9	134126km2	29738177	Tragedis(#478) - Joker16.
+17.	[.:W4R:.] War For Revolution	10	157784km2	28958967	Viking`s land(#917) - sir Flat
+18.	[-=AB=-] Amazing bomberman	10	122556km2	28939125	Sphinx dobyvatel(#10102) - Sph1nx
+19.	[DEJAVU] THE SHOW MUST GO ON	6	75440km2	28622721	Lucifer Morningstar(#59) - Comanndos
+20.	[YOZZEFY] Yozzefy = klídek = nedobývat	10	134125km2	27555630	Babišův konec(#109) - Allegro
+21.	[Melounci] Melounci	10	125570km2	26937176	.:Melounková.Marmeláda:.(#411) - G.a.L.i.a
+22.	[.::R::.] Rytíři	10	154771km2	26879197	B*E*S*A*R*A*B*I*A(#158) - Abdul
+23.	[Evropa] Evropa	10	130756km2	26839298	Poušť(#288) - Kojot prérijní
+24.	[=T=] Trója	10	152728km2	26692921	Winter is coming..(#61) - FR3EZY
+25.	[VÍCADMIN] Víceadministrátoři Webgame	7	100145km2	26402968	Il tempo se ne va(#33333) - podwratak
+26.	[xD] Výtlem všech xD	10	108801km2	26108446	Sokyho výtlem xD(#269) - MatkoFaka
+27.	[GV] Graffiti Vandal	10	102190km2	25245044	EXIT Crew(#899) - král urucskýý
+28.	[Tabáček] Tabáček	10	134836km2	25077607	Amstaff(#383) - snasa1
+29.	[.:MoD:.] Modifikovaná orální diskuze	10	104787km2	24330129	Žirafa to umí pořádně(#161) - Smrtihlav2
+30.	[-=LH=-] Lonely Hearts	10	91482km2	24022567	KU-=LH=-ÁNEK(#582) - Walker
+31.	[CaC] Command and Conquer	8	96458km2	23912377	Co Kdyby(#242) - daxicek
+32.	[Europe] Europe	10	101865km2	23297458	Arizona(#284) - Kojot prérijní
+33.	[MÁMA] Tvoje druhá máma	10	157773km2	23258269	Měchy tvojí mámy(#844) - gugoslav
+34.	[K0MUN1ST] Rozvědka a rakety	8	68183km2	22877725	Raketový inženýr(#400) - masterWG
+35.	[H2] HeroesII	10	115919km2	22874790	TAX(#145) - Rhodan
+36.	[::RV::] Rektální Vendeta	10	124434km2	22431260	Iron fist(#930) - 4n.Tr4x
+37.	[HEIST] La casa de papel Season 4	10	105774km2	22311316	Sergio Marquina(#203) - Mr. Sedlinno
+38.	[-osn-] OsprostenaStaraNota	9	113878km2	21588059	-osn- Mastodont(#1527) - mahamar kaddafi
+39.	[R] Resurrection	10	127050km2	21289186	The Dark Side of Japan(#459) - snasa1
+40.	[AveCesar] AveCesar a nevyzpytatelní.	10	118273km2	20901915	.:AveCesar:. Sedmihradsko(#711) - Ares65
