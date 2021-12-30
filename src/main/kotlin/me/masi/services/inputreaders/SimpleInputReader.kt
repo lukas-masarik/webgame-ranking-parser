@@ -64,6 +64,7 @@ class SimpleInputReader : InputReader {
                 Dostupne atributy pro razeni:
                     (1) prestiz
                     (2) rozloha
+                    (3) vek
                 
                 Vyber radici atribut (defaulnte 1): 
             """.trimIndent()
@@ -76,6 +77,7 @@ class SimpleInputReader : InputReader {
         return when (input?.toIntOrNull()) {
             1 -> ESortAttribute.PRESTIGE
             2 -> ESortAttribute.AREA
+            3 -> ESortAttribute.EPOCH_NUMBER
             else -> ESortAttribute.PRESTIGE
         }
     }
