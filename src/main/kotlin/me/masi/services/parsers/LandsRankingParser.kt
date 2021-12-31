@@ -1,7 +1,7 @@
 package me.masi.services.parsers
 
-import me.masi.dto.LandsRanking
-import me.masi.dto.LandsRankingRow
+import me.masi.dto.lands.LandsRanking
+import me.masi.dto.lands.LandsRankingRow
 import me.masi.services.parsers.api.RankingParser
 import java.io.BufferedReader
 import java.io.File

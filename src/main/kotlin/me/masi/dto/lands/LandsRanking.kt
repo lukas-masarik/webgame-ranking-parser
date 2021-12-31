@@ -1,4 +1,4 @@
-package me.masi.dto
+package me.masi.dto.lands
 
 data class LandsRanking(
     val epochNumber: Int,

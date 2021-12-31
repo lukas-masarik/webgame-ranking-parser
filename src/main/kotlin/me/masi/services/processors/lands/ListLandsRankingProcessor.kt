@@ -1,7 +1,7 @@
 package me.masi.services.processors.lands
 
-import me.masi.dto.LandsRankingRow
-import me.masi.dto.LandsRanking
+import me.masi.dto.lands.LandsRankingRow
+import me.masi.dto.lands.LandsRanking
 import me.masi.enums.ESortAttribute
 import me.masi.enums.ESortDirection
 import me.masi.services.inputreaders.api.InputReader

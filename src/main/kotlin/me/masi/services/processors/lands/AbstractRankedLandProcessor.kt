@@ -1,6 +1,6 @@
 package me.masi.services.processors.lands
 
-import me.masi.dto.LandsRanking
+import me.masi.dto.lands.LandsRanking
 import me.masi.services.inputreaders.api.InputReader
 import me.masi.services.processors.api.Processor
 

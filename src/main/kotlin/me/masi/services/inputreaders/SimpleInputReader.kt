@@ -1,6 +1,8 @@
 package me.masi.services.inputreaders
 
 import me.masi.enums.*
+import me.masi.enums.lands.EFilteringParameter
+import me.masi.enums.lands.EGroupingParameter
 import me.masi.services.inputreaders.api.InputReader
 import me.masi.services.processors.lands.AggregateLandsRankingProcessor
 import me.masi.services.processors.lands.FilterLandsRankingProcessor

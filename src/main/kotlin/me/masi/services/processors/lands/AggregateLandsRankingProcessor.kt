@@ -1,9 +1,9 @@
 package me.masi.services.processors.lands
 
-import me.masi.dto.LandsRankingRow
-import me.masi.dto.LandsRanking
+import me.masi.dto.lands.LandsRankingRow
+import me.masi.dto.lands.LandsRanking
 import me.masi.enums.EAggregatingParameter
-import me.masi.enums.EGroupingParameter
+import me.masi.enums.lands.EGroupingParameter
 import me.masi.enums.ESortDirection
 import me.masi.services.inputreaders.api.InputReader
 import me.masi.services.parsers.LandsRankingParser

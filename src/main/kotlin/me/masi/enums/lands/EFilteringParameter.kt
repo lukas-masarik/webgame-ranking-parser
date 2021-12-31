@@ -1,6 +1,6 @@
-package me.masi.enums
+package me.masi.enums.lands
 
-enum class EGroupingParameter(
+enum class EFilteringParameter(
     val value: String,
 ) {
     PLAYER("Hrac"),
