@@ -45,12 +45,14 @@ class ListLandsRankingProcessor(
                         when (sortAttribute) {
                             ESortAttribute.PRESTIGE -> it.sortedBy { it.prestige }
                             ESortAttribute.AREA -> it.sortedBy { it.area }
+                            ESortAttribute.EPOCH_NUMBER -> it.sortedBy { it.epochNumber }
                         }
                     }
                     ESortDirection.DESCENDING -> {
                         when (sortAttribute) {
                             ESortAttribute.PRESTIGE -> it.sortedByDescending { it.prestige }
                             ESortAttribute.AREA -> it.sortedByDescending { it.area }
+                            ESortAttribute.EPOCH_NUMBER -> it.sortedByDescending { it.epochNumber }
                         }
                     }
                 }
