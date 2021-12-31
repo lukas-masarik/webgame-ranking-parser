@@ -117,4 +117,4 @@ class LandsRankingParser : RankingParser<LandsRanking> {
 
 private const val RANKING_LANDS_FOLDER = "rankings/lands"
 private const val REGEX_EPOCH_NUMBER = "\\d+"
-private const val REGEX_RANKED_LAND = "(\\d+)\\.\\t(.*)\\(\\#(\\d+)\\)\\s\\-\\s(.*)\\t(\\d+)km2\\t(\\d+)\\t(.*)\\t([a-zA-Z]{3,4})\\t(\\d+)"
+private const val REGEX_RANKED_LAND = "(\\d+)\\.\\t(.*)\\(#(\\d+)\\)\\s-\\s(.*)\\t(\\d+)km2\\t(\\d+)\\t(.*)\\t([a-zA-Z]{3,4})\\t(\\d+)"
