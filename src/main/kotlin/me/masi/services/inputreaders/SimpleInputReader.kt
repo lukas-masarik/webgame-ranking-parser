@@ -2,9 +2,9 @@ package me.masi.services.inputreaders
 
 import me.masi.enums.*
 import me.masi.services.inputreaders.api.InputReader
-import me.masi.services.processors.AggregateLandsRankingProcessor
-import me.masi.services.processors.FilterLandsRankingProcessor
-import me.masi.services.processors.ListLandsRankingProcessor
+import me.masi.services.processors.lands.AggregateLandsRankingProcessor
+import me.masi.services.processors.lands.FilterLandsRankingProcessor
+import me.masi.services.processors.lands.ListLandsRankingProcessor
 import me.masi.services.processors.api.Processor
 import kotlin.system.exitProcess
 

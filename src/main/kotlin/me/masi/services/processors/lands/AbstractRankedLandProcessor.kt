@@ -1,4 +1,4 @@
-package me.masi.services.processors
+package me.masi.services.processors.lands
 
 import me.masi.dto.LandsRanking
 import me.masi.services.inputreaders.api.InputReader
