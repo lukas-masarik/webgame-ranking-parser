@@ -13,15 +13,15 @@ class LandsRankingParser : AbstractRankingParser<LandsRanking>() {
 
     override fun parse(): List<LandsRanking> {
         // use from IDE
-        val epochFiles = getEpochFilesFromResources(RANKING_LANDS_FOLDER)
-        return parseRankedLandsFiles(epochFiles)
+        val epochFiles = getEpochFilesForLandsFromResources()
+        return parseLandsRankingFiles(epochFiles)
         // use to generate jar
         /*val epochFiles = getEpochPathsFromResourcesInJar(RANKING_LANDS_FOLDER)
         return parseRankedLandsPaths(epochFiles)*/
     }
 
-    private fun parseRankedLandsFiles(epochFiles: List<File>): List<LandsRanking> {
-        val rankedLandsEpochs = mutableListOf<LandsRanking>()
+    private fun parseLandsRankingFiles(epochFiles: List<File>): List<LandsRanking> {
+        val landsRankings = mutableListOf<LandsRanking>()
         epochFiles.forEach {
             val epochContent = it.readLines()
             val epochNumber = parseEpochNumber(epochContent.first())
@@ -32,9 +32,9 @@ class LandsRankingParser : AbstractRankingParser<LandsRanking>() {
                 landsRankingRows.add(parseLandsRankingRow(it, epochNumber))
             }
 
-            rankedLandsEpochs.add(LandsRanking(epochNumber = epochNumber, landsRankingRows = landsRankingRows))
+            landsRankings.add(LandsRanking(epochNumber = epochNumber, landsRankingRows = landsRankingRows))
         }
-        return rankedLandsEpochs
+        return landsRankings
     }
 
     private fun parseRankedLandsPaths(epochFiles: List<Path>): List<LandsRanking> {
@@ -64,28 +64,22 @@ class LandsRankingParser : AbstractRankingParser<LandsRanking>() {
         return rankedLandsEpochs
     }
 
-    private fun parseEpochNumber(epochNumberLine: String): Int {
-        return REGEX_EPOCH_NUMBER.toRegex().find(epochNumberLine)?.value?.toInt() ?: throw IllegalArgumentException("Missing epoch number.")
-    }
-
     fun parseLandsRankingRow(landsRankingRow: String, epochNumber: Int): LandsRankingRow {
-        val rankedLandMatchResult =
-            REGEX_RANKED_LAND.toRegex().find(landsRankingRow)?.groupValues ?: throw IllegalArgumentException("Invalid ranked land line.")
+        val landsRankingRowMatchResult =
+            REGEX_LANDS_RANKING_ROW.toRegex().find(landsRankingRow)?.groupValues ?: throw IllegalArgumentException("Invalid lands ranking row.")
         return LandsRankingRow(
-            ranking = rankedLandMatchResult[1].toInt(),
-            landName = rankedLandMatchResult[2],
-            landNumber = rankedLandMatchResult[3].toInt(),
-            playerName = rankedLandMatchResult[4],
-            area = rankedLandMatchResult[5].toInt(),
-            prestige = rankedLandMatchResult[6].toLong(),
-            alliance = rankedLandMatchResult[7].ifBlank { null },
-            stateSystem = rankedLandMatchResult[8],
-            rounds = rankedLandMatchResult[9].toInt(),
+            ranking = landsRankingRowMatchResult[1].toInt(),
+            landName = landsRankingRowMatchResult[2],
+            landNumber = landsRankingRowMatchResult[3].toInt(),
+            playerName = landsRankingRowMatchResult[4],
+            area = landsRankingRowMatchResult[5].toInt(),
+            prestige = landsRankingRowMatchResult[6].toLong(),
+            alliance = landsRankingRowMatchResult[7].ifBlank { null },
+            stateSystem = landsRankingRowMatchResult[8],
+            rounds = landsRankingRowMatchResult[9].toInt(),
             epochNumber = epochNumber
         )
     }
 }
 
-private const val RANKING_LANDS_FOLDER = "rankings/lands"
-private const val REGEX_EPOCH_NUMBER = "\\d+"
-private const val REGEX_RANKED_LAND = "(\\d+)\\.\\t(.*)\\(#(\\d+)\\)\\s-\\s(.*)\\t(\\d+)km2\\t(\\d+)\\t(.*)\\t([a-zA-Z]{3,4})\\t(\\d+)"
+private const val REGEX_LANDS_RANKING_ROW = "(\\d+)\\.\\t(.*)\\(#(\\d+)\\)\\s-\\s(.*)\\t(\\d+)km2\\t(\\d+)\\t(.*)\\t([a-zA-Z]{3,4})\\t(\\d+)"

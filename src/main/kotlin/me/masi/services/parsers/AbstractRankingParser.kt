@@ -11,7 +11,19 @@ import kotlin.streams.toList
 
 abstract class AbstractRankingParser<out T> : RankingParser<T> {
 
-    protected fun getEpochFilesFromResources(rankingsFolder: String): List<File> {
+    protected fun parseEpochNumber(epochNumberLine: String): Int {
+        return REGEX_EPOCH_NUMBER.toRegex().find(epochNumberLine)?.value?.toInt() ?: throw IllegalArgumentException("Missing epoch number.")
+    }
+
+    protected fun getEpochFilesForLandsFromResources(): List<File> {
+        return getEpochFilesFromResources(RANKING_LANDS_FOLDER)
+    }
+
+    protected fun getEpochFilesForAlliancesFromResources(): List<File> {
+        return getEpochFilesFromResources(RANKING_ALLIANCES_FOLDER)
+    }
+
+    private fun getEpochFilesFromResources(rankingsFolder: String): List<File> {
         val resource = javaClass.classLoader.getResource(rankingsFolder)
         return Files.walk(Paths.get(resource.toURI()))
             .filter(Files::isRegularFile)
@@ -34,3 +46,7 @@ abstract class AbstractRankingParser<out T> : RankingParser<T> {
             }
     }
 }
+
+private const val REGEX_EPOCH_NUMBER = "\\d+"
+private const val RANKING_LANDS_FOLDER = "rankings/lands"
+private const val RANKING_ALLIANCES_FOLDER = "rankings/alliances"

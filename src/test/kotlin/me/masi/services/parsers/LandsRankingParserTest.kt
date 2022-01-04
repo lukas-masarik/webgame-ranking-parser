@@ -4,16 +4,16 @@ import me.masi.dto.lands.LandsRankingRow
 import org.junit.jupiter.api.Assertions.*
 import org.junit.jupiter.api.Test
 
-class LandsParserTestRankingRecord {
+class LandsRankingParserTest {
     private val rankingParser = LandsRankingParser()
 
     @Test
-    fun `parse ranked land with alliance`() {
-        val rankedLandRaw = "2.\tBlack Stronghold(#209) - Black Warrior\t28331km2\t16692649\tUFD\tRep\t3811"
-        val rankedLand = rankingParser.parseLandsRankingRow(rankedLandRaw, 1)
+    fun `parse lands ranking row with alliance`() {
+        val landsRankingRowRaw = "2.\tBlack Stronghold(#209) - Black Warrior\t28331km2\t16692649\tUFD\tRep\t3811"
+        val landsRankingRow = rankingParser.parseLandsRankingRow(landsRankingRowRaw, 1)
 
         assertEquals(
-            rankedLand,
+            landsRankingRow,
             LandsRankingRow(
                 ranking = 2,
                 landName = "Black Stronghold",
@@ -30,12 +30,12 @@ class LandsParserTestRankingRecord {
     }
 
     @Test
-    fun `parse ranked land without alliance`() {
-        val rankedLandRaw = "1.\tBorobudur(#521) - Lone Wolf\t31581km2\t16810415\t\tUtop\t3836"
-        val rankedLand = rankingParser.parseLandsRankingRow(rankedLandRaw, 1)
+    fun `parse lands ranking row without alliance`() {
+        val landsRankingRowRaw = "1.\tBorobudur(#521) - Lone Wolf\t31581km2\t16810415\t\tUtop\t3836"
+        val landsRankingRow = rankingParser.parseLandsRankingRow(landsRankingRowRaw, 1)
 
         assertEquals(
-            rankedLand,
+            landsRankingRow,
             LandsRankingRow(
                 ranking = 1,
                 landName = "Borobudur",

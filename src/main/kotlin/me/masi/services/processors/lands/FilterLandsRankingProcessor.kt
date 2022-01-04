@@ -1,10 +1,10 @@
 package me.masi.services.processors.lands
 
-import me.masi.dto.lands.LandsRankingRow
 import me.masi.dto.lands.LandsRanking
-import me.masi.enums.lands.EFilteringParameter
+import me.masi.dto.lands.LandsRankingRow
 import me.masi.enums.ESortAttribute
 import me.masi.enums.ESortDirection
+import me.masi.enums.lands.EFilteringParameter
 import me.masi.services.inputreaders.api.InputReader
 import me.masi.services.parsers.LandsRankingParser
 import me.masi.services.parsers.api.RankingParser
@@ -24,9 +24,9 @@ import me.masi.services.parsers.api.RankingParser
  *  - specify rank end
  */
 class FilterLandsRankingProcessor(
-    inputReader: InputReader,
+    private val inputReader: InputReader,
     private val parser: RankingParser<LandsRanking> = LandsRankingParser(),
-) : AbstractRankedLandProcessor(inputReader) {
+) : AbstractLandsRankingProcessor() {
 
     override fun process() {
         val filteringParameter = inputReader.selectFilteringParameterFromInput()
