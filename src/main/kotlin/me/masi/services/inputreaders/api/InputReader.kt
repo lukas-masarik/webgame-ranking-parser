@@ -1,6 +1,8 @@
 package me.masi.services.inputreaders.api
 
-import me.masi.enums.*
+import me.masi.enums.EAggregatingParameter
+import me.masi.enums.ESortAttribute
+import me.masi.enums.ESortDirection
 import me.masi.enums.lands.EFilteringParameter
 import me.masi.enums.lands.EGroupingParameter
 import me.masi.services.processors.api.Processor

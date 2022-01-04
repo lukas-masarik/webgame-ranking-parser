@@ -1,18 +1,50 @@
 package me.masi.services.inputreaders
 
-import me.masi.enums.*
+import me.masi.enums.EAggregatingParameter
+import me.masi.enums.ERankingType
+import me.masi.enums.ESortAttribute
+import me.masi.enums.ESortDirection
 import me.masi.enums.lands.EFilteringParameter
 import me.masi.enums.lands.EGroupingParameter
 import me.masi.services.inputreaders.api.InputReader
+import me.masi.services.processors.alliances.ListAlliancesRankingProcessor
+import me.masi.services.processors.api.Processor
 import me.masi.services.processors.lands.AggregateLandsRankingProcessor
 import me.masi.services.processors.lands.FilterLandsRankingProcessor
 import me.masi.services.processors.lands.ListLandsRankingProcessor
-import me.masi.services.processors.api.Processor
 import kotlin.system.exitProcess
 
 class SimpleInputReader : InputReader {
 
     override fun selectProcessorFromInput(): Processor {
+        return when (selectRankingType()) {
+            ERankingType.LANDS -> selectLandsRankingsProcessor()
+            ERankingType.ALLIANCES -> selectAlliancesRankingsProcessor()
+        }
+    }
+
+    private fun selectRankingType(): ERankingType {
+        print(
+            """
+                Dostupne zebricky:
+                    (1) Zebricek zemi
+                    (2) Zebricek alianci
+                
+                Vyber zebricek (defaultne 1): 
+            """.trimIndent()
+        )
+        val input = readLine()
+        return extractRankingTypeFromInput(input)
+    }
+
+    private fun extractRankingTypeFromInput(input: String?): ERankingType {
+        return when (input?.toIntOrNull()) {
+            2 -> ERankingType.ALLIANCES
+            else -> ERankingType.LANDS
+        }
+    }
+
+    private fun selectLandsRankingsProcessor(): Processor {
         print(
             """
                 Dostupne programy:
@@ -25,16 +57,36 @@ class SimpleInputReader : InputReader {
             """.trimIndent()
         )
         val input = readLine()
-        return extractProcessorFromInput(input)
+        return extractLandsRankingsProcessorFromInput(input)
     }
 
-    private fun extractProcessorFromInput(input: String?): Processor {
+    private fun extractLandsRankingsProcessorFromInput(input: String?): Processor {
         return when (input?.toIntOrNull()) {
             0 -> exitProcess(1)
             1 -> ListLandsRankingProcessor(this)
             2 -> FilterLandsRankingProcessor(this)
             3 -> AggregateLandsRankingProcessor(this)
             else -> ListLandsRankingProcessor(this)
+        }
+    }
+
+    private fun selectAlliancesRankingsProcessor(): Processor {
+        print(
+            """
+                Dostupne programy:
+                    (1) Prochazet zebricek alianci
+                
+                Vyber program (defaultne 1): 
+            """.trimIndent()
+        )
+        val input = readLine()
+        return extractAlliancesRankingsProcessorFromInput(input)
+    }
+
+    private fun extractAlliancesRankingsProcessorFromInput(input: String?): Processor {
+        return when (input?.toIntOrNull()) {
+            1 -> ListAlliancesRankingProcessor(this)
+            else -> ListAlliancesRankingProcessor(this)
         }
     }
 
@@ -204,7 +256,7 @@ class SimpleInputReader : InputReader {
     override fun selectFilteringParameterFromInput(): EFilteringParameter {
         print(
             """
-                Dostpune filtrujici parametry:
+                Dostupne filtrujici parametry:
                     (1) hrac
                     (2) aliance
                     (3) vlada
