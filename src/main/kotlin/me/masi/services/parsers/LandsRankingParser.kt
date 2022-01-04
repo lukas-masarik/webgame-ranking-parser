@@ -2,27 +2,21 @@ package me.masi.services.parsers
 
 import me.masi.dto.lands.LandsRanking
 import me.masi.dto.lands.LandsRankingRow
-import me.masi.services.parsers.api.RankingParser
 import java.io.BufferedReader
 import java.io.File
 import java.io.InputStreamReader
-import java.net.URI
 import java.nio.charset.StandardCharsets
-import java.nio.file.FileSystems
-import java.nio.file.Files
 import java.nio.file.Path
-import java.nio.file.Paths
 import kotlin.io.path.absolutePathString
-import kotlin.streams.toList
 
-class LandsRankingParser : RankingParser<LandsRanking> {
+class LandsRankingParser : AbstractRankingParser<LandsRanking>() {
 
     override fun parse(): List<LandsRanking> {
         // use from IDE
-        val epochFiles = getEpochFilesFromResources()
+        val epochFiles = getEpochFilesFromResources(RANKING_LANDS_FOLDER)
         return parseRankedLandsFiles(epochFiles)
         // use to generate jar
-        /*val epochFiles = getEpochPathsFromResourcesInJar()
+        /*val epochFiles = getEpochPathsFromResourcesInJar(RANKING_LANDS_FOLDER)
         return parseRankedLandsPaths(epochFiles)*/
     }
 
@@ -68,29 +62,6 @@ class LandsRankingParser : RankingParser<LandsRanking> {
             }
         }
         return rankedLandsEpochs
-    }
-
-    private fun getEpochFilesFromResources(): List<File> {
-        val resource = javaClass.classLoader.getResource(RANKING_LANDS_FOLDER)
-        return Files.walk(Paths.get(resource.toURI()))
-            .filter(Files::isRegularFile)
-            .map { it.toFile() }
-            .toList()
-    }
-
-    private fun getEpochPathsFromResourcesInJar(): List<Path> {
-        val jarPath = javaClass.protectionDomain
-            .codeSource
-            .location
-            .toURI()
-            .path
-        val uri = URI.create("jar:file:$jarPath")
-        return FileSystems.newFileSystem(uri, mutableMapOf<String, Any>())
-            .use { fs ->
-                Files.walk(fs.getPath(RANKING_LANDS_FOLDER))
-                    .filter(Files::isRegularFile)
-                    .toList()
-            }
     }
 
     private fun parseEpochNumber(epochNumberLine: String): Int {
