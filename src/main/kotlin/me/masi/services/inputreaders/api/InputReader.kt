@@ -3,8 +3,8 @@ package me.masi.services.inputreaders.api
 import me.masi.enums.EAggregatingParameter
 import me.masi.enums.ESortAttribute
 import me.masi.enums.ESortDirection
-import me.masi.enums.lands.EFilteringParameter
-import me.masi.enums.lands.EGroupingParameter
+import me.masi.enums.lands.EFilteringParameterForLands
+import me.masi.enums.lands.EGroupingParameterForLands
 import me.masi.services.processors.api.Processor
 
 interface InputReader {
@@ -17,8 +17,8 @@ interface InputReader {
     fun selectStartRankFromInput(): Int?
     fun selectEndRankFromInput(): Int?
     fun selectAggregatingParameterFromInput(): EAggregatingParameter
-    fun selectGroupingParameterFromInput(): EGroupingParameter
-    fun selectFilteringParameterFromInput(): EFilteringParameter
+    fun selectGroupingParameterForLandsFromInput(): EGroupingParameterForLands
+    fun selectFilteringParameterForLandsFromInput(): EFilteringParameterForLands
     fun selectFilterPlayerQueryFromInput(): String
     fun selectFilterAllianceQueryFromInput(): String?
     fun selectFilterStateSystemQueryFromInput(): String

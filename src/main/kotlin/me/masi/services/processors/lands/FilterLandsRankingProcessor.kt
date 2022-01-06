@@ -4,7 +4,7 @@ import me.masi.dto.lands.LandsRanking
 import me.masi.dto.lands.LandsRankingRow
 import me.masi.enums.ESortAttribute
 import me.masi.enums.ESortDirection
-import me.masi.enums.lands.EFilteringParameter
+import me.masi.enums.lands.EFilteringParameterForLands
 import me.masi.services.inputreaders.api.InputReader
 import me.masi.services.parsers.LandsRankingParser
 import me.masi.services.parsers.api.RankingParser
@@ -29,12 +29,12 @@ class FilterLandsRankingProcessor(
 ) : AbstractLandsRankingProcessor() {
 
     override fun process() {
-        val filteringParameter = inputReader.selectFilteringParameterFromInput()
+        val filteringParameter = inputReader.selectFilteringParameterForLandsFromInput()
         val filteringQuery = when (filteringParameter) {
-            EFilteringParameter.PLAYER -> inputReader.selectFilterPlayerQueryFromInput()
-            EFilteringParameter.ALLIANCE -> inputReader.selectFilterAllianceQueryFromInput()
-            EFilteringParameter.STATE_SYSTEM -> inputReader.selectFilterStateSystemQueryFromInput()
-            EFilteringParameter.LAND_NUMBER -> inputReader.selectFilterLandNumberQueryFromInput()
+            EFilteringParameterForLands.PLAYER -> inputReader.selectFilterPlayerQueryFromInput()
+            EFilteringParameterForLands.ALLIANCE -> inputReader.selectFilterAllianceQueryFromInput()
+            EFilteringParameterForLands.STATE_SYSTEM -> inputReader.selectFilterStateSystemQueryFromInput()
+            EFilteringParameterForLands.LAND_NUMBER -> inputReader.selectFilterLandNumberQueryFromInput()
         }
         val sortAttribute = inputReader.selectSortAttributeFromInput()
         val SortDirection = inputReader.selectSortDirectionFromInput()
@@ -51,10 +51,10 @@ class FilterLandsRankingProcessor(
         val rankedLands = filteredRanks.flatMap { it.landsRankingRows }
             .let {
                 when (filteringParameter) {
-                    EFilteringParameter.PLAYER -> it.filter { it.playerName.lowercase() == filteringQuery!!.lowercase() }
-                    EFilteringParameter.ALLIANCE -> it.filter { it.alliance?.lowercase() == filteringQuery?.ifBlank { null }?.lowercase() }
-                    EFilteringParameter.STATE_SYSTEM -> it.filter { it.stateSystem.lowercase() == filteringQuery!!.lowercase() }
-                    EFilteringParameter.LAND_NUMBER -> it.filter { it.landNumber == (filteringQuery!!.toIntOrNull() ?: 0) }
+                    EFilteringParameterForLands.PLAYER -> it.filter { it.playerName.lowercase() == filteringQuery!!.lowercase() }
+                    EFilteringParameterForLands.ALLIANCE -> it.filter { it.alliance?.lowercase() == filteringQuery?.ifBlank { null }?.lowercase() }
+                    EFilteringParameterForLands.STATE_SYSTEM -> it.filter { it.stateSystem.lowercase() == filteringQuery!!.lowercase() }
+                    EFilteringParameterForLands.LAND_NUMBER -> it.filter { it.landNumber == (filteringQuery!!.toIntOrNull() ?: 0) }
                 }
             }
             .let {
@@ -86,7 +86,7 @@ class FilterLandsRankingProcessor(
         processOutput(rankedLands, filteringParameter, filteringQuery)
     }
 
-    private fun processOutput(landsRankingRows: List<LandsRankingRow>, filteringParameter: EFilteringParameter, filteringQuery: String?) {
+    private fun processOutput(landsRankingRows: List<LandsRankingRow>, filteringParameter: EFilteringParameterForLands, filteringQuery: String?) {
         println("${filteringParameter.value}: $filteringQuery")
         if (landsRankingRows.isEmpty()) {
             println("Zadne vysledky.")
@@ -94,10 +94,10 @@ class FilterLandsRankingProcessor(
         }
 
         when (filteringParameter) {
-            EFilteringParameter.PLAYER -> processPlayerOutput(landsRankingRows)
-            EFilteringParameter.ALLIANCE -> processAllianceOutput(landsRankingRows)
-            EFilteringParameter.STATE_SYSTEM -> processStateSystemOutput(landsRankingRows)
-            EFilteringParameter.LAND_NUMBER -> processLandNumberOutput(landsRankingRows)
+            EFilteringParameterForLands.PLAYER -> processPlayerOutput(landsRankingRows)
+            EFilteringParameterForLands.ALLIANCE -> processAllianceOutput(landsRankingRows)
+            EFilteringParameterForLands.STATE_SYSTEM -> processStateSystemOutput(landsRankingRows)
+            EFilteringParameterForLands.LAND_NUMBER -> processLandNumberOutput(landsRankingRows)
         }
     }
 

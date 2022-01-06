@@ -4,8 +4,8 @@ import me.masi.enums.EAggregatingParameter
 import me.masi.enums.ERankingType
 import me.masi.enums.ESortAttribute
 import me.masi.enums.ESortDirection
-import me.masi.enums.lands.EFilteringParameter
-import me.masi.enums.lands.EGroupingParameter
+import me.masi.enums.lands.EFilteringParameterForLands
+import me.masi.enums.lands.EGroupingParameterForLands
 import me.masi.services.inputreaders.api.InputReader
 import me.masi.services.processors.alliances.ListAlliancesRankingProcessor
 import me.masi.services.processors.api.Processor
@@ -227,7 +227,7 @@ class SimpleInputReader : InputReader {
         }
     }
 
-    override fun selectGroupingParameterFromInput(): EGroupingParameter {
+    override fun selectGroupingParameterForLandsFromInput(): EGroupingParameterForLands {
         print(
             """
                 Dostupne seskupujici parametry:
@@ -240,20 +240,20 @@ class SimpleInputReader : InputReader {
             """.trimIndent()
         )
         val input = readLine()
-        return extractGroupingParameterFromInput(input)
+        return extractGroupingParameterForLandsFromInput(input)
     }
 
-    private fun extractGroupingParameterFromInput(input: String?): EGroupingParameter {
+    private fun extractGroupingParameterForLandsFromInput(input: String?): EGroupingParameterForLands {
         return when (input?.toIntOrNull()) {
-            1 -> EGroupingParameter.PLAYER
-            2 -> EGroupingParameter.ALLIANCE
-            3 -> EGroupingParameter.STATE_SYSTEM
-            4 -> EGroupingParameter.LAND_NUMBER
-            else -> EGroupingParameter.PLAYER
+            1 -> EGroupingParameterForLands.PLAYER
+            2 -> EGroupingParameterForLands.ALLIANCE
+            3 -> EGroupingParameterForLands.STATE_SYSTEM
+            4 -> EGroupingParameterForLands.LAND_NUMBER
+            else -> EGroupingParameterForLands.PLAYER
         }
     }
 
-    override fun selectFilteringParameterFromInput(): EFilteringParameter {
+    override fun selectFilteringParameterForLandsFromInput(): EFilteringParameterForLands {
         print(
             """
                 Dostupne filtrujici parametry:
@@ -266,16 +266,16 @@ class SimpleInputReader : InputReader {
             """.trimIndent()
         )
         val input = readLine()
-        return extractFilteringParameterFromInput(input)
+        return extractFilteringParameterForLandsFromInput(input)
     }
 
-    private fun extractFilteringParameterFromInput(input: String?): EFilteringParameter {
+    private fun extractFilteringParameterForLandsFromInput(input: String?): EFilteringParameterForLands {
         return when (input?.toIntOrNull()) {
-            1 -> EFilteringParameter.PLAYER
-            2 -> EFilteringParameter.ALLIANCE
-            3 -> EFilteringParameter.STATE_SYSTEM
-            4 -> EFilteringParameter.LAND_NUMBER
-            else -> EFilteringParameter.PLAYER
+            1 -> EFilteringParameterForLands.PLAYER
+            2 -> EFilteringParameterForLands.ALLIANCE
+            3 -> EFilteringParameterForLands.STATE_SYSTEM
+            4 -> EFilteringParameterForLands.LAND_NUMBER
+            else -> EFilteringParameterForLands.PLAYER
         }
     }
 
