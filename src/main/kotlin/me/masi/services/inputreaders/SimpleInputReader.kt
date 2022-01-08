@@ -190,7 +190,7 @@ class SimpleInputReader : InputReader {
     override fun selectStartRankFromInput(): Int? {
         print(
             """
-                Vyber pocatecni poradi zemi (nech prazdne pro nezadani limitu): 
+                Vyber pocatecni poradi (nech prazdne pro nezadani limitu): 
             """.trimIndent()
         )
         val input = readLine()
@@ -200,7 +200,7 @@ class SimpleInputReader : InputReader {
     override fun selectEndRankFromInput(): Int? {
         print(
             """
-                Vyber konecne poradi zemi (nech prazdne pro nezadani limitu): 
+                Vyber konecne poradi (nech prazdne pro nezadani limitu): 
             """.trimIndent()
         )
         val input = readLine()
