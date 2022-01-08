@@ -31,7 +31,7 @@ class AggregateAlliancesRankingProcessor(
         val resultMap = filteredRanks.flatMap { it.alliancesRankingRows }
             .let {
                 when (groupingParameter) {
-                    EGroupingParameterForAlliances.TAG -> it.groupBy { it.allianceTag }
+                    EGroupingParameterForAlliances.TAG -> it.groupBy { it.allianceTag.lowercase() }
                     EGroupingParameterForAlliances.CHAIRMAN -> it.groupBy { it.chairmanPlayerName }
                     EGroupingParameterForAlliances.MEMBERS_COUNT -> it.groupBy { it.membersCount.toString() }
                 }

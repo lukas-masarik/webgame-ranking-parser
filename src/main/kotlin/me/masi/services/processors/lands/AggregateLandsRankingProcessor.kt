@@ -45,7 +45,7 @@ class AggregateLandsRankingProcessor(
             .let {
                 when (groupingParameter) {
                     EGroupingParameterForLands.PLAYER -> it.groupBy { it.playerName }
-                    EGroupingParameterForLands.ALLIANCE -> it.groupBy { it.alliance }
+                    EGroupingParameterForLands.ALLIANCE -> it.groupBy { it.alliance?.lowercase() }
                     EGroupingParameterForLands.STATE_SYSTEM -> it.groupBy { it.stateSystem }
                     EGroupingParameterForLands.LAND_NUMBER -> it.groupBy { it.landNumber.toString() }
                 }
