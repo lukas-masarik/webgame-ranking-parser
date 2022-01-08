@@ -9,6 +9,7 @@ import me.masi.enums.alliances.EGroupingParameterForAlliances
 import me.masi.enums.lands.EFilteringParameterForLands
 import me.masi.enums.lands.EGroupingParameterForLands
 import me.masi.services.inputreaders.api.InputReader
+import me.masi.services.processors.alliances.AggregateAlliancesRankingProcessor
 import me.masi.services.processors.alliances.FilterAlliancesRankingProcessor
 import me.masi.services.processors.alliances.ListAlliancesRankingProcessor
 import me.masi.services.processors.api.Processor
@@ -79,6 +80,7 @@ class SimpleInputReader : InputReader {
                 Dostupne programy:
                     (1) Prochazet zebricek alianci
                     (2) Filtrovat zebricek alianci (podle aliance, clenu, predsedy)
+                    (3) Seskupovat zebricek alianci (podle aliance, clenu, predsedy)
                 
                 Vyber program (defaultne 1): 
             """.trimIndent()
@@ -91,6 +93,7 @@ class SimpleInputReader : InputReader {
         return when (input?.toIntOrNull()) {
             1 -> ListAlliancesRankingProcessor(this)
             2 -> FilterAlliancesRankingProcessor(this)
+            3 -> AggregateAlliancesRankingProcessor(this)
             else -> ListAlliancesRankingProcessor(this)
         }
     }
