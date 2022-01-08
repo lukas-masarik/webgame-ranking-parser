@@ -4,9 +4,12 @@ import me.masi.enums.EAggregatingParameter
 import me.masi.enums.ERankingType
 import me.masi.enums.ESortAttribute
 import me.masi.enums.ESortDirection
+import me.masi.enums.alliances.EFilteringParameterForAlliances
+import me.masi.enums.alliances.EGroupingParameterForAlliances
 import me.masi.enums.lands.EFilteringParameterForLands
 import me.masi.enums.lands.EGroupingParameterForLands
 import me.masi.services.inputreaders.api.InputReader
+import me.masi.services.processors.alliances.FilterAlliancesRankingProcessor
 import me.masi.services.processors.alliances.ListAlliancesRankingProcessor
 import me.masi.services.processors.api.Processor
 import me.masi.services.processors.lands.AggregateLandsRankingProcessor
@@ -75,6 +78,7 @@ class SimpleInputReader : InputReader {
             """
                 Dostupne programy:
                     (1) Prochazet zebricek alianci
+                    (2) Filtrovat zebricek alianci (podle aliance, clenu, predsedy)
                 
                 Vyber program (defaultne 1): 
             """.trimIndent()
@@ -86,6 +90,7 @@ class SimpleInputReader : InputReader {
     private fun extractAlliancesRankingsProcessorFromInput(input: String?): Processor {
         return when (input?.toIntOrNull()) {
             1 -> ListAlliancesRankingProcessor(this)
+            2 -> FilterAlliancesRankingProcessor(this)
             else -> ListAlliancesRankingProcessor(this)
         }
     }
@@ -253,6 +258,30 @@ class SimpleInputReader : InputReader {
         }
     }
 
+    override fun selectGroupingParameterForAlliancesFromInput(): EGroupingParameterForAlliances {
+        print(
+            """
+                Dostupne seskupujici parametry:
+                    (1) aliance
+                    (2) predseda
+                    (3) clenu
+                
+                Vyber seskupujici parametr (defaultne 1): 
+            """.trimIndent()
+        )
+        val input = readLine()
+        return extractGroupingParameterForAlliancesFromInput(input)
+    }
+
+    private fun extractGroupingParameterForAlliancesFromInput(input: String?): EGroupingParameterForAlliances {
+        return when (input?.toIntOrNull()) {
+            1 -> EGroupingParameterForAlliances.TAG
+            2 -> EGroupingParameterForAlliances.CHAIRMAN
+            3 -> EGroupingParameterForAlliances.MEMBERS_COUNT
+            else -> EGroupingParameterForAlliances.TAG
+        }
+    }
+
     override fun selectFilteringParameterForLandsFromInput(): EFilteringParameterForLands {
         print(
             """
@@ -276,6 +305,30 @@ class SimpleInputReader : InputReader {
             3 -> EFilteringParameterForLands.STATE_SYSTEM
             4 -> EFilteringParameterForLands.LAND_NUMBER
             else -> EFilteringParameterForLands.PLAYER
+        }
+    }
+
+    override fun selectFilteringParameterForAlliancesFromInput(): EFilteringParameterForAlliances {
+        print(
+            """
+                Dostupne filtrujici parametry:
+                    (1) aliance
+                    (2) predseda
+                    (3) clenu
+                
+                Vyber filtrujici parametr (defaultne 1): 
+            """.trimIndent()
+        )
+        val input = readLine()
+        return extractFilteringParameterForAlliancesFromInput(input)
+    }
+
+    private fun extractFilteringParameterForAlliancesFromInput(input: String?): EFilteringParameterForAlliances {
+        return when (input?.toIntOrNull()) {
+            1 -> EFilteringParameterForAlliances.TAG
+            2 -> EFilteringParameterForAlliances.CHAIRMAN
+            3 -> EFilteringParameterForAlliances.MEMBERS_COUNT
+            else -> EFilteringParameterForAlliances.TAG
         }
     }
 
@@ -341,5 +394,19 @@ class SimpleInputReader : InputReader {
 
     private fun extractFilterLandNumberQueryFromInput(input: String?): String {
         return input?.toIntOrNull()?.toString() ?: "1"
+    }
+
+    override fun selectFilterMembersCountQueryFromInput(): String {
+        print(
+            """
+                Zadej velikost aliance (defaultne 10): 
+            """.trimIndent()
+        )
+        val input = readLine()
+        return extractFilterMembersCountrQueryFromInput(input)
+    }
+
+    private fun extractFilterMembersCountrQueryFromInput(input: String?): String {
+        return input?.toIntOrNull()?.toString() ?: "10"
     }
 }
