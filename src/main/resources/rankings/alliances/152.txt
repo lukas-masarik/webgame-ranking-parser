@@ -1,0 +1,42 @@
+152. VĚK
+#	Aliance	Členů	Rozloha	Prestiž	Předseda
+1.	[(V)oo(V)] The Crabs	10	162735km2	58772056	Krabistán(#74) - blasticek
+2.	[K0MUN1ST] Rozvědka a rakety	10	108201km2	56576934	Raketový inženýr(#400) - masterWG
+3.	[**CQR**] Conquerors	10	172653km2	53138816	Dark Conqueror(#97) - vanna
+4.	[AC/DC] Back in Black	10	136741km2	53075285	Il tempo se ne va(#88) - podwratak
+5.	[UNIQUE] Is To L337	10	151628km2	52735020	uniQue man von Triss(#666) - trisíííček
+6.	[D1KTATOR] D1KTATOR Resurrection	10	150401km2	47610903	Všechna špína světa(#99) - podwratak
+7.	[VN] Vostrý náboje	10	132964km2	46324661	Nohy v teple(#243) - Nicole Kidmann
+8.	[-=DH=-] Dark Hunters	10	136932km2	43704555	Amy Pond(#1001) - Ersango
+9.	[BREZ] Březolupy	10	136893km2	43424885	Slovácko(#131) - hanass
+10.	[Kevlar] Fight for nights	10	162998km2	43313323	Naučím tě klikat(#649) - Kaery
+11.	[MÁMA] Tvoje druhá máma	10	135139km2	38633297	Emise tvojí mámy(#9973) - gugoslav
+12.	[=L.O.T=] Lord Of Tactic	10	118568km2	37958033	Bude lepšie(#42) - tvojasmrt
+13.	[MENSA] ...prostě (j)elita :)	10	157623km2	36356675	NESERA NAVALTO(#247) - Sir Extrem
+14.	[CE] ouuCEEEEEEEEEEEEEEEEEEEEEEEEEE	10	148828km2	36124467	Farmenie skodi zdraviu(#5555) - ftacik
+15.	[CaC] Command and Conquer	10	107732km2	31974561	Co Kdyby(#743) - daxicek
+16.	[VÍCADMIN] Víceadministrátoři Webgame	10	165186km2	31237318	Heroyam slava(#215) - Athara
+17.	[Ganja] ganja	10	133930km2	30020800	Tragedis(#794) - Joker16.
+18.	[.::R::.] Rytíři	8	121292km2	29837602	B*E*S*A*R*A*B*I*A(#305) - Abdul
+19.	[.:W4R:.] War For Revolution	10	158163km2	29666883	Viking`s land(#753) - sir Flat
+20.	[AFC] Arteta in	10	122220km2	29475025	Dřepy na okurkovém poli(#1181) - RegiFcb
+21.	[CHARITA] NEJSME	10	98362km2	28759776	Josefa Šílená(#53) - Comanndos
+22.	[S] SUN	10	116143km2	28543379	Jeskyňka(#299) - Atlantik
+23.	[DEJAVU] THE UNTOUCHABLE	10	122343km2	28539238	Jason Bourne(#43) - Comanndos
+24.	[AitD] Alone in the Dark	10	125359km2	28537620	LOS made in Sweden(#3003) - Ersango
+25.	[HODOR] Hold the Door	10	125194km2	28100201	Fotostroj času(#887) - Yes
+26.	[DP] Davová Psychóza	10	117634km2	27848295	svet žaluje(#1327) - esya
+27.	[Imp] Impérium milovníků hříbků	10	101869km2	27728731	Edna se zlobí..(#1255) - Sedmika
+28.	[-=LH=-] Lonely Hearts	10	120731km2	27341031	U-=LH=-ÁNÝ PŘEDSEDA(#585) - Walker
+29.	[MK] immortal knigts	10	109461km2	27247801	kliksemkliktam(#1207) - uzid
+30.	[**SNK**] SmeNaKašu	10	114331km2	25700386	Liška Bystrouška na Kašu(#411) - Jitus21
+31.	[Skritkov] Skritkov	10	128065km2	24769829	mor ti prave svadi zenu(#626) - stejski IX.
+32.	[N.n.n-2] No nic no 2	10	115029km2	24748993	Messiah(#851) - Carcas
+33.	[TheKeep] Alkoholici v podzemí	10	120726km2	24617322	Fjara(#607) - Dimmu.Borgir
+34.	[SRAN] Tvoje máma	10	131465km2	24519326	Pucuju sasanku tvojí mámy(#1515) - Vládce Kabraxis
+35.	[Anarchy] Farmíme pro horší budoucnost	10	106541km2	24224374	Srdce mi pofoukáš...(#241) - thordevil
+36.	[MZA] Miloš - Zahořklý Aparát	10	111712km2	23034603	The Big Zero(#127) - Michellion
+37.	[VIR] VIR	9	119876km2	22910993	Easy target,feelin this?(#718) - Mrkvička777
+38.	[=FF=] Frigid Friends	4	58888km2	22809455	mám rád věnečky(#1374) - Josefko
+39.	[.:MoD:.] Miluji Orální Diskuze	10	129122km2	22468001	Smrt všem bezvěrcům(#997) - Smrtihlav2
+40.	[NBD] No Big Deal	10	106893km2	21231805	NoDeal-NoMercy(#309) - skvost

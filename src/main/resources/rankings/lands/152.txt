@@ -1,0 +1,42 @@
+152. VĚK
+#	Země	Rozloha	Prestiž	Aliance	Vláda	Kol
+1.	Josefa Šílená(#53) - Comanndos	20111km2	14038826	CHARITA	Kom	3745
+2.	Dog house megaways(#6488) - 641988	22222km2	12090002	=L.O.T=	Anar	3744
+3.	Spadlo ti to, asi vítr(#107) - zedna	17856km2	11262268	(V)oo(V)	Tech	3689
+4.	Pacific Crest Trail(#223) - Seksymania	19281km2	10508239	3`C	Tech	3458
+5.	Pec nám spadla(#87878) - ttrtt	19999km2	10372123	=FF=	Rep	3978
+6.	hanasland(#130) - hanass	20903km2	9922531	MK	Utop	3840
+7.	Já nejsem zlej :)(#344) - LukO cZ	15235km2	9621310	VN	Utop	3974
+8.	Neutíkej zemřeš unavanej(#22222) - siroko	17006km2	9571592	Junkyard	Utop	3592
+9.	Whisky(#192) - Dr.hurka	11957km2	9516085	UNIQUE	Kom	3850
+10.	Láka ma mláka(#1444) - .Grim.	11572km2	9374890	K0MUN1ST	Kom	3967
+11.	Jason Bourne(#43) - Comanndos	17792km2	9091565	DEJAVU	Utop	3968
+12.	Posterr lamka1(#444) - .HARKOMEN.	13333km2	8956949	HRNCE	Tech	3688
+13.	Cake And Sodomy(#682) - BigY	24592km2	8942293	Kevlar	Utop	3978
+14.	Dotuji, tedy jsem(#609) - Dimmu.Borgir	17777km2	8798138	TheKeep	Utop	3976
+15.	Walden tajně miluje Dogecoin(#1561) - mulako	15282km2	8532783	.:oMg:.	Tech	3747
+16.	Buď agilný, buď IN(#55555) - ftacik	29473km2	8325210	UNIQUE	Robo	3968
+17.	Antropofóbia(#235) - naivefighter	15055km2	7697904	DP	Utop	3979
+18.	Comeback(#519) - PinkPanther	24000km2	7648951	Ganja	Feud	3936
+19.	Zlatý oči tvojí mámy(#874) - lugh	15498km2	7644296	MÁMA	Utop	3657
+20.	uniQue man von Triss(#666) - trisíííček	21189km2	7475782	UNIQUE	Robo	3964
+21.	***B***lbec Dzuli.(#1068) - Zlatá udice	20161km2	7342264	(V)oo(V)	Robo	3967
+22.	Nohy v teple(#243) - Nicole Kidmann	18587km2	7334625	VN	Demo	3984
+23.	Very UniQue player(#20201) - Sph1nx	15159km2	7320202	UNIQUE	Utop	3938
+24.	Všechna špína světa(#99) - podwratak	15471km2	7258477	D1KTATOR	Demo	3950
+25.	0N_brain(#9900) - hráčsjménem	17336km2	7198142	ARCH	Utop	3974
+26.	Raketový gurman(#333) - G.R.E.E.K	9999km2	7150699	K0MUN1ST	Kom	3953
+27.	Krabistán(#74) - blasticek	17332km2	7136785	(V)oo(V)	Demo	3978
+28.	Shadow(#71) - kaamilko	23999km2	7080671	1	Feud	3974
+29.	Země nebyla poražena(#200) - masterWG	12755km2	6989649	D1KTATOR	Kom	3951
+30.	kdo to čte je nula...(#1601) - Prařeřichořezbář	9385km2	6963044	BE	Utop	3621
+31.	Sergio Marquina(#203) - Mr. Sedlinno	20000km2	6958343	DEJAVU	Utop	3979
+32.	Paľko poď na scénu(#1404) - Chute	20119km2	6863721	ARCH	Utop	3941
+33.	Ty si hroznej šmloula,že?(#719) - Mrkvička777	15648km2	6827270	S	Utop	3977
+34.	vesele_vanoce(#595) - WiLL111	15171km2	6820163	D1KTATOR	Utop	3977
+35.	Brebta brebtá třetí věk(#328) - Iskalon	17726km2	6746786	G.U.M.I.	Tech	3938
+36.	Namezdni lovec Grogu(#657) - Diák	18060km2	6738273	ALIVE	Demo	3815
+37.	Il tempo se ne va(#88) - podwratak	13707km2	6717416	AC/DC	Tech	3977
+38.	Sabot raz dva tri(#50005) - G.R.E.E.K	26197km2	6714068	W	Robo	3690
+39.	Nesnáším latinský názvy(#178) - Raciolky	15207km2	6675510	AC/DC	Utop	3950
+40.	Ahoj(#1084) - Radius	16051km2	6589238	AC/DC	Utop	3974
