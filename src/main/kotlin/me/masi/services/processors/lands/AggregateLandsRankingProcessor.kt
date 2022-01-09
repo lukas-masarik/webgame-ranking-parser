@@ -1,12 +1,11 @@
-package me.masi.services.processors
+package me.masi.services.processors.lands
 
-import me.masi.dto.LandsRankingRow
-import me.masi.dto.LandsRanking
+import me.masi.dto.lands.LandsRanking
+import me.masi.dto.lands.LandsRankingRow
 import me.masi.enums.EAggregatingParameter
-import me.masi.enums.EGroupingParameter
 import me.masi.enums.ESortDirection
+import me.masi.enums.lands.EGroupingParameterForLands
 import me.masi.services.inputreaders.api.InputReader
-import me.masi.services.parsers.LandsRankingParser
 import me.masi.services.parsers.api.RankingParser
 
 /**
@@ -23,12 +22,12 @@ import me.masi.services.parsers.api.RankingParser
  *  - specify rank end
  */
 class AggregateLandsRankingProcessor(
-    inputReader: InputReader,
-    private val parser: RankingParser<LandsRanking> = LandsRankingParser(),
-) : AbstractRankedLandProcessor(inputReader) {
+    private val inputReader: InputReader,
+    private val parser: RankingParser<LandsRanking>,
+) : AbstractLandsRankingProcessor() {
 
     override fun process() {
-        val groupingParameter = inputReader.selectGroupingParameterFromInput()
+        val groupingParameter = inputReader.selectGroupingParameterForLandsFromInput()
         val aggregatingParameter = inputReader.selectAggregatingParameterFromInput()
         val sortDirection = inputReader.selectSortDirectionFromInput()
         val landsCount = inputReader.selectReturnCountFromInput()
@@ -44,10 +43,10 @@ class AggregateLandsRankingProcessor(
         val resultMap = filteredRanks.flatMap { it.landsRankingRows }
             .let {
                 when (groupingParameter) {
-                    EGroupingParameter.PLAYER -> it.groupBy { it.playerName }
-                    EGroupingParameter.ALLIANCE -> it.groupBy { it.alliance }
-                    EGroupingParameter.STATE_SYSTEM -> it.groupBy { it.stateSystem }
-                    EGroupingParameter.LAND_NUMBER -> it.groupBy { it.landNumber.toString() }
+                    EGroupingParameterForLands.PLAYER -> it.groupBy { it.playerName }
+                    EGroupingParameterForLands.ALLIANCE -> it.groupBy { it.alliance?.lowercase() }
+                    EGroupingParameterForLands.STATE_SYSTEM -> it.groupBy { it.stateSystem }
+                    EGroupingParameterForLands.LAND_NUMBER -> it.groupBy { it.landNumber.toString() }
                 }
             }
             .let {
@@ -91,7 +90,7 @@ class AggregateLandsRankingProcessor(
         processOutput(resultMap, groupingParameter)
     }
 
-    private fun processOutput(resultMap: Map<String?, List<LandsRankingRow>>, groupingParameter: EGroupingParameter) {
+    private fun processOutput(resultMap: Map<String?, List<LandsRankingRow>>, groupingParameter: EGroupingParameterForLands) {
         if (resultMap.isEmpty()) {
             println("Zadne vysledky.")
             return

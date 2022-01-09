@@ -1,38 +1,102 @@
 package me.masi.services.inputreaders
 
 import me.masi.enums.*
+import me.masi.enums.alliances.EFilteringParameterForAlliances
+import me.masi.enums.alliances.EGroupingParameterForAlliances
+import me.masi.enums.lands.EFilteringParameterForLands
+import me.masi.enums.lands.EGroupingParameterForLands
 import me.masi.services.inputreaders.api.InputReader
-import me.masi.services.processors.AggregateLandsRankingProcessor
-import me.masi.services.processors.FilterLandsRankingProcessor
-import me.masi.services.processors.ListLandsRankingProcessor
+import me.masi.services.parsers.AlliancesRankingParser
+import me.masi.services.parsers.LandsRankingParser
+import me.masi.services.processors.alliances.AggregateAlliancesRankingProcessor
+import me.masi.services.processors.alliances.FilterAlliancesRankingProcessor
+import me.masi.services.processors.alliances.ListAlliancesRankingProcessor
 import me.masi.services.processors.api.Processor
-import kotlin.system.exitProcess
+import me.masi.services.processors.lands.AggregateLandsRankingProcessor
+import me.masi.services.processors.lands.FilterLandsRankingProcessor
+import me.masi.services.processors.lands.ListLandsRankingProcessor
 
-class SimpleInputReader : InputReader {
+class SimpleInputReader(
+    private val appTrigger: EAppTrigger,
+) : InputReader {
 
     override fun selectProcessorFromInput(): Processor {
+        return when (selectRankingType()) {
+            ERankingType.LANDS -> selectLandsRankingsProcessor()
+            ERankingType.ALLIANCES -> selectAlliancesRankingsProcessor()
+        }
+    }
+
+    private fun selectRankingType(): ERankingType {
+        print(
+            """
+                Dostupne zebricky:
+                    (1) Zebricek zemi
+                    (2) Zebricek alianci
+                
+                Vyber zebricek (defaultne 1): 
+            """.trimIndent()
+        )
+        val input = readLine()
+        return extractRankingTypeFromInput(input)
+    }
+
+    private fun extractRankingTypeFromInput(input: String?): ERankingType {
+        return when (input?.toIntOrNull()) {
+            2 -> ERankingType.ALLIANCES
+            else -> ERankingType.LANDS
+        }
+    }
+
+    private fun selectLandsRankingsProcessor(): Processor {
         print(
             """
                 Dostupne programy:
                     (1) Prochazet zebricek zemi
                     (2) Filtrovat zebricek zemi (podle hrace, aliance, vlady, ...)
                     (3) Seskupovat zebricek zemi (podle hracu, alianci, vlad, ...)
-                    (0) Ukoncit program
                 
                 Vyber program (defaultne 1): 
             """.trimIndent()
         )
         val input = readLine()
-        return extractProcessorFromInput(input)
+        return extractLandsRankingsProcessorFromInput(input)
     }
 
-    private fun extractProcessorFromInput(input: String?): Processor {
+    private fun extractLandsRankingsProcessorFromInput(input: String?): Processor {
+        val rankingParser = LandsRankingParser(appTrigger)
+
         return when (input?.toIntOrNull()) {
-            0 -> exitProcess(1)
-            1 -> ListLandsRankingProcessor(this)
-            2 -> FilterLandsRankingProcessor(this)
-            3 -> AggregateLandsRankingProcessor(this)
-            else -> ListLandsRankingProcessor(this)
+            1 -> ListLandsRankingProcessor(this, rankingParser)
+            2 -> FilterLandsRankingProcessor(this, rankingParser)
+            3 -> AggregateLandsRankingProcessor(this, rankingParser)
+            else -> ListLandsRankingProcessor(this, rankingParser)
+        }
+    }
+
+    private fun selectAlliancesRankingsProcessor(): Processor {
+        print(
+            """
+                Dostupne programy:
+                    (1) Prochazet zebricek alianci
+                    (2) Filtrovat zebricek alianci (podle aliance, clenu, predsedy)
+                    (3) Seskupovat zebricek alianci (podle aliance, clenu, predsedy)
+                
+                Vyber program (defaultne 1): 
+            """.trimIndent()
+        )
+        val input = readLine()
+        return extractAlliancesRankingsProcessorFromInput(input)
+    }
+
+    private fun extractAlliancesRankingsProcessorFromInput(input: String?): Processor {
+        val rankingParser = AlliancesRankingParser(appTrigger)
+
+        return when (input?.toIntOrNull()) {
+            1 -> ListAlliancesRankingProcessor(this, rankingParser)
+            2 -> FilterAlliancesRankingProcessor(this, rankingParser)
+            3 -> AggregateAlliancesRankingProcessor(this, rankingParser)
+            else -> ListAlliancesRankingProcessor(this, rankingParser)
         }
     }
 
@@ -128,7 +192,7 @@ class SimpleInputReader : InputReader {
     override fun selectStartRankFromInput(): Int? {
         print(
             """
-                Vyber pocatecni poradi zemi (nech prazdne pro nezadani limitu): 
+                Vyber pocatecni poradi (nech prazdne pro nezadani limitu): 
             """.trimIndent()
         )
         val input = readLine()
@@ -138,7 +202,7 @@ class SimpleInputReader : InputReader {
     override fun selectEndRankFromInput(): Int? {
         print(
             """
-                Vyber konecne poradi zemi (nech prazdne pro nezadani limitu): 
+                Vyber konecne poradi (nech prazdne pro nezadani limitu): 
             """.trimIndent()
         )
         val input = readLine()
@@ -173,7 +237,7 @@ class SimpleInputReader : InputReader {
         }
     }
 
-    override fun selectGroupingParameterFromInput(): EGroupingParameter {
+    override fun selectGroupingParameterForLandsFromInput(): EGroupingParameterForLands {
         print(
             """
                 Dostupne seskupujici parametry:
@@ -186,23 +250,47 @@ class SimpleInputReader : InputReader {
             """.trimIndent()
         )
         val input = readLine()
-        return extractGroupingParameterFromInput(input)
+        return extractGroupingParameterForLandsFromInput(input)
     }
 
-    private fun extractGroupingParameterFromInput(input: String?): EGroupingParameter {
+    private fun extractGroupingParameterForLandsFromInput(input: String?): EGroupingParameterForLands {
         return when (input?.toIntOrNull()) {
-            1 -> EGroupingParameter.PLAYER
-            2 -> EGroupingParameter.ALLIANCE
-            3 -> EGroupingParameter.STATE_SYSTEM
-            4 -> EGroupingParameter.LAND_NUMBER
-            else -> EGroupingParameter.PLAYER
+            1 -> EGroupingParameterForLands.PLAYER
+            2 -> EGroupingParameterForLands.ALLIANCE
+            3 -> EGroupingParameterForLands.STATE_SYSTEM
+            4 -> EGroupingParameterForLands.LAND_NUMBER
+            else -> EGroupingParameterForLands.PLAYER
         }
     }
 
-    override fun selectFilteringParameterFromInput(): EFilteringParameter {
+    override fun selectGroupingParameterForAlliancesFromInput(): EGroupingParameterForAlliances {
         print(
             """
-                Dostpune filtrujici parametry:
+                Dostupne seskupujici parametry:
+                    (1) aliance
+                    (2) predseda
+                    (3) clenu
+                
+                Vyber seskupujici parametr (defaultne 1): 
+            """.trimIndent()
+        )
+        val input = readLine()
+        return extractGroupingParameterForAlliancesFromInput(input)
+    }
+
+    private fun extractGroupingParameterForAlliancesFromInput(input: String?): EGroupingParameterForAlliances {
+        return when (input?.toIntOrNull()) {
+            1 -> EGroupingParameterForAlliances.TAG
+            2 -> EGroupingParameterForAlliances.CHAIRMAN
+            3 -> EGroupingParameterForAlliances.MEMBERS_COUNT
+            else -> EGroupingParameterForAlliances.TAG
+        }
+    }
+
+    override fun selectFilteringParameterForLandsFromInput(): EFilteringParameterForLands {
+        print(
+            """
+                Dostupne filtrujici parametry:
                     (1) hrac
                     (2) aliance
                     (3) vlada
@@ -212,16 +300,40 @@ class SimpleInputReader : InputReader {
             """.trimIndent()
         )
         val input = readLine()
-        return extractFilteringParameterFromInput(input)
+        return extractFilteringParameterForLandsFromInput(input)
     }
 
-    private fun extractFilteringParameterFromInput(input: String?): EFilteringParameter {
+    private fun extractFilteringParameterForLandsFromInput(input: String?): EFilteringParameterForLands {
         return when (input?.toIntOrNull()) {
-            1 -> EFilteringParameter.PLAYER
-            2 -> EFilteringParameter.ALLIANCE
-            3 -> EFilteringParameter.STATE_SYSTEM
-            4 -> EFilteringParameter.LAND_NUMBER
-            else -> EFilteringParameter.PLAYER
+            1 -> EFilteringParameterForLands.PLAYER
+            2 -> EFilteringParameterForLands.ALLIANCE
+            3 -> EFilteringParameterForLands.STATE_SYSTEM
+            4 -> EFilteringParameterForLands.LAND_NUMBER
+            else -> EFilteringParameterForLands.PLAYER
+        }
+    }
+
+    override fun selectFilteringParameterForAlliancesFromInput(): EFilteringParameterForAlliances {
+        print(
+            """
+                Dostupne filtrujici parametry:
+                    (1) aliance
+                    (2) predseda
+                    (3) clenu
+                
+                Vyber filtrujici parametr (defaultne 1): 
+            """.trimIndent()
+        )
+        val input = readLine()
+        return extractFilteringParameterForAlliancesFromInput(input)
+    }
+
+    private fun extractFilteringParameterForAlliancesFromInput(input: String?): EFilteringParameterForAlliances {
+        return when (input?.toIntOrNull()) {
+            1 -> EFilteringParameterForAlliances.TAG
+            2 -> EFilteringParameterForAlliances.CHAIRMAN
+            3 -> EFilteringParameterForAlliances.MEMBERS_COUNT
+            else -> EFilteringParameterForAlliances.TAG
         }
     }
 
@@ -287,5 +399,19 @@ class SimpleInputReader : InputReader {
 
     private fun extractFilterLandNumberQueryFromInput(input: String?): String {
         return input?.toIntOrNull()?.toString() ?: "1"
+    }
+
+    override fun selectFilterMembersCountQueryFromInput(): String {
+        print(
+            """
+                Zadej velikost aliance (defaultne 10): 
+            """.trimIndent()
+        )
+        val input = readLine()
+        return extractFilterMembersCountrQueryFromInput(input)
+    }
+
+    private fun extractFilterMembersCountrQueryFromInput(input: String?): String {
+        return input?.toIntOrNull()?.toString() ?: "10"
     }
 }

@@ -1,12 +1,9 @@
-package me.masi.services.processors
+package me.masi.services.processors.lands
 
-import me.masi.dto.LandsRanking
-import me.masi.services.inputreaders.api.InputReader
+import me.masi.dto.lands.LandsRanking
 import me.masi.services.processors.api.Processor
 
-abstract class AbstractRankedLandProcessor(
-    protected val inputReader: InputReader,
-) : Processor {
+abstract class AbstractLandsRankingProcessor : Processor {
 
     fun filterEpochs(landsRankings: List<LandsRanking>, firstEpoch: Int? = null, lastEpoch: Int? = null): List<LandsRanking> {
         val epochsWithoutFirstN = if (firstEpoch != null) landsRankings.filter { it.epochNumber >= firstEpoch } else landsRankings
@@ -15,10 +12,10 @@ abstract class AbstractRankedLandProcessor(
 
     fun filterRankings(landsRankings: List<LandsRanking>, firstRanking: Int? = null, lastRanking: Int? = null): List<LandsRanking> {
         val landsRankingsWithFirstRankingsFiltered = if (firstRanking != null) {
-            landsRankings.map { rankedLandsEpoch ->
+            landsRankings.map { landsRanking ->
                 LandsRanking(
-                    epochNumber = rankedLandsEpoch.epochNumber,
-                    landsRankingRows = rankedLandsEpoch.landsRankingRows.filter { it.ranking >= firstRanking }
+                    epochNumber = landsRanking.epochNumber,
+                    landsRankingRows = landsRanking.landsRankingRows.filter { it.ranking >= firstRanking }
                 )
             }
         } else {
@@ -26,10 +23,10 @@ abstract class AbstractRankedLandProcessor(
         }
 
         val landsRankingsWithLastRankingsFiltered = if (lastRanking != null) {
-            landsRankingsWithFirstRankingsFiltered.map { rankedLandsEpoch ->
+            landsRankingsWithFirstRankingsFiltered.map { landsRanking ->
                 LandsRanking(
-                    epochNumber = rankedLandsEpoch.epochNumber,
-                    landsRankingRows = rankedLandsEpoch.landsRankingRows.filter { it.ranking <= lastRanking }
+                    epochNumber = landsRanking.epochNumber,
+                    landsRankingRows = landsRanking.landsRankingRows.filter { it.ranking <= lastRanking }
                 )
             }
         } else {
