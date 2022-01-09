@@ -6,7 +6,6 @@ import me.masi.enums.ESortAttribute
 import me.masi.enums.ESortDirection
 import me.masi.enums.lands.EFilteringParameterForLands
 import me.masi.services.inputreaders.api.InputReader
-import me.masi.services.parsers.LandsRankingParser
 import me.masi.services.parsers.api.RankingParser
 
 /**
@@ -25,7 +24,7 @@ import me.masi.services.parsers.api.RankingParser
  */
 class FilterLandsRankingProcessor(
     private val inputReader: InputReader,
-    private val parser: RankingParser<LandsRanking> = LandsRankingParser(),
+    private val parser: RankingParser<LandsRanking>,
 ) : AbstractLandsRankingProcessor() {
 
     override fun process() {

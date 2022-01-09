@@ -2,16 +2,14 @@ package me.masi.services.processors.alliances
 
 import me.masi.dto.alliances.AlliancesRanking
 import me.masi.dto.alliances.AlliancesRankingRow
-import me.masi.dto.lands.LandsRankingRow
 import me.masi.enums.ESortAttribute
 import me.masi.enums.ESortDirection
 import me.masi.services.inputreaders.api.InputReader
-import me.masi.services.parsers.AlliancesRankingParser
 import me.masi.services.parsers.api.RankingParser
 
 class ListAlliancesRankingProcessor(
     private val inputReader: InputReader,
-    private val parser: RankingParser<AlliancesRanking> = AlliancesRankingParser()
+    private val parser: RankingParser<AlliancesRanking>,
 ) : AbstractAlliancesRankingProcessor() {
 
     override fun process() {

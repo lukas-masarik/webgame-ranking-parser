@@ -1,14 +1,13 @@
 package me.masi.services.inputreaders
 
-import me.masi.enums.EAggregatingParameter
-import me.masi.enums.ERankingType
-import me.masi.enums.ESortAttribute
-import me.masi.enums.ESortDirection
+import me.masi.enums.*
 import me.masi.enums.alliances.EFilteringParameterForAlliances
 import me.masi.enums.alliances.EGroupingParameterForAlliances
 import me.masi.enums.lands.EFilteringParameterForLands
 import me.masi.enums.lands.EGroupingParameterForLands
 import me.masi.services.inputreaders.api.InputReader
+import me.masi.services.parsers.AlliancesRankingParser
+import me.masi.services.parsers.LandsRankingParser
 import me.masi.services.processors.alliances.AggregateAlliancesRankingProcessor
 import me.masi.services.processors.alliances.FilterAlliancesRankingProcessor
 import me.masi.services.processors.alliances.ListAlliancesRankingProcessor
@@ -16,9 +15,10 @@ import me.masi.services.processors.api.Processor
 import me.masi.services.processors.lands.AggregateLandsRankingProcessor
 import me.masi.services.processors.lands.FilterLandsRankingProcessor
 import me.masi.services.processors.lands.ListLandsRankingProcessor
-import kotlin.system.exitProcess
 
-class SimpleInputReader : InputReader {
+class SimpleInputReader(
+    private val appTrigger: EAppTrigger,
+) : InputReader {
 
     override fun selectProcessorFromInput(): Processor {
         return when (selectRankingType()) {
@@ -55,7 +55,6 @@ class SimpleInputReader : InputReader {
                     (1) Prochazet zebricek zemi
                     (2) Filtrovat zebricek zemi (podle hrace, aliance, vlady, ...)
                     (3) Seskupovat zebricek zemi (podle hracu, alianci, vlad, ...)
-                    (0) Ukoncit program
                 
                 Vyber program (defaultne 1): 
             """.trimIndent()
@@ -65,12 +64,13 @@ class SimpleInputReader : InputReader {
     }
 
     private fun extractLandsRankingsProcessorFromInput(input: String?): Processor {
+        val rankingParser = LandsRankingParser(appTrigger)
+
         return when (input?.toIntOrNull()) {
-            0 -> exitProcess(1)
-            1 -> ListLandsRankingProcessor(this)
-            2 -> FilterLandsRankingProcessor(this)
-            3 -> AggregateLandsRankingProcessor(this)
-            else -> ListLandsRankingProcessor(this)
+            1 -> ListLandsRankingProcessor(this, rankingParser)
+            2 -> FilterLandsRankingProcessor(this, rankingParser)
+            3 -> AggregateLandsRankingProcessor(this, rankingParser)
+            else -> ListLandsRankingProcessor(this, rankingParser)
         }
     }
 
@@ -90,11 +90,13 @@ class SimpleInputReader : InputReader {
     }
 
     private fun extractAlliancesRankingsProcessorFromInput(input: String?): Processor {
+        val rankingParser = AlliancesRankingParser(appTrigger)
+
         return when (input?.toIntOrNull()) {
-            1 -> ListAlliancesRankingProcessor(this)
-            2 -> FilterAlliancesRankingProcessor(this)
-            3 -> AggregateAlliancesRankingProcessor(this)
-            else -> ListAlliancesRankingProcessor(this)
+            1 -> ListAlliancesRankingProcessor(this, rankingParser)
+            2 -> FilterAlliancesRankingProcessor(this, rankingParser)
+            3 -> AggregateAlliancesRankingProcessor(this, rankingParser)
+            else -> ListAlliancesRankingProcessor(this, rankingParser)
         }
     }
 

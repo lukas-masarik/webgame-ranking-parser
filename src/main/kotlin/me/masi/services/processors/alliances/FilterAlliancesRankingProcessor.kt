@@ -6,12 +6,11 @@ import me.masi.enums.ESortAttribute
 import me.masi.enums.ESortDirection
 import me.masi.enums.alliances.EFilteringParameterForAlliances
 import me.masi.services.inputreaders.api.InputReader
-import me.masi.services.parsers.AlliancesRankingParser
 import me.masi.services.parsers.api.RankingParser
 
 class FilterAlliancesRankingProcessor(
     private val inputReader: InputReader,
-    private val parser: RankingParser<AlliancesRanking> = AlliancesRankingParser()
+    private val parser: RankingParser<AlliancesRanking>,
 ) : AbstractAlliancesRankingProcessor() {
 
     override fun process() {
