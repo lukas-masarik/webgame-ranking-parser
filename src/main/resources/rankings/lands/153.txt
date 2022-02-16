@@ -1,0 +1,42 @@
+153. VĚK
+#	Země	Rozloha	Prestiž	Aliance	Vláda	Kol
+1.	Little conqueror(#10104) - Sph1nx	19947km2	13105969	**CQR**	Tech	3936
+2.	SINNERS(#275) - marv III	25513km2	11208218	Across	Demo	3960
+3.	Se-ri(#1717) - Defectorr	25287km2	10828745	K(:	Tech	3944
+4.	KOSMODROM(#1198) - GaGaRiN.cz	20645km2	10082035	=T=	Demo	3978
+5.	Askja(#354) - Dimmu.Borgir	19999km2	10004706	TheKeep	Utop	3747
+6.	My name is MACGRUBERRR...(#1298) - B13B3R.F3V3R	14999km2	9774357	DS	Tech	3264
+7.	Ruhmreichen Sieg(#82) - Dr.Memphisto	20869km2	9278181	.:?:.	Demo	3976
+8.	Lasciate Ogni Speranza(#839) - DieWalker	12828km2	9135418	AC/DC	Tech	3895
+9.	Budulínkův dvojník :D(#1217) - ..Hanz..	23991km2	9099704	VN	Robo	3980
+10.	CAECA INDIVIDA EST(#210) - JohnnyLamka	28582km2	8852099	MENSA	Feud	4034
+11.	EXIT Crew(#287) - král urucskýý	16380km2	8825749	tNO	Utop	3916
+12.	saddasdsad(#1389) - Jankodigital	21333km2	8782060	dasdasd	Demo	3907
+13.	the GOODFATHER(#350) - Sir Extrem	28600km2	8610313	FATHERS	Fund	3980
+14.	Pockejkamo(#1574) - N4tive	14444km2	8205735	PAKO	Utop	3770
+15.	StayPositive(#231) - .Aragornikk.	15355km2	8148724	VÍCADMIN	Utop	3895
+16.	SiL ikONy 4EveR(#460) - klankosti	21531km2	8076562	SIL	Kom	3959
+17.	JEMITO ŠUMAFUK(#81) - Sir Extrem	23947km2	7757672	MENSA	Kom	3957
+18.	Oink(#769) - reklamaop	23448km2	7659647	CE	Feud	3960
+19.	Ču-ri(#595) - Defectorr	24837km2	7647514	K:)	Robo	3978
+20.	Suicide guy(#843) - skvost	23999km2	7289742	-=KA=-	Utop	3971
+21.	Conqueror Kryštůfek(#1038) - .Hellboy.	14999km2	7183700	**CQR**	Rep	3978
+22.	NAD1KTUJ MI PIN(#719) - Walker	22162km2	7173550	D1KTATOR	Feud	3962
+23.	Everybody be cool(#42000) - Petan IV	24303km2	7105100	Ui-UAA	Robo	3952
+24.	kakanie na Godota(#442) - esya	16736km2	6948911	CE	Utop	3946
+25.	Já nejsem zlej :)(#1120) - LukO cZ	14142km2	6818482	VN	Utop	3950
+26.	Jim Lahey(#712) - Chabi	15162km2	6705180	.::R::.	Tech	3947
+27.	Mám Ca Zabit ?(#198) - Brčo	19459km2	6680174	UNIQUE	Tech	3962
+28.	Stink^(#1036) - budhahahahaha	15918km2	6666666	FR	Utop	3966
+29.	JOHN FORBES NASH(#147) - Reich Graf	22000km2	6660595	FATHERS	Demo	3976
+30.	Ronnie O`Sullivan(#259) - Comanndos	16222km2	6636515	GOAT	Kom	3920
+31.	So hot(#524) - 2xcl.	18138km2	6549022	M	Feud	3899
+32.	awpland(#534) - DeathFilip	14999km2	6519246	JME	Utop	3979
+33.	mám rád věnečky(#267) - Josefko	10500km2	6445563	=FF=	Tech	3972
+34.	2+2=9(#1229) - skazinoska	22359km2	6442697	.:?:.	Robo	3978
+35.	JsemZlyABombimBezeSrandy(#430) - fmgamer	13499km2	6432106	DS	Utop	3972
+36.	Bude lepšie(#200) - tvojasmrt	16000km2	6414707	FH	Utop	3977
+37.	12345(#1283) - Caballero	17473km2	6411710	.:oMg:.	Robo	3957
+38.	Born To F4RM(#1584) - jasson	19400km2	6399313	*.:L:.*	Utop	3878
+39.	Revizor Kain(#750) - Valkia	18507km2	6381938	**SNK**	Utop	3936
+40.	Kajsmentke(#670) - .Aragornikk.	18999km2	6374074	D1KTATOR	Demo	3976
