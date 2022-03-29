@@ -1,0 +1,42 @@
+154. VĚK
+#	Země	Rozloha	Prestiž	Aliance	Vláda	Kol
+1.	Jim Lahey(#131) - Chabi	22999km2	11515437	.::R::.	Rep	3949
+2.	Měsíční mužíček(#480) - Eph3dr1ne	14999km2	11445157	M	Tech	3562
+3.	Dark energy(#1417) - Koryyy	25154km2	10284734	WiL	Tech	3577
+4.	Ještě jedno prosím(#1310) - FR3EZY	22109km2	10220091	FATHERS	Utop	3977
+5.	Daniel Mrtík(#987) - vhero	18611km2	10188938	PPB	Kom	3587
+6.	*****(#621) - PLASTIK	19927km2	10012836	Across	Tech	3924
+7.	Eddie Merckx(#50) - Comanndos	15752km2	9888888	R.O.BOTS	Utop	3882
+8.	Plane of Euthymia(#1101) - ySpirit	19156km2	9454679	FR	Utop	3937
+9.	Mňága(#1175) - Joker16.	21112km2	9385291	Ganja	Kom	3947
+10.	Chulimanga(#62) - FR3EZY	19657km2	9062909	=T=	Tech	3979
+11.	Mě nemůžeš dělat blázny(#137) - N4tive	17365km2	9034769	=T=	Demo	3968
+12.	Stavím(#322) - Lord Baal	15000km2	8962388	ALIVE	Utop	3974
+13.	Dobrá sváča tvojí mámy(#493) - lugh	13808km2	8643875	SRAN	Utop	3706
+14.	Daishiho (smá)zlá zemička(#9696) - .Sp3ct4t0R.	19598km2	8532517	DC	Robo	3979
+15.	Parek bez Parku(#81) - Arzach	15098km2	8423544	R.O.BOTS	Utop	3936
+16.	JOHN FORBES NASH(#205) - Reich Graf	24198km2	8351992	MENSA	Robo	3929
+17.	Cártel de Sinaloa(#922) - Shamil Bassajev2	15439km2	8281522	Europe	Utop	3977
+18.	Som tu pre vás(#958) - skazinoska	18540km2	8043998	VIBRACE	Utop	3688
+19.	Stink^(#849) - budhahahahaha	19628km2	8028555	FR	Demo	3978
+20.	N0_brain(#847) - hráčsjménem	14999km2	7948979	R.O.BOTS	Utop	3891
+21.	Jaromír Jágr 68(#185) - jasson	15900km2	7840000	GOAT	Utop	3956
+22.	SiL ikONy 4EveR(#732) - klankosti	24499km2	7796019	queens	Demo	3973
+23.	homogame(#1017) - Gornik	13337km2	7738132	.:V12R:.	Utop	3937
+24.	Muhammad Ali(#71) - Martin858	15555km2	7593174	GOAT	Utop	3913
+25.	Born To F4RM(#1319) - jasson	17450km2	7450000	PRC	Tech	3964
+26.	(-+)(#975) - trubkatrubkovic	17919km2	7088528	Ganja	Demo	3978
+27.	Wolverine(#1323) - jasson	16100km2	6989710	K	Utop	3959
+28.	Tragedis(#1174) - Joker16.	20835km2	6902144	Ganja	Feud	3961
+29.	NoDeal-No Mercy(#440) - skvost	14500km2	6896802	NBD	Tech	3962
+30.	Randy, I am the liquor(#76) - Martin858	14720km2	6859424	R.O.BOTS	Utop	3950
+31.	Démoni a andělé(#1150) - Yes	23446km2	6843211	Fuchal	Feud	3796
+32.	LOS made in Black(#1214) - BlackTears	15602km2	6759155	.L.O.S.	Utop	3819
+33.	Nebul(#202) - Yaser al Naser	23850km2	6688900	.::R::.	Feud	3978
+34.	šmankote babičko čaruj(#447) - DruhyPokus	20602km2	6666666	ToFak	Rep	3978
+35.	Ole Einar Björndalen(#866) - DieWalker	11425km2	6575385	GOAT	Tech	3920
+36.	-ALIVE-Míca(#394) - Valkia	14749km2	6556903	ALIVE	Utop	3936
+37.	Take on the World(#9669) - .Sp3ct4t0R.	16999km2	6455838	CB	Demo	3963
+38.	NoDeal-BornToWin(#386) - jerry360	14500km2	6444336	NBD	Utop	3938
+39.	.:cz-sk:. DEE-WHY(#525) - ray	15967km2	6382804	CZ-SK	Utop	3975
+40.	NoDeal-Lemon squeezy(#54) - Supra1Soul5Play	15720km2	6379281	NBD	Utop	3977
