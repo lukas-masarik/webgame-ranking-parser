@@ -1,0 +1,42 @@
+154. VĚK
+#	Aliance	Členů	Rozloha	Prestiž	Předseda
+1.	[R.O.BOTS] really obvious bots	10	138888km2	61226471	Bender Bending Rodríguez(#200) - blasticek
+2.	[NBD] No Big Deal	10	138286km2	55245249	NoDeal-No Mercy(#440) - skvost
+3.	[Ganja] GANJA	10	162412km2	52394037	Tragedis(#1174) - Joker16.
+4.	[GOAT] Greatest of All Time	10	126007km2	51629568	Ronnie O`Sullivan(#48) - Comanndos
+5.	[=T=] Trója	10	159715km2	44071664	Winter is coming..(#34) - FR3EZY
+6.	[.L.O.S.] Losove jedouci na chatu :*	10	129536km2	43070780	LOS made in Zhonguo(#1122) - Topisek
+7.	[Across] Idealistic Organization	10	162588km2	42550191	de_vertigo(#94) - marv III
+8.	[PíPíBí] Power Puff Boys	10	133743km2	40694400	Fuzzy Lumpkins(#1111) - Muffia
+9.	[.::R::.] Rytíři	10	165359km2	39625356	B*E*S*A*R*A*B*I*A(#133) - Abdul
+10.	[Anarchy] Farmíme pro lepší budoucnost	10	112355km2	38207663	Srdce mi pofoukáš...(#86) - thordevil
+11.	[VN] Vostrý náboje	10	131140km2	37765901	Nohy v teple(#99) - Nicole Kidmann
+12.	[YOZZEFY] Yozzefy = klídek	10	126988km2	36099671	Veterán - farmář(#118) - Allegro
+13.	[PRC] Pelikáni a Krocani	10	144681km2	35649413	Jen počkej zajíci :-)(#404) - Frodo G.
+14.	[-osn-] OsprostenaStaraNota	10	149991km2	35068332	-osn-ruzove v pive(#259) - D1N1AK
+15.	[MENSA] ...prostě (j)elita :)	10	145889km2	34442942	NESERA NAVALTO(#97) - Sir Extrem
+16.	[K0MUN1ST] Rozvědka a rakety :boom:	10	103433km2	34127312	Raketový inženýr(#2121) - masterWG
+17.	[FR] Flip Reset	8	107351km2	32564457	Raiden Shogun(#1100) - ySpirit
+18.	[Europe] Europe	10	131241km2	32520970	Arizona(#63) - Kojot prérijní
+19.	[ALIVE] ALiVE	10	122480km2	31860936	Stavím(#322) - Lord Baal
+20.	[M] MOON	10	140692km2	31531580	So hot(#285) - 2xcl.
+21.	[A.N.D.] Angels Never Die	10	110692km2	31436984	ARCHANGEL-Aquileje(#289) - Turdos
+22.	[.:V12R:.] Velká Revoluce	10	111111km2	31171152	Tetrahydrokanabivarin(#270) - Sancti.
+23.	[RUSTAN] Ruský Standard	10	85223km2	30696030	Antolij Dyatlov(#378) - cejo the king
+24.	[SRAN] Tvoje Máma	10	120243km2	30403522	Pucuju sasanku tvojí mámy(#1289) - Vládce Kabraxis
+25.	[VIBRACE] Dobyvak do odohry	10	117975km2	29214425	Titan(#545) - Luke the Great
+26.	[CZ-SK] Československo	8	105299km2	28326993	.:cz-sk:.dozor(#719) - Bl4H3s
+27.	[Evropa] Evropa	10	129034km2	26793699	Poušť(#65) - Kojot prérijní
+28.	[MÁMA] Tvoje druhá máma	10	137876km2	26792662	Tvoje máma tvojí mámy(#633) - gugoslav
+29.	[PPB] PíPíBí	10	127819km2	26377709	Amoeba Boys(#3333) - Muffia
+30.	[AveCesar] AveCesar a eco-friendly 2.	10	112669km2	26267868	.:AveCesar:. Julek(#789) - Ares65
+31.	[-=KA=-] Killa Army	10	154324km2	25684594	Neslušňák907(#319) - Athara
+32.	[FATHERS] ...Fotři na tahu	7	95569km2	25599868	the GODFATHER(#1353) - Sir Extrem
+33.	[GTI] Ghost Troopers Imperium	10	152501km2	24848780	Palime Hlinu - V stredu(#840) - mcweb
+34.	[FBI] Federal Bureau Investigation	10	64218km2	24615642	Agent Mark Felt(#517) - skvost
+35.	[BumBum] Pozor na rakety	10	90340km2	24528589	Koshun(#1299) - Apoc
+36.	[HP] Hanebný Pancharti	10	173190km2	23709533	Aldo Raine(#560) - skvost
+37.	[hunteRs.] ****	10	128386km2	23509990	.hunteRs.Bullfrog(#360) - K.a.S.i.o
+38.	[VIR] VIR	10	141731km2	21542629	Easy target,feelin this?(#1095) - Mrkvička777
+39.	[queens] QUEENS	10	139069km2	21000826	necum(#570) - gorem
+40.	[42]	10	88653km2	20038745	Less hurting more helping(#420) - mara8
