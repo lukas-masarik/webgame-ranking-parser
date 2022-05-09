@@ -21,7 +21,7 @@ class FilterAlliancesRankingProcessor(
             EFilteringParameterForAlliances.MEMBERS_COUNT -> inputReader.selectFilterMembersCountQueryFromInput()
         }
         val sortAttribute = inputReader.selectSortAttributeFromInput()
-        val SortDirection = inputReader.selectSortDirectionFromInput()
+        val sortDirection = inputReader.selectSortDirectionFromInput()
         val alliancesCount = inputReader.selectReturnCountFromInput()
         val epochStart = inputReader.selectStartEpochFromInput()
         val epochEnd = inputReader.selectEndEpochFromInput()
@@ -41,7 +41,7 @@ class FilterAlliancesRankingProcessor(
                 }
             }
             .let {
-                when (SortDirection) {
+                when (sortDirection) {
                     ESortDirection.ASCENDING -> {
                         when (sortAttribute) {
                             ESortAttribute.PRESTIGE -> it.sortedBy { it.prestige }

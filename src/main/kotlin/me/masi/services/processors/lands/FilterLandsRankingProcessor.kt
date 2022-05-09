@@ -36,7 +36,7 @@ class FilterLandsRankingProcessor(
             EFilteringParameterForLands.LAND_NUMBER -> inputReader.selectFilterLandNumberQueryFromInput()
         }
         val sortAttribute = inputReader.selectSortAttributeFromInput()
-        val SortDirection = inputReader.selectSortDirectionFromInput()
+        val sortDirection = inputReader.selectSortDirectionFromInput()
         val landsCount = inputReader.selectReturnCountFromInput()
         val epochStart = inputReader.selectStartEpochFromInput()
         val epochEnd = inputReader.selectEndEpochFromInput()
@@ -57,7 +57,7 @@ class FilterLandsRankingProcessor(
                 }
             }
             .let {
-                when (SortDirection) {
+                when (sortDirection) {
                     ESortDirection.ASCENDING -> {
                         when (sortAttribute) {
                             ESortAttribute.PRESTIGE -> it.sortedBy { it.prestige }
