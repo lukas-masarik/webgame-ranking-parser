@@ -1,0 +1,42 @@
+155. VĚK
+#	Země	Rozloha	Prestiž	Aliance	Vláda	Kol
+1.	LOS made in Ukrajina(#643) - Eph3dr1ne	25954km2	14953512	.L.O.S.	Rep	3854
+2.	LOS made in The Office(#183) - WEBIG	24095km2	14792173	L.O.S.	Tech	3937
+3.	Windbuilder(#96) - .G.R.U.M.Y.	24944km2	13723156	GTI	Tech	3936
+4.	****?CEN?SO?RED?****(#949) - rybka es atrás	23299km2	13307329	.:?:.	Utop	3658
+5.	adasdasdasasd(#550) - Jankodigital	24899km2	13034277	MK	Demo	3947
+6.	Bude lepšie(#99999) - tvojasmrt	30110km2	12546338	Titans	Robo	3976
+7.	Daniel Mrtík(#349) - vhero	22071km2	11962646	CHOS	Demo	3950
+8.	DalajLama(#11111) - PinkPanther	25701km2	11765929	queens	Feud	3893
+9.	mám rád věnečky(#262) - Josefko	20050km2	11480225	=FF=	Tech	3651
+10.	LOS made in semifinals(#182) - WEBIG	24555km2	11183558	.L.O.S.	Rep	3912
+11.	LOS made in Vojtíškov(#858) - Martin858	24555km2	10527845	.L.O.S.	Rep	3973
+12.	Walker je beďar na frndě(#204) - podwratak	18888km2	10394146	-=LH=-	Utop	3649
+13.	-ALIVE-John Coffey(#9872) - Degee	24300km2	10382218	ALIVE	Fund	3963
+14.	Conqueror Zloduch(#196) - Kacocentrum	21957km2	9835401	**CQR**	Robo	3979
+15.	****(#445) - PLASTIK	22222km2	9817531	Across	Utop	3840
+16.	Zlatý oči tvojí mámy(#1456) - lugh	15638km2	9795864	MÁMA	Utop	3609
+17.	Perníkový táta(#337) - Messerschmidt	19815km2	9539349	SERIES	Tech	3979
+18.	Amoeba Boys(#3003) - Muffia	20863km2	9418604	PPB	Demo	3975
+19.	auffíídrzen(#187) - bojovnik14	24975km2	9330835	CHOS	Robo	3940
+20.	Ayrton Senna(#138) - Comanndos	16333km2	9263991	GOAT	Utop	3821
+21.	Dobrá sváča tvojí mámy(#1216) - lugh	14920km2	9136655	SRAN	Utop	3609
+22.	Rosnička z pátýho kanálu(#93) - MAFline	26999km2	8947956	PSIRÉNY	Feud	3972
+23.	Bender Bending Rodriguez(#48) - blasticek	13057km2	8903847	R.O.BOTS	Utop	3841
+24.	S3R3V3T3V(#663) - PRD3L	21466km2	8866192	HAMAS	Utop	3978
+25.	a jeste jednou(#1298) - WiLL111	16312km2	8758208	NULL	Utop	3916
+26.	Urectum(#9090) - Tomaskom	19588km2	8665821	ARK	Utop	3876
+27.	Shocko(#20000) - mara8	24166km2	8559580	LBL	Rep	3699
+28.	Atlan(#700) - Atlantik	25911km2	8413607	Titans	Robo	3978
+29.	Shithawk(#42020) - Chabi	14573km2	8381428	R.O.BOTS	Utop	3785
+30.	Rozpravam vela ako Gorem(#94) - mcweb	17488km2	8341981	GTI	Demo	3976
+31.	Born_to_Win =)(#811) - jerry360	17824km2	8305480	*`=/-.,	Rep	3872
+32.	Pelizid je mé lepší já(#1112) - Diák	11688km2	7987695	Lotta	Tech	3940
+33.	Deusett(#1787) - Deus	12999km2	7983944		Tech	3414
+34.	Dragons breath(#112) - Supra1Soul5Play	15999km2	7981585	Chilli	Demo	3788
+35.	LOS made in Destroyer(#323) - BlackTears	16268km2	7907651	L.O.S.	Demo	3911
+36.	Měsíční Artemeček(#8866) - Eph3dr1ne	25824km2	7890484	Titans	Rep	3977
+37.	Rimmerland(#1408) - Lord Kamzo	23125km2	7863327	-osn-	Feud	3979
+38.	-osn- DonJuanMatus(#826) - KuXIV	17811km2	7857894	-osn-	Demo	3969
+39.	*+*+*+*(#491) - SpeRy	20111km2	7829818	SPRITE	Demo	3969
+40.	Plane of Euthymia(#970) - ySpirit	14435km2	7797526	FR	Utop	3979
