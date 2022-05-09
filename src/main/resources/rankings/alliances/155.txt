@@ -1,0 +1,42 @@
+155. VĚK
+#	Aliance	Členů	Rozloha	Prestiž	Předseda
+1.	[Titans] Mooni v prevleku	10	201642km2	66423297	So hot(#547) - 2xcl.
+2.	[R.O.BOTS] really obvious bots	10	140134km2	65769763	Bender Bending Rodriguez(#48) - blasticek
+3.	[Lotta] Lotta per la sopravvivenza	10	146115km2	62586274	Diak je můj hrdina(#152) - pelizid
+4.	[CHOS] Chaos of slayer	10	168771km2	60611666	CoolStoryBOB(#353) - vhero
+5.	[.L.O.S.] Losove co přežili chatu	10	199823km2	59728007	LOS made in Jacuzzi(#103) - Mr. Sedlinno
+6.	[GTI] Ghost Troopers Imperium	10	172729km2	58455409	Rozpravam vela ako Gorem(#94) - mcweb
+7.	[SERIES] Watch and Learn	10	177857km2	57531986	Billions(#101) - Mr. Sedlinno
+8.	[ND] No Deal	10	148567km2	56665426	NoDeal-No Mercy(#203) - skvost
+9.	[FR] Flip Reset	10	135033km2	56546419	Raiden Shogun(#969) - ySpirit
+10.	[Across] Idealistic Organization	10	175418km2	53136836	Dragostea Din Tei(#578) - marv III
+11.	[-osn-] OsprostenaStaraNota	10	162546km2	49348179	-osn-ruzove v pive(#686) - D1N1AK
+12.	[Europe] Europe	10	158892km2	47263148	Arizona(#56) - Kojot prérijní
+13.	[MENSA] ...prostě (j)elita :)	10	157719km2	47246411	NESERA NAVALTO(#721) - Sir Extrem
+14.	[L.O.S.] Losacka grilovacka se blíží	10	149219km2	45570167	LOS made in Zhongguo(#2233) - Topisek
+15.	[.:L30N:.] Lví smečka	10	141462km2	43721188	Irokamai(#681) - Apoc
+16.	[MK] Immortal knights	10	135543km2	43295630	kliksemkliktam(#714) - uzid
+17.	[(V)oo(V)] The Crabs	10	170110km2	43235341	Krabistán(#46) - blasticek
+18.	[MK2] Immortal knights 2	10	141233km2	42887399	Svačím a palím(#362) - hanass
+19.	[**CQR**] Conquerors	10	158966km2	41476915	Dark Conqueror(#285) - vanna
+20.	[YOZZEFY] Yozzefy = klídek = nedobývat	10	137785km2	40076243	Veterán - farmář(#409) - Allegro
+21.	[ALIVE] Jirka Statham	10	117625km2	38001552	-ALIVE-William Somerset(#62) - ppedrnikar
+22.	[SPRITE] Teď já budu Sprite a ty žízeň	10	148657km2	37505949	Pocemkamdeš(#599) - demonstrate.
+23.	[.:V12R:.] Velká Revoluce	10	166692km2	37345910	Tetrahydrokanabivarin(#433) - Sancti.
+24.	[.:?:.] CeNsoReD	10	130773km2	36385475	****?CEN?SO?RED?****(#949) - rybka es atrás
+25.	[DS] Diktatura spojuje	10	124648km2	35880078	Vlastenec level zero(#703) - Ranger2222
+26.	[NW] Nuclear Warriors	10	165061km2	35841919	20 let na Webgame(#320) - Yaser al Naser
+27.	[.:YD:.] .:Your Death:.	10	99435km2	35332660	.:YD:. Dohodneme se,(#438) - White Dead
+28.	[SK] Starý Kontinent	10	138771km2	35257418	Howler Land(#60) - Kojot prérijní
+29.	[AveCesar] AveCesar a nová výzva.	10	110556km2	35040995	.:AveCesar:. Romulus(#548) - Ares65
+30.	[NULL] NULL	10	137750km2	34788137	Dezolátoland(#1530) - R.A.E.K.
+31.	[Anarchy] Farmíme pro lepší minulost	10	119894km2	33591258	Světlo odvál stín...(#98) - thordevil
+32.	[.::R::.] Rytíři	10	117809km2	33542303	B*E*S*A*R*A*B*I*A(#63) - Abdul
+33.	[FBI] Federal Bureau Investigation	10	100061km2	32984495	Agent Mark Felt(#251) - skvost
+34.	[CBA] Cenzúra Bojazlivej Aničky	10	135674km2	32893544	Despre tine(#580) - marv III
+35.	[DDS] Diplomacie dává smysl	10	141369km2	31271014	Hurricane Factory(#90) - Fleship
+36.	[Tabáček] Tabáček	10	155396km2	31086704	NORDIC SPIRIT(#678) - snasa1
+37.	[MZ] Ministerstvo zemědělství	10	122870km2	30956645	Peaceful Mind(#399) - anduril
+38.	[N.n.n-2] No nic no-2	10	119618km2	30491715	Verdansk(#638) - liux
+39.	[**SNK**] SmeNaKašu	10	132237km2	30354787	Liška Bystrouška na Kašu(#168) - Jitus21
+40.	[SRAN] Tvoje Máma	10	142869km2	27177776	Kyperská sasanka tvý mámy(#1139) - Vládce Kabraxis
