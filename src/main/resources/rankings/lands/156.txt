@@ -1,0 +1,42 @@
+156. VĚK
+#	Země	Rozloha	Prestiž	Aliance	Vláda	Kol
+1.	Legio XV Primigenia(#1428) - ...SPQR...	40333km2	11163378	Europe	Dikt	3974
+2.	AERON(#1281) - nik1	22227km2	10620444	MaNTiNeL	Dikt	3956
+3.	Ricky LaFleur(#51) - Martin858	23148km2	10163153	SIL	Rep	3959
+4.	Daniel Mrtík(#852) - vhero	24079km2	10118819	PíPíBí	Utop	3774
+5.	Comeback(#535) - PinkPanther	19577km2	10114877	ganja	Demo	3946
+6.	Across the stars(#1451) - AzorAhai	22762km2	9418742	MaNTiNeL	Demo	3973
+7.	RANDALOVA KARAVANA II.(#316) - RANDAL	15074km2	9182559	KCI.	Utop	3913
+8.	Legio X Fretensis(#1304) - ...SPQR...	21669km2	9077718	Legio	Dikt	3721
+9.	nehulim, ani drogy neberu(#204) - blasticek	17211km2	9050857	ganja	Tech	3978
+10.	Rathova KRABice od vína(#84) - Martin858	30000km2	9044884	(V)oo(V)	Feud	3955
+11.	i have spoken(#956) - Lord Demokrat	24770km2	8906540	MENSA	Robo	3979
+12.	Laurentius(#1101) - .HARKOMEN.	17999km2	8871122	HRNCE	Tech	3687
+13.	Walker je pimpula(#476) - skvost	25075km2	8829960	-=LH=-	Utop	3955
+14.	99999(#99999) - PinkPanther	25015km2	8587988	queens	Feud	3897
+15.	Kings Landing(#639) - klankosti	17288km2	8395870	queens	Demo	3952
+16.	Mňága(#1208) - Joker16.	23674km2	8333989	ganja	Dikt	3952
+17.	Slušňák22(#493) - sir Kopcem	24729km2	8158671	MENSA	Demo	3836
+18.	adasdasdadsas(#1036) - Jankodigital	14722km2	8053219	MK	Tech	3936
+19.	(+-))(#1067) - trubkatrubkovic	17374km2	7931321	queens	Tech	3978
+20.	šmankote babičko čaruj(#226) - DruhyPokus	16999km2	7915271	UNIQUE	Tech	3979
+21.	Nightwinter(#313) - kaamilko	21173km2	7624437	NNW	Rep	3764
+22.	BolaTeransa(#87) - Jukalis	25612km2	7623509	...BN...	Rep	3979
+23.	Dobelice(#1229) - Tinky binky ex	21335km2	7588663	...EX...	Tech	3959
+24.	Pravá bota(#164) - Driver	19710km2	7507196	Arsenal	Rep	3979
+25.	Boiler(#1473) - Facka	20973km2	7359928	*-*	Robo	3923
+26.	Strýček Donald farmu měl(#676) - Abed.Nego	28200km2	7293597	Legio	Kom	3968
+27.	Tragedis(#1207) - Joker16.	22251km2	7280148	ganja	Kom	3918
+28.	Vyhrát věk?jedině v TESCU(#578) - Walker	16134km2	7000000	.::R::.	Utop	3956
+29.	Nečum, nebreč, neotravuj(#110) - alien13	25368km2	6996265	*`=/-.,	Dikt	3840
+30.	Schizofrenik(#415) - Jacobthebest	21699km2	6995505	BTK	Rep	3953
+31.	Banánová republika(#357) - Mordess	21713km2	6959275	queens	Rep	3884
+32.	HolubíŘev(#364) - HolubíAgresor	16737km2	6927110	**SNK**	Demo	3978
+33.	MAM BONUS :D(#323) - .whitewidow.	18732km2	6859490	(V)oo(V)	Tech	3964
+34.	Ty si Trouba(#861) - ppaarrmmeennka	17670km2	6704921	*`=/-.,	Utop	3839
+35.	jsem farma(#869) - BlemBlem	17008km2	6683829	AUTORITA	Utop	3978
+36.	NESERA NAVALTO(#112) - Sir Extrem	20368km2	6629552	MENSA	Dikt	3865
+37.	LOS made in Podvodnik(#4455) - Topisek	14965km2	6564848	nBd.	Utop	3658
+38.	Aky bude novy dovod :D(#70) - 19MINO94	20202km2	6541608	:O	Demo	3895
+39.	Walker je Va-=LH=-ach(#1049) - Yaser al Naser	15742km2	6497109	-=LH=-	Feud	3979
+40.	Průjem(#701) - JAMees.Sawyer	19853km2	6487435	*`=/-.,	Robo	3939
