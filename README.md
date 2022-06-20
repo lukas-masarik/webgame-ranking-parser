@@ -18,9 +18,9 @@ Patch version is currently used for better tracking of parsed epochs. It correns
 Currently supported epoch is #156.
 
 ## Executable JAR file
-[WebgameRankingParser-2.2.155.jar](https://github.com/lukas-masarik/webgame-ranking-parser/raw/jar/WebgameRankingParser-2.2.155.jar)
+[WebgameRankingParser-2.2.156.jar](https://github.com/lukas-masarik/webgame-ranking-parser/raw/jar/WebgameRankingParser-2.2.156.jar)
 
 Run with the following command
 ```
-java -jar WebgameRankingParser-2.2.155.jar
+java -jar WebgameRankingParser-2.2.156.jar
 ```
