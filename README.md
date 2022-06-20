@@ -15,7 +15,7 @@ Minor version indicates features added to the major version.
 ### Patch
 
 Patch version is currently used for better tracking of parsed epochs. It corrensponds with the last supported epoch.
-Currently supported epoch is #155.
+Currently supported epoch is #156.
 
 
 
