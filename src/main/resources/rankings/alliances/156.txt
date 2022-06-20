@@ -1,0 +1,42 @@
+156. VĚK
+#	Aliance	Členů	Rozloha	Prestiž	Předseda
+1.	[ganja] GANJA	10	176254km2	62740328	Smile :)(#520) - PinkPanther
+2.	[queens] QUEENS	10	174525km2	56660037	(+-)(#1066) - trubkatrubkovic
+3.	[FR] Flip Reset	10	141299km2	47337727	Raiden Shogun(#1019) - ySpirit
+4.	[MK] Immortal knights	10	137737km2	46857061	kliksemkliktam(#1125) - uzid
+5.	[*`=/-.,] Supramen	10	162735km2	46560531	Supraman(#337) - Supra1Soul5Play
+6.	[HTF] Happy Tree Friends	10	123123km2	45930368	go vegan or die crying(#529) - cejo the king
+7.	[MaNTiNeL] .m.m	10	172843km2	45046445	Na Kridlech Valkyr(#433) - o.O.oDin
+8.	[MENSA] ...prostě (j)elita :)	10	146477km2	44386802	NESERA NAVALTO(#112) - Sir Extrem
+9.	[Anarchy] Farmíme pro horší budoucnost	10	130809km2	42556134	Světlo odvál stín...(#174) - thordevil
+10.	[.::R::.] Rytíři	10	136182km2	42477503	B*E*S*A*R*A*B*I*A(#147) - Abdul
+11.	[NBD] No Big Deal	10	133131km2	41706454	NoDeal-No Mercy(#145) - skvost
+12.	[(V)oo(V)] The Crabs	10	136343km2	41706387	Dr. John Zoidberg(#44) - blasticek
+13.	[Europe] Europe	9	159867km2	39656465	Arizona(#261) - Kojot prérijní
+14.	[-=THC=-] The Heroic Company	10	135249km2	39239598	The Heroic Čulapchorn(#33) - Čulapchorn
+15.	[nBd.] Never Back Down	10	122487km2	38695858	Neublizujtemiprosím(#495) - HromikSir
+16.	[.:?:.] CeNsoReD	10	122188km2	37055985	****?CEN?SO?RED?****(#714) - rybka es atrás
+17.	[PíPíBí] Power Puff Boys	10	130842km2	35739120	Fuzzy Lumpkins(#440) - Muffia
+18.	[KCI.] Karavana`s Club I.	10	122157km2	35005792	MAVEHO KARAVANA(#218) - maverickynwa
+19.	[VIR] VIR	10	156115km2	34051263	Easy target,feelin this?(#726) - Mrkvička777
+20.	[AUTORITA] Celé jméno aliance (povinné)	10	129645km2	33052968	New Phyrexia(#463) - masterofgod
+21.	[Legio] Legiones	10	144602km2	31865467	Legio XXI Rapax(#1293) - brumbi
+22.	[NULL] NULL	10	112095km2	31635698	Název země:(#212) - R.A.E.K.
+23.	[Lotta] Lotta per la sopravvivenza	10	143806km2	31590364	David je král(#38) - pelizid
+24.	[SK] Starý Kontinent	10	134596km2	31565983	Prérie(#349) - Kojot prérijní
+25.	[SPRITE] Teď já budu Sprite a ty žízeň	10	130028km2	31297137	Pocemkamdeš(#809) - demonstrate.
+26.	[Finance] Ekonomická aliance	10	145702km2	29430154	Inflace(#1131) - Mupsi
+27.	[UNIQUE] pouch my Tenis	10	145627km2	29282166	uniQue man von Triss(#404) - trisíííček
+28.	[YOZZEFY] Yozzefy = klídek = nedobývat	10	123757km2	29167898	Veterán - farmář(#150) - Allegro
+29.	[-=F*A=-] Fallen Angels	10	124209km2	29155162	-FA- For All(#321) - jerry360
+30.	[CHOS] Chaos of slayer	10	150447km2	28675043	auffídrzen(#359) - bojovnik14
+31.	[R.O.BOTS] really obvious bots	10	130291km2	28593903	Bender Bending Rodriguez(#203) - blasticek
+32.	[-=LH=-] Walker je XXXXX :-D	10	133079km2	27559763	Walker je hvězda jasná(#574) - Walker
+33.	[-=KA=-] Killa Army	10	144453km2	26700603	kde je moje dáv-=ka=-(#602) - Athara
+34.	[HAMAS] Harcovnici Maju Stil	10	120723km2	26322971	-= Sp1r1t Sp31t =-(#615) - MySEl
+35.	[JIHAD] Alkoholici Ceskoslovenska	10	144159km2	25855780	Budu zly(#618) - MySEl
+36.	[.hunteRs] We are hunteRs	10	133503km2	25627716	.hunteRs.Coypu(#560) - K.a.S.i.o
+37.	[N.n.n-2] No nic no 2	10	108068km2	25455015	Holy Moses(#363) - Carcas
+38.	[FBI] Federal Bureau Investigation	10	88402km2	24957843	Pimp my pimpula(#235) - skvost
+39.	[Adio] Adio Americano	10	93461km2	24052477	Dark forrest(#374) - ORidickO
+40.	[N-N-N] Nečum, Nebreč, Neotravuj	10	173326km2	23600744	Kdokoliv, jenom ne ty(#973) - Banlord
