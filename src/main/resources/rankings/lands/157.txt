@@ -1,0 +1,42 @@
+157. VĚK
+#	Země	Rozloha	Prestiž	Aliance	Vláda	Kol
+1.	Vogel(#55555) - ftacik	24689km2	16347949	ZhuP	Utop	3387
+2.	Láka ma mláka(#1888) - .Grim.	27927km2	15821943	T3R0R1ST	Tech	3977
+3.	Search n Destroy(#58) - Supra1Soul5Play	25699km2	13212129	Unique	Demo	3970
+4.	Jahoda(#469) - VW1303	24804km2	11079510	VIR	Demo	3979
+5.	Bud agilny bud in(#5555) - ftacik	33863km2	10900231	Bull	Robo	3972
+6.	Ako sa to hra?(#1412) - posterr	22190km2	10817733	HuNCuT	Fund	3671
+7.	A za kolik expu to bylo?(#846) - Saturas	15750km2	10558554	.SE.	Kom	3677
+8.	Fuzzy Lumpkins(#460) - Muffia	23170km2	9775762	PíPíBí	Feud	3936
+9.	ARK:Survival Evolved(#964) - StillDeadCZ	19999km2	9549320	D1000	Demo	3956
+10.	Jak je?(#1426) - j.o.h.n.y.s	12333km2	9256353	NEiro	Kom	3578
+11.	Darwin Nunez(#470) - jsp	19999km2	9157658	VIR	Utop	3803
+12.	Rejpal(#756) - Tinky binky ex	27431km2	8759403	N.n.n-2	Robo	3977
+13.	Comeback(#99999) - PinkPanther	25743km2	8466995	Ganja	Feud	3970
+14.	Chulimanga(#600) - FR3EZY	25195km2	8339275	=T=	Feud	3971
+15.	Born_to_Die =((#396) - jerry360	14999km2	8329155	NHD	Utop	3930
+16.	Tech(#440) - Deus	9999km2	8244000	ALIVE	Tech	3939
+17.	B*E*S*A*R*A*B*I*A(#265) - Abdul	21048km2	8214024	.::R::.	Tech	3979
+18.	Greater Patagonia Trail(#725) - Seksymania	14999km2	8067816		Utop	3689
+19.	Eli Cohen(#803) - VosoK	23268km2	7950134	VZP	Kom	3946
+20.	Menara Kagelapan(#453) - Jukalis	25210km2	7761713	N.n.n-2	Robo	3978
+21.	Take on the World(#1623) - .Sp3ct4t0R.	20433km2	7755005	101	Robo	3205
+22.	lubos(#636) - stejski IX.	15579km2	7517555	Unique	Utop	3841
+23.	Mňága(#294) - Joker16.	22373km2	7489302	Ganja	Robo	3964
+24.	Raiden Shogun(#1007) - ySpirit	13405km2	7464828	FR	Utop	3976
+25.	(+-))(#575) - trubkatrubkovic	21625km2	7416724	queens	Fund	3976
+26.	The Heroic Čulapchorn(#33) - Čulapchorn	18179km2	7191160	-=THC=-	Robo	3926
+27.	Kings Landing(#302) - klankosti	17759km2	7152165	queens	Rep	3943
+28.	Nejvyšší fúze světa(#217) - Abed.Nego	29094km2	7047540	MaNTiNeL	Utop	3971
+29.	jižní Osétie(#1394) - DuncanTheKing	15283km2	6813870	FR	Utop	3936
+30.	i have spoken(#977) - Lord Demokrat	13945km2	6800185	MENSA	Utop	3936
+31.	Blagdanska vožnja(#1036) - ttrtt	24036km2	6767668	ne	Demo	3926
+32.	Vylomený Zub(#1123) - Lord Rechleek	15309km2	6754582	R.O.BOTS	Tech	3978
+33.	VODNÍ MELOUN již brzy(#196) - ...Kápo...	14999km2	6711111	Ceckárna	Utop	3840
+34.	Uher(ák) tvojí mámy(#77777) - Mrkew	17243km2	6710526	MÁMA	Utop	3945
+35.	02(#580) - daxicek	19793km2	6639973	.::R::.	Rep	3978
+36.	HolubíZpěv(#521) - HolubíAgresor	12743km2	6619751	**SNK**	Tech	3977
+37.	Neslušňák 11(#93) - sir Kopcem	15863km2	6608462	MENSA	Utop	3938
+38.	-osn- DonJuanMatus(#1408) - KuXIV	20917km2	6604437	-osn-	Rep	3964
+39.	Fumaria officinalis(#110) - .HARKOMEN.	23192km2	6585428	HRNCE	Feud	3640
+40.	Hidden and not Dangerous(#711) - Jareck	17493km2	6452019	NULL	Utop	3978

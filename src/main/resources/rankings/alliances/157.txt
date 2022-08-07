@@ -1,0 +1,42 @@
+157. VĚK
+#	Aliance	Členů	Rozloha	Prestiž	Předseda
+1.	[T3R0R1ST] Prašivý farmy	10	172213km2	57561037	T3R0R1ST4(#1241) - masterWG
+2.	[FR] Flip Reset	10	153889km2	50428571	Raiden Shogun(#1007) - ySpirit
+3.	[Ganja] ganja	10	176397km2	48023453	Tragedis(#292) - Joker16.
+4.	[.::R::.] Rytíři	10	158942km2	46838506	B*E*S*A*R*A*B*I*A(#265) - Abdul
+5.	[Ceckárna] Dlouhá a hubená ňadra	10	147559km2	45335069	Lord je král(#125) - pelizid
+6.	[=T=] Trója	10	176824km2	44968318	Winter is coming..(#285) - FR3EZY
+7.	[ALIVE] Alive	10	119400km2	44313938	Pepe Gay Pride(#9871) - Degee
+8.	[queens] QUEENS	10	166275km2	42828477	Pavilon 8 AHC(#2222) - gorem
+9.	[N.n.n-2] No nic no 2	10	164756km2	42392356	Messiah(#624) - Carcas
+10.	[MENSA] ...prostě (j)elita :)	10	127292km2	41785321	NESERA NAVALTO(#83) - Sir Extrem
+11.	[AveCesar] AveCesar a prázdninové klikání	10	118397km2	41357965	.:AveCesar:. Remus(#619) - Ares65
+12.	[**SNK**] SmeNaKašu	10	140972km2	40933283	Liška Bystrouška na Kašu(#154) - Jitus21
+13.	[-=THC=-] The Heroic Company	10	148177km2	40781295	The Heroic Čulapchorn(#33) - Čulapchorn
+14.	[Unique] Teple bonzy niesu v móde	9	153944km2	39991777	bull majster dobyvateľ(#363) - trisíííček
+15.	[ZhuP] Zhuleni Pokemoni	9	158795km2	37239507	Najs tu mit ju(#843) - fagancek2
+16.	[VIR] VIR	10	149432km2	35811283	Easy target,feelin this?(#533) - Mrkvička777
+17.	[.hunteRs] We are hunteRs	10	111103km2	35318131	.hunteRs.Puffin(#250) - K.a.S.i.o
+18.	[Anarchy] Farmíme pro horší minulost	10	131420km2	35130008	Srdce mi pofoukáš...(#142) - thordevil
+19.	[Lotta] Lotta per la sopravvivenza	10	179983km2	33153129	stejski je moje láska(#66667) - M.O.R
+20.	[Evropa] Evropa	10	131535km2	32144256	Poušť(#138) - Kojot prérijní
+21.	[KCI.] Karavana`s Club I.	10	126645km2	31316934	MAVEHO KARAVANA(#50) - maverickynwa
+22.	[N-N-N] Nečum, Nebreč, Neotravuj	10	165204km2	30534513	Kdokoliv, jenom ne ty(#220) - Banlord
+23.	[R.O.BOTS] really obvious bots	10	114049km2	30491558	Bender Bending Rodríguez(#48) - blasticek
+24.	[-=KA=-] Killa Army	10	191118km2	30332473	z-=ka=-lená na -=ka=-ši(#1097) - Athara
+25.	[NULL] ?	9	109098km2	29885912	777(#666) - R.A.E.K.
+26.	[-osn-] OsprostenaStaraNota	10	131464km2	29759764	-osn-ruzove v pive(#700) - D1N1AK
+27.	[YOZZEFY] Yozzefy = klídek = nedobývat	9	114607km2	28442794	Veterán - farmář(#448) - Allegro
+28.	[HAMAS] Harcovnici Maju Stil	10	100279km2	27113428	-= Sp1r1t Sp31t =-(#1020) - MySEl
+29.	[KCII.] Karavana`s Club II.	10	106826km2	25563006	MAVEHO KARAVANA III.(#52) - maverickynwa
+30.	[MÁMA] Tvoje druhá máma	10	119282km2	24804814	Měchy tvojí mámy(#351) - gugoslav
+31.	[...EX...] ..............EX..............	8	113226km2	24431621	Teletabis(#443) - Tinky binky ex
+32.	[Bull] Bully	10	147106km2	24283032	Farmenie škodí zdraviu(#343) - trisíííček
+33.	[LaRes] La resistance	10	108756km2	24263142	Láďa křížek(#386) - Dark moon spider
+34.	[AUTORITA] Celé jméno aliance (povinné)	10	118805km2	24207772	Dominaria(#599) - masterofgod
+35.	[Adio] Adio Americano	10	113258km2	24064583	Dark forrest(#638) - ORidickO
+36.	[M] MOON	10	172586km2	24027449	Atlan(#1081) - Atlantik
+37.	[PLANET-X] PLANET-X	10	100401km2	23824122	LightFury(#562) - ZUMOTRIX
+38.	[Léto] jsme na prázdninách	10	193930km2	23191790	Slunce seno raketa(#208) - WEBIG
+39.	[MZA] Minimálně Zajímaví Agorafobici	10	111173km2	22989320	Klekni si....(#108) - Michellion
+40.	[HOP] HOP čip čivirip, čivirip HOPá	10	132332km2	21283318	PePa(#693) - Lord Boxo
