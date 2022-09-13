@@ -1,0 +1,42 @@
+158. VĚK
+#	Země	Rozloha	Prestiž	Aliance	Vláda	Kol
+1.	LOS made in Zhongguo(#2233) - Topisek	15654km2	11003994	.L.O.S.	Utop	3840
+2.	Tadadá(#1034) - BlemBlem	24316km2	10791601	B.K.	Demo	3974
+3.	X /(#356) - šalanboy	20894km2	10583982	VN	Demo	3972
+4.	Los Blancos(#721) - Martin858	15286km2	10119965	SB	Tech	3970
+5.	B*E*S*A*R*A*B*I*A(#83) - Abdul	27401km2	10100410	.::R::.	Tech	3979
+6.	CTK(#142) - Ctirad2	28458km2	9854319	=*ss*=	Robo	3968
+7.	auffídrzen(#196) - bojovnik14	19951km2	9851216	MENSA	Rep	3959
+8.	2X4B-523P(#10101) - Sph1nx	19362km2	9808598	-=AB=-	Tech	3944
+9.	Nebreč(#1276) - Banlord	38879km2	9723596	-=KA=-	Dikt	3974
+10.	Milan Sumec(#999) - Lord Baal	9999km2	9527946	ALIVE	Kom	3673
+11.	Winter is coming..(#232) - FR3EZY	19648km2	9459859	=T=	Utop	3967
+12.	God bless you(#366) - JimCurry	16104km2	9436689	M	Utop	3846
+13.	Walter White(#52) - blasticek	22336km2	9294304	Ganja	Rep	3979
+14.	(-+)(#1270) - trubkatrubkovic	24309km2	9083987	Ganja	Robo	3979
+15.	Blaze it(#420) - Petan IV	21217km2	9020386	.::R::.	Robo	3973
+16.	Valar Dohaeris(#715) - Uaah	23238km2	8999041	.LL.	Robo	3953
+17.	Imperator(#80) - jowood2	16132km2	8808808	NULL	Utop	3958
+18.	Dance my marionettes.(#465) - mara8	20175km2	8580895	EMP	Fund	3960
+19.	Switchblade(#758) - ridgeback	17396km2	8514460	EMP	Fund	3974
+20.	LOS made in Destroyer(#350) - BlackTears	19202km2	8401012	Léto	Demo	3938
+21.	Tinlicker(#1211) - K4prik	16499km2	8333333	RB	Utop	3946
+22.	Lasciate ogni speranza..(#1190) - DieWalker	17947km2	8316486	EMP	Feud	3960
+23.	Verbal harassment(#677) - LORD FITO	22805km2	8298252	=T=	Utop	3978
+24.	LOS made in Brno(#506) - BuchtixD	17665km2	8248635	.L.O.S.	Utop	3888
+25.	Bourgie Bourgie(#82) - U.U	19874km2	8229124	M	Dikt	3894
+26.	1000000 km za dve hospy(#545) - ppedrnikar	16346km2	8122966	Ceckárna	Utop	3939
+27.	Xcfdsrth(#604) - HromikSir	23210km2	8048628	ZhuP	Demo	3979
+28.	Bot Digger Nick(#686) - budhahahahaha	14999km2	7972735	R.O.BOTS	Utop	3974
+29.	mám rád věnečky(#693) - Josefko	20900km2	7946805	ShPr	Robo	3963
+30.	Verlorene Siege(#284) - von Lewinski	22097km2	7916955	Munsö	Tech	3978
+31.	LOS made in Ukrajina(#162) - Eph3dr1ne	21995km2	7900993	Léto	Rep	3955
+32.	Krab maga(#836) - hráčsjménem	19914km2	7841760	(V)oo(V)	Demo	3960
+33.	B.U.R.(#723) - Martin858	17000km2	7796390	R.O.BOTS	Utop	3973
+34.	Raiden Shogun(#976) - ySpirit	26803km2	7785569	FR	Feud	3979
+35.	Lucid Dreams(#95) - U.U	19999km2	7753064	EMP	Fund	3879
+36.	MAVEHO KARAVANA(#204) - maverickynwa	15000km2	7538813	KCI.	Fund	3936
+37.	Borovicka s pivom(#742) - Tukenssen	16263km2	7480548	AlkoholX	Utop	3978
+38.	Tučný odpor tvojí mámy(#7077) - Mrkew	15663km2	7458265	MÁMA	Utop	3977
+39.	Bender Bending Rodríguez(#46) - blasticek	22999km2	7457468	R.O.BOTS	Feud	3976
+40.	Hidden and not Dangerous(#600) - Jareck	18016km2	7340418	NULL	Utop	3978

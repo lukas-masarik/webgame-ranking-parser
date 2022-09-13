@@ -1,0 +1,42 @@
+158. VĚK
+#	Aliance	Členů	Rozloha	Prestiž	Předseda
+1.	[EMP] Emil Master of Puppets	10	179870km2	71604274	Puppet Master(#347) - FARR FARR AWAYY
+2.	[R.O.BOTS] really obvious bots	10	161534km2	63107667	Bender Bending Rodríguez(#46) - blasticek
+3.	[=T=] Trója	10	173571km2	59305871	Winter is coming..(#232) - FR3EZY
+4.	[Léto] letní policie	10	195455km2	58572865	LOS made in semifinals(#43) - WEBIG
+5.	[SB] SpikeBallers	10	147943km2	57761313	Aeternum Vale..(#1188) - DieWalker
+6.	[.L.O.S.] Losove hledaji partaky	10	146528km2	56453180	LOS made in JZD(#44) - WEBIG
+7.	[Ganja] GANJA	10	174928km2	56309725	IBK Kubánský Klan(#222) - gorem
+8.	[M] MOON	10	158124km2	52054518	Atlan(#65) - Atlantik
+9.	[AlkoholX] Best friends of tecutins	10	144123km2	51809404	Edelweiss(#888) - Uaah
+10.	[MÁMA] Tvoje druhá máma	10	148600km2	50035134	Měchy tvojí mámy(#578) - gugoslav
+11.	[ALIVE] Neklikame	10	103444km2	49415225	Ppedrnikar na Baale(#9874) - Degee
+12.	[B.K.] Blitz Krieg	10	161118km2	49081900	Blitz Krieg 3238(#228) - johnny33
+13.	[AveCesar] AveCesar a společenstvo Římanů	10	128290km2	48299414	.:AveCesar:. Augustus(#484) - Ares65
+14.	[-=KA=-] Killa Army	10	195959km2	48207933	z-=ka=-lená na -=ka=-ši(#297) - Athara
+15.	[KCI.] Karavana`s Club	10	119473km2	47788649	MAVEHO KARAVANA(#204) - maverickynwa
+16.	[.::R::.] Rytíři	10	162406km2	46826522	B*E*S*A*R*A*B*I*A(#83) - Abdul
+17.	[MENSA] ...prostě (j)elita :)	10	164072km2	43532221	NESERA NAVALTO(#73) - Sir Extrem
+18.	[.LL.] Lock and load	10	167905km2	43285044	Valar Morghulis(#701) - Uaah
+19.	[NULL] ?	10	137511km2	42465141	MMMMMMMMMMMMMMMMMMMMMMMMM(#317) - R.A.E.K.
+20.	[Ceckárna] Dlouhá a hubená ňadra	10	128819km2	41832945	Luboš teče ven(#48) - pelizid
+21.	[N-N-N] Nečum, Nebreč, Neotravuj	10	184347km2	40186047	Kdokoliv, jenom ne ty(#507) - Banlord
+22.	[Arsenal] Speciální vojenská operace	10	110872km2	39861448	OTR-21 TOČKA(#146) - Driver
+23.	[VN] Vostrý náboje	10	142325km2	39664586	Nohy v teple(#89) - Nicole Kidmann
+24.	[YOZZEFY] Yozzefy = farmy = nedobývat	10	127992km2	39650334	Veterán - farmář(#148) - Allegro
+25.	[ShPr] SkloHnedPoRanu	10	155276km2	38547920	.:S3rVuS:.Bro(#635) - Charles king
+26.	[HAMAS] Harcovnici Maju Stil	10	122112km2	38387250	-= Sp1r1t Sp31t =-(#383) - MySEl
+27.	[(V)oo(V)] The Crabs	10	171948km2	36087228	Dr. John Zoidberg(#41) - blasticek
+28.	[PKZ] prdeli ke zdi	10	131727km2	34313106	.::PKZ::. slušný název(#374) - lord big
+29.	[-=THC=-] The Heroic Company	10	131482km2	33791997	The Heroic Cocaine(#61) - Čulapchorn
+30.	[S] SUN	10	117616km2	33684156	Babočka admirál(#458) - Atlantik
+31.	[**SNK**] SmeNaKašu	10	142370km2	33661358	Liška Bystrouška na Kašu(#152) - Jitus21
+32.	[-4F-] 4 the Future	8	124542km2	32755963	New Future(#124) - hagg1d
+33.	[KCII.] Karavana`s Club II.	10	128000km2	32531151	RANDALOVA KARAVANA III.(#520) - RANDAL
+34.	[UNIQUE] Letná pohodicka	10	137252km2	32446668	uniQue man von Triss(#666) - trisíííček
+35.	[Anarchy] Farmíme pro lepší budoucnost	10	122929km2	31937673	Srdce mi pofoukáš...(#117) - thordevil
+36.	[MZA] Minimálně Zajímaví Agorafobici	10	118033km2	30185769	Pardeeho vlna(#512) - Michellion
+37.	[Europe] Europe	10	134684km2	29591056	Death is the Road to Awe(#878) - Armageddon
+38.	[FR] Flip Reset	10	149023km2	29294783	homogame(#989) - Gornik
+39.	[SRAN] Tvoje Máma	10	126263km2	28504990	Neighborhood tvoji mámy(#464) - Mrkew
+40.	[GLum] Gemolapidárium	10	135013km2	27466001	Humuhumunukunukuuapua(#331) - Michal The Great
