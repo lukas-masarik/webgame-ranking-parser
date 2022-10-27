@@ -1,0 +1,42 @@
+159. VĚK
+#	Země	Rozloha	Prestiž	Aliance	Vláda	Kol
+1.	Switchblade(#552) - ridgeback	16666km2	14810557	GOAT	Tech	3474
+2.	Dawe(#714) - Cenzor3d	27718km2	14477568	T3R0R1ST	Utop	3936
+3.	Newbie Conqueror(#383) - WEBIG	24087km2	14377360	**CQR**	Demo	3842
+4.	auffídrzen(#146) - bojovnik14	24138km2	14091733	MENSA	Tech	3938
+5.	Make coffee not war(#2323) - JimCurry	18699km2	14055234	tpOwCh	Utop	3648
+6.	Comeback(#4444) - PinkPanther	23866km2	12524201	ganja	Demo	3978
+7.	Eye of the Tiger(#20000) - Drunk3n	21277km2	11960752	PíPíBí	Demo	3943
+8.	Nejneobhospodařovávanější(#858) - Martin858	21999km2	11880221	(V)oo(V)	Rep	3973
+9.	Enforcer(#39) - Dr.Leckter	14999km2	11617546	PíPíBí	Utop	3492
+10.	Kde bolo tam bolo(#627) - .G.R.U.M.Y.	26600km2	11380091	NBS	Rep	3973
+11.	Fuzzy Lumpkins(#446) - Muffia	14393km2	10850865	PíPíBí	Utop	3683
+12.	Bot Digger Nick(#457) - budhahahahaha	15662km2	10653155	R.O.BOTS	Utop	3653
+13.	Donatella Colombini Cine(#1132) - 3 Fincas Crianza	15999km2	10567344	B.E.D.	Utop	3634
+14.	Chulimanga(#71) - FR3EZY	27563km2	10505049	=T=	Feud	3979
+15.	Dark Conqueror(#832) - vanna	22346km2	10474118	**CQR**	Tech	3952
+16.	Lasciate ogni speranza..(#175) - DieWalker	15511km2	10386708	GOAT	Utop	3673
+17.	HolubíZpěv(#1124) - HolubíAgresor	18999km2	10239508	**SNK**	Tech	3976
+18.	nevím kdy(#69) - ttrtt	18777km2	10109459	ShPr	Utop	3868
+19.	VelikostUdu=MujVek(#1235) - Josefko	17200km2	10098354	ShPr	Utop	3946
+20.	Název země:(#56) - LORD FITO	22524km2	10097743	=T=	Demo	3978
+21.	Bender Bending Rodríguez(#126) - blasticek	14999km2	10000000	R.O.BOTS	Utop	3652
+22.	Wall-E(#291) - Arzach	15999km2	10000000	R.O.BOTS	Utop	3669
+23.	z-=ka=-lená na -=ka=-ši(#237) - Athara	16399km2	9391193	-=KA=-	Tech	3914
+24.	FULL OF HELL(#437) - Broot	18925km2	8981169	ganja	Tech	3971
+25.	Prsteny moci(#400) - nezbedny bohus	12454km2	8909636	M	Kom	3741
+26.	Vzdejto(#1301) - AzorAhai	20429km2	8865180	PíPíBí	Tech	3956
+27.	SMRT RuSKýM oKuPaNTůM(#542) - Herr rintintin	20125km2	8782424	=T=	Utop	3967
+28.	arach má zrastenú pLHutvu(#730) - esya	17762km2	8623716	-=LH=-	Demo	3935
+29.	Wonder Woman(#827) - Lucky6186	17746km2	8466134	=T=	Robo	3975
+30.	Bongo(#306) - nwmt	20006km2	8336948	-=JRN=-	Utop	3955
+31.	Tazmania(#787) - satanaak	20954km2	8271991	ShPr	Robo	4008
+32.	Shithawk(#1196) - Chabi	14247km2	8114062	R.O.BOTS	Utop	3686
+33.	BOOM-HEADSHOT(#418) - DeathFilip	14295km2	8108199	R.O.BOTS	Utop	3558
+34.	BOT 3XTV7P(#236) - Arzach	14999km2	8072180	R.O.BOTS	Utop	3745
+35.	Prošla-=LH=-ůta(#281) - hagg1d	16000km2	8000599	-=LH=-	Utop	3699
+36.	VODNÍ MELOUN již brzy(#489) - ...Kápo...	21999km2	8000000	NBS	Utop	3953
+37.	Conqueror of the universe(#10104) - Sph1nx	19470km2	7972351	**CQR**	Rep	3978
+38.	RamBOT(#9977) - hráčsjménem	14746km2	7933058	R.O.BOTS	Utop	3936
+39.	Woňafka(#44) - johnny33	23345km2	7796572	B.K.	Kom	3971
+40.	LoBOTom(#324) - Lord Rechleek	14777km2	7743992	R.O.BOTS	Tech	3936

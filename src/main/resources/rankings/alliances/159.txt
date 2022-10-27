@@ -1,0 +1,42 @@
+159. VĚK
+#	Aliance	Členů	Rozloha	Prestiž	Předseda
+1.	[R.O.BOTS] really obvious bots	10	151885km2	79720446	Bender Bending Rodríguez(#126) - blasticek
+2.	[PíPíBí] Power Puff Boys	10	185660km2	74558801	Fuzzy Lumpkins(#446) - Muffia
+3.	[**CQR**] Conquerors	10	178993km2	67573608	Dark Conqueror(#832) - vanna
+4.	[=T=] Trója	10	174803km2	63088861	Winter is coming..(#70) - FR3EZY
+5.	[GOAT] Greatest of All Time	10	151662km2	61993233	Wout van Aert(#566) - Comanndos
+6.	[M] MOON	10	145273km2	58782007	Atlan(#261) - Atlantik
+7.	[ganja] GANJA	10	166571km2	54853587	IBK Kubánský Klan(#222) - gorem
+8.	[T3R0R1ST] T3R0R1STS W1N	10	190458km2	54245428	Raketový inženýr(#4040) - masterWG
+9.	[ShPr] SkloHnedPoRánu	10	157471km2	48352937	.:S3rVuS:.Bro(#581) - Charles king
+10.	[NBS] Největší Blbci Světa	10	148044km2	45873388	BLB numero uno(#191) - Walker
+11.	[AveCesar] AveCesar - čest a sláva	10	119996km2	44945015	.:AveCesar:. Tiberius(#772) - Ares65
+12.	[MENSA] ...prostě (j)elita :)	10	148990km2	44740428	NESERA NAVALTO(#1094) - Sir Extrem
+13.	[-=LH=-] Lonely Hearts	10	131039km2	41606568	U-=LH=-ÁNÝ PŘEDSEDA(#47) - Walker
+14.	[(V)oo(V)] The Crabs	10	158224km2	40650639	Dr. John Zoidberg(#91) - blasticek
+15.	[AlkoholX] Best friends of tecutins	10	140745km2	39342969	B-52(#852) - Uaah
+16.	[B.K.] B.K.	10	138753km2	38911112	Woňafka(#44) - johnny33
+17.	[-=JRN=-] JEDNOTKA RYCHLÉHO NACHLAZENÍ	10	149830km2	38060516	Červený trpaslík(#810) - Solo el codo
+18.	[L.O.S] Losacka smecka	10	130902km2	37352234	LOS made in The Untamed(#3344) - Topisek
+19.	[KCII.] Karavana`s Club II.	10	106917km2	36877329	MAVEHO KARAVANA III.(#521) - maverickynwa
+20.	[-=THC=-] The Heroic Company	10	150301km2	35953155	The Heroic Čulapchorn(#666) - Čulapchorn
+21.	[-osn-] OsprostenaStaraNota	10	132719km2	34730534	-osn-ruzove v pive(#748) - D1N1AK
+22.	[FR] Flip Reset	10	119979km2	34535998	Raiden Shogun(#395) - ySpirit
+23.	[L.O.S.] Losove planujici chatu	10	155461km2	34055010	LOS made in Zhongguo(#2233) - Topisek
+24.	[tpOwCh] the power of wing chun	10	118806km2	32641114	tpOwCh bUchY(#89) - MaximusBuchymus
+25.	[P.P.A.] Powerful Pagan Alliance	10	130959km2	32534665	MaybeIamBack(#501) - FTWD
+26.	[VN] Vostrý náboje	10	120013km2	32339788	Ruka v teple(#171) - Nicole Kidmann
+27.	[**SNK**] SmeNaKašu	10	115177km2	31721955	Liška Bystrouška na Kašu(#68) - Jitus21
+28.	[K-K-K] Klub kouzelnych kotatek	10	140621km2	31318772	Pan Mazel(#269) - jOguRt44
+29.	[-=KA=-] Killa Army	10	124765km2	30621201	z-=ka=-lená na -=ka=-ši(#237) - Athara
+30.	[GLum] Gemolapidárium	10	136298km2	28804298	Humuhumunukunukuuapua(#228) - Michal The Great
+31.	[BTC] Bitcoin	10	162953km2	28540637	Elon Musk:Dogecoin wallet(#259) - Drunk3n
+32.	[Kalamár] Kalamáři	10	132018km2	27858021	Call of duty 2 *forever(#143) - blasticek
+33.	[YOZZEFY] Yozzefy = klídek	10	112441km2	27403258	Veterán - farmář(#258) - Allegro
+34.	[MaNTiNeL] ...	10	135880km2	27385395	Na Kridlech Valkyr(#890) - o.O.oDin
+35.	[B.E.D.] Blue Eyed Devils	10	123187km2	26470562	LOS made in BlackKnight(#868) - BlackTears
+36.	[MZ] Ministerstvo zemědělství	10	115620km2	25730408	Peaceful Mind(#1019) - anduril
+37.	[D3V1L5] Masters Of Underworld	10	124060km2	23487862	*Wiking*(#287) - SVKelt
+38.	[N.n.n-2] No nic no-2	10	132266km2	23369689	Messiah(#351) - Carcas
+39.	[Bull] Bully	10	125407km2	22874963	bull bully Bullicek(#99) - trisíííček
+40.	[RS] Rektální sonda	10	147705km2	22461854	Natrhnu ti řiť(#1001) - Lord Kulth
