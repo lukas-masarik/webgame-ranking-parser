@@ -1,0 +1,42 @@
+160. VĚK
+#	Aliance	Členů	Rozloha	Prestiž	Předseda
+1.	[=T=] Trója	10	157784km2	57680850	Winter is coming..(#243) - FR3EZY
+2.	[NBS] Největší Blbci Světa	10	146509km2	50491637	BLBEC co má funkci(#40) - Walker
+3.	[-GW-] Green Way	10	139309km2	44906821	Poder Hidalguense(#169) - Kubikk84
+4.	[P.P.A.] Powerful Pagan Alliance	10	150221km2	42519102	Maskot(#75) - FTWD
+5.	[-osn-] OsprostenaStaraNota	10	151476km2	42284852	-osn-ruzove v pive(#404) - D1N1AK
+6.	[MK] Immortal knights	10	123115km2	41483705	kliksemkliktam(#1396) - uzid
+7.	[AveCesar] AveCesar a železná kosa	10	130769km2	39982423	.:AveCesar:. Caligula(#952) - Ares65
+8.	[-4F-] 4 the Future	10	159169km2	38651157	Hello Empty Future(#530) - hagg1d
+9.	[Onlybest] Jednoducho Najlepsi	10	132735km2	38247266	::OB::Kuvik-19(#470) - travnicek
+10.	[B.K.] Blitz Krieg	10	140073km2	38161962	Woňafka(#123) - johnny33
+11.	[-=THC=-] The Heroic Company	10	152174km2	36862110	The Heroic Cocaine(#66666) - Čulapchorn
+12.	[queens] QUEENS	10	161710km2	35002047	Pavilon 8 AHC(#113) - gorem
+13.	[Arsenal] Emirates Stadium	10	152554km2	34946150	sedlo(#143) - raen
+14.	[ganja] GANJA	10	137139km2	34641276	Smile :)(#2222) - PinkPanther
+15.	[*`=/-.,] Supramen	10	155921km2	34591806	Supraman(#46) - Supra1Soul5Play
+16.	[DC] DC Comics	10	119734km2	32769278	Batman nosí Pradu(#339) - Fleship
+17.	[Afrik] Velký Černý Klacek	10	121321km2	31143271	Mosambik(#86) - Lord Rechleek
+18.	[Sekec] Mazec	10	137933km2	30948420	Ještě jedno prosím(#300) - FR3EZY
+19.	[YOZZEFY] Yozzefy = klídek	10	134134km2	30792690	Veterán - farmář(#164) - Allegro
+20.	[S] SUN	9	94445km2	30623034	Otakárek fenyklový(#811) - Atlantik
+21.	[PíPíBí] Power Puff Boys	10	116717km2	29837956	Fuzzy Lumpkins(#1111) - Muffia
+22.	[hunteRs.] We are hunteRs	10	115745km2	29157735	.hunteRs.Oposum(#258) - K.a.S.i.o
+23.	[MÁMA] Tvoje druhá máma	10	118735km2	28283739	Emise tvojí mámy(#853) - gugoslav
+24.	[N.n.n-2] No nic no-2	10	127534km2	28157996	Holy Moses(#360) - Carcas
+25.	[**SNK**] SmeNaKašu	10	116339km2	26919453	Liška Bystrouška na Kašu(#223) - Jitus21
+26.	[NULL] ?	10	137846km2	26488542	ClaudiusBombardusMegásus(#838) - R.A.E.K.
+27.	[tNO] Strýček píhoda	6	67460km2	26144523	Netahlo(#1163) - 641988
+28.	[SRAN] Tvoje máma	10	142032km2	26123628	Kyperská sasanka tvý mámy(#1284) - Vládce Kabraxis
+29.	[Anarchy] Farmíme pro horší budoucnost	10	133670km2	26088008	Srdce mi pofoukáš...(#153) - thordevil
+30.	[LaRes] La Resistance	10	123266km2	25719858	Láďa křížek(#374) - Dark moon spider
+31.	[ZhuP] Zhuleni Pokemoni	10	135819km2	25206377	ZhuP Faganisko(#767) - fagancek2
+32.	[Europe] Neplecha ukončena	10	96293km2	25076678	horst wessel lied(#348) - BusteRHUX
+33.	[M] MOON	10	149659km2	24383960	Atlan(#331) - Atlantik
+34.	[MENSA] ...prostě (j)elita :)	10	120598km2	24292575	NESERA NAVALTO(#124) - Sir Extrem
+35.	[R.O.BOTS] really obvious bots	10	99221km2	24040702	Bender Bending Rodríguez(#91) - blasticek
+36.	[KCII.] Karavana`s Club II.	10	110911km2	24028949	MAVEHO KARAVANA III.(#291) - maverickynwa
+37.	[.::R::.] Rytíři	10	145056km2	23341740	B*E*S*A*R*A*B*I*A(#159) - Abdul
+38.	[-=KA=-] Killa Army	10	150081km2	22229555	-=KA=-lička meskalinu(#343) - Athara
+39.	[L.O.S.] Losove u Velblouda?	10	104344km2	21072649	LOS made in The Untamed(#3344) - Topisek
+40.	[.L.O.S.] Losaci hrají z chaty, sorry	10	121208km2	20516890	LOS made in Zhongguo(#2233) - Topisek

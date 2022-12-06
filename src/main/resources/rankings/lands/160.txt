@@ -1,0 +1,42 @@
+160. VĚK
+#	Země	Rozloha	Prestiž	Aliance	Vláda	Kol
+1.	CONVERGE(#105) - Broot	20037km2	10073870	ganja	Tech	3967
+2.	Take On The World(#1105) - .Sp3ct4t0R.	24101km2	9476302	101	Robo	3967
+3.	BLBEC, co jde zase klikat(#1083) - ...Kápo...	15999km2	9421725	NBS	Utop	3937
+4.	Djibouti(#50) - Dr.Leckter	23499km2	9353806	Afrik	Utop	3728
+5.	Germania(#697) - Albert.S	23842km2	8730733	Kattegat	Tech	3967
+6.	Deus(#1046) - Deus	16478km2	8716035	tNO	Tech	3958
+7.	-osn- DonJuanMatus(#1512) - KuXIV	23944km2	8674455	-osn-	Dikt	3927
+8.	FULL OF HELL(#222) - Broot	17802km2	8431245	queens	Tech	3943
+9.	Winter Is Coming(#1200) - Uaah	16999km2	8382599	-4F-	Utop	3933
+10.	Ethereum 2.0(#10000) - Drunk3n	16111km2	8275803	MaNTiNeL	Rep	3898
+11.	adasdasdasasd(#350) - Jankodigital	16151km2	8195108	MK	Tech	3980
+12.	Kings Landing(#581) - klankosti	20935km2	8179622	queens	Demo	3971
+13.	Northrend(#1322) - AzorAhai	20701km2	8117801	PíPíBí	Demo	3982
+14.	Winter is coming..(#243) - FR3EZY	17217km2	8068431	=T=	Utop	3983
+15.	Tough Cookie xD(#1155) - Diesi	19695km2	7971707	HOTOVO20	Kom	3977
+16.	Sufuski(#79) - FTWD	15537km2	7805828	-GW-	Utop	3860
+17.	PaNoPTiKuM(#550) - zullu	18192km2	7799884	=T=	Utop	3983
+18.	Teletabis(#1025) - Tinky binky ex	18752km2	7752312	N.n.n-2	Tech	3980
+19.	Krocan je zpět a ve formě(#273) - Krocan.II.Veliký	18758km2	7684621	HIZBALAH	Utop	3998
+20.	the GODFATHER(#133) - Sir Extrem	26169km2	7542685	P.P.A.	Dikt	3978
+21.	Walter White(#92) - blasticek	21928km2	7473903	ganja	Feud	3978
+22.	Vysmátý tučňák(#1515) - Mr. Sedlinno	9999km2	7382301	:D	Utop	3666
+23.	Central African Republic(#85) - kill666	19999km2	7251937	Afrik	Utop	3981
+24.	Fakin Holub(#88) - smudlas	13133km2	7222888	PKZ	Utop	3959
+25.	Vergon 6(#6006) - Tomaskom	14578km2	7189383	MK	Tech	3866
+26.	::OB::Kuvik-19(#470) - travnicek	20067km2	7134169	Onlybest	Robo	3982
+27.	Revizor Kain(#590) - Valkia	16773km2	7120381	**SNK**	Utop	3979
+28.	Optimus Prime(#955) - gorem	14245km2	7111284	R.O.BOTS	Utop	3983
+29.	NoDeal-GrAfFitIi(#1254) - král urucskýý	14382km2	7071308	CHARITA	Utop	3879
+30.	The Heroic jOguRt(#1253) - jOguRt44	19494km2	6895776	-=THC=-	Rep	3980
+31.	Verbal harassment(#868) - LORD FITO	17261km2	6808106	=T=	Utop	3974
+32.	Barbara(#672) - Baů000	16691km2	6764238	Onlybest	Utop	4023
+33.	Wonder Woman(#1034) - Lucky6186	17026km2	6741714	=T=	Utop	3974
+34.	BLBEC áno, lebo som (#69) - .G.R.U.M.Y.	18202km2	6737523	NBS	Utop	3958
+35.	Špatně navoněnej(#860) - zedna	18503km2	6649596	PíPíBí	Tech	3975
+36.	Empordá(#61) - 3 Fincas Crianza	24481km2	6571576	-4F-	Rep	3977
+37.	Plebejec(#1035) - Lucky6186	16459km2	6508436	=T=	Utop	3976
+38.	adasdasdadsas(#649) - Jankodigital	12899km2	6483820	MK	Utop	3692
+39.	-osn-stale malo(#406) - D1N1AK	23142km2	6473407	-osn-	Kom	3976
+40.	Gold nafurt.(#909) - demonstrate.	18317km2	6429662	SPRITE	Kom	3980
