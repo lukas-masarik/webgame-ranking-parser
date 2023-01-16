@@ -1,0 +1,42 @@
+161. VĚK
+#	Země	Rozloha	Prestiž	Aliance	Vláda	Kol
+1.	Hellow Empty Future(#110) - hagg1d	20400km2	9992385	tpOwCh	Tech	3978
+2.	A kde je mezihra?(#375) - ttrtt	15909km2	9594459	B.K.	Kom	3973
+3.	Winter is coming..(#33) - FR3EZY	16184km2	8839476	=T=	Utop	3947
+4.	Vogel(#1153) - ftacik	28797km2	8800919	n1	Fund	3979
+5.	No Time To Lose(#377) - Soví hnízdo	17699km2	8626837	Zkratka	Tech	3938
+6.	Magna Germania(#318) - Albert.S	20354km2	8457452	Kattegat	Demo	3978
+7.	Padající z nebe(#1260) - Moltar	18687km2	8219410	W.S	Kom	3976
+8.	Empty Sounds of Hate(#37) - BigY	22563km2	8082796	DC	Utop	3979
+9.	Ještě jedno prosím(#45) - FR3EZY	19995km2	7935528	Sekec	Utop	3979
+10.	Skartovaná panna(#248) - Stalin2	16144km2	7860749	P.V.B	Kom	3979
+11.	Tragedis(#893) - Joker16.	23033km2	7845967	ganja	Robo	3987
+12.	::OB::Kuvik-19(#171) - travnicek	17131km2	7824105	Onlybest	Kom	3979
+13.	VITAMIN X(#999) - Broot	18901km2	7776610	ganja	Rep	3978
+14.	I Bara Hezky Zuzla Kulky(#489) - klankosti	19091km2	7740245	BTC	Utop	3969
+15.	Zářící Spasitel(#412) - .DuKeLuKe.	26666km2	7658494	Bubáci	Feud	3979
+16.	SiL ikONy 4EveR(#519) - klankosti	15044km2	7569697	R.O.BOTS	Utop	3936
+17.	LOS made in Supreme(#683) - MC Booo	20588km2	7321415	GTI	Tech	3978
+18.	Klobása tvojí mámy(#1169) - gugoslav	21690km2	7272863	SRAN	Rep	3963
+19.	I am Daddy(#1470) - Diák	8304km2	7238262	DEAD	Tech	3830
+20.	homogame(#322) - Gornik	13738km2	7203226	FR	Utop	3686
+21.	Zbytek ze zbytků(#41) - CH40T1K	13999km2	7153523	*WlM*	Utop	3979
+22.	****?CEN?SO?RED?****(#1038) - rybka es atrás	12060km2	7130047	.:?:.	Tech	3956
+23.	mám rád věnečky(#725) - Josefko	14714km2	6841153	B.K.	Kom	3893
+24.	kiwiiiiiiiiiiiiiiiiiiiiii(#1235) - esya	14485km2	6713629	n2	Utop	3805
+25.	Dnes by to šlo(#679) - jOguRt44	17905km2	6656682	-=THC=-	Robo	3942
+26.	Tododó(#1351) - BlemBlem	16136km2	6605484	B.K.	Kom	3970
+27.	)CD(milacek(#1501) - ja a ty sme oba	20126km2	6446617	)CD(	Rep	3954
+28.	JEMITO ŠUMAFUK(#98) - Sir Extrem	13110km2	6428034	MENSA	Utop	3973
+29.	.:BB:. 19MINO94(#281) - 19MINO94	13000km2	6420083	:O	Anar	3880
+30.	Auxilia(#82) - Dr.Memphisto	14506km2	6388977	.:?:.	Utop	3936
+31.	New Phyrexia(#13371) - masterofgod	16680km2	6373045	B.K.	Rep	3970
+32.	Imperator(#78) - jowood2	10541km2	6287450	NULL	Utop	3649
+33.	-DEAD-iak tecou mu kola(#1031) - ppedrnikar	16343km2	6214012	ALIVE	Utop	3975
+34.	Raphael Poirée(#278) - biatlonmag	11999km2	6150766	42	Utop	3968
+35.	Let it Roll(#797) - Jareck	14437km2	6148543	NULL	Utop	3979
+36.	Jim Lahey(#420) - Chabi	14260km2	6123479	R.O.BOTS	Utop	3922
+37.	BUMBLEBEE(#816) - .whitewidow.	16008km2	6118115	R.O.BOTS	Tech	3978
+38.	Ruhmreichen Sieg(#79) - Dr.Memphisto	14462km2	6112762	.:?:.	Utop	3936
+39.	bull dominant killer(#51) - trisíííček	16123km2	6086894	Bull	Tech	3962
+40.	Pan Mazel(#678) - jOguRt44	18999km2	6074449	KÚ	Robo	3930
