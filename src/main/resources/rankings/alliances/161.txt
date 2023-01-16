@@ -1,0 +1,42 @@
+161. VĚK
+#	Aliance	Členů	Rozloha	Prestiž	Předseda
+1.	[ganja] GANJA	10	174311km2	53988965	(-+)(#561) - trubkatrubkovic
+2.	[.:?:.] CeNsoReD	10	132054km2	51433525	****?CEN?SO?RED?****(#1038) - rybka es atrás
+3.	[B.K.] Blitz Krieg	10	148863km2	51002756	Abc(#173) - johnny33
+4.	[R.O.BOTS] really obvious bots	10	138598km2	43065858	Bender Bending Rodríguez(#182) - blasticek
+5.	[=T=] Trója	10	145957km2	42594704	Winter is coming..(#33) - FR3EZY
+6.	[-=THC=-] The Heroic Company	10	149393km2	39502977	Dnes by to šlo(#679) - jOguRt44
+7.	[*WlM*] We like Milfs	10	122691km2	39074083	Nootka(#652) - Titous
+8.	[MK] Immortal knights	10	150007km2	38209204	kliksemkliktam(#618) - uzid
+9.	[**CQR**] Conquerors	10	130604km2	36347956	Dark Conqueror(#473) - vanna
+10.	[ALIVE] Alive	10	131519km2	36153606	ALIVE-ppedrjekar(#9873) - Degee
+11.	[*UF*] United Farms	10	180129km2	36095673	Defender(#118) - Dr.Leckter
+12.	[AveCesar] AveCesar a tvrdá dřina	10	105293km2	36041164	.:AveCesar:. Nero(#485) - Ares65
+13.	[YOZZEFY] Yozzefy = klídek = nedobývat	10	128200km2	34128147	Veterán - farmář(#72) - Allegro
+14.	[n1] jedny nikotýnky	10	155537km2	34011774	vojnomyšlienkár arach(#407) - esya
+15.	[Onlybest] Jednoducho najlepší	10	114889km2	33969325	::OB::Kuvik-19(#171) - travnicek
+16.	[NULL] ?	10	131434km2	33955862	FarmusMaximus(#66666) - R.A.E.K.
+17.	[JIHAD] expi sem ,expi tam	10	120618km2	33892558	-= Sp1r1t SpL31te =-(#189) - MySEl
+18.	[MAFIE-C] Mafie Circle	10	130073km2	33890477	sLeČinkA Olympia :-*(#504) - Remor
+19.	[MENSA] ...prostě (j)elita :)	10	118550km2	33672784	NESERA NAVALTO(#97) - Sir Extrem
+20.	[42] Dvaačtyřicet	10	114712km2	33310470	Dance my marionettes(#1006) - mara8
+21.	[tpOwCh] the power of wing chun	10	138592km2	32767595	tpOwCh bUchY(#313) - MaximusBuchymus
+22.	[**SNK**] SmeNaKašu	10	119467km2	32268610	Liška Bystrouška na Kašu(#347) - Jitus21
+23.	[LaRes] La Resistance	10	124399km2	31918188	kreyson(#649) - Dark moon spider
+24.	[Anarchy] Farmíme pro horší minulost	10	118124km2	30167053	Srdce mi pofoukáš...(#145) - thordevil
+25.	[MCU] Marvel	10	148076km2	30156510	Stan Lee(#106) - hagg1d
+26.	[FR] Flip Reset	10	138768km2	29576190	Seeing What is Next(#913) - ySpirit
+27.	[KÚ] Kaitánské Útočiště	10	143970km2	29310578	Deep Blue Kaitain(#421) - Telcontarr
+28.	[DC] DC Comics	10	132209km2	28570387	Batman nosí čočky(#327) - Fleship
+29.	[NRsF2] Nemám rád ... vy víte co	10	106155km2	28500276	NRsF: MO5TRASTAS(#66) - Beast Boban
+30.	[N-N-N] Nečum, Nebreč, Neotravuj	10	122644km2	27381102	Kdokoliv, jenom ne ty(#398) - Banlord
+31.	[NBS] Největší Blbci Světa	10	161874km2	26668200	BLBEC co má funkci(#47) - Walker
+32.	[BTC] Bitcoin	10	127914km2	26561706	Elon Musk:Dogecoin wallet(#730) - Drunk3n
+33.	[KOMPLEX] Komplex nejvícecenosti	10	137906km2	25034215	Nebreč(#1226) - Banlord
+34.	[NSFW] NOT SAFE FOR WEBGAME	10	109518km2	25013451	Pšoukatán(#265) - Šalda
+35.	[W.S] Warning Suiciders	10	128668km2	24196265	Ghi(#256) - johnny33
+36.	[SRAN] Tvoje máma	10	138426km2	23634949	Vánoční sasanka tvý mámy(#1016) - Vládce Kabraxis
+37.	[N.n.n-2] Nonic2	10	123544km2	23342793	Messiah(#364) - Carcas
+38.	[GTI] Ghost Troopers Imperium	7	86417km2	23019272	Wano country(#331) - mcweb
+39.	[.::R::.] Rytíři	10	155704km2	21868763	B*E*S*A*R*A*B*I*A(#156) - Abdul
+40.	[tpOwCh2] the power of wing chun	10	126676km2	21531132	tpOwCh yiP(#354) - MaximusBuchymus
