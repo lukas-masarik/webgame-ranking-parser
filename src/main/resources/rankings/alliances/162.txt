@@ -1,0 +1,42 @@
+162. VĚK
+#	Aliance	Členů	Rozloha	Prestiž	Předseda
+1.	[R.O.BOTS] really obvious bots	10	151118km2	74532432	Bender Bending Rodriguez(#145) - blasticek
+2.	[LBL] LBL	10	193549km2	68266381	Modrý pták(#238) - ridgeback
+3.	[ganja] GANJA	10	184509km2	67125153	Smile :)(#924) - PinkPanther
+4.	[MK] immortal knigts	10	157892km2	63340461	hanasland(#1116) - hanass
+5.	[42]	10	155252km2	62889677	Dance my marionettes(#255) - mara8
+6.	[Bubáci] Dobráci	10	211395km2	62115677	Ten Hodný(#442) - .DuKeLuKe.
+7.	[FR] Flip Reset	10	143450km2	61452671	Raiden Shogun(#90) - ySpirit
+8.	[**CQR**] Conquerors	10	169501km2	60725245	Dark Conqueror(#435) - vanna
+9.	[KCI.] Karavana`s Club I.	10	152477km2	60409432	MAVEHO KARAVANA(#325) - maverickynwa
+10.	[-=KA=-] Killa Army	10	158323km2	59605921	-=KA=-lička meskalinu(#172) - Athara
+11.	[.::R::.] Rytíři	10	176448km2	50832054	B*E*S*A*R*A*B*I*A(#210) - Abdul
+12.	[WG-PROF] WG-PROFESSIONAL	10	146648km2	48478373	Pavlínka(#6969) - Neodym
+13.	[-=THC=-] The Heroic Company	10	152465km2	48295355	Dnes by to šlo(#4444) - jOguRt44
+14.	[RATS] Krysa komando	10	139018km2	47789118	Som presne taky ako ty(#327) - Luke the Great
+15.	[(V)oo(V)] The Crabs	10	187161km2	46666904	Dr. John Zoidberg(#143) - blasticek
+16.	[MÁMA] Tvoje druhá máma	10	130787km2	44940063	Měchy tvojí mámy(#717) - gugoslav
+17.	[*WlM*] We like Milfs	10	130369km2	43546512	Nootka(#805) - Titous
+18.	[NULL] ?	10	140069km2	42717981	Na spojence nelze útočit.(#12345) - R.A.E.K.
+19.	[-GW-] Green Way	10	135113km2	42227513	Santa María Ajoloapan(#411) - Kubikk84
+20.	[B.K.] Blitz Krieg	10	175428km2	41785570	Abc(#118) - johnny33
+21.	[MCU] Marvel	10	124995km2	37054096	Thor(#1074) - Uaah
+22.	[MK2] Immortal knigts 2	10	133164km2	36809286	BunboNamBo(#1124) - hanass
+23.	[T3R0R1ST] W3 4R3 T3RR0R1STS	10	154949km2	36714871	Jedeme bomby(#1111) - masterWG
+24.	[*UF*] United Farms	10	122253km2	36444979	Memento mori(#1224) - XQG
+25.	[AUTORITA] Celé jméno aliance (povinné)	10	146846km2	35621865	War Machine(#1249) - masterofgod
+26.	[.Ganja.] ganja	6	112040km2	34293599	Kviii(#950) - Joker16.
+27.	[Anarchy] Farmíme pro lepší budoucnost	10	141170km2	34239969	Srdce mi pofoukáš...(#664) - thordevil
+28.	[SRAN] Tvoje Máma	10	135536km2	33855200	Pucujem sasanku tvý mámy(#523) - Vládce Kabraxis
+29.	[queens] QUEENS	10	138938km2	33572121	(-+)(#96) - trubkatrubkovic
+30.	[ALI1234] ALI1234	10	128983km2	33539130	usti(#975) - vachys39
+31.	[Bull] Bully Division	10	131508km2	32760792	bull dominant killer(#889) - trisíííček
+32.	[tpOwCh] the power of wing chun	10	144620km2	31956770	tpOwCh bUchY(#46) - MaximusBuchymus
+33.	[M] MOON	10	161810km2	31941256	Atlan(#124) - Atlantik
+34.	[W.S] Warrior System	10	150407km2	31664482	Ghi(#121) - johnny33
+35.	[ALIVE] Ladik nema curo	10	127429km2	30682533	ALIVEderči(#906) - ppedrnikar
+36.	[YOZZEFY] Yozzefy = klídek = nedobývat	10	143840km2	30680609	Veterán - farmář(#230) - Allegro
+37.	[Sekec] Mazec	10	150893km2	30147877	Ještě jedno prosím(#41) - FR3EZY
+38.	[P.P.A.] Powerful Pagan Alliance	10	127800km2	29844088	maskot(#129) - FTWD
+39.	[kalamár] kalamáři	10	161772km2	29549822	smažený kalamár(#146) - blasticek
+40.	[hunteRs.] We are hunteRs	10	103222km2	28571929	.hunteRs.Rimmerosvět(#45) - Geralt z Rivie

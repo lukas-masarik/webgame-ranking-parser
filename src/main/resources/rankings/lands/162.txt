@@ -1,0 +1,42 @@
+162. VĚK
+#	Země	Rozloha	Prestiž	Aliance	Vláda	Kol
+1.	Pekingske zelí(#1409) - ....dog....	27650km2	16178540	-=KA=-	Tech	3936
+2.	Michael Jackson(#655) - Nepochopisnikdy	20156km2	14818493	GOAT	Demo	3842
+3.	Drax nicitel(#126) - Supra1Soul5Play	25515km2	13894373	MCU	Demo	3955
+4.	Ultima forsan(#1225) - XQG	25000km2	12980520	*UF*	Tech	3581
+5.	A za kolik expu to bylo?(#1132) - Saturas	19999km2	12543091	.Ganja.	Utop	3646
+6.	(+-))(#95) - trubkatrubkovic	16504km2	12535918	ganja	Tech	3972
+7.	Dr. John Zoidberg(#143) - blasticek	24592km2	12204302	(V)oo(V)	Robo	3945
+8.	Som presne taky ako ty(#327) - Luke the Great	24170km2	11919875	RATS	Demo	3686
+9.	Seeing What is Next(#91) - ySpirit	13431km2	11893050	FR	Tech	3979
+10.	Rodinná sešlost(#610) - MAFline	16666km2	11697750	42	Utop	3954
+11.	Tadadá(#758) - BlemBlem	25355km2	11645015	B.K.	Demo	3979
+12.	tpOwCh Satori na vlnách(#992) - Degee	27679km2	11290888	tpOwCh	Robo	3965
+13.	Bull sh*t(#934) - Duskooo	30546km2	10388084	Bull	Robo	3973
+14.	B*E*S*A*R*A*B*I*A(#210) - Abdul	28781km2	9951576	.::R::.	Robo	3959
+15.	Ždorp(#952) - Joker16.	27713km2	9749416	.Ganja.	Robo	3977
+16.	Bender Bending Rodriguez(#145) - blasticek	15414km2	9739119	R.O.BOTS	Utop	3654
+17.	Deuso(#168) - Deus	18000km2	9718431	ALIVE	Utop	3979
+18.	SiL ikONy 4EveR(#365) - klankosti	15155km2	9475928	R.O.BOTS	Tech	3971
+19.	Amoeba Boys(#333) - Muffia	17001km2	9434858	PPB	Utop	3936
+20.	Wuki a Stat(#1117) - hanass	14961km2	9432926	MK	Tech	3971
+21.	Loki(#1130) - Uaah	17999km2	9423307	MCU	Utop	3894
+22.	VITAMIN X(#157) - Broot	20882km2	9379543	queens	Tech	3979
+23.	LOS made in Ukrajina(#936) - Eph3dr1ne	19199km2	9368464	.L.O.S.	Tech	3501
+24.	Inspiro(#453) - dentitios	24444km2	9318741	Bubáci	Fund	3978
+25.	Thunderstorm(#1250) - masterofgod	21084km2	9185977	AUTORITA	Rep	3968
+26.	Ten Hodný(#442) - .DuKeLuKe.	20900km2	9111746	Bubáci	Tech	3978
+27.	Bud agilny bud in(#663) - ftacik	25298km2	8970374	n1	Feud	3663
+28.	Citlivka(#1231) - ttrtt	21372km2	8910442	?	Utop	3973
+29.	Smile :)(#924) - PinkPanther	18953km2	8819266	ganja	Fund	3978
+30.	Imperator(#181) - jowood2	25327km2	8724953	BW	Robo	3990
+31.	Tragedis(#103) - Joker16.	20970km2	8638469	ganja	Fund	3976
+32.	Bot Digger Nick(#661) - budhahahahaha	15496km2	8531075	R.O.BOTS	Utop	3856
+33.	Grýn(#266) - green88	22943km2	8524926	)CD(	Dikt	3964
+34.	BOT 3XTV7P(#434) - Arzach	14633km2	8508230	R.O.BOTS	Utop	3869
+35.	Ukradená KARAVANA(#307) - Ersango	14939km2	8474213	KCI.	Kom	3978
+36.	The Heroic Toucan(#332) - Tukenssen	16651km2	8462420	-=THC=-	Utop	3978
+37.	Erebos(#773) - king leonardo	16498km2	8444388	NULL	Utop	3978
+38.	Hrejsemnou(#747) - AzorAhai	22222km2	8327904	W.S	Tech	3977
+39.	Dobrá sváča tvojí mámy(#1308) - lugh	14289km2	8304519	MÁMA	Utop	3605
+40.	FULL OF HELL(#154) - Broot	21488km2	8195559	ganja	Robo	3979
