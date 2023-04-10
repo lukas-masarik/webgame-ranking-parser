@@ -1,0 +1,42 @@
+163. VĚK
+#	Aliance	Členů	Rozloha	Prestiž	Předseda
+1.	[Bubáci] Bubáci	10	173820km2	66718921	Ten Hodný(#39) - .DuKeLuKe.
+2.	[*UF*] United Farms	10	150648km2	65386929	Kudla v Zádech(#713) - Lord Rechleek
+3.	[B.K.] Blitz Krieg	10	170199km2	59582898	Wonafka(#115) - johnny33
+4.	[M] MOON	10	168315km2	57069683	Atlan(#371) - Atlantik
+5.	[BAMBUSKY] Zábradlie patrí do zberu	10	102457km2	51478337	BOH odpúšťa JA nie(#440) - K.N.M KoLLo
+6.	[ALIVE] ALIVE	10	103945km2	39688090	ALIVEderči(#968) - ppedrnikar
+7.	[ČSB] ČehoSeBojím	10	144811km2	39661732	Bojím se o přežití...(#272) - Veriax
+8.	[NSFW] NOT SAFE FOR WEBGAME	10	136322km2	36460429	Angel of Death(#351) - RSkater88
+9.	[ALI1234] ALI1234	10	137172km2	35330960	usti(#1286) - vachys39
+10.	[*RTH*] Road to Hell	10	139085km2	34560159	papuče už máš?(#192) - Labbakan
+11.	[)CD(] Cyničtí Důchodci	10	127355km2	34497665	Grýn(#225) - green88
+12.	[.::R::.] Rytíři	10	126135km2	34314154	B*E*S*A*R*A*B*I*A(#137) - Abdul
+13.	[.hunteRs] We are hunteRs	10	117522km2	34299830	.hunteRs.Badger(#427) - K.a.S.i.o
+14.	[D3V1L5] Masters of Underworld	10	140905km2	33501955	*Wiking*(#715) - SVKelt
+15.	[Afrik] Velký Černý Klacek	10	136564km2	33272301	Mosambik(#686) - Lord Rechleek
+16.	[WG-PROF] WG-PROFESSIONAL	10	147339km2	33188295	Timewarp(#6666) - Neodym
+17.	[MZA] Malomyslní Zubaři Antilop	10	126599km2	33123930	Klekni si....(#1019) - Michellion
+18.	[-=THC=-] The Heroic Company	10	139698km2	32548357	zem nikoho(#1099) - jOguRt44
+19.	[DC] DC Comics	10	158944km2	31806736	Batman(#94) - Fleship
+20.	[MENSA] ...prostě (j)elita :)	10	139054km2	29909245	NESERA NAVALTO(#904) - Sir Extrem
+21.	[LaRes] La Resistance	10	121274km2	29502573	Láďa křížek(#589) - Dark moon spider
+22.	[42]	10	103509km2	29284049	Dance my marionettes(#349) - mara8
+23.	[-GW-] Green way	10	133316km2	29217166	Poder Hidalguense(#500) - Kubikk84
+24.	[=FF=] Frigid Friends	10	130559km2	28886849	Prosim(#538) - Josefko
+25.	[SB] SpikeBallers	10	159897km2	28357500	Aeternum Vale..(#110) - DieWalker
+26.	[UED] UED	9	139162km2	28209927	United Earth Directory(#1028) - Anox
+27.	[NULL] ??????????????????????????????	10	135728km2	27817696	Julius Caesarus Totalus(#526) - R.A.E.K.
+28.	[**SNK**] SmeNaKašu	10	118054km2	27658690	Liška Bystrouška na Kašu(#83) - Jitus21
+29.	[AveCesar] AveCesar a nekonečno	10	119373km2	27086612	.:AveCesar:. Claudius(#1033) - Ares65
+30.	[YOZZEFY] Yozzefy = pohoda klik	10	137858km2	26534356	Veteran - farmář(#173) - Allegro
+31.	[MDMA] 3,4-metylenedioxymetamfetamin	6	93777km2	26512701	Sober(#1170) - Jiriss
+32.	[atrs] Anti talenti, rozlámaný sáňky	10	127190km2	26378400	Nacre fortress(#651) - anduril
+33.	[SM] Sekec Mazec	10	120517km2	26022968	Mohl bych ti dělat tátu(#398) - ChoWky
+34.	[tpOwCh2] the power of wing chun	10	126855km2	25845891	tpOwCh yiP(#177) - MaximusBuchymus
+35.	[NUKE] Naše ukulele krásně emituje	10	134041km2	25794414	Sir Indy ho republika(#1177) - mara8
+36.	[Anarchy] Farmíme pro lepší minulost	10	125301km2	25719178	Srdce mi pofoukáš...(#86) - thordevil
+37.	[tpOwCh] the power of wing chun	8	115381km2	24964133	tpOwCh bUchY(#175) - MaximusBuchymus
+38.	[Ganja] ganja	10	119537km2	24566125	Smile :)(#1112) - PinkPanther
+39.	[DooM] Doomtroopers	10	102504km2	22995948	Divocí a zlí(#199) - maniacz
+40.	[-osn-] OsprostenaStaraNota	10	136109km2	22872540	-osn-ruzove v pive(#541) - D1N1AK
