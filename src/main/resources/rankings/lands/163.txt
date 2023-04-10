@@ -1,0 +1,42 @@
+163. VĚK
+#	Země	Rozloha	Prestiž	Aliance	Vláda	Kol
+1.	Inspiro(#779) - dentitios	22100km2	21313238	Bubáci	Tech	3474
+2.	Ondskan(#1171) - ridgeback	25120km2	18747913	42	Kom	3650
+3.	Moonbase(#603) - hum4nic	26444km2	16715507	M	Tech	3890
+4.	Jason Bourne(#185) - Comanndos	9222km2	12700000	BAMBUSKY	Tech	3859
+5.	Mathieu van der Poel(#187) - Comanndos	24888km2	12030000	GOAT	Kom	3600
+6.	WG-Profl(#409) - king leonardo	22020km2	11228622	WG-PROF	Tech	3938
+7.	Ultima forsan(#1081) - XQG	18248km2	10517826	*UF*	Tech	3929
+8.	Mláka ma láka(#1333) - .Grim.	17679km2	10433677	M	Utop	3948
+9.	Láka ma mláka(#1222) - .Grim.	24899km2	10266866	Bubáci	Feud	3810
+10.	Pocem a zvopakuj to(#1417) - Abed.Nego	28865km2	10000533	SVAČINA	Tech	3965
+11.	Wayland Industries(#955) - StillDeadCZ	23746km2	9861725	VzP	Demo	3977
+12.	Il tempo se ne va(#696) - podwratak	18120km2	9603818	VÍCADMIN	Tech	3975
+13.	Bojím se o tvou zem(#828) - SOH	19324km2	9475243	ČSB	Kom	3845
+14.	DuronHD(#153) - dlllb	17039km2	9284469	-GW-	Utop	3960
+15.	Hrejsemnou(#887) - AzorAhai	22620km2	9169187	B.K.	Rep	3974
+16.	Krocan Rudolf komunista:((#342) - Krocan.II.Veliký	19120km2	9118352	.:AD:.	Kom	3865
+17.	Amoeba Boys(#628) - Muffia	21700km2	8755233	UED	Feud	3950
+18.	Grýn(#225) - green88	19999km2	8701783	)CD(	Demo	3962
+19.	Teletabis(#959) - Tinky binky ex	19103km2	8414344	tpOwCh	Tech	3869
+20.	Hello Dolly(#1596) - Honzík	20000km2	8408025	-osn-	Tech	3970
+21.	the GOODFATHER(#1607) - Sir Extrem	22022km2	8397275	FATHERS	Fund	3954
+22.	Air....(#1427) - kill666	19999km2	8328497	*UF*	Tech	3960
+23.	Není malej, tělo je velký(#9873) - Degee	11499km2	8192685	ALIVE	Kom	3906
+24.	Memento mori(#1080) - XQG	16000km2	8108156	*UF*	Utop	3928
+25.	Accusator publicus(#1111) - podwratak	14263km2	8000412	SG1	Tech	3974
+26.	Ukliknutí(#744) - king leonardo	18489km2	7988711	NULL	Demo	3973
+27.	MAW MAU :-(#30303) - G.R.E.E.K	21180km2	7959031	Bubáci	Rep	3958
+28.	usti(#1286) - vachys39	18058km2	7901635	ALI1234	Demo	3971
+29.	Krupičná kaše(#4444) - Pijomijo	17999km2	7888198	SG1	Utop	3967
+30.	Fuzzy Lumpkins(#362) - Muffia	14406km2	7867657	PíPíBí	Tech	3972
+31.	Deus(#1101) - Deus	11215km2	7600000	BAMBUSKY	Tech	3948
+32.	Nepřátelským mechům(#142) - Beleriand	17393km2	7531762	TSŽ	Tech	3973
+33.	Clean(#1542) - Jiriss	21937km2	7388215	MDMA	Robo	3975
+34.	A kde je mezihra?(#963) - ttrtt	16953km2	7248402	B.K.	Dikt	3974
+35.	ImmaBeDaVeryBest(#1621) - forkys	12705km2	7143897	)CD(	Utop	3513
+36.	Sober(#1170) - Jiriss	15282km2	7034585	MDMA	Tech	3970
+37.	Eror11(#130) - Eror11	16118km2	6925334	*RTH*	Tech	3973
+38.	The Heroic Toucan(#393) - Tukenssen	12960km2	6917922	-=THC=-	Utop	3974
+39.	Neutíkej, zemřeš unavenej(#724) - siroko	20231km2	6838840	FA	Utop	3947
+40.	Burundi(#105) - Dr.Leckter	18687km2	6802160	Afrik	Robo	3945
