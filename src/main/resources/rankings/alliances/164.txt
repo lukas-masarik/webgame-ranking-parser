@@ -1,0 +1,42 @@
+164. VĚK
+#	Aliance	Členů	Rozloha	Prestiž	Předseda
+1.	[VŠE] Vysoká škola expení	10	170091km2	53858308	Učím se nezavírat bary(#46) - Mr. Sedlinno
+2.	[=T=] Trója	10	165631km2	53288662	Chulimanga(#1188) - FR3EZY
+3.	[WG-PROF] WG-PROFESSIONAL	10	143632km2	51891571	Generál JoWood(#271) - jowood2
+4.	[KCIII.] Karavana`s Club III.	10	117634km2	45619492	MAVEHO KARAVANA III.(#350) - maverickynwa
+5.	[MENSA] ...prostě (j)elita :)	10	166007km2	45314149	NESERA NAVALTO(#498) - Sir Extrem
+6.	[-.-] -.-	10	155649km2	45301632	Horí ti zem :)(#238) - Duskooo
+7.	[-GW-] Green way	10	132473km2	44993285	Poder Hidalguense(#325) - Kubikk84
+8.	[SRAN] Tvoje máma	10	153968km2	44377927	Pucuju sasanku tvý mámy(#376) - Vládce Kabraxis
+9.	[T3R0R1ST] T3R0R1ST	10	190153km2	44036449	TERRORSIT NEVER DIES(#359) - G.R.E.E.K
+10.	[VIR] VIR	10	155772km2	42392603	Easy target,feelin this?(#114) - Mrkvička777
+11.	[LBL] LBL	10	106657km2	41065831	Modrý pták(#511) - ridgeback
+12.	[PíPíBí] Power Puff Boys	10	107535km2	40457322	Fuzzy Lumpkins(#253) - Muffia
+13.	[Ganja] ganja	10	158381km2	39559270	Tragedis(#121) - Joker16.
+14.	[AveCesar] AveCesar a impérium	10	116024km2	38925488	.:AveCesar:. Domitianus(#573) - Ares65
+15.	[SIL] Silmarillion	10	122920km2	38853814	Los Blancos(#428) - Martin858
+16.	[Across] Idealistic Organization	10	149529km2	38780109	I Hate Models...(#236) - marv III
+17.	[DC] DC Comics	10	134722km2	37977649	Batman(#844) - Fleship
+18.	[.::R::.] Rytíři	10	153988km2	37622395	B*E*S*A*R*A*B*I*A(#230) - Abdul
+19.	[*`=/-.,] Supramen	10	138585km2	37234774	Moon walker(#149) - Supra1Soul5Play
+20.	[Anarchy] Farmíme pro horší budoucnost	10	118348km2	36950558	Srdce mi pofoukáš...(#791) - thordevil
+21.	[W.S] Warrior System	10	153207km2	36717439	def(#86) - johnny33
+22.	[.Ganja.] ganja	10	150462km2	36275824	Mňága(#124) - Joker16.
+23.	[NULL] ?????????????????????????????	10	141606km2	36254591	Lupič(#460) - R.A.E.K.
+24.	[**SNK**] SmeNaKašu	10	135866km2	35173244	Liška Bystrouška na Kašu(#579) - Jitus21
+25.	[IBHZK] Ich bin hier zur Kur	10	131471km2	34819494	Now I am become Death(#653) - MOTOR O1L
+26.	[ETH] Ethereum 2.0	10	163094km2	34514732	No pain, no gain. :D(#10000) - Drunk3n
+27.	[MÁMA] Tvoje druhá máma	10	109460km2	32874514	Mechy tvojí mámy(#279) - gugoslav
+28.	[NSFW] NOT SAFE FOR WEBGAME	10	121544km2	32584066	Hýčkanie(#75) - huhuk
+29.	[YOZZEFY] Yozzefy = klídek	10	114762km2	31233033	Veteran - farmář(#721) - Allegro
+30.	[A.d.p] Ali dávno padlých	10	136134km2	30748446	Mrtvá planeta(#480) - Smr?ák5
+31.	[MCU] Marvel	10	179916km2	30043123	Stan Lee(#311) - hagg1d
+32.	[tpOwCh] The power of wing chun	10	158652km2	29791320	tpOwCh bUchY(#330) - MaximusBuchymus
+33.	[DooM] Doomtroopers	10	120031km2	28544293	Záludný Alakhai(#616) - Yurnero
+34.	[GLum] Gemolapidárium	10	112031km2	28111034	Humuhumunukunukuuapua(#733) - Michal The Great
+35.	[KCI.] Karavana`s Club	10	135780km2	27994334	MAVEHO KARAVANA(#308) - maverickynwa
+36.	[-=THC=-] The Heroic Company	10	144081km2	27969090	zem nikoho(#831) - jOguRt44
+37.	[.:?:.] CeNsoReD	10	160657km2	27559963	****?CEN?SO?RED?****(#1254) - rybka es atrás
+38.	[-=LH=-] Lonely Hearts	10	135262km2	27536480	-=LH=-ář No.1(#322) - hagg1d
+39.	[MZA] Monastir zasloužíš Adalberte	10	147246km2	27499067	Klekni si....(#945) - Michellion
+40.	[SM] Sytý mnich	10	111399km2	27011746	Mohl bych ti dělat tátu(#1002) - ChoWky
