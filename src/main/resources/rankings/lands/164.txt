@@ -1,0 +1,42 @@
+164. VĚK
+#	Země	Rozloha	Prestiž	Aliance	Vláda	Kol
+1.	Dawe?(#1460) - Cenzor3d	20381km2	11843833	Across	Kom	3936
+2.	Abc(#78) - johnny33	23833km2	11374330	B.K.	Kom	3954
+3.	Flowering Peach(#459) - Seksymania	23800km2	10682504	.::R::.	Dikt	3978
+4.	Batman(#844) - Fleship	20788km2	10551582	DC	Demo	3973
+5.	KARAVANA mraků(#229) - lugh	15120km2	9695236	KCIII.	Utop	3802
+6.	Emperor(#272) - jowood2	18999km2	9573377	N:J	Utop	3972
+7.	Yellow Jasmine(#476) - Seksymania	23086km2	9251577	MENSA	Demo	3977
+8.	ACHMED T3R0R1STA(#447) - masterWG	29122km2	8999678	T3R0R1ST	Robo	3871
+9.	Rozruch(#1070) - o.O.oDin	18901km2	8949799	ETH	Kom	3973
+10.	Učím se .(#64) - Deltes IX	17403km2	8858397	VŠE	Demo	3977
+11.	Eunectes marinus(#829) - .HARKOMEN.	20251km2	8771909	VIR	Kom	3843
+12.	Rian(#234) - Tulusus	21058km2	8686117	)CD(	Utop	3953
+13.	Zvíře(#1500) - Luza	14811km2	8665679	IBHZK	Utop	3696
+14.	03(#415) - daxicek	18266km2	8451269	CaC	Utop	3977
+15.	Vincent Mangano(#246) - M3mmOrY	12999km2	8339459	A2	Anar	3855
+16.	ALIVEderči(#838) - ppedrnikar	16593km2	8275460	ALIVE	Utop	3809
+17.	Killer Dark(#1122) - dlllb	15615km2	8259169	-GW-	Utop	3968
+18.	Bude lepšie(#366) - tvojasmrt	14999km2	8182657	LBL	Utop	3924
+19.	Ještě jedno prosím(#1189) - FR3EZY	18877km2	8118103	=T=	Kom	3975
+20.	Maľ ši branic(#720) - skazinoska	18841km2	8050143	tpOwCh	Utop	3840
+21.	The Heroic Toucan(#682) - Tukenssen	16956km2	8032865	-=THC=-	Utop	3965
+22.	Panika Brouka Pytlika(#1029) - SnookerLand	17042km2	8002222	**SNK**	Utop	3977
+23.	Star Lord(#153) - Supra1Soul5Play	17226km2	7981598	MCU	Utop	3941
+24.	Moon walker(#149) - Supra1Soul5Play	19999km2	7947239	*`=/-.,	Rep	3979
+25.	Utopie tvojí mámy(#203) - lugh	18641km2	7824478	SRAN	Utop	3624
+26.	Plantaznik(#465) - Lucky6186	18124km2	7788852	=T=	Feud	3975
+27.	O třech prasátkách(#1375) - JJura	19045km2	7689296	PCH	Robo	3963
+28.	Born_to_Win =)(#379) - jerry360	15990km2	7575077	*`=/-.,	Utop	3942
+29.	FULL OF HELL(#222) - Broot	25162km2	7503610	Ganja	Demo	3978
+30.	Vyplac sa mi do posty :)(#239) - Duskooo	18333km2	7382106	-.-	Robo	3944
+31.	come on(#1139) - Ctirad2	17969km2	7371326	-.-	Dikt	3936
+32.	Badle land(#386) - Seiger	17855km2	7282697	-)T(-	Tech	3979
+33.	Střechy jsou mi chodníkem(#147) - Dhany	15004km2	7259366	TSŽ	Utop	3978
+34.	p1(#757) - Unreal Maniak	15894km2	7254946	WG-PROF	Utop	3824
+35.	The best or nothing..(#277) - jowood2	14936km2	7224290	A.d.p	Utop	3675
+36.	Popokatepetl(#364) - Fr33k1ll3r	13967km2	7118030	KKML	Tech	3975
+37.	Učím se nebejt noname(#307) - alien13	17885km2	7072080	VŠE	Utop	3968
+38.	Učím se bzučíce(#343) - VosoK	19408km2	7044018	VŠE	Robo	3964
+39.	Dobrá sváča tvojí mámy(#173) - lugh	16392km2	7030816	MÁMA	Utop	3392
+40.	Captain Marvel(#1421) - rybka es atrás	17916km2	7000000	.:??:.	Utop	3684
