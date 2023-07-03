@@ -1,0 +1,42 @@
+165. VĚK
+#	Země	Rozloha	Prestiž	Aliance	Vláda	Kol
+1.	Inspiro(#433) - dentitios	35379km2	11596254	.::R::.	Demo	3979
+2.	Budoucnost patří aluminiu(#658) - Uaah	19999km2	10100672	-4F-	Utop	3947
+3.	HMS Victory(#193) - Luke the Great	22510km2	10096348	SR	Kom	3687
+4.	Finlandia(#1157) - ftacik	25880km2	10087817	D1KTATOR	Robo	3966
+5.	this is the way(#320) - Lord Demokrat	20411km2	9592440	Across	Tech	3930
+6.	Měsíční zahrada(#1096) - Technopol	27452km2	9442489	-GW-	Robo	3979
+7.	The Heroic Toucan(#995) - Tukenssen	18963km2	9255945	-=THC=-	Utop	3940
+8.	MAVEHO KARAVANA(#448) - maverickynwa	14000km2	9055254	KCI.	Utop	3886
+9.	Born_to_Win =)(#773) - jerry360	19500km2	8802418	NNT	Rep	3979
+10.	Winter is coming..(#764) - FR3EZY	17423km2	8269579	=T=	Utop	3937
+11.	The future is now(#2012) - Uaah	18699km2	8226947	-4F-	Robo	3977
+12.	Krypton(#601) - .HARKOMEN.	15399km2	8028061	Klobása	Tech	3924
+13.	Arnor(#1429) - Gil Galad	14308km2	7810181	EX	Utop	3740
+14.	Tinky binky(#1258) - Tinky binky ex	19999km2	7453084	...BN...	Tech	3970
+15.	why not(#1230) - Paskal	16800km2	7444444	Ganja	Tech	3923
+16.	Zmena je život a vozo je*(#883) - Kacocentrum	19325km2	7439609	.:RD:.	Feud	3977
+17.	Harleen Frances Quinzel(#996) - Solo el codo	19388km2	7418136	DC	Robo	3958
+18.	Diakonie Kol Propadlých(#644) - Valkia	18155km2	7356364	PPN	Utop	3978
+19.	Kanabichromen(#926) - Sancti.	15244km2	7216394	NGTY	Utop	3979
+20.	gen. Emil Boček(#96) - Kresous	18423km2	7215817	VIR	Demo	3889
+21.	Days of Future Past(#439) - Luke the Great	17999km2	7115878	-4F-	Demo	3936
+22.	tpOwCh Rufus(#904) - StillDeadCZ	13428km2	7021331	tpOwCh	Utop	3979
+23.	Maľ ši branic(#629) - skazinoska	15278km2	7018475	tpOwCh	Tech	3897
+24.	Hellow Empty Future(#171) - hagg1d	20588km2	7002429	-4F-	Tech	3972
+25.	Pivo je slast ale pozor(#652) - Jukalis	25887km2	6916823	...BN...	Feud	3974
+26.	Conqueror Zafod Bíblbrox(#1044) - mara8	16499km2	6848657	**CQR**	Kom	3939
+27.	Jahoda(#352) - VW1303	20575km2	6804714	VIR	Utop	3979
+28.	BLBEC hledá BLBCE(#303) - Supra1Soul5Play	21222km2	6778034	NBS	Demo	3974
+29.	HLADIČ(#1115) - kakakakola	20266km2	6704214	tAoW	Demo	3979
+30.	222(#1279) - kaamilko	22222km2	6655315	.:RD:.	Robo	3931
+31.	Xandarie(#480) - Xandarian	17271km2	6652057	PHOENIX	Utop	3936
+32.	.hunteRs.Platypus(#916) - K.a.S.i.o	21356km2	6626199	hunteRs.	Dikt	3958
+33.	Panika Brouka Pytlika(#111) - SnookerLand	11563km2	6587800	**SNK**	Tech	3978
+34.	Bojím se hucimakakuka(#1376) - labojse	17737km2	6561102	ČSB	Robo	3969
+35.	Jak je?(#1423) - j.o.h.n.y.s	18242km2	6535821	NEIRO	Utop	3869
+36.	Future winner(#565) - rybka es atrás	17999km2	6527442	-4F-	Utop	3940
+37.	Wayland Industries(#855) - StillDeadCZ	16167km2	6518430	BTC	Tech	3970
+38.	*+*-*+*(#335) - SpeRy	16500km2	6504631	SPRITE	Utop	3977
+39.	Tukanova KARAVANA(#431) - Tukenssen	15118km2	6423995	KCI.	Utop	3978
+40.	KARAVANA STASTIA(#935) - Tukenssen	14826km2	6412921	KCI.	Utop	3978

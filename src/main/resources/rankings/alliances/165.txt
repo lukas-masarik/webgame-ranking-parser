@@ -1,0 +1,42 @@
+165. VĚK
+#	Aliance	Členů	Rozloha	Prestiž	Předseda
+1.	[-4F-] 4 the Future	10	167453km2	61790676	Budoucnost patří aluminiu(#658) - Uaah
+2.	[KCI.] Karavana`s Club I.	10	132563km2	53050466	MAVEHO KARAVANA(#448) - maverickynwa
+3.	[-GW-] Global Warming	10	174274km2	46431690	Poder Hidalguense(#412) - Kubikk84
+4.	[-=THC=-] The Heroic Company	10	161949km2	42288767	zem nikoho(#403) - jOguRt44
+5.	[ČSB] ČehoSeBojím	10	153510km2	41943708	Bojím se o přežití...(#1208) - Veriax
+6.	[.:RD:.] Red dwarf	10	156621km2	41033877	-osn-ruzove v pive(#514) - D1N1AK
+7.	[Klobása] Pražená, uzená, tvrdá	10	147467km2	39581455	Air...(#962) - kill666
+8.	[.::R::.] Rytíři	10	188487km2	37110283	B*E*S*A*R*A*B*I*A(#919) - Abdul
+9.	[Across] Idealistic Organization	10	146250km2	36681356	I Hate Models...(#1078) - marv III
+10.	[**CQR**] Conquerors	10	132281km2	36294000	Dark Conqueror(#526) - vanna
+11.	[ČSN] ČehoSeNebojím	10	127435km2	36147138	Nebojím se o přežití...(#1325) - Veriax
+12.	[NGTY] NEGATIVITY	10	141765km2	35690581	Jdesenato(#126) - seosen
+13.	[VIR] VIR	10	136841km2	35635509	Easy target,feelin this?(#736) - Mrkvička777
+14.	[LaRes] La Resistance	10	126718km2	34673416	Láďa křížek(#583) - Dark moon spider
+15.	[SM] Sak maj D	10	130048km2	34647252	Mohl bych ti dělat tátu(#154) - ChoWky
+16.	[NRsF] Not Ready to see Farms here	10	164468km2	34633580	NRsF: MOSTRASTAS(#10001) - Beast Boban
+17.	[PíPíBí] Power Puff Boys	10	115066km2	34339556	Fuzzy Lumpkins(#552) - Muffia
+18.	[SRAN] Tvoje máma	10	121684km2	33764476	Pucuju sasanku tvý mámy(#845) - Vládce Kabraxis
+19.	[Anarchy] Farmíme pro horší minulost	10	110012km2	33617466	Srdce mi pofoukáš...(#87) - thordevil
+20.	[YOZZEFY] Yozzefy = farmy se nedobývají	10	123102km2	33519822	Veteran - farmář(#376) - Allegro
+21.	[D1KTATOR] D1E FOR THE DARK SIDE	8	143609km2	32959248	ZERO tolerance(#73) - 000000000
+22.	[AveCesar] AveCesar a Řím	10	116489km2	32609425	.:AveCesar:. Galba(#567) - Ares65
+23.	[tpOwCh] the power of wing chun	10	148008km2	32293734	tpOwCh bUchY(#100) - MaximusBuchymus
+24.	[NULL] ????????????????????????????	10	119561km2	31896146	Právě jsem rozbil Ford(#777) - R.A.E.K.
+25.	[NBS] Největší Blbci Světa	10	158240km2	31460982	BLBEC co má funkci(#129) - Walker
+26.	[MZA] Mazlavé Zadní Antigonum	10	144329km2	31232603	Klekni si....(#976) - Michellion
+27.	[=T=] Trója	10	157959km2	31163911	Winter is coming..(#764) - FR3EZY
+28.	[MENSA] ...prostě (j)elita :)	8	117624km2	30249661	Prof. NESERA NAVALTO(#258) - Sir Extrem
+29.	[**SNK**] SmeNaKašu	10	126815km2	29617421	Liška Bystrouška na Kašu(#70) - Jitus21
+30.	[MÁMA] Tvoje druhá máma	10	134896km2	29188784	Měchy tvojí mámy(#479) - gugoslav
+31.	[-)T(-] Trinity	10	138163km2	29032500	TheFiveElementsOfEart(#780) - Seiger
+32.	[DC] DC Comics	10	138163km2	28522909	Batman(#536) - Fleship
+33.	[Ganja] ganja	10	125881km2	27543205	Tragedis(#1128) - Joker16.
+34.	[-.-] -.-	10	124331km2	27423581	Horí ti zem :)(#958) - Duskooo
+35.	[D3V1L5] Masters of Underworld	10	131762km2	25738279	*Wiking*(#449) - SVKelt
+36.	[H2] HeroesII	10	119757km2	25422130	TAX(#614) - Rhodan
+37.	[BTC] Bitcoin	10	128406km2	23955708	Elon Musk:Dogecoin wallet(#367) - Drunk3n
+38.	[HAMAS] expi sem ,expi tam	10	126035km2	23838254	-= Sp1r1t SpL31te =-(#1306) - MySEl
+39.	[Demo] Demolácia	10	117043km2	23825510	Hrám napriek zábave(#89) - Trey
+40.	[FCT] FCT	10	117579km2	22368809	Eror11(#929) - Eror11
