@@ -1,0 +1,42 @@
+166. VĚK
+#	Aliance	Členů	Rozloha	Prestiž	Předseda
+1.	[.:?:.] CeNsoReD	10	161825km2	60666439	****?CEN?SO?RED?****(#668) - rybka es atrás
+2.	[L.O.S.] Losaci si uzivaji leto	10	157960km2	56348468	Rumik je elixir...(#467) - P3terko
+3.	[M] MOON	10	196819km2	52530607	Most: ..o---o---o..(#175) - Garithos
+4.	[KCI.] Karavana`s Club I.	10	118528km2	52339865	MAVEHO KARAVANA(#76) - maverickynwa
+5.	[SRAN] Tvoje Máma	10	144200km2	52315319	Pucuju sasanku tvý mámy(#1100) - Vládce Kabraxis
+6.	[Across] Idealistic Organization	10	165047km2	50154557	DJ Arnoštek(#241) - marv III
+7.	[VIR] VIR	10	145650km2	46706989	Easy target,feelin this?(#312) - Mrkvička777
+8.	[PZY] Pozitivity	10	161412km2	46040794	DamnLand(#613) - seosen
+9.	[DC] DC Comics	10	131667km2	44842995	Batman(#481) - Fleship
+10.	[-=THC=-] The Heroic Company	10	137652km2	44779498	zem nikoho(#338) - jOguRt44
+11.	[MCU] Marvel	10	148669km2	41433986	Stan Lee(#69) - hagg1d
+12.	[.::R::.] Rytíři	10	156357km2	41255011	B*E*S*A*R*A*B*I*A(#157) - Abdul
+13.	[MÁMA] Tvoje druhá máma	10	133529km2	40308766	Emise tvojí mámy(#691) - gugoslav
+14.	[Junkyard] 11: Nedobyješ	10	101916km2	39867663	Zaspektiva(#92) - MAFline
+15.	[NRsF] Nemám rád ... vy víte	10	105942km2	39162101	NRsF: M0STRASTAS(#10011) - Beast Boban
+16.	[=T=] Trója	10	163611km2	38740663	Winter is coming..(#245) - FR3EZY
+17.	[Anarchy] Farmíme pro lepší budoucnost	10	107876km2	37384023	Srdce mi pofoukáš...(#137) - thordevil
+18.	[TSŽ] Technické služby Žatec	9	137739km2	37373868	Street spirit(#141) - Beleriand
+19.	[ganja] GANJA	10	141857km2	36760840	Tragedis(#1208) - Joker16.
+20.	[queens] QUEENS	10	136371km2	36706073	Pavilon 8 AHC(#1112) - gorem
+21.	[.L.O.S.] Losaci ladi formu na chatu	10	152663km2	35893487	Rumové zdravie(#1105) - P3terko
+22.	[-=KA=-] Killa Army	10	134982km2	35682047	-=KA=-lička meskalinu(#565) - Athara
+23.	[tpOwCh] the power of wing chun	10	138881km2	35050197	tpOwCh bUchY(#43) - MaximusBuchymus
+24.	[D1KTATOR] D1E FOR THE DARK SIDE	10	126456km2	32471730	D1KTATOR zerk0(#615) - 000000000
+25.	[YOZZEFY] Yozzefy = farmy se nedobývají	10	121838km2	32418429	Veterán - farmář(#171) - Allegro
+26.	[**SNK**] SmeNaKašu	10	132962km2	32322362	Liška Bystrouška na Kašu(#227) - Jitus21
+27.	[Bubáci] Dobráci	10	138492km2	32268867	Zářící Spasitel(#666) - .DuKeLuKe.
+28.	[KCII.] Karavana`s Club II.	10	111074km2	31606445	MAVEHO KARAVANA III.(#97) - maverickynwa
+29.	[.hunteRs] We are hunteRs	10	136034km2	31108189	.hunteRs.Badger(#506) - K.a.S.i.o
+30.	[NULL] ???????????????????????????	10	115025km2	30754463	SFC CJ Hornster(#365) - R.A.E.K.
+31.	[B.K.] Blitz Krieg	10	156885km2	30297725	Ghi(#160) - johnny33
+32.	[PRDOX] PRdelí DO Xichtu	10	150096km2	29901072	Autista(#405) - Jacobthebest
+33.	[MENSA] ...prostě (j)elita :)	10	139712km2	29194947	Prof. NESERA NAVALTO(#134) - Sir Extrem
+34.	[**CQR**] Conquerors	10	115428km2	28784180	Dark Conqueror(#748) - vanna
+35.	[N.n.n-2] No nic no 2	10	126960km2	27471189	Messiah(#302) - Carcas
+36.	[.:RD:.] Red dwarf	10	134361km2	26473927	-osn-ruzove v pive(#238) - D1N1AK
+37.	[SPRITE] Teď my jsme Sprite a vy žízeň	10	121760km2	25363491	Pocemkamdeš(#170) - demonstrate.
+38.	[ČSLA] Československá lidová armáda	6	94300km2	24923757	.:CZ-SK:.Kupis(#490) - Canada
+39.	[NBS] Největší Blbci Světa	10	126650km2	23851618	BLBEC co má funkci(#51) - Walker
+40.	[-osn-] Ofuk starého niktoša	10	122493km2	23251185	-osn- Vozicek(#215) - Vozicek
