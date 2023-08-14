@@ -1,0 +1,42 @@
+166. VĚK
+#	Země	Rozloha	Prestiž	Aliance	Vláda	Kol
+1.	Láka ma mláka(#1333) - .Grim.	20999km2	12912421	Bubáci	Anar	3595
+2.	Odin(#37) - J.E.F.F.R.E.Y	28967km2	12849382	MCU	Rep	3968
+3.	****(#73) - PLASTIK	24167km2	12184650	Across	Demo	3978
+4.	Magnesium(#362) - .HARKOMEN.	23244km2	11227601	HRNCE	Tech	3801
+5.	Karavana tvojí mámy(#100) - maverickynwa	17421km2	10402209	SRAN	Utop	3670
+6.	Lexik0n Kouzel(#538) - ttrtt	24800km2	10347093	0O	Rep	3978
+7.	def(#159) - johnny33	18696km2	10244446	PZY	Tech	3969
+8.	zem nikoho(#338) - jOguRt44	24968km2	10199803	-=THC=-	Rep	3977
+9.	Kazič zábavy(#830) - junker002	21825km2	9827776	.::R::.	Utop	3964
+10.	tpOwCh Satori na vlnách(#947) - Degee	17375km2	9443679	tpOwCh	Utop	3939
+11.	usti(#968) - vachys39	21000km2	9402289	ALI1234	Demo	3977
+12.	this is the way(#420) - Lord Demokrat	22175km2	9293577	TSŽ	Demo	3969
+13.	Nebojim se o svou zem(#1171) - SOH	21561km2	9111279	ČSN	Kom	3833
+14.	Kralovna snu(#1231) - Pitel	15591km2	9085144	queens	Tech	3958
+15.	Milujem Aďku :-*(#669) - rybka es atrás	19512km2	8894599	.:?:.	Robo	3932
+16.	.:S3rVuS:.K3mo(#256) - Charles king	22666km2	8833111	ShPr	Tech	3951
+17.	Whats my age again?(#314) - Mrkvička777	26620km2	8727511	JDS	Feud	3972
+18.	Most: ..o---o---o..(#175) - Garithos	24498km2	8625450	M	Utop	3978
+19.	Fuzzy Lumpkins(#307) - Muffia	22333km2	8518833	PíPíBí	Feud	3978
+20.	Most: ../-----------\..(#176) - Garithos	15306km2	8380585	-=KA=-	Utop	3959
+21.	Bitten by the kitten(#57) - .Sp3ct4t0R.	16822km2	8214815	101	Kom	3951
+22.	KARAVANA v protekci(#1001) - Ersango	12492km2	8114186	KCI.	Tech	3972
+23.	Ricky Gervais(#510) - skazinoska	18033km2	8026387	.:?:.	Robo	3978
+24.	gen. Emil Boček(#163) - Kresous	16863km2	7986708	VIR	Robo	3939
+25.	LOS made in the Untamed(#4455) - Topisek	14650km2	7966035	-osn-	Utop	3587
+26.	Pancir S-1(#500) - Driver	15094km2	7847461	Arsenal	Utop	3948
+27.	Mr. Datel(#154) - Ctirad2	17999km2	7777810	queens	Feud	3939
+28.	NRsF: Pivo je nesmrtelné(#1175) - Štěpis	12038km2	7763187	NRsF	Utop	3856
+29.	Xandarie(#374) - Xandarian	18518km2	7694738	PHOENIX	Utop	3936
+30.	Mám rád farmáře(#1160) - Koumes	15764km2	7606637	.:YD:.	Utop	3974
+31.	Výherní los(#1113) - gorem	15758km2	7552110	L.O.S.	Utop	3977
+32.	Ricky LaFleur(#1263) - Martin858	16666km2	7489423	L.O.S.	Utop	3949
+33.	Time to win(#304) - AzorAhai	19360km2	7487184	B.K.	Demo	3977
+34.	FULL OF HELL(#111) - Broot	17008km2	7478943	ganja	Robo	3972
+35.	03(#119) - daxicek	15545km2	7444920	CaC	Utop	3974
+36.	.:CZ-SK:.ForMeBehindMe(#392) - AKland	25084km2	7432276	ČSLA	Robo	3923
+37.	Los Blancos(#901) - Martin858	14640km2	7373285	Junkyard	Utop	3940
+38.	Hateration(#194) - M3mmOrY	12138km2	7307829	D1KTATOR	Utop	3691
+39.	XIV Gemina Martia Victrix(#1169) - Technopol	25650km2	7197534	Q(-,-(Q	Demo	3957
+40.	Tukanova KARAVANA(#61) - Tukenssen	13593km2	7098851	KCI.	Utop	3977
