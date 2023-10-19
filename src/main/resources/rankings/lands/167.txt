@@ -1,0 +1,42 @@
+167. VĚK
+#	Země	Rozloha	Prestiž	Aliance	Vláda	Kol
+1.	NoDeal-GrAfFIti(#1114) - král urucskýý	19999km2	16452286	tNO	Tech	3653
+2.	Č.3(#787) - .G.R.U.M.Y.	23533km2	15382615	SBS	Utop	3884
+3.	Most: ../-----------\..(#617) - Garithos	24008km2	15316628	M	Demo	3944
+4.	Easy target,feelin this?(#483) - Mrkvička777	20215km2	12964342	VIR	Rep	3775
+5.	LOS made in Zochare(#956) - Nepochopisnikdy	22441km2	12931433	L.O.S	Tech	3863
+6.	****(#44) - PLASTIK	25184km2	12765421	ETD	Demo	3970
+7.	Boulevard of Broken Dream(#607) - podwratak	21263km2	12244468	VÍCADMIN	Demo	3978
+8.	LOS Blancos(#140) - Martin858	19202km2	12139794	.L.O.S.	Tech	3936
+9.	MatrixStaff(#536) - Meteos02	15256km2	11362057	**SNK**	Kom	3652
+10.	When Fools Can Be Kings(#1222) - .Grim.	28447km2	11355038	AC/DC	Feud	3971
+11.	Most: ..o---o---o..(#616) - Garithos	17041km2	11023702	V.V.V.	Kom	3937
+12.	Gott mit uns(#976) - Albert.S	25407km2	10335738	Kattegat	Tech	3978
+13.	Blue Bayou(#314) - Luke the Great	17900km2	10145677	.:?:.	Utop	3684
+14.	MAW MAU :-(#3333) - G.R.E.E.K	27800km2	10011111	SR	Dikt	3937
+15.	Hateration(#353) - M3mmOrY	16230km2	9495235	SR	Anar	3691
+16.	LOS made in Ukrajina(#596) - Eph3dr1ne	19039km2	9448463	.L.O.S.	Tech	3854
+17.	The Heroic Toucan(#340) - Tukenssen	15681km2	9195636	-=THC=-	Utop	3977
+18.	The Cthaeh(#748) - FARR FARR AWAYY	23023km2	8817686	EMP	Rep	3842
+19.	Moonbase(#127) - hum4nic	18234km2	8695118	M	Utop	3642
+20.	Láka ma mláka(#1333) - .Grim.	26653km2	8650073	Bubáci	Dikt	3888
+21.	Mr. Datel(#568) - Ctirad2	19999km2	8263096	SBS	Rep	3976
+22.	LOS made in Zhongguo(#2233) - Topisek	20782km2	8254103	.L.O.S.	Tech	3937
+23.	AC SPARTA PRAHA 4EVER(#216) - FRAJER BARTICEK	21813km2	8249772	=T=	Rep	3974
+24.	Spainn.(#161) - Grub	17655km2	8003945	-=THC=-	Demo	3977
+25.	Pšoukatán(#995) - Šalda	18999km2	7808589	NSFW	Kom	3979
+26.	MiNioN.(#396) - MiNioN	13956km2	7725578	MiNioN	Kom	3951
+27.	Specialna operacia(#417) - LORD FITO	11851km2	7535962	=T=	Utop	3775
+28.	H14(#339) - Tukenssen	13230km2	7529017	ČSLA	Utop	3976
+29.	Starbase(#128) - hum4nic	10000km2	7421662	V.V.V.	Kom	3876
+30.	FULL OF HELL(#362) - Broot	18988km2	7338631	ganja	Tech	3937
+31.	LOS made in Mordor(#849) - Gil Galad	19580km2	7192192	.L.O.S.	Tech	3979
+32.	(+++O((+))O+++)(#1041) - incoming agony	19550km2	7086401	B.D.F.G.	Kom	3956
+33.	Potence Ferdy Mravence(#444) - SnookerLand	16908km2	6989106	**SNK**	Utop	3977
+34.	Tak normáně(#806) - j.o.h.n.y.s	14999km2	6693393	NEIROV	Tech	3661
+35.	Kdo farmí má za tři(#410) - lugh	16952km2	6641741	MÁMA	Utop	3604
+36.	.:CZ-SK:.Kupis(#341) - Canada	19758km2	6626119	ČSLA	Demo	3898
+37.	NRsF: Teplé pivo(#798) - Štěpis	13304km2	6584619	NRsF	Utop	3886
+38.	A zase ten ASA(#1126) - ASA	24710km2	6524210	Security	Utop	3844
+39.	jenom pozoruju(#1014) - masterWG	20599km2	6468719	AC/DC	Utop	3963
+40.	Plantážnik(#1045) - Lucky6186	18514km2	6468654	=T=	Demo	3941

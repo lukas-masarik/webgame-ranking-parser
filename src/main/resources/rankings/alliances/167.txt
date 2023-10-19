@@ -1,0 +1,42 @@
+167. VĚK
+#	Aliance	Členů	Rozloha	Prestiž	Předseda
+1.	[=T=] Trója	10	180342km2	59906135	Winter is coming..(#885) - FR3EZY
+2.	[M] MOON	10	179115km2	56994490	Atlan(#326) - Atlantik
+3.	[L.O.S] Losove v říji	10	146051km2	55013965	LOS made in NoBalls(#3344) - Topisek
+4.	[.L.O.S.] Losové na chatě	10	155988km2	49611786	LOS made in Zhongguo(#2233) - Topisek
+5.	[V.V.V.] Veni Vidi Vici	10	121209km2	46395468	Most: ..o---o---o..(#616) - Garithos
+6.	[SBS] SBS	10	155914km2	45955896	Č.4(#786) - .G.R.U.M.Y.
+7.	[AC/DC] BACK IN BLACK	10	167581km2	45562408	Il tempo se ne va(#6006) - podwratak
+8.	[ČSLA] Československá lidová armáda	10	128894km2	40524505	.:CZ-SK:.Kupis(#341) - Canada
+9.	[MÁMA] Tvoje druhá máma	10	132871km2	40197767	Měchy tvojí mámy(#41) - gugoslav
+10.	[ETD] Ete DestilerE	10	153514km2	39889762	****(#44) - PLASTIK
+11.	[-=THC=-] The Heroic Company	10	136838km2	39885133	zem nikoho(#166) - jOguRt44
+12.	[SR] Society of Retards	10	159610km2	36009588	b.l.a.d.e.(#126) - Blade
+13.	[NSFW] NOT SAFE FOR WEBGAME	10	150076km2	34270744	Pšoukatán(#995) - Šalda
+14.	[tpOwCh] the power of wing chun	10	159984km2	32386412	tpOwCh bUchY(#48) - MaximusBuchymus
+15.	[Security] Security	10	155699km2	32028169	ASA špatná volba kluci(#1125) - ASA
+16.	[SRAN] Tvoje Máma	10	126211km2	31898595	Pucuju sasanku tvý mámy(#647) - Vládce Kabraxis
+17.	[**SNK**] SmeNaKašu	10	106121km2	30679446	Liška Bystrouška na Kašu(#75) - Jitus21
+18.	[Anarchy] Farmíme pro lepší minulost	10	113722km2	30399779	Srdce mi pofoukáš...(#1012) - thordevil
+19.	[MENSA] ...prostě (j)elita :)	10	132570km2	29162387	Prof. NESERA NAVALTO(#427) - Sir Extrem
+20.	[MZA] Minimálně Zajímaví Agorafobici	10	120433km2	28194169	Klekni si....(#458) - Michellion
+21.	[ganja] GANJA	10	123889km2	27838560	IBK Kubánský Klan(#233) - gorem
+22.	[YOZZEFY] Yozzefy = pohoda klik	10	118771km2	27327176	Veteran - farmář(#39) - Allegro
+23.	[VÍCADMIN] Víceadministrátoři Webgame	5	77621km2	26339820	Accusator publicus(#606) - podwratak
+24.	[VIR] VIR	10	106430km2	25245708	Easy target,feelin this?(#483) - Mrkvička777
+25.	[Bubáci] Bubáci	10	144591km2	23831428	Ten Hodný(#52) - .DuKeLuKe.
+26.	[tNO] .	4	52026km2	23823155	nenávist(#997) - mLn
+27.	[tpOwCh2] the power of wing chun	10	127376km2	23438911	tpOwCh yiP(#63) - MaximusBuchymus
+28.	[NBS] Největší Blbci Světa	10	139655km2	23209955	BLBEC co má funkci(#106) - Walker
+29.	[tpOwCh3] the power of wing chun	10	154414km2	23058914	tpOwCh maN(#67) - MaximusBuchymus
+30.	[.:?:.] CeNsoReD	10	143250km2	22828150	****?CEN?SO?RED?****(#754) - rybka es atrás
+31.	[.::R::.] Rytíři	10	126384km2	22493118	B*E*S*A*R*A*B*I*A(#438) - Abdul
+32.	[LaRes] La Resistance	10	112262km2	21793483	Láďa křížek(#448) - Dark moon spider
+33.	[DooM] Doomtroopers	10	128101km2	20759279	Záludný Alakhai(#780) - Yurnero
+34.	[W.S] Warrior System	10	119698km2	19991667	def(#143) - johnny33
+35.	[WTD] Welcome to die	10	113354km2	19327826	Merryland(#664) - ListerMistr
+36.	[EMP] Emil Master of Puppets	4	57305km2	19195352	Puppet Master(#747) - FARR FARR AWAYY
+37.	[-=DH=-] Dark Hunters	10	105364km2	18644281	Amy Pond(#461) - Ersango
+38.	[PíPíBí] Power Puff Boys	10	104446km2	18373261	Fuzzy Lumpkins(#581) - Muffia
+39.	[-)T(-] Trinity	7	84865km2	17614729	TheFiveElementsOfEart(#564) - Seiger
+40.	[Europe] Europe	10	130811km2	17063463	Death is the Road to Awe(#1000) - Armageddon
