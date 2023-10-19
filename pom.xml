@@ -6,7 +6,7 @@
 
     <artifactId>webgame-ranking-parser</artifactId>
     <groupId>me.masi</groupId>
-    <version>2.2.167</version>
+    <version>2.3.167</version>
     <packaging>jar</packaging>
 
     <name>me.masi.WebgameRankingParser</name>
@@ -15,7 +15,7 @@
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <kotlin.code.style>official</kotlin.code.style>
         <kotlin.compiler.jvmTarget>11</kotlin.compiler.jvmTarget>
-        <kotlin.version>1.5.31</kotlin.version>
+        <kotlin.version>1.9.10</kotlin.version>
     </properties>
 
     <build>
@@ -90,7 +90,7 @@
         <dependency>
             <groupId>org.junit.jupiter</groupId>
             <artifactId>junit-jupiter-engine</artifactId>
-            <version>5.6.0</version>
+            <version>5.10.0</version>
             <scope>test</scope>
         </dependency>
         <dependency>
