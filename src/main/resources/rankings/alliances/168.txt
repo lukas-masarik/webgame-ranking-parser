@@ -1,0 +1,42 @@
+168. VĚK
+#	Aliance	Členů	Rozloha	Prestiž	Předseda
+1.	[-=LH=-] Srdcari z mezihry	10	175487km2	60633620	Cukrová vata(#35) - Walker
+2.	[**CQR**] Conquerors	10	185088km2	59017857	Conqueror bez ufa(#701) - Mr. Sedlinno
+3.	[R.O.BOTS] really obvious bots	10	156794km2	58902887	choBOT(#305) - Lord Rechleek
+4.	[=T=] Trója	10	177475km2	58358667	Winter is coming..(#32) - FR3EZY
+5.	[PíPíBí] Power Puff Boys	10	187293km2	55859508	Fuzzy Lumpkins(#419) - Muffia
+6.	[queens] QUEENS	10	169455km2	53707956	Pavilon 8 AHC(#122) - gorem
+7.	[ganja] GANJA	10	176681km2	53659675	Buster Moon(#401) - Dhany
+8.	[MENSA] ...prostě (j)elita :)	10	177382km2	52518085	CHYŤ MĚ, KDYŽ TO DOKÁŽEŠ(#275) - Sir Extrem
+9.	[KCI.] Karavana`s Club I.	10	134912km2	50153280	MAVEHO KARAVANA(#179) - maverickynwa
+10.	[NULL] ??????????????????????????	10	135689km2	49000124	JáJsemWolfAŘešímProblémy(#6666) - R.A.E.K.
+11.	[SRAN] Tvoje máma	10	149435km2	45914690	Kyperská sasanka tvý mámy(#462) - Vládce Kabraxis
+12.	[tpOwCh] the power of wing chun	10	167846km2	45377234	tpOwCh bUchY(#73) - MaximusBuchymus
+13.	[NBS] Největší Blbci Světa	10	143097km2	44606039	BLBEC co má funkci(#31) - Walker
+14.	[MCU] Marvel	10	152157km2	42932249	Stan Lee(#91) - hagg1d
+15.	[-=THC=-] The Heroic Company	10	157852km2	42129024	zem nikoho(#190) - jOguRt44
+16.	[ahoj] ahoj	10	153185km2	41470795	nemám čas mluvit(#556) - Atlantik
+17.	[atrs] Anti talenti, rozlámaný sáňky	10	142944km2	38056740	Nacre fortress(#369) - anduril
+18.	[NGTY] Negativity	10	142255km2	37215781	Jdesenato(#684) - seosen
+19.	[.hunteRs] We are hunteRs	10	132724km2	32568482	.hunteRs.Badger(#816) - K.a.S.i.o
+20.	[NSFW] NOT SAFE FOR WEBGAME	10	134049km2	31797277	Lorenzo Lamas(#466) - RSkater88
+21.	[tpOwCh2] the power of wing chun	10	151783km2	31420271	tpOwCh yiP(#75) - MaximusBuchymus
+22.	[DooM] Doomtroopers	10	141197km2	31295430	Záludný Alakhai(#118) - Yurnero
+23.	[VÍCADMIN] Viceadministratori webgame	4	77417km2	31166268	Accusator publicus(#344) - podwratak
+24.	[.:?:.] CeNsoReD	10	139293km2	31113824	****?CEN?SO?RED?****(#676) - rybka es atrás
+25.	[BumBum] Z hlediska globálního spektra.	10	158399km2	30213316	.:BB:. Absolute Awesome(#495) - TheSokar
+26.	[BW] BAD WOLVES	10	155424km2	29600460	Generál JoWood(#99) - jowood2
+27.	[UNSN] Už nie sme najmladší	9	113983km2	29457478	Mimi Keene(#703) - Mr. Sedlinno
+28.	[NRsF] Nechceš Randit s Frajerkou	10	120566km2	29141904	NRsF co nehraje WG(#20002) - Beast Boban
+29.	[KCII.] Karavana`s Club II.	6	71913km2	27815375	MAVEHO KARAVANA II.(#386) - maverickynwa
+30.	[BTC] Bitcoin	10	120517km2	27673511	Elon Musk:Dogecoin wallet(#398) - Drunk3n
+31.	[Europe] Europe	10	126841km2	27538904	Death is the Road to Awe(#10001) - Armageddon
+32.	[PZY] Pozitivity	10	115686km2	27044964	DamnLand(#681) - seosen
+33.	[MÁMA] Tvoje druhá máma	10	154292km2	26963897	Měchy tvojí mámy(#453) - gugoslav
+34.	[YOZZEFY] Yozzefy = pohoda klik	10	121999km2	26893284	Veteran - farmář(#324) - Allegro
+35.	[D3V1L5] Masters of Underworld	10	127404km2	25681647	*Wiking*(#429) - SVKelt
+36.	[WG-PROF] WG-PROFESSIONAL	10	140666km2	25330307	Emperor(#94) - jowood2
+37.	[tpOwCh3] the power of wing chun	10	173927km2	24730984	tpOwCh maN(#76) - MaximusBuchymus
+38.	[Lotta] Lotta per la sopravvivenza	10	115615km2	23939343	POZOROVATEL MAFIE(#87) - .G.R.U.M.Y.
+39.	[MZA] Musíme Zabít Andreje	10	111125km2	23740240	Pardeeho vlna(#7777) - Michellion
+40.	[B.D.F.G.] Big Dig Fantastig Group	10	122393km2	23588247	Kim Čong-il(#411) - Koron

@@ -1,0 +1,42 @@
+168. VĚK
+#	Země	Rozloha	Prestiž	Aliance	Vláda	Kol
+1.	Vepřo knedlo zelo(#317) - jOguRt44	28593km2	14731490	MCU	Demo	3938
+2.	There, There(#427) - Beleriand	24363km2	13455300	queens	Demo	3971
+3.	PŘÍLIŠ MLADEJ PRO ŽIVOT(#372) - ...Kápo...	23999km2	13119999	NBS	Utop	3757
+4.	DESTINY IS ALL(#685) - rybka es atrás	24628km2	12270118	Lotta	Tech	3843
+5.	.:BB:. Mám ca posvačit ?(#207) - Brčo	24440km2	11719889	BumBum	Demo	3951
+6.	PER ASPERA AD ASTRA(#519) - JohnnyLamka	28415km2	11179753	MENSA	Robo	3973
+7.	Winter is coming..(#32) - FR3EZY	19094km2	11114711	=T=	Utop	3958
+8.	Boulevard of Broken Dream(#346) - podwratak	19333km2	10344461	VÍCADMIN	Tech	3845
+9.	Milujem Aďku :-*(#677) - rybka es atrás	27777km2	10277528	.:?:.	Robo	3978
+10.	Mathieu van der Poel(#728) - Comanndos	14441km2	10262927	GOAT	Tech	3656
+11.	Accusator publicus(#344) - podwratak	19333km2	10191833	VÍCADMIN	Utop	3841
+12.	Operace extrémně náročná.(#204) - ulkas	19921km2	10156894	-=LH=-	Utop	3940
+13.	FULL OF HELL(#442) - Broot	21933km2	9962745	ganja	Tech	3840
+14.	The Heroic Toucan(#233) - Tukenssen	16408km2	9951526	-=THC=-	Utop	3976
+15.	SiL ikONy 4EveR(#473) - klankosti	22489km2	9510165	BTC	Kom	3975
+16.	Gigi di Agostino(#436) - ttrtt	21041km2	9200000	=FF=	Tech	3968
+17.	Lapeňo Enriquez(#342) - David XIII.	20045km2	9160493	MENSA	Demo	3979
+18.	Olafovo(#1078) - Awermi	20461km2	8835221	PíPíBí	Demo	3979
+19.	*-*-*-*(#800) - SpeRy	15999km2	8769297	*L*D*R*	Tech	3974
+20.	Borůvkový pendrek(#46) - Garrus V.	20642km2	8588914	-=LH=-	Demo	3972
+21.	tpOwCh brings Salvation(#699) - Dareion	18699km2	8528961	tpOwCh2	Utop	3939
+22.	klik tam(#1156) - Yank	16787km2	8464606	-=KYB=-	Utop	3850
+23.	MindOfcr0z1(#610) - cr0z1	17075km2	8394293	NSFW	Utop	3885
+24.	Castor(#81) - Dr.Memphisto	14183km2	8326639	tpOwCh	Tech	3903
+25.	sefko som ja(#629) - S3FKO	18055km2	8278730	GTI	Utop	3984
+26.	tpOwCh Satori na vlnách(#613) - Degee	17102km2	8271426	tpOwCh	Utop	3943
+27.	RIP Karel Schwarzenberg :-((#856) - Mr.Lipi	23058km2	8245877	atrs	Feud	3979
+28.	Tukanova KARAVANA(#228) - Tukenssen	13799km2	8201487	KCI.	Utop	3976
+29.	... Musíš začít cvičit...(#652) - Zkusimto	15332km2	8039517	R.O.BOTS	Utop	3857
+30.	Il tempo se ne va(#854) - podwratak	19999km2	8015492	-=LH=-	Dikt	3840
+31.	DalijupochovaťTuBestiju(#449) - klofák	16894km2	7899611	NGTY	Utop	3978
+32.	farma1(#1029) - Vlasic III	15999km2	7698545	NULL	Utop	3881
+33.	Gangreen Gang(#875) - Muffia	20000km2	7688201	PPB	Utop	3954
+34.	::OB::TIERAM si klacek(#69) - travnicek	14489km2	7670780	Onlybest	Kom	3950
+35.	No pain, no gain. :D(#10000) - Drunk3n	27499km2	7638428	PíPíBí	Dikt	3907
+36.	Bender Bending Rodríguez(#39) - blasticek	14384km2	7634830	R.O.BOTS	Utop	3969
+37.	=)(#668) - sparke	23690km2	7607109	sP`	Feud	3977
+38.	Turecký med(#45) - Garrus V.	22665km2	7583893	-=LH=-	Robo	3974
+39.	Jim Lahey(#803) - Chabi	14206km2	7571555	R.O.BOTS	Utop	3830
+40.	Born_to_Win =)(#273) - jerry360	26222km2	7568570	NHD	Dikt	3972
