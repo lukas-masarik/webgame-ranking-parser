@@ -1,0 +1,42 @@
+169. VĚK
+#	Aliance	Členů	Rozloha	Prestiž	Předseda
+1.	[LBL] LBL	10	139974km2	91145392	Modrý pták(#107) - ridgeback
+2.	[**CQR**] Conquerors	10	186886km2	69878535	Dark Conqueror(#583) - vanna
+3.	[ganja] GANJA	10	183937km2	68067009	Ke kokešu se nečuchá pane(#142) - Arachnid
+4.	[=T=] Trója	10	172018km2	66516646	Winter is coming..(#79) - FR3EZY
+5.	[R.O.BOTS] really obvious bots	10	176523km2	65553851	Bender Bending Rodríguez(#67) - blasticek
+6.	[MENSA] ...prostě sváteční (j)elita :)	10	136012km2	64092744	CHYŤ MĚ, KDYŽ TO DOKÁŽEŠ(#113) - Sir Extrem
+7.	[(V)oo(V)] The Crabs	10	188083km2	58934823	Dr. John Zoidberg(#63) - blasticek
+8.	[tpOwCh] the power of wing chun	10	166621km2	54183481	tpOwCh bUchY(#39) - MaximusBuchymus
+9.	[PíPíBí] Power Puff Boys	10	182713km2	54133517	Fuzzy Lumpkins(#316) - Muffia
+10.	[queens] QUEENS	10	171134km2	53643931	Street spirit(#77) - Beleriand
+11.	[L.O.S.] Novy rok, novy los	10	174668km2	52300197	LOS made in South Africa(#1122) - Topisek
+12.	[NBS] Největší blbci světa	10	152105km2	50462537	BLBEC co má funkci(#54) - Walker
+13.	[M] MOON	10	136690km2	48761907	Atlan(#57) - Atlantik
+14.	[NRsF] Nechceš Riskovat s Farmou	10	117378km2	47739881	NRsF bez techů rozvědky(#525) - Beast Boban
+15.	[.:YD:.] .:Your Death:.	10	154019km2	46545586	Hlavou zeď neprorazíš.(#248) - White Dead
+16.	[XMAS] CHRISTMAS PARTY	10	141233km2	46429704	Conqueror labužník(#902) - Mr. Sedlinno
+17.	[MÁMA] Tvoje druhá máma	10	143694km2	46114861	Mládí v hajzlu tvojí mámy(#917) - gugoslav
+18.	[VÍCADMIN] Víceadministrátoři Webgame	10	168407km2	45942000	Boulevard of Broken Dream(#244) - podwratak
+19.	[GOAT] Greatest Of All Time	10	123120km2	44714911	Mathieu van der Poel(#196) - Comanndos
+20.	[NSFW] NOT SAFE FOR WEBGAME	10	164495km2	44299569	MindOfTheDevil(#322) - cr0z1
+21.	[KCI.] Karavana`s Club I.	10	100978km2	42359492	MAVEHO KARAVANA(#51) - maverickynwa
+22.	[JIHAD] U nas dobry	10	147043km2	39871323	Bude mela(#588) - MySEl
+23.	[-osn-] OsprostenaStaraNota	10	154409km2	39865308	+*+*+*+*+(#561) - SpeRy
+24.	[S] SUN	10	169740km2	39399203	bubu bu(#62) - Atlantik
+25.	[YOZZEFY] Yozzefy = pohoda klik	10	129207km2	37039587	Veterán - farmář(#188) - Allegro
+26.	[SRAN] Tvoje máma	10	136347km2	34980423	Vánoční sasanka tvý mámy(#955) - Vládce Kabraxis
+27.	[Anarchy] Farmíme pro horší minulost	10	109852km2	34878783	Srdce mi pofoukáš...(#140) - thordevil
+28.	[HAMAS] Zajtra sa dorovname	10	144403km2	34155588	-= Sp1r1t SpL31te =-(#586) - MySEl
+29.	[P.P.A.] Powerful Pagan Alliance	10	150888km2	33634939	maskot(#591) - FTWD
+30.	[SPRITE] Teď my budem Sprite a vy žízeň	10	121371km2	33573643	Pocemkamdeš(#154) - demonstrate.
+31.	[-=LH=-] Lonely Hearts	10	130192km2	32958384	Cukrová vata vol.2(#58) - Walker
+32.	[KPS] KILOPASCAL	10	121843km2	32186303	Connor McJesus(#265) - Shrunke
+33.	[kalamar] kalamáři	10	142785km2	31942682	smažený kalamár(#68) - blasticek
+34.	[-=THC=-] The Heroic Company	10	161686km2	31491020	zem nikoho(#84) - jOguRt44
+35.	[B.D.F.G.] Big Dig fantastig Group	10	119486km2	29852712	Kim Čong-il(#716) - Koron
+36.	[tpOwCh2] the power of wing chun	10	157157km2	28976698	tpOwCh yiP(#41) - MaximusBuchymus
+37.	[.::R::.] Rytíři	10	162631km2	28040598	B*E*S*A*R*A*B*I*A(#371) - Abdul
+38.	[NULL] ?????????????????????????	10	126993km2	27819543	NeSouhlasím s Podmínkami(#413) - R.A.E.K.
+39.	[Europe] Europe	10	131575km2	27745012	Death is the Road to Awe(#1001) - Armageddon
+40.	[Farma] Farma	10	113903km2	26234993	Velkopanství(#963) - incoming agony
