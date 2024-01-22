@@ -1,0 +1,42 @@
+169. VĚK
+#	Země	Rozloha	Prestiž	Aliance	Vláda	Kol
+1.	Modrý pták(#107) - ridgeback	15691km2	18008440	LBL	Tech	3503
+2.	DalajLama(#980) - PinkPanther	23482km2	16313164	ganja	Demo	3947
+3.	Conquerors Realm(#94) - jOguRt44	21872km2	14607875	**CQR**	Demo	3773
+4.	MxxxxxxxxxxM(#155) - Ctirad2	37888km2	14320726	S	Robo	3980
+5.	Za mě tahal parťák(#754) - Masias	31313km2	14212122	MPVE	Fund	3558
+6.	VŠE VELKÉ K NĚČEMU DOBRÉ(#55555) - Seksymania	14999km2	13535542	MENSA	Utop	3652
+7.	Chulimanga(#87) - FR3EZY	22879km2	13315135	=T=	Demo	3972
+8.	BLBEC si kupil ING(#45) - Supra1Soul5Play	28692km2	11878628	NBS	Utop	3789
+9.	N0km=XP4you(#1140) - masterWG	18000km2	11364116	VÍCADMIN	Utop	3844
+10.	Láka ma mláka(#1333) - .Grim.	16770km2	11334586	LBL	Utop	3676
+11.	Conqueror bez ufa(#901) - Mr. Sedlinno	22699km2	11255487	**CQR**	Rep	3972
+12.	asi(#617) - Josefko	27027km2	10994481	=FF=	Tech	3941
+13.	MAW MAU :-(#1187) - G.R.E.E.K	16886km2	10926769	T3R0R1ST	Tech	3897
+14.	Božský lok(#1115) - FR3EZY	16667km2	10606112	PíPíBí	Utop	3953
+15.	Filtek(#225) - dentitios	12222km2	10489409	LBL	Utop	3659
+16.	Chlapacke stesti(#315) - Pitel	25590km2	10288241	ganja	Rep	3972
+17.	Láska prochází žaloudkem(#243) - Seksymania	12611km2	10059617	LBL	Tech	3568
+18.	European Conqueror(#1003) - Armageddon	19184km2	9668919	**CQR**	Utop	3978
+19.	Mervin J Minky(#477) - David XIII.	15034km2	9582356	MENSA	Utop	3641
+20.	Nejvýhernější los(#35) - gorem	15602km2	9479317	=T=	Utop	3867
+21.	the revenge of the sith(#956) - Lord Demokrat	17825km2	9301084	-=LH=-	Utop	3774
+22.	Conqueror co má rád teror(#599) - yuphon	28911km2	9277015	**CQR**	Robo	3929
+23.	Dr. John Zoidberg(#63) - blasticek	25217km2	9207975	(V)oo(V)	Fund	3975
+24.	tpOwch Terabithia(#693) - Paul.MuadDib	17301km2	9169984	tpOwCh	Utop	3978
+25.	The Heroic Toucan(#165) - Tukenssen	17440km2	9161616	-=THC=-	Utop	3979
+26.	Kings Landing(#449) - klankosti	22335km2	9127934	queens	Demo	3954
+27.	Alžběta II.(#149) - Martin858	18888km2	8888888	queens	Utop	3940
+28.	wgtabulky.cz(#919) - Chica	16230km2	8840794	M	Utop	3956
+29.	Plebejec(#845) - Lucky6186	20396km2	8782827	=T=	Robo	3979
+30.	Znáte ten pocit?(#450) - klankosti	18537km2	8652943	R.O.BOTS	Fund	3977
+31.	Yellowstones Dutton Ranch(#367) - John Dutton	21601km2	8567949	YDR	Utop	3979
+32.	roBOTický vysavač(#479) - Fleship	15678km2	8382552	R.O.BOTS	Utop	3945
+33.	IBK Kubánský Klan(#31) - gorem	18771km2	8365921	ganja	Fund	3966
+34.	Clay Calloway(#468) - Dhany	22450km2	8352911	ganja	Robo	3978
+35.	Bender Bending Rodríguez(#67) - blasticek	18937km2	8351565	R.O.BOTS	Utop	3975
+36.	Mr. Datel(#156) - Ctirad2	20111km2	8285091	queens	Tech	3981
+37.	BLBEC jako BLBEC(#115) - hagg1d	17140km2	8240000	NBS	Tech	3979
+38.	MaskotLand(#774) - FTWD	14999km2	8207200	P.P.A.	Utop	3891
+39.	+*+*-*+*+(#562) - SpeRy	20300km2	8201792	-osn-	Robo	3976
+40.	Homo.homini.lupus(#324) - hlidac3	15555km2	8200192	M	Utop	3933
