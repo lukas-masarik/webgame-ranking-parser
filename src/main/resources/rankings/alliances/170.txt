@@ -1,0 +1,42 @@
+170. VĚK
+#	Aliance	Členů	Rozloha	Prestiž	Předseda
+1.	[.L.O.S.] Pritulny los	10	176278km2	49470713	LOS made in Mumuland(#221) - demolizer
+2.	[=T=] Trója	10	144264km2	46875392	Winter is coming..(#31) - FR3EZY
+3.	[tpOwCh] the power of wing chun	10	125254km2	45721253	tpOwCh bUchY(#48) - MaximusBuchymus
+4.	[KCI.] Karavana`s Club I.	10	137774km2	45305813	MAVEHO KARAVANA(#216) - maverickynwa
+5.	[MENSA] ...prostě (j)elita :)	10	162299km2	44578586	CHYŤ MĚ, KDYŽ TO DOKÁŽEŠ(#120) - Sir Extrem
+6.	[SRAN] Tvoje Máma	10	123924km2	44153847	Hotrun for fun tvojí mámy(#2200) - Vládce Kabraxis
+7.	[TLD] The Last Dance	10	151449km2	43879648	Jemně mi ho mni(#2121) - masterWG
+8.	[NSFW] NOT SAFE FOR WEBGAME	10	163425km2	42332946	Pšoukánistán(#156) - Šalda
+9.	[.ganja.] .GANJA.	10	138322km2	39870711	Smile :)(#999) - PinkPanther
+10.	[-=THC=-] The Heroic Company	10	146227km2	39373018	zem nikoho(#92) - jOguRt44
+11.	[-=R=-] Renegade	10	118542km2	37913543	Psanec, který loví psance(#100) - jOguRt44
+12.	[AHA] Aliancia Láskavého Triumvirátu	10	155088km2	36839335	Banana skin ON(#819) - Abdul
+13.	[tpOwCh3] the power of wing chun	10	121021km2	36021861	tpOwCh maN(#52) - MaximusBuchymus
+14.	[Across] Idealistic Organization	10	108739km2	35788388	Sara Landry(#413) - marv III
+15.	[B.K.] Blitz Krieg	10	141162km2	35631459	Blitz Krieg 3581(#44) - ViewSonick
+16.	[-=LH=-] Lonely Hearts	10	144293km2	34536874	VY-=LH=-ADIM TE OD SRDCE(#33) - Walker
+17.	[DOGE] Dogecoin	10	152604km2	33206335	No pain, no gain. :D(#10000) - Drunk3n
+18.	[LaRes] La Resistance	10	130736km2	32459075	Láďa křížek(#343) - Dark moon spider
+19.	[MÁMA] Tvoje druhá máma	10	136616km2	31071221	Měchy tvojí mámy(#622) - gugoslav
+20.	[.hunteRs] We are hunteRs	10	139344km2	30139035	.hunteRs.Badger(#1048) - K.a.S.i.o
+21.	[M] MOON	10	159009km2	29835810	Atlan(#154) - Atlantik
+22.	[.::R::.] Rytíři	10	125957km2	29806246	B*E*S*A*R*A*B*I*A(#180) - Abdul
+23.	[atrs] Anti talenti, rozlámaný sáňky	10	100749km2	29511175	Nacre fortress(#728) - anduril
+24.	[GV2] Graffiti Vandal 2	9	96571km2	28761264	Wholetrain(#1215) - král urucskýý
+25.	[Kevlar] Fight for nights	10	147399km2	27104228	Kazič zábavy(#106) - junker002
+26.	[SNAKES] jedovatí hadi	10	134171km2	26992004	Chica(#676) - Chica
+27.	[DC] DC Comics	10	123153km2	26941500	Batman(#77) - Fleship
+28.	[BW] Blackwater	10	133363km2	26821313	p3(#827) - Unreal Maniak
+29.	[PZY] Pozitivity	9	107591km2	26055370	DamnLand(#227) - seosen
+30.	[BTC] Bitcoin	10	125805km2	25889211	Quantum computing(#276) - Drunk3n
+31.	[Europe] Fufufifajfu	10	127183km2	25658835	horst wessel lied(#289) - BusteRHUX
+32.	[Klobasa] klobásy z ViRysA	10	104967km2	24492785	Rybí klobása(#802) - Vi.Ry
+33.	[KCII.] Karavana`s Club II.	10	104859km2	24461229	MAVEHO KARAVANA II.(#225) - maverickynwa
+34.	[NRsF] NoRashsuckFack	10	136451km2	24297454	NRsF: Tomio Okamura(#1033) - Beast Boban
+35.	[tpOwCh2] the power of wing chun	10	139180km2	24142369	tpOwCh yiP(#51) - MaximusBuchymus
+36.	[ganja] GANJA	10	74461km2	22861406	Buster Moon(#1985) - Dhany
+37.	[MZA] Musíme Zabít Andreje	10	125423km2	22815658	Klekni si....(#35) - Michellion
+38.	[HAMAS] Harcovnici maju smolu	10	128208km2	22586496	PRD3L(#323) - PRD3L
+39.	[YOZZEFY] Yozzefy = pohoda klik	10	121193km2	22072785	Veterán - farmář(#141) - Allegro
+40.	[Kalamar] Kalamáři	10	113043km2	20933039	smažený kalamár(#113) - blasticek

@@ -1,0 +1,42 @@
+170. VĚK
+#	Země	Rozloha	Prestiž	Aliance	Vláda	Kol
+1.	Dont BE shy(#67) - Supra1Soul5Play	25961km2	17318294	-=R=-	Tech	3654
+2.	04(#736) - daxicek	22070km2	15522817	AHA	Utop	3978
+3.	Winter is coming..(#31) - FR3EZY	25438km2	15470383	=T=	Kom	3822
+4.	abc(#191) - johnny33	27850km2	13538196	.::R::.	Tech	3654
+5.	pokus1(#1213) - Vlasic III	21126km2	12759843	BW	Utop	3830
+6.	tpOwCh mám v břiše Ježíše(#82) - Dhany	17177km2	12740091	tpOwCh3	Utop	3978
+7.	Prof. FIN GERMIAS(#172) - Seksymania	27140km2	12314803	MENSA	Demo	3978
+8.	Emise tvojí mámy(#629) - gugoslav	22925km2	11111111	SRAN	Demo	3864
+9.	NRsF: Jiřinka Bohdalová(#901) - Štěpis	18637km2	11021304	NRsF	Utop	3938
+10.	tpOwCh Satori na vlnách(#9872) - Degee	15242km2	10146383	tpOwCh	Utop	3975
+11.	Pšoukánistán(#156) - Šalda	21178km2	10110679	NSFW	Kom	3979
+12.	Kdyz muzu tak pomuzu(#1162) - Saturas	18842km2	10052135	.SE.	Tech	3871
+13.	bad feeling about this(#1097) - Lord Demokrat	20244km2	9788690	.L.O.S.	Utop	3966
+14.	The Heroic Toucan(#759) - Tukenssen	17996km2	9685976	-=THC=-	Utop	3972
+15.	Jemně mi ho mni(#2121) - masterWG	19999km2	9567409	TLD	Tech	3947
+16.	maskot(#694) - FTWD	20271km2	9549408	P.P.A.	Tech	3662
+17.	tpOwCh nálada(#162) - Pacik	14509km2	9542100	tpOwCh	Utop	3937
+18.	TadyJuZahrabte(#1059) - klofák	18168km2	9424050	PZY	Tech	3936
+19.	Regulus(#94) - .HARKOMEN.	16222km2	9242116	HRNCE	Kom	3936
+20.	DalajLama(#444) - PinkPanther	17196km2	9067239	ganja	Tech	3947
+21.	When it hurts(#1150) - Duskooo	23548km2	8932572	-=LH=-	Robo	3964
+22.	Láska prochází žaludem(#171) - Seksymania	14999km2	8801028		Tech	3955
+23.	StayPositive(#456) - .Aragornikk.	16244km2	8799326	BTC	Utop	3953
+24.	:X(#932) - PLASTIK	16303km2	8562233	Across	Tech	3958
+25.	bubu bu(#1093) - Atlantik	16779km2	8399027	M	Robo	3965
+26.	KARAVANA malomocných(#401) - Ersango	16046km2	8372436	KCI.	Utop	3936
+27.	The One Above All(#862) - Shrunke	14999km2	8356786	Klobasa	Utop	3636
+28.	disambiguation(#91) - Fleship	17436km2	8244968	Kalamar	Tech	3978
+29.	Tak urcite 3333(#872) - ttrtt	17777km2	8231060	B.K.	Utop	3944
+30.	Šéf(#1106) - Arzach	15346km2	8022912	OZG	Utop	3937
+31.	VODNÍ MELOUN(#318) - ...Kápo...	14999km2	8000000	Bráchové	Utop	3875
+32.	vřelé objetí(#1073) - Awermi	24077km2	7676705	DOGE	Demo	3979
+33.	Yellowstones Dutton Ranch(#411) - John Dutton	26178km2	7394524	Nord	Tech	3978
+34.	Název je víc než výsledek(#826) - Josefko	17470km2	7385976	B.K.	Rep	3947
+35.	Jantar(#1107) - Arzach	15960km2	7355873	OZG	Utop	3940
+36.	(+-)(#1244) - trubkatrubkovic	18178km2	7341505	ganja	Tech	3964
+37.	Smile :)(#999) - PinkPanther	17338km2	7279098	.ganja.	Utop	3927
+38.	A za kolik expu to bylo?(#254) - Saturas	17107km2	7013116	.ganja.	Utop	3975
+39.	JOGURTOVA KARAVANA(#96) - jOguRt44	16285km2	6916058	KCI.	Utop	3984
+40.	03(#735) - daxicek	20691km2	6762340	AHA	Utop	3936
