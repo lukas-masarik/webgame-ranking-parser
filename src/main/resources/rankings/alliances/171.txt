@@ -1,0 +1,42 @@
+171. VĚK
+#	Aliance	Členů	Rozloha	Prestiž	Předseda
+1.	[ahoj] ahoj	10	189995km2	81639341	Když nemůžeš, nalej víc(#165) - nezbedny bohus
+2.	[TLD] The Last Dance	10	150854km2	67551989	Farmář hledá ženu(#2323) - masterWG
+3.	[.::R::.] Rytíři	10	171695km2	67455620	B*E*S*A*R*A*B*I*A(#320) - Abdul
+4.	[-=R=-] Renegade	10	168231km2	67399727	Renegade(#82) - jOguRt44
+5.	[WINDE] For fun	10	147508km2	66588705	The One Above All(#152) - Shrunke
+6.	[.:?:.] CeNsoReD	10	139442km2	52616604	****?CEN?SO?RED?****(#1181) - rybka es atrás
+7.	[MENSA] ...prostě (j)elita :)	10	155004km2	49011537	CHYŤ MĚ, KDYŽ TO DOKÁŽEŠ(#53) - Sir Extrem
+8.	[L.O.S.] Losácké jaro	10	176926km2	40948161	LOS made in The Office(#982) - WEBIG
+9.	[FR] Flip Reset	10	134373km2	38273395	Raiden Shogun(#324) - ySpirit
+10.	[MÁMA] Tvoje druhá máma	10	133155km2	38139517	Tvoje máma tvojí mámy(#921) - gugoslav
+11.	[SRAN] Tvoje Máma	10	152884km2	37228520	Pucuju sasanku tvý mámy(#1100) - Vládce Kabraxis
+12.	[M] MOON	10	147255km2	37145783	Atlan(#262) - Atlantik
+13.	[B.D.F.G.] Big Dig fantastig Group	10	155696km2	36703894	Kim Čong-il(#828) - Koron
+14.	[**CQR**] Conquerors	10	179336km2	34658853	Dark Conqueror(#108) - vanna
+15.	[-=THC=-] The Heroic Company	10	173927km2	34389431	zem nikoho(#78) - jOguRt44
+16.	[tpOwCh2] the power of wing chun	10	142799km2	33092883	tpOwCh yiP(#69) - MaximusBuchymus
+17.	[S] SUN	10	152767km2	32318078	bubu bu(#285) - Atlantik
+18.	[PíPíBí] Power Puff Boys	10	130132km2	32296773	Fuzzy Lumpkins(#157) - Muffia
+19.	[SNAKES] jedovatí hadi	10	146833km2	32214587	Chica(#596) - Chica
+20.	[D3V1L5] Masters of Underworld	10	144571km2	32142031	*Wiking*(#378) - SVKelt
+21.	[WG-PROF] WG-PROFESSIONAL	10	135314km2	31718669	Let it Roll(#388) - Jareck
+22.	[Anarchy] Farmíme pro lepší minulost	10	120143km2	31048653	Srdce mi pofoukáš...(#39) - thordevil
+23.	[Kevlar] Top strop	10	125900km2	30054231	Kazič zábavy(#300) - junker002
+24.	[atrs] Anti talenti, rozlámaný sáňky	10	137911km2	30037327	Nacre fortress(#639) - anduril
+25.	[JEWS] JEWS	10	112252km2	29874908	SVĚT CHCE BÝT KLAMÁN(#372) - Mr.Daves
+26.	[OP] Oddělení pečiva	10	118756km2	29213894	Pekař týdne(#595) - Fleship
+27.	[TLC] The Last Chance	10	127153km2	28621263	N0km=XP4you(#2424) - masterWG
+28.	[-osn-] OsprostenaStaraNota	10	137960km2	28285381	Coxwell(#1029) - satanaak
+29.	[USSR] Union of Soviet Socialist Reps	10	126679km2	27706595	Zlata masla na vajcach(#134) - Stinx
+30.	[KÚ] Kaitánské Útočiště	10	96173km2	27489585	Deep Blue Kaitain(#706) - Telcontarr
+31.	[.hunteRs] We are hunteRs	10	121146km2	27351879	.hunteRs.PeacemakeR(#259) - Rift
+32.	[.:xXx:.] CENSORED	10	127255km2	27347754	HELL-fire(#465) - wasabi666
+33.	[PLANET-X] PLANET-X	10	126274km2	27245470	LightFury(#909) - ZUMOTRIX
+34.	[-=LH=-] Lonely Hearts	10	117884km2	26807786	VY-=LH=-ADIM TE OD SRDCE(#44) - Walker
+35.	[MZA] Musíme Zabít Andreje	10	119191km2	26509618	Pardeeho vlna(#61) - Michellion
+36.	[LaRes] La Resistance	10	106430km2	25997573	Láďa křížek(#168) - Dark moon spider
+37.	[BRICKS] BRICKS	10	113767km2	25511493	Götterdämmerung(#743) - Masteron
+38.	[HAMAS] Cez leto si sadneme	10	126137km2	24884144	Márův Svět(#856) - Human Kill
+39.	[90] 90. léta	5	69828km2	24728172	Nicolas Cage(#50) - xmision
+40.	[H2] HeroesII	10	101894km2	23643509	TAX(#509) - Rhodan

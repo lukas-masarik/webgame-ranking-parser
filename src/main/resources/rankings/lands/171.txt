@@ -1,0 +1,42 @@
+171. VĚK
+#	Země	Rozloha	Prestiž	Aliance	Vláda	Kol
+1.	Astičkov(#906) - Asticka	42320km2	30848548	.::R::.	Rep	3975
+2.	Finlandia(#626) - ftacik	21366km2	25356777	.:?:.	Kom	3341
+3.	Lapeňo Enriquez(#365) - David XIII.	19519km2	12285452	MENSA	Utop	3648
+4.	Nicolas Cage(#50) - xmision	24572km2	11586279	90	Rep	3970
+5.	Tulip_Bonds_Trust(#1034) - frla1	29156km2	11036983	B.D.F.G.	Rep	3975
+6.	Hvězdička mezi hvězdami(#129) - F0rsaken S0ul	31031km2	10965651	TP	Fund	3975
+7.	Když nemůžeš, nalej víc(#165) - nezbedny bohus	20231km2	10733290	ahoj	Rep	3973
+8.	Superkeket(#1235) - Christmess	17914km2	10378385	TLD	Utop	3954
+9.	Arda(#1388) - xxx stephanG xxx	21000km2	10372000	HOMMJRRT	Demo	3931
+10.	There is still hope(#1223) - .Baťa.	22239km2	10239585	DOTA1	Rep	3970
+11.	KARAVANA STASTIA(#181) - Tukenssen	16688km2	10205443	MÁMA	Utop	3973
+12.	Fuzzy Lumpkins(#157) - Muffia	18905km2	10044085	PíPíBí	Utop	3937
+13.	Mláka ma láka(#1444) - .Grim.	13957km2	10032576	TLD	Tech	3924
+14.	AXXY.(#601) - AXXY	15684km2	9953330	WINDE	Tech	3489
+15.	Ezio Auditore da Firenze(#730) - Martin858	14999km2	9919199	TLD	Utop	3851
+16.	Tukanova KARAVANA(#172) - Tukenssen	15685km2	9638996	JEWS	Utop	3956
+17.	Fasido(#808) - smudlas	18192km2	9504404	KÚ	Utop	3937
+18.	CHYŤ MĚ, KDYŽ TO DOKÁŽEŠ(#53) - Sir Extrem	26270km2	9439250	MENSA	Feud	3974
+19.	nemám čas řešit(#273) - Atlantik	20829km2	9390396	ahoj	Robo	3974
+20.	Larry David(#727) - Martin858	17000km2	9305133	SIL	Utop	3744
+21.	In Cold Blood(#266) - JimCurry	20755km2	9011173	ahoj	Robo	3972
+22.	Moonbase(#175) - hum4nic	21257km2	8928951	ahoj	Robo	3975
+23.	EXIT Crew(#1055) - král urucskýý	13333km2	8817671	WINDE	Tech	3877
+24.	Donald Dixon(#514) - Ersango	17134km2	8664805	-=R=-	Utop	3953
+25.	fuha tak to co(#1582) - G.R.E.E.K	29800km2	8600000	W	Robo	3132
+26.	Dragons breath(#51) - Supra1Soul5Play	17000km2	8595217	-=R=-	Utop	3944
+27.	WG-Un(#114) - kakáček	17098km2	8538696	WG-PROF	Utop	3947
+28.	StayPositive(#302) - .Aragornikk.	18754km2	8397657	ahoj	Demo	3974
+29.	vřelé objetí(#1180) - Awermi	19243km2	8392699	NGTY	Utop	3974
+30.	Fall In The Dark(#1324) - ySpirit	16208km2	8163386	PíPíBí	Utop	3958
+31.	Spainn.(#415) - Grub	23840km2	8143141	-=THC=-	Rep	3975
+32.	Děkujeme, to je vše(#1003) - ttrtt	27243km2	8063907	ne	Fund	3975
+33.	Svačinář(#695) - Růžový trabant	17075km2	7941445	SNAKES	Utop	3975
+34.	H14 Utopie(#183) - Tukenssen	16999km2	7909128	-=R=-	Utop	3975
+35.	.::Gondor::.(#303) - .Aragornikk.	17135km2	7901945	ahoj	Feud	3974
+36.	Al cuor non si comanda(#1091) - .Sp3ct4t0R.	20349km2	7702268	101	Robo	3974
+37.	Ty pocem a zvopakuj(#85) - Quari	28036km2	7624955	NULL	Robo	3967
+38.	s Darebakom(#866) - tUtkoFromIKAR	22852km2	7610974	HAMAS	Tech	3894
+39.	BE HERE NOW(#1184) - rybka es atrás	17518km2	7607270	S	Robo	3951
+40.	Operace extrémně náročná.(#831) - ulkas	18103km2	7465503	DDD	Utop	3937
