@@ -1,0 +1,42 @@
+172. VĚK
+#	Aliance	Členů	Rozloha	Prestiž	Předseda
+1.	[ahoj] ahoj	10	171821km2	69352030	Mistři světa:))(#210) - Atlantik
+2.	[SB] SpikeBallers	10	187605km2	68505299	Gondorik.rad.hladi:)(#1019) - .Aragornikk.
+3.	[WG-PROF] WG-PROFESSIONAL	10	182674km2	68392439	.::WG-PROFESSIONAL::.(#61) - jowood2
+4.	[M] MOON	10	153295km2	65912973	Atlan(#202) - Atlantik
+5.	[Lotta] Lotta per la sopravvivenza	10	185789km2	62520807	hannibal trisíííček(#31) - trisíííček
+6.	[=T=] Trója	10	166347km2	60857767	Winter is coming..(#195) - FR3EZY
+7.	[Během] Chůze	10	153213km2	59949767	Mám ca ukradnút ?(#1218) - Brčo
+8.	[L.O.S] Zbloudilý los na vesnici	9	137892km2	56849156	LOS made in Rumíček(#630) - P3terko
+9.	[FR] Flip Reset	10	125552km2	55908801	Raiden Shogun(#96) - ySpirit
+10.	[VÍCADMIN] Víceadministrátoři Webgame	10	189818km2	55104068	Iker Casillas(#111) - podwratak
+11.	[-=R=-] Renegade	9	138234km2	52618274	Psanec, který loví psance(#284) - jOguRt44
+12.	[tpOwCh3] the power of wing chun	10	173123km2	51525350	tpOwCh yiP(#147) - MaximusBuchymus
+13.	[KCI.] Karavana`s Club I.	10	125451km2	49327890	KARAVANA GILMOREK(#899) - maverickynwa
+14.	[DC-2] DC Comics part II.	10	135406km2	47518341	Captain Boomerang(#360) - Fleship
+15.	[EMP] Emil Master of Puppets	10	105169km2	47351399	Puppet Master(#1223) - FARR FARR AWAYY
+16.	[Across] Idealistic Organization	10	148726km2	45006603	blckr thn blck(#1220) - marv III
+17.	[Kevlar] Junkerovo hoes	10	162577km2	44033717	Kazič zábavy(#130) - junker002
+18.	[NULL] ????????????????????????	10	136370km2	43920354	?????????????????????????(#6666) - R.A.E.K.
+19.	[NGTY] Negativity	10	157431km2	42821328	Jdesenato(#421) - seosen
+20.	[PaTo] PaToLoGiE	10	134577km2	41093929	Farma(#819) - kill666
+21.	[DDD] Dotim Dotis Dotime	10	130000km2	40557637	klik sem(#531) - Yank
+22.	[.L.O.S.] Losové se baví	9	165862km2	40145134	LOS made in Zhongguo(#2233) - Topisek
+23.	[-=THC=-] The Heroic Company	10	164202km2	39311084	zem nikoho(#275) - jOguRt44
+24.	[B.K.] Blitz Krieg	10	169806km2	39047776	1(#77) - johnny33
+25.	[MENSA] ...prostě (j)elita :)	10	159028km2	38909625	CHYŤ MĚ, KDYŽ TO DOKÁŽEŠ(#299) - Sir Extrem
+26.	[WG-PRÓF] WG-PROFESSIONAL	10	145131km2	38830007	Vermithor(#155) - VD Panter
+27.	[.S.O.B.] Nejlepší diskoteka v Bruntále	9	143033km2	37881056	LOS made in Tvoje MAMA(#773) - Eph3dr1ne
+28.	[WG-PŘOF] WG-PROFESSIONAL	10	146360km2	37844207	Balerion(#158) - VD Panter
+29.	[.::Ř::.] Řitíři	6	91653km2	37374028	Gianluigi Buffon(#333) - podwratak
+30.	[.hunteRs] We are hunteRs	10	142803km2	36579858	.hunteRs.Badger(#6879) - K.a.S.i.o
+31.	[tpOwCh] the power of wing chun	10	180407km2	36262504	tpOwCh bUchY(#139) - MaximusBuchymus
+32.	[ALI1234] ALI1234	10	145704km2	35876255	usti(#123) - vachys39
+33.	[-osn-] OsprostenaStaraNota	10	138201km2	35843840	-osn-ruzove v pive(#1139) - D1N1AK
+34.	[-GW-] Global warming	10	176793km2	35823130	Lupus non mordet lupum(#441) - Kubikk84
+35.	[Anarchy] Farmíme pro lepší minulost	10	129806km2	34572525	Srdce mi pofoukáš...(#1379) - thordevil
+36.	[*RA*] Rektální Anestezie	10	111260km2	33324743	1. zem byla založena(#836) - Jendasking
+37.	[**CQR**] Conquerors	9	129769km2	33107514	Conqueror bez nápadu(#347) - Mr. Sedlinno
+38.	[JIHAD] U nas dobry	10	130718km2	32990112	Marduk(#286) - Seckhmet
+39.	[.:?:.] CeNsoReD	10	143162km2	32871743	****?CEN?SO?RED?****(#412) - rybka es atrás
+40.	[NBS] Největší blbci světa	10	155604km2	32531330	BLBEC co má funkci(#2323) - Walker

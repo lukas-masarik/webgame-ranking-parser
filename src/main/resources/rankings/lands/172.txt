@@ -1,0 +1,42 @@
+172. VĚK
+#	Země	Rozloha	Prestiž	Aliance	Vláda	Kol
+1.	Moonbase(#1234) - hum4nic	26794km2	19898212	ahoj	Kom	3518
+2.	LOS made in Stargate(#982) - WEBIG	29614km2	16823248	.L.O.S.	Tech	3831
+3.	.::WG-PROFESSIONAL:..(#112) - VD Panter	27752km2	16003845	WG-PROF	Rep	3979
+4.	Winter is coming..(#195) - FR3EZY	19999km2	14428679	=T=	Utop	3936
+5.	Bobeš(#553) - Seksymania	27438km2	13286843	P.P.A.	Fund	3971
+6.	Patejl(#765) - .DuKeLuKe.	25866km2	12966569	P-V	Rep	3975
+7.	?????(#1922) - Jareck	20484km2	12810396	NULL	Utop	3974
+8.	Easy target,feelin this?(#753) - Mrkvička777	18561km2	11550693	Across	Utop	3970
+9.	NemessiS(#115) - hagg1d	23200km2	11484304	Lotta	Tech	3979
+10.	BoratSagdiyev(#93) - FTWD	22222km2	11456947	BORAT	Tech	3974
+11.	Druhá země(#840) - Pijomijo	17999km2	11304711	.::Ř::.	Utop	3940
+12.	ZANDANÁ KARAVANA(#8088) - smudlas	14975km2	11126006	KCI.	Utop	3939
+13.	Jsem (bez)vadná.(#6969) - Baů000	19999km2	11028399	M	Utop	3968
+14.	Vydra vydře díru vydře(#487) - Seksymania	23920km2	10973308	Lotta	Dikt	3960
+15.	Topvar 12 promile(#1466) - MySEl	19221km2	10813375	JIHAD	Utop	3967
+16.	Obi-Wan Kenobi(#128) - Martin858	24174km2	10785547	SB	Dikt	3978
+17.	H14 Utopie(#462) - Tukenssen	15400km2	10656790	-=R=-	Utop	3978
+18.	..:WG-PROFESSIONAL...(#52) - jowood2	23547km2	10635240	WG-PROF	Robo	3974
+19.	... Chceš být fit ...(#494) - Zkusimto	21526km2	10492016	COOL	Tech	3676
+20.	TUKTUK PATROL(#75) - Mrkvik	23232km2	10311211	/ER/	Utop	3869
+21.	Fašistický Komunista(#68) - xxx stephanG xxx	21222km2	10214638	-=BN=-	Kom	3564
+22.	LOS Farmos(#140) - Martin858	16999km2	10097257	L.O.S	Utop	3891
+23.	Měsíční zahrada(#58) - Technopol	26479km2	10007839	-GW-	Robo	3973
+24.	Just for fun(#510) - .Baťa.	25878km2	9961566	DOTA	Rep	3978
+25.	klik sem(#531) - Yank	20298km2	9857739	DDD	Tech	3978
+26.	MiNioN.(#1359) - MiNioN	13671km2	9759221	MiNioN	Utop	3979
+27.	FORTIS FORTUNA ADIUVAT(#260) - JohnnyLamka	22403km2	9489980	MENSA	Demo	3949
+28.	CATCH ME, IF YOU CAN(#305) - Sir Extrem	18592km2	9224341	MENSA	Utop	3936
+29.	-osn- DonGenaroFlores(#1051) - KuXIV	20343km2	9181969	-osn-	Dikt	3973
+30.	Zářácí Spasitel(#760) - .DuKeLuKe.	16829km2	9168222	Bubáci	Kom	3937
+31.	Mám ca infnúť?(#1216) - Brčo	14324km2	9142937	Kevlar	Tech	3955
+32.	GhostL4nd(#446) - xghost	25450km2	9012101	NGTY	Demo	3972
+33.	Holleration(#33366) - M3mmOrY	19148km2	8915742	Lotta	Utop	3978
+34.	*-*-*-*(#316) - SpeRy	18664km2	8863642	-=R=-	Kom	3936
+35.	Gianluigi Buffon(#333) - podwratak	17000km2	8785685	.::Ř::.	Utop	3980
+36.	Vince Black(#895) - maverickynwa	13000km2	8773571	-=R=-	Tech	3957
+37.	i have the high ground(#235) - Lord Demokrat	17070km2	8747217	M	Utop	3942
+38.	Icarus(#564) - DrakeBlu	14479km2	8720547	Během	Utop	3825
+39.	Fabien Barthez(#222) - podwratak	25182km2	8659955	VÍCADMIN	Rep	3979
+40.	1(#77) - johnny33	24257km2	8651156	B.K.	Fund	3947
