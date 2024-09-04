@@ -1,0 +1,42 @@
+173. věk
+#	Země	Rozloha	Prestiž	Aliance	Vláda	Kol
+1.	AB LUCEM AD TENEBRAS(#1222) - .Grim.	20116km2	15454855	S	Tech	3589
+2.	Lotta molto per la tua vi(#505) - .G.R.U.M.Y.	27290km2	15339303	Lotta	Tech	3943
+3.	Ezio Auditore da Firenze(#578) - Martin858	20999km2	15283955	ganja	Rep	3975
+4.	tpOwCh Tough Cookie(#1040) - Diesi	25000km2	15208573	tpOwCh3	Kom	3744
+5.	maskot(#367) - FTWD	26185km2	14909580	P.P.A.	Tech	3979
+6.	Inspiro(#574) - dentitios	26888km2	14783828	Bubáci	Feud	3975
+7.	Raiden Shogun(#1101) - ySpirit	20970km2	13046819	FR	Demo	3979
+8.	Guess whos back(#6661) - Zlýsin	19787km2	12632463	Across	Tech	3775
+9.	Pokec(#182) - G.R.E.E.K	14290km2	12599211	K0MUN1ST	Kom	3689
+10.	Bill Burr(#315) - skazinoska	21613km2	12555988	.:?:.	Tech	3950
+11.	Sentinel(#1147) - johnny33	25524km2	12485241	.::R::.	Demo	3953
+12.	Karaz-a-Karak(#328) - Reich Graf	28390km2	12379358	StrakerS	Rep	3960
+13.	Bay Harbor Butcher(#490) - Seksymania	24969km2	12141559	mňau	Tech	3941
+14.	Nesebevědomá země(#1084) - Masias	26451km2	11800096	WINDE	Demo	3844
+15.	Chulimanga(#670) - FR3EZY	24863km2	11572296	=T=	Demo	3979
+16.	IBK Kubánský Klan(#848) - gorem	18590km2	11509056	ganja	Utop	3970
+17.	Spainn.(#254) - Grub	30118km2	11437813	-=THC=-	Rep	3979
+18.	Dont BE shy(#203) - Supra1Soul5Play	20000km2	10862305	-4F-	Utop	3845
+19.	may the 4th(#571) - Lord Demokrat	17040km2	10694838	S	Utop	3890
+20.	The Heroic Toucan(#922) - Tukenssen	19103km2	10461606	-=THC=-	Utop	3977
+21.	Když nemůžeš tak nehraj(#642) - Josefko	25025km2	10389688	=FF=	Kom	3899
+22.	Homo.homini.lupus(#85) - hlidac3	17252km2	10364039	Pluto	Tech	3640
+23.	nemám čas psát(#77) - Atlantik	28285km2	10228926	ahoj	Robo	3975
+24.	IT Lord Shire(#290) - Jareck	17256km2	10053954	WG-PROF	Utop	3978
+25.	A nebo Citlivka(#1391) - ttrtt	26509km2	10024881	=FF=	Feud	3978
+26.	Whats my age again?(#349) - Mrkvička777	20559km2	9907884	Across	Demo	3843
+27.	KilliK(#149) - nik1	22547km2	9891229	-4F-	Rep	3909
+28.	Darth Sidious(#493) - smotes	28570km2	9873648	Onderon	Dikt	3990
+29.	Fuzzy Lumpkins(#4000) - Muffia	18000km2	9336625	PíPíBí	Utop	3958
+30.	Vubec tady nejsem(#157) - jOguRt44	24751km2	9316536	-4F-	Rep	3973
+31.	Lotta Holleration(#963) - M3mmOrY	28408km2	9240162	Lotta	Feud	3976
+32.	6(#915) - dave10	28211km2	9033832	.::R::.	Robo	3967
+33.	Nabonidus(#362) - DrakeBlu	14097km2	9022348	Během	Utop	3864
+34.	Izril(#304) - mazereon	18509km2	9004204	WI	Utop	3978
+35.	(-+)(#944) - trubkatrubkovic	17079km2	8984868	queens	Tech	3978
+36.	Karak Angazbar(#306) - Reich Graf	16321km2	8949872	S	Utop	3978
+37.	JOGURTOVA KARAVANA(#142) - jOguRt44	15515km2	8807428	KCI.	Utop	3961
+38.	potoky slz(#3344) - Topisek	20050km2	8779070	ganja	Feud	3943
+39.	-=LH=-ostejny ke vsem(#181) - hagg1d	20399km2	8752772	-4F-	Demo	3978
+40.	KARAVANA Smradupána(#581) - yuphon	14077km2	8700094	KCI.	Utop	3840

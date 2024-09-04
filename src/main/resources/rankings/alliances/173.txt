@@ -1,0 +1,42 @@
+173. věk
+#	Aliance	Členů	Rozloha	Prestiž	Předseda
+1.	[ganja] GANJA	10	173286km2	73511554	Střechy jsou mi chodníkem(#1985) - Dhany
+2.	[KCI.] Karavana`s Club I.	10	143609km2	73454200	MAVEHO KARAVANA(#123) - maverickynwa
+3.	[FR] Flip Reset	10	175527km2	68379980	Raiden Shogun(#1101) - ySpirit
+4.	[S] SUN	9	144732km2	67717825	bubu bu(#79) - Atlantik
+5.	[-4F-] 4 the Future	10	181198km2	65881242	Hello empty future(#176) - hagg1d
+6.	[Během] Chůze	10	145923km2	64260744	Mám ca posvačit ?(#759) - Brčo
+7.	[ahoj] ahoj	10	181176km2	63040035	Atlan(#66) - Atlantik
+8.	[Across] Idealistic Organization	10	158015km2	60628510	Guess whos back(#6661) - Zlýsin
+9.	[=T=] Trója	10	183174km2	60252181	Winter is coming..(#668) - FR3EZY
+10.	[-=THC=-] The Heroic Company	10	184238km2	54240759	Zimohrad(#691) - qpwoei
+11.	[Lotta] Lotta per la sopravvivenza	8	154155km2	50275769	Lotta per la vita morte(#188) - trisíííček
+12.	[**CQR**] Conquerors	10	167386km2	48553870	Conqueror bez nápadu(#962) - Mr. Sedlinno
+13.	[K0MUN1ST] Rozvědka a rakety	10	105606km2	46928199	Raketový inženýr(#881) - masterWG
+14.	[tpOwCh3] the power of wing chun	8	128052km2	46148039	tpOwCh yiP(#265) - MaximusBuchymus
+15.	[Bubáci] Bubáci	10	161833km2	44526379	Zářácí Spasitel(#42) - .DuKeLuKe.
+16.	[.::R::.] Rytíři	10	169554km2	44224555	B*E*S*A*R*A*B*I*A(#724) - Abdul
+17.	[PíPíBí] Power Puff Boys	9	141955km2	39971844	Fuzzy Lumpkins(#4000) - Muffia
+18.	[NBS] Největší blbci světa	10	178876km2	38939898	BLBEC co je mistr světa(#72) - Walker
+19.	[VIR] VIR	10	109056km2	38391305	Easy target,feelin this?(#346) - Mrkvička777
+20.	[Anarchy] Farmíme pro horší budoucnost	10	144208km2	37539289	Srdce mi pofoukáš...(#50) - thordevil
+21.	[NULL] ???????????????????????	10	151407km2	36553102	LOSujeme bany(#331) - R.A.E.K.
+22.	[KCII.] Karavana`s Club II.	10	150552km2	35116393	MAVEHO KARAVANA II.(#161) - maverickynwa
+23.	[EMP] Emil Master of Puppets	10	114013km2	34960770	Puppet Master(#451) - FARR FARR AWAYY
+24.	[queens] QUEENS	10	112253km2	34134291	(-+)(#944) - trubkatrubkovic
+25.	[Anarchy2] Pozn: Nepřefarmit Anarchy	9	101194km2	33673799	Mini Express(#1286) - MAFline
+26.	[YOZZEFY] Yozzefy = pohoda klik	10	133571km2	33287440	Veterán - farmář(#309) - Allegro
+27.	[M] MOON	8	133968km2	32780383	nemám čas řešit(#68) - Atlantik
+28.	[WG-PROF] WG-PROFESSIONAL	10	103327km2	32185883	..:WG-PROFESSIONAL...(#102) - jowood2
+29.	[MZA] Mačkat Zadek Adélce	10	135486km2	31961995	Klekni si....(#126) - Michellion
+30.	[BTC] Bitcoin	10	164261km2	31298999	Elon Musk:Dogecoin(#418) - Drunk3n
+31.	[RS] Rektální sonda	8	106652km2	30555394	Je mi 30 a jsem panic(#783) - Promo16
+32.	[tpOwCh] the power of wing chun	10	144202km2	29132153	tpOwCh bUchY(#261) - MaximusBuchymus
+33.	[LaRes] La Resistance	10	105778km2	29010605	Láďa křížek(#291) - Dark moon spider
+34.	[tpOwCh2] the power of wing chun	9	131697km2	28656071	tpOwCh mAx(#263) - MaximusBuchymus
+35.	[DC] DC Comics	10	122576km2	28360012	Batman(#1135) - Fleship
+36.	[.:?:.] CeNsoReD	10	141510km2	28249365	****?CEN?SO?RED?****(#706) - rybka es atrás
+37.	[TO] Teroristická organizácia	10	130505km2	28143191	Pdrs(#6663) - Zlýsin
+38.	[n1] narodniiiiiIdioti vystupovat	10	154146km2	26594365	Hodne(#857) - zase jachym
+39.	[B.K.] BLITZ KRIEG	6	103554km2	26498627	Woňafka(#1144) - johnny33
+40.	[=FF=] Fico Fico	4	78182km2	25892811	Když nemůžeš tak nehraj(#642) - Josefko
