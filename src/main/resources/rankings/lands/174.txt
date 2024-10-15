@@ -1,0 +1,42 @@
+174. věk
+#	Země	Rozloha	Prestiž	Aliance	Vláda	Kol
+1.	Obi-Wan Kenobi(#130) - Martin858	26775km2	19900233	ganja	Rep	3979
+2.	Guess whos back(#798) - Zlýsin	26478km2	18058235	ETD	Tech	3960
+3.	MAW MAU :-(#444) - G.R.E.E.K	28200km2	15550000	W	Fund	3962
+4.	Jsem (bez)vadná.(#69) - Baů000	24444km2	15548492	ahoj	Tech	3936
+5.	Elon Musk:Dogecoin(#265) - Drunk3n	30495km2	14775867	BTC	Rep	3979
+6.	Bunda z koženky(#636) - FR3EZY	25724km2	11920953	-4F-	Demo	3972
+7.	A za kolik expu to bylo?(#421) - Saturas	19000km2	11605741	=T=	Utop	3876
+8.	:X(#623) - PLASTIK	24517km2	11481314	ETD	Rep	3966
+9.	Sufjan Stevens(#751) - VosoK	22142km2	11066759	BTC	Rep	3978
+10.	W Vykonal výkon(#902) - Pacik	23235km2	10705485	Genocida	Demo	3955
+11.	Hello empty future(#148) - hagg1d	21067km2	10310591	queens	Demo	3964
+12.	.::Gondor::.(#124) - .Aragornikk.	16999km2	10140308	S	Utop	3951
+13.	Válka je Mír(#405) - xxx stephanG xxx	21926km2	9129119	NGTY	Rep	3899
+14.	Karak Dum(#3000) - Reich Graf	14243km2	8991707	S	Utop	3947
+15.	Židobraní(#715) - pelizid	21518km2	8627996	Ceckárna	Utop	3978
+16.	Skartovaná panna(#755) - Stalin2	23344km2	8516403	NTRLTY	Rep	3873
+17.	Kudla v Zádech(#739) - Lord Rechleek	25203km2	8451960	Afrik	Kom	3969
+18.	The best or nothing..(#448) - jowood2	17500km2	8295405	BR	Utop	3982
+19.	Lotta Lotto(#2222) - G.R.E.E.K	14999km2	8256213	Lotta	Utop	3591
+20.	Chulimanga(#68) - FR3EZY	22408km2	8178325	=T=	Robo	3963
+21.	Victory lap(#48) - leszek	14999km2	8060498	S	Utop	3937
+22.	něco je špatně(#578) - jOguRt44	21450km2	7994833	tpOwCh	Demo	3969
+23.	The Heroic Toucan(#610) - Tukenssen	18114km2	7689889	-=THC=-	Utop	3893
+24.	Znáte ten pocit?(#672) - klankosti	16396km2	7653873	GOAT	Utop	3854
+25.	Boner(#1010) - Lord Kulth	18054km2	7604575	Ceckárna	Utop	3937
+26.	Ezio Auditore da Firenze(#134) - Martin858	14999km2	7601527	GOAT	Utop	3963
+27.	No pain, no gain. :D(#10000) - Drunk3n	21242km2	7578525	queens	Rep	3978
+28.	M.O.R.(#597) - M.O.R	19351km2	7539581	Ceckárna	Utop	3952
+29.	I Bara Hezky Zuzla Kulky(#253) - klankosti	20510km2	7519047	BTC	Demo	3973
+30.	Tučnej žid(#713) - pelizid	21089km2	7510295	Ceckárna	Utop	3978
+31.	Jára Cimrman ležící s PC(#100) - nezbedny bohus	15555km2	7483220	ahoj	Fund	3979
+32.	Operace velice náročná.(#201) - ulkas	18207km2	7437864	DDD	Utop	3945
+33.	Now I am become Death(#505) - MOTOR O1L	17999km2	7365838	=T=	Utop	3974
+34.	Connor McJesus(#191) - Shrunke	16817km2	7275111	BR	Utop	3762
+35.	VÁCLAV TRACHTA(#187) - David XIII.	17424km2	7210683	pTO	Utop	3905
+36.	Ricky LaFleur(#133) - Martin858	14999km2	7078688	S	Utop	3949
+37.	Zase plačem :-(#555) - G.R.E.E.K	19800km2	7076599	W	Dikt	3945
+38.	Grand Slammer(#2021) - Dhany	18463km2	7060269	=T=	Dikt	3975
+39.	Morov(#7777) - M.O.R	16896km2	6938838	Ceckárna	Utop	3833
+40.	StayPositive(#123) - .Aragornikk.	16977km2	6746869	S	Utop	3936
