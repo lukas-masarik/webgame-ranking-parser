@@ -1,0 +1,42 @@
+174. věk
+#	Aliance	Členů	Rozloha	Prestiž	Předseda
+1.	[ETD] Ete DestilerE	10	172958km2	67790555	:O(#622) - PLASTIK
+2.	[BTC] Bitcoin	10	176396km2	65150381	Elon Musk:Dogecoin(#265) - Drunk3n
+3.	[S] SUN	9	138160km2	63597824	Brambora(#32) - Baů000
+4.	[=T=] Trója	10	177489km2	61837689	Winter is coming..(#64) - FR3EZY
+5.	[Ceckárna] Dlouhá a hubená ňadra	10	165298km2	61309299	Tučnej žid(#713) - pelizid
+6.	[BR] Belarus Republic	10	146536km2	57808624	Connor McJesus(#191) - Shrunke
+7.	[ganja] GANJA	10	154148km2	56264844	IBK Kubánský Klan(#115) - gorem
+8.	[ahoj] ahoj	10	155582km2	53751535	Jára Cimrman ležící s PC(#100) - nezbedny bohus
+9.	[tpOwCh] the power of wing chun	10	171028km2	45185175	tpOwCh bUchY(#39) - MaximusBuchymus
+10.	[-=THC=-] The Heroic Company	10	159612km2	41465275	zem nikoho(#562) - jOguRt44
+11.	[Lotta] Lotta per la sopravvivenza	10	166743km2	39000358	Lotta per la vita morte(#52) - trisíííček
+12.	[queens] QUEENS	10	168047km2	38163559	Pavilon 8 AHC(#150) - gorem
+13.	[NBS] Největší blbci světa	10	148179km2	36776466	BLBEC jako Vemola(#51) - Walker
+14.	[Afrik] Velký Černý Klacek	10	132975km2	35445914	Kudla v Zádech(#739) - Lord Rechleek
+15.	[MENSA] ...prostě (j)elita :)	10	156590km2	34934279	CHYŤ MĚ, KDYŽ TO DOKÁŽEŠ(#108) - Sir Extrem
+16.	[DDD] Duchovný Dóm Dobrodruhov	10	153494km2	32396316	Operace extrémně náročná.(#199) - ulkas
+17.	[W] Wakanda	4	81783km2	31477986	Zase plačem :-(#555) - G.R.E.E.K
+18.	[LaRes] La Resistance	10	138049km2	30532946	Láďa křížek(#234) - Dark moon spider
+19.	[pTO] přátelé Tomia Okamuri	10	121680km2	30525089	Je mi 30 a jsem panic(#386) - Promo16
+20.	[YOZZEFY] Yozzefy = pohoda klik	10	135082km2	30130268	Veterán - farmář(#98) - Allegro
+21.	[.::R::.] Rytíři	10	136089km2	30006801	B*E*S*A*R*A*B*I*A(#470) - Abdul
+22.	[NGTY] Negativity	10	146537km2	27712398	Borovička s pivem(#529) - klofák
+23.	[Genocida] Genocida	10	148909km2	27476359	vandals groupe(#349) - UniQe
+24.	[FReaKS] Sluníčkové princezničky	10	115072km2	26485331	Zbytek ze zbytků(#362) - CH40T1K
+25.	[ALI1234] ALI1234	10	112760km2	24471781	usti(#404) - vachys39
+26.	[GOAT] Greatest Of All Time	6	70996km2	24397584	Jason Bourne(#367) - Comanndos
+27.	[SFR] Soviet Federative Republic	10	123826km2	24356495	Motherland(#259) - VIadimir Putin
+28.	[=Pivko=] Konec prázdnin, pivko na stůl	10	159419km2	23095294	Gangstafolk(#666) - Mr.Lipi
+29.	[-4F-] 4 the future	5	91142km2	22553713	New Future(#149) - hagg1d
+30.	[tpOwCh2] the power of wing chun	10	158056km2	19520858	tpOwCh yiP(#41) - MaximusBuchymus
+31.	[D3V1L5] Masters of Underworld	10	123334km2	18928063	*Wiking*(#272) - SVKelt
+32.	[Demo] Demokracie	10	109698km2	18287617	AcToulen(#290) - AppleJuice
+33.	[TnZ] Totálně nejvetší Zametači	10	102284km2	18059846	Amerika6New york(#319) - Zaplatilek
+34.	[H2] HeroesII	10	99179km2	17657962	TAX(#37) - Rhodan
+35.	[USSR] Soviet Empire	10	131653km2	16668831	Fuhrer(#184) - VIadimir Putin
+36.	[SRAN] Tvoje máma	9	109812km2	16034909	Pucuju sasanku tvý mámy(#616) - Vládce Kabraxis
+37.	[-GW-] Green Way	10	147994km2	16012276	Lupus non mordet lupum(#646) - Kubikk84
+38.	[-MHD-] MHD	10	83944km2	15909050	Lord Azeroth(#406) - StRRiPes
+39.	[JIHAD] U nas dobry	9	93412km2	15582639	-=.Sp1r1t3 SpLs131teS. =-(#857) - MySEl
+40.	[B33r] Pivo dělá krásná těla	8	80922km2	15569491	Magnamundie(#426) - Hones
