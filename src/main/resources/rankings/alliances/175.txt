@@ -1,0 +1,42 @@
+175. věk
+#	Aliance	Členů	Rozloha	Prestiž	Předseda
+1.	[BZVaD] Bratrstvo z vířivky a David	10	162453km2	58233347	Pampero pro Peliho(#9873) - Degee
+2.	[tpOwCh2] the power of wing chun	10	150326km2	54118308	tpOwCh yiP(#155) - MaximusBuchymus
+3.	[KCI.] Karavana`s Club I.	10	129181km2	51199986	MAVEHO KARAVANA(#274) - maverickynwa
+4.	[=T=] Trója	10	170066km2	50990772	Winter is coming..(#78) - FR3EZY
+5.	[ahoj] ahoj	10	149373km2	50924412	nemám čas mluvit(#158) - Atlantik
+6.	[BTC] Bitcoin	10	158156km2	50423647	Elon Musk:Dogecoin(#428) - Drunk3n
+7.	[ETH] Ethereum	10	162131km2	49160754	No pain, no gain. :D(#10000) - Drunk3n
+8.	[PZY] Pozitivity	10	135585km2	48666445	Jdesenato(#464) - seosen
+9.	[ganja] GANJA	10	144911km2	47364372	Buster Moon(#473) - Dhany
+10.	[-=THC=-] The Heroic Company	10	139211km2	46112932	zem nikoho(#230) - jOguRt44
+11.	[MENSA] ...prostě (j)elita :)	10	141154km2	43931044	CHYŤ MĚ, KDYŽ TO DOKÁŽEŠ(#339) - Sir Extrem
+12.	[queens] QUEENS	10	143718km2	42805220	(-+)(#725) - trubkatrubkovic
+13.	[DooM] Doomtroopers	10	155972km2	36758345	Záludný Alakhai(#333) - Yurnero
+14.	[tpOwCh] the power of wing chun	10	112459km2	35892176	tpOwCh bUchY(#151) - MaximusBuchymus
+15.	[Rounders] Let`s play some cards	10	144460km2	35054004	Brothers mean nothing(#247) - ridgeback
+16.	[VIR] VIR	10	126351km2	34438037	Easy target,feelin this?(#543) - Mrkvička777
+17.	[DDD] Démoni Drsnej Doby	10	141454km2	33729595	klik sem(#687) - Yank
+18.	[P.P.A.] Powerful Pagan Alliance	10	168536km2	33430146	maskot(#132) - FTWD
+19.	[OKNO] O Kvalitě Nežertujeme	10	144264km2	33383856	A Wizard is never late(#45) - leszek
+20.	[ANO2011] Anoisti a přátelé	8	116016km2	32837905	Kája Havlíček(#3000) - Lord Kulth
+21.	[LaRes] La Resistance	10	123296km2	32635678	Láďa křížek(#255) - Dark moon spider
+22.	[NSFW] NOT SAFE FOR WEBGAME	10	158950km2	32581548	Go on, make my day(#97) - Atletbrcko
+23.	[Kevlar] Top strop	10	170862km2	30848508	Kazič zábavy(#209) - junker002
+24.	[Afrik] Velký černý klacek	10	160571km2	30382626	Kudla v Zádech(#405) - Lord Rechleek
+25.	[KCII.] Karavana`s Club II.	10	135131km2	28892026	MAVEHO KARAVANA II.(#275) - maverickynwa
+26.	[SRAN] Tvoje Máma	10	132506km2	28643718	Pucuju sasanku tvý mámy(#1100) - Vládce Kabraxis
+27.	[PaTo] PaToLoGiE	10	144868km2	28520887	Air.(#157) - kill666
+28.	[LD] Last dance	10	170847km2	28355260	Last dance for me(#193) - jerry360
+29.	[Bull] Black Divison	10	129403km2	28108992	GladeRxz(#232) - High Warlord Rxz
+30.	[Lotta] Lotta per la sopravvivenza	10	165165km2	27306085	Lotta per la vita morte(#60) - trisíííček
+31.	[YOZZEFY] Yozzefy = pohoda klik	10	124230km2	26950870	Veterán - farmář(#342) - Allegro
+32.	[Anarchy] Farmíme pro lepší budoucnost	10	109153km2	26726933	Srdce mi pofoukáš...(#940) - thordevil
+33.	[=Pivko=] Vody je na piti skoda	10	148100km2	26038927	Tesla Model Y(#349) - Mr.Lipi
+34.	[NBS] Největší blbci světa	10	138394km2	25424231	BLBEC co je mistr světa(#145) - Walker
+35.	[D3V1L5] Masters of Underworld	10	135877km2	24068941	*Wiking*(#179) - SVKelt
+36.	[NGTY] Negativity	8	115695km2	23848431	DamnLand(#455) - seosen
+37.	[TLD] The Last Dance	10	164687km2	23521619	Horst Fuchs(#100) - masterWG
+38.	[LBL] LBL	10	116739km2	23367025	Modrý pták(#207) - ridgeback
+39.	[MZA] Mačkat Zadek Adélce	10	135378km2	22298300	Pardeeho vlna(#768) - Michellion
+40.	[=FF=] FofwqifoqwnfoqifnqowifnoqifqiF	4	65751km2	21768071	Když nemůžeš tak nehraj(#376) - Josefko

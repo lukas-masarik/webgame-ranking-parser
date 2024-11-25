@@ -1,0 +1,42 @@
+175. věk
+#	Země	Rozloha	Prestiž	Aliance	Vláda	Kol
+1.	Webgamista Manager(#3456) - Seksymania	19999km2	14068148	DooM	Anar	3748
+2.	Sufjan Stevens(#845) - VosoK	19698km2	12814338	BTC	Rep	3982
+3.	zem nikoho(#230) - jOguRt44	22623km2	12703258	-=THC=-	Demo	3948
+4.	Nejspíše(#208) - ttrtt	23187km2	12404616	=FF=	Demo	3982
+5.	Ricky LaFleur(#44) - Martin858	18000km2	10927794	ahoj	Utop	3948
+6.	Výherní los(#88) - gorem	21785km2	10740204	queens	Robo	3982
+7.	Elon Musk:Dogecoin(#428) - Drunk3n	23821km2	10398138	BTC	Rep	3957
+8.	VÁCLAV TRACHTA(#295) - David XIII.	13768km2	9877939	BZVaD	Tech	3867
+9.	Verlorene Siege(#348) - von Lewinski	23611km2	9216895	Rafani	Tech	3946
+10.	farma(#177) - WiLL111	18888km2	8848399	VÍCADMIN	Utop	3982
+11.	tpOwCh yiP(#155) - MaximusBuchymus	16152km2	8724780	tpOwCh2	Utop	3950
+12.	Allison Becker(#628) - maverickynwa	11136km2	8700000	SRAN	Tech	3937
+13.	DANIEL NEGREANU(#356) - JohnnyLamka	15062km2	8610479	MENSA	Utop	3843
+14.	Střechy jsou mi chodníkem(#1985) - Dhany	20085km2	8569468	ganja	Fund	3983
+15.	Gabriel Fauré(#847) - VosoK	20354km2	8507925	ETH	Utop	3968
+16.	Konystán(#560) - MrKony	20637km2	8489093	BTC	Utop	3979
+17.	AC SPARTA PRAHA 4EVER(#312) - FRAJER BARTICEK	20406km2	8488554	=T=	Feud	3961
+18.	IBK Kubánský Klan(#74) - gorem	17301km2	8344476	ganja	Utop	3983
+19.	najmenšístredneveľkýpsík(#896) - esya	19423km2	8284413	n1	Tech	3697
+20.	Židot(#228) - junker002	12539km2	8070682	ANO2011	Tech	3914
+21.	KARAVANA za karavanou(#644) - Ersango	12242km2	8008655	KCI.	Tech	3983
+22.	DamnLand(#455) - seosen	20455km2	7998095	NGTY	Rep	3982
+23.	Now I am become Death(#694) - MOTOR O1L	18005km2	7918153	=T=	Utop	3964
+24.	Pšoukánistán(#1052) - Šalda	15537km2	7860933	NSFW	Utop	3983
+25.	Kobayashi Maru(#1071) - nelida	19999km2	7858061	BMC	Tech	3856
+26.	*+*-*+*(#167) - SpeRy	19999km2	7845385	*L*D*R*	Fund	3968
+27.	The Speed Of Pain(#1023) - BigY	18223km2	7812054	TJV	Utop	3974
+28.	The Heroic Toucan(#521) - Tukenssen	17493km2	7758675	-=THC=-	Utop	3941
+29.	(-+)(#725) - trubkatrubkovic	21398km2	7724221	queens	Kom	3983
+30.	Stan Lee(#676) - hagg1d	19999km2	7676690	=T=	Kom	3978
+31.	tpOwCh are you scary?(#901) - Pacik	16274km2	7661555	tpOwCh2	Rep	3981
+32.	Karak Azgaraz(#444) - Reich Graf	14999km2	7529392	MENSA	Utop	3973
+33.	Nico Moreno(#124) - marv III	17331km2	7505985	Across	Tech	3968
+34.	degee je jak baletka(#551) - stejski IX.	19633km2	7503985	BZVaD	Utop	3984
+35.	Chlupaty rozkrok(#411) - Lord Rechleek	16985km2	7405276	PZY	Tech	3975
+36.	Fagus(#159) - dentitios	16573km2	7243778	LBL	Utop	3982
+37.	Pes, který štěká, nekouše(#345) - .DuKeLuKe.	18800km2	7226307	Rounders	Fund	3983
+38.	Hádej Co?(#586) - MrKony	20372km2	6813678	ETH	Utop	3975
+39.	chvat tvojí mámy(#745) - Prometheuss	20282km2	6685533	SRAN	Utop	3983
+40.	Pak ale bleju(#7777) - M.O.R	18877km2	6627503	BZVaD	Utop	3976
