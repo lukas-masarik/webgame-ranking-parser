@@ -1,0 +1,42 @@
+176. věk
+#	Aliance	Členů	Rozloha	Prestiž	Předseda
+1.	[L.O.S.] Maximálně motivovaní losové	10	195525km2	71736320	LOS made in The Office(#489) - WEBIG
+2.	[UHS] U hvězdného stolu	10	185662km2	65523721	Ricky LaFleur(#47) - Martin858
+3.	[KCII.] Karavana`s Club II.	10	151970km2	65152418	MAVEHO KARAVANA II.(#215) - maverickynwa
+4.	[**CQR**] Conquerors	10	158685km2	63528792	Conqueror Krteček(#36) - Mr. Sedlinno
+5.	[KCIII.] Karavana`s Club III.	10	141500km2	62575987	MAVEHO KARAVANA III.(#217) - maverickynwa
+6.	[SRAN] Tvoje máma	10	138423km2	60283700	Pucuju sasanku tvý mámy(#291) - Vládce Kabraxis
+7.	[MENSA] ...prostě sváteční (j)elita :)	10	152913km2	57778293	CHYŤ MĚ, KDYŽ TO DOKÁŽEŠ(#116) - Sir Extrem
+8.	[SL] Stop lepku	10	150292km2	54059897	Connor McJesus(#418) - Shrunke
+9.	[queens] QUEENS	10	166602km2	51111294	(-+)(#312) - trubkatrubkovic
+10.	[-=THC=-] The Heroic Company	10	151233km2	50848340	zem nikoho(#462) - jOguRt44
+11.	[KCI.] Karavana`s Club I.	10	118206km2	50165128	MAVEHO KARAVANA(#154) - maverickynwa
+12.	[DDD] Desivá Divízia Darčekov	10	133589km2	49819725	klik(#274) - Yank
+13.	[UNIQUE] Unique Marauders	10	157276km2	49062889	Lotta per la liberta(#281) - trisíííček
+14.	[Ceckárna] Dlouhá a hubená ňadra	10	159662km2	48451776	Příští věk budu top 1(#331) - pelizid
+15.	[WG-PROF] WG-PROFESSIONAL	10	128538km2	47945329	.::WG-PROFESSIONAL::.(#104) - jowood2
+16.	[EL] Eldoorádo	10	145876km2	44392773	Cruzado(#31) - Cruzado
+17.	[Anarchy] Farmíme pro lepší minulost	10	140689km2	44214923	Srdce mi pofoukáš...(#89) - thordevil
+18.	[tpOwCh2] the power of wing chun	10	136128km2	43974331	tpOwCh yiP(#51) - MaximusBuchymus
+19.	[=T=] Trója	10	157858km2	41286807	Winter is coming..(#208) - FR3EZY
+20.	[tpOwCh] the power of wing chun	10	149386km2	40022123	tpOwCh bUchY(#49) - MaximusBuchymus
+21.	[-=LH=-] Lonely Hearts	10	153730km2	38987812	VY-=LH=-ADIM TE OD SRDCE(#78) - Walker
+22.	[BTC] Bitcoin	10	158874km2	38851693	Elon Musk:Dogecoin(#471) - Drunk3n
+23.	[=Pivko=] Pivo dělá hezká těla	10	136689km2	38711883	Pijeme s Laskou(#812) - Zilos
+24.	[M] MOON	10	134758km2	38581612	nemám čas řešit(#716) - Atlantik
+25.	[LaRes] La Resistance	10	114295km2	38541312	Láďa křížek(#593) - Dark moon spider
+26.	[-OSN-] OsprostenaStaraNota	10	129590km2	35925845	Zkus to..(#725) - syslikCZ
+27.	[Genocida] Ve jménu míru	10	159707km2	33858418	Mír a láska(#457) - UniQe
+28.	[Bubáci] Bubáci	10	146984km2	33857875	Zářící Spasitel(#239) - .DuKeLuKe.
+29.	[ganja] GANJA	10	149330km2	33306355	Buster Moon(#1985) - Dhany
+30.	[YOZZEFY] Yozzefy = pohoda klik	10	114773km2	32331135	Veterán - farmář(#80) - Allegro
+31.	[n1] velavazeneidiotstvo	10	204380km2	31829191	Hodne(#151) - zase jachym
+32.	[.L.O.S.] Lehký losí večer	10	146045km2	31368512	LOS made in Monte Carlo(#1122) - Topisek
+33.	[PPT] Pošta pre teba	10	202931km2	30089568	Back to the Roots(#279) - .G.R.U.M.Y.
+34.	[tpOwCh3] the power of wing chun	10	147512km2	29913210	tpOwCh mAx(#50) - MaximusBuchymus
+35.	[ETH] Ethereum	10	142607km2	28585266	Be better everyday. :)(#658) - Drunk3n
+36.	[PRDOX] PRdelí DO Xichtu	10	158651km2	27223386	SAY10(#221) - Jacobthebest
+37.	[MZA] Mačkat Zadek Adélce	10	122681km2	27185198	Klekni si....(#234) - Michellion
+38.	[USSR] Soviet Federative Republic	10	123315km2	24784786	look who`s back(#520) - snasa1
+39.	[NULLL] ???????????????????????	9	104248km2	22624706	na platinu nebylo(#584) - R.A.E.K.
+40.	[-GW-] Green way	10	147057km2	21597369	Homo homini lupus(#601) - Kubikk84
