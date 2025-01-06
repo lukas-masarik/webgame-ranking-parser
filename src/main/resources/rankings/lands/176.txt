@@ -1,0 +1,42 @@
+176. věk
+#	Země	Rozloha	Prestiž	Aliance	Vláda	Kol
+1.	Conqueror Krteček(#36) - Mr. Sedlinno	20000km2	13651278	**CQR**	Utop	3979
+2.	Keton(#258) - king leonardo	13370km2	13460526	WG-PROF	Tech	3978
+3.	(-+)(#312) - trubkatrubkovic	20900km2	13431838	queens	Demo	3979
+4.	The Heroic Toucan(#819) - Tukenssen	19529km2	12391027	-=THC=-	Utop	3976
+5.	Mláka ma láka(#1444) - .Grim.	20230km2	12333293	Bubáci	Tech	3564
+6.	Karavana bez sabotov(#818) - Tukenssen	19112km2	12101075	KCIII.	Utop	3978
+7.	The Cthaeh(#278) - FARR FARR AWAYY	21521km2	11908717	EMP	Fund	3936
+8.	nemám čas mluvit(#1155) - Atlantik	23961km2	11584894	UHS	Robo	3946
+9.	Ztracena vitezstvi(#198) - von Lewinski	24853km2	11180739	Rafani	Kom	3951
+10.	Bunda z koženky(#1055) - FR3EZY	17465km2	11139872	UHS	Utop	3975
+11.	Last tango mada fak(#39) - Supra1Soul5Play	26999km2	10925338	M	Demo	3977
+12.	Karak Azgaraz(#913) - Reich Graf	17710km2	10450849	MENSA	Utop	3947
+13.	Gianluigi Buffon(#848) - podwratak	18657km2	10210553	DZZ	Fund	3942
+14.	tpOwCh nejde o Prestige(#9874) - Degee	21395km2	10082286	tpOwCh	Rep	3974
+15.	The Dude(#72) - Dogaa	23344km2	10000000	BL	Fund	3970
+16.	Nejvýhernější los(#224) - gorem	18228km2	9772868	queens	Utop	3972
+17.	Neutíkej, zemřeš unavenej(#251) - siroko	19724km2	9644027	FAVIR	Utop	3757
+18.	Conquerror Zafod Bíblbrox(#964) - mara8	25000km2	9381381	**CQR**	Feud	3965
+19.	MISDEAL(#564) - JohnnyLamka	19685km2	9164168	AI	Utop	3850
+20.	Fabien Barthez(#683) - podwratak	26666km2	9123553	EL	Dikt	3975
+21.	Mňága(#864) - Joker16.	24717km2	8976014	ganja	Robo	3952
+22.	Sufjan Stevens(#717) - VosoK	19388km2	8911436	BTC	Utop	3969
+23.	Finlandia(#646) - ftacik	51238km2	8600840	n1	Dikt	3971
+24.	.:S3rVuS:.K3mo(#231) - Charles king	20292km2	8523754	ShPr	Rep	3906
+25.	Be better everyday. :)(#658) - Drunk3n	29903km2	8406613	ETH	Rep	3979
+26.	...WG-PROFESSIONAL..:(#259) - king leonardo	17683km2	8335603	WG-PROF	Utop	3980
+27.	H14 Karavana(#817) - Tukenssen	20655km2	8278448	KCII.	Utop	3978
+28.	European Conqueror(#1003) - Armageddon	17560km2	8256803	**CQR**	Utop	3978
+29.	LOS Rowan Atkinson(#117) - Nepochopisnikdy	19999km2	8189914	L.O.S.	Rep	3976
+30.	Výmazom dokáž, že to umíš(#63) - Mr. Sedlinno	20398km2	8145016	UHS	Rep	3978
+31.	LOS made in The Office(#489) - WEBIG	18718km2	8102115	L.O.S.	Robo	3962
+32.	LOS made in Vojtíškov(#46) - Martin858	20350km2	8076824	L.O.S.	Fund	3979
+33.	LOS made in Miami(#183) - davebeewee	19342km2	8066325	L.O.S.	Fund	3975
+34.	Stan Lee(#970) - hagg1d	18124km2	7874326	BTC	Rep	3975
+35.	tpOwCh -.-.-.-.-.-.-,-(#157) - HromikSir	18490km2	7843019	tpOwCh2	Demo	3978
+36.	zem nikoho(#462) - jOguRt44	18657km2	7804392	-=THC=-	Robo	3961
+37.	Izril(#1169) - mazereon	17368km2	7723576	EG	Utop	3979
+38.	Conqueror co má rád teror(#950) - yuphon	18539km2	7709492	**CQR**	Utop	3971
+39.	tpOwCh mám v břiše Ježíše(#2019) - Dhany	17736km2	7669901	tpOwCh2	Kom	3977
+40.	Emise tvojí mámy(#723) - gugoslav	15710km2	7583340	SRAN	Demo	3979
