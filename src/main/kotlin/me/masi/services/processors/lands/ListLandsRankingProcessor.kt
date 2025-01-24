@@ -73,10 +73,26 @@ class ListLandsRankingProcessor(
             return
         }
 
-        println("#\tHrac\tPrestiz\tRozloha\tVek\tUmisteni")
+        println("#\tHrac\tPrestiz\tRozloha\tVlada\tVek\tUmisteni")
         var i = 1
         landsRankingRows.forEach { rankedLand ->
-            println("${i++}.\t${rankedLand.playerName}\t${rankedLand.prestige}\t${rankedLand.area}km2\t${rankedLand.epochNumber}\t${rankedLand.ranking}.")
+            println("${i++}.\t${rankedLand.playerName}\t${rankedLand.prestige}\t${rankedLand.area}km2\t${rankedLand.stateSystem.fullName()}\t${rankedLand.epochNumber}\t${rankedLand.ranking}.")
+        }
+    }
+
+    private fun String.fullName(): String {
+        return when (this) {
+            "Anar" -> "Anarchie"
+            "Demo" -> "Demokracie"
+            "Dikt" -> "Diktatura"
+            "Feud" -> "Feudalismus"
+            "Fund" -> "Fundamentalismus"
+            "Kom" -> "Komunismus"
+            "Rep" -> "Republika"
+            "Robo" -> "Robokracie"
+            "Tech" -> "Technokracie"
+            "Utop" -> "Utopie"
+            else -> this
         }
     }
 }
