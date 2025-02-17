@@ -1,0 +1,42 @@
+177. věk
+#	Aliance	Členů	Rozloha	Prestiž	Předseda
+1.	[=T=] Trója	10	173027km2	74897009	Winter is coming..(#171) - FR3EZY
+2.	[queens] QUEENS	10	172860km2	72808478	Kings Landing(#880) - klankosti
+3.	[**CQR**] Conquerors	10	185505km2	64047396	Lucky Conqueror(#31) - Mr. Sedlinno
+4.	[VÍCADMIN] Víceadministrátoři Webgame	10	164550km2	62282773	Iker Casillas(#226) - podwratak
+5.	[SL] Celiakia nie je sranda	10	158703km2	61086995	Connor McJesus(#217) - Shrunke
+6.	[BTC] Bitcoin	10	158460km2	59973849	Elon Musk:Dogecoin(#899) - Drunk3n
+7.	[OKW] Oberkommando der Wehrmacht	10	156629km2	59151141	Gianluigi Buffon(#570) - podwratak
+8.	[KCI.] Karavana`s Club I.	10	113873km2	58695597	MAVEHO KARAVANA(#45) - maverickynwa
+9.	[Across] Idealistic Organization	10	149999km2	56863469	Klangkuenstler(#145) - marv III
+10.	[T3R0R1ST] T3R0R1ST for fun	10	173569km2	56403540	JustínaBieber(#5555) - G.R.E.E.K
+11.	[-=DC2=-] DC Comics part II.	10	161226km2	55850936	Captain Boomerang(#117) - Fleship
+12.	[ganja] GANJA	10	179165km2	54757095	Buster Moon(#276) - Dhany
+13.	[L.O.S.] Losove hledajici napady	10	145870km2	54499373	LOS made in Zhongguo(#2233) - Topisek
+14.	[SRAN] Tvoje máma	10	148786km2	53190271	Pucuju sasanku tvý mámy(#1100) - Vládce Kabraxis
+15.	[Lupiči] Zloději dívčích srdcí	10	170513km2	47565771	Desítka bráníček(#2021) - Dhany
+16.	[Topis] Topisoáry	10	154288km2	47404368	Alkoholikovi leTopisy(#387) - Ersango
+17.	[.L.O.S.] Losove pijou vodu, ji zeleninu	10	141797km2	46132707	LOS made in Monte Carlo(#1122) - Topisek
+18.	[-=LH=-] Lonely Hearts	10	159480km2	44786047	VY-=LH=-ADIM TE OD SRDCE(#41) - Walker
+19.	[-=THC=-] The Heroic Company	10	145550km2	44034137	zem nikoho(#301) - jOguRt44
+20.	[FR] Flip Reset	10	139131km2	43914858	Raiden Shogun(#514) - ySpirit
+21.	[-OSN-] OsprostenaStaraNota	10	126517km2	41682541	-osn-ruzove v pive(#515) - D1N1AK
+22.	[NoName] Skladacka	10	149292km2	40534159	LOS made in South Africa(#3344) - Topisek
+23.	[CN] Cosa Nostra	10	157314km2	39463107	Arrakis(#602) - Ashoka
+24.	[MZA] Mačkat Zadek Adélce	10	127336km2	38463552	Pardeeho vlna(#715) - Michellion
+25.	[LaRes] La Resistance	10	124756km2	35838984	Láďa křížek(#279) - Dark moon spider
+26.	[B.K.] Blitz Krieg	10	147077km2	31473801	JinX(#38) - Wisbi03
+27.	[Anarchy] Farmíme pro horší budoucnost	10	140946km2	31445211	Srdce mi pofoukáš...(#56) - thordevil
+28.	[tpOwCh] the power of wing chun	10	156987km2	31167398	tpOwCh bUchY(#358) - MaximusBuchymus
+29.	[SLEZSKO] není Severní Morava	10	142758km2	30628954	Cyprián Lelek(#200) - rewewlol
+30.	[Bull] Black Divison	10	130890km2	29774783	GladeRxz(#660) - High Warlord Rxz
+31.	[NZ] Novoročný zázrak	10	107054km2	28887674	Jak slepé kura k zrnu(#89) - Mr. Sedlinno
+32.	[tpOwCh3] the power of wing chun	8	121846km2	27607529	tpOwCh mAx(#359) - MaximusBuchymus
+33.	[FReaKS] Sluníčkové princezničky	10	124839km2	26392979	Princezna z kAnálu(#824) - CH40T1K
+34.	[-GW-] Green way	10	172665km2	25939156	Homo homini lupus(#930) - Kubikk84
+35.	[DDD] Devastačný dračí dych	10	134443km2	25457275	Operace extrémně náročná.(#346) - ulkas
+36.	[-=DC=-] DC Comics	10	133818km2	25345052	Batman(#36) - Fleship
+37.	[YOZZEFY] Yozzefy = pohoda klik	10	119511km2	23982141	Veterán - farmář(#378) - Allegro
+38.	[)CD(] Chrochtající Děti	10	111945km2	23111629	Sorry jako..(#787) - green88
+39.	[-=DH=-] Dark Hunters	10	109237km2	23101621	Amy Pond(#382) - Ersango
+40.	[tpOwCh2] the power of wing chun	10	191076km2	22601688	tpOwCh yiP(#361) - MaximusBuchymus

@@ -1,0 +1,42 @@
+177. věk
+#	Země	Rozloha	Prestiž	Aliance	Vláda	Kol
+1.	Squirrel on the trail(#3456) - Seksymania	22565km2	19611969	=T=	Tech	3977
+2.	Mláka ma láka(#1444) - .Grim.	21107km2	19488631	T3R0R1ST	Tech	3683
+3.	LOS made in M*A*S*H(#646) - WEBIG	24193km2	16764646	NoName	Rep	3977
+4.	Charlie Sheen(#357) - Nepochopisnikdy	17999km2	16462664	L.O.S.	Utop	3945
+5.	Lucie upije(#619) - Joker16.	27996km2	14765975	Lupiči	Robo	3975
+6.	:O(#72) - PLASTIK	21300km2	14759601	Across	Tech	3939
+7.	Comeback(#333) - PinkPanther	28469km2	14041523	ganja	Feud	3979
+8.	.::Gondor::.(#896) - .Aragornikk.	28135km2	13888454	-=LH=-	Rep	3966
+9.	777(#777) - PinkPanther	23627km2	13202512	queens	Feud	3973
+10.	LOS made in Vojtíškov(#637) - Martin858	18000km2	12885056	.L.O.S.	Utop	3959
+11.	Chulimanga(#173) - FR3EZY	22952km2	12640577	=T=	Demo	3979
+12.	Verlorene Siege(#193) - von Lewinski	22849km2	12613062	Perverz	Kom	3518
+13.	SiL ikONy 4EveR(#324) - klankosti	21290km2	12330285	BTC	Utop	3552
+14.	Konzervativní Demokracie(#198) - xxx stephanG xxx	22222km2	12222915	-=BV=-	Demo	3977
+15.	Pocemkamdeš(#14001) - demonstrate.	25789km2	12114894	SPRITE	Rep	3979
+16.	Connor McJesus(#217) - Shrunke	18394km2	12017021	SL	Utop	3673
+17.	AB LUCEM AD TENEBRAS(#1222) - .Grim.	26428km2	11645204	VÍCADMIN	Robo	3979
+18.	European Conqueror(#1003) - Armageddon	23733km2	11229744	**CQR**	Dikt	3970
+19.	The Heroic Toucan(#887) - Tukenssen	20198km2	10927341	-=THC=-	Utop	3979
+20.	Whats my age again?(#958) - Mrkvička777	18969km2	10872512	ShPr	Rep	3840
+21.	Impostor syndrom(#383) - masterWG	17999km2	10712493	T3R0R1ST	Utop	3594
+22.	Sešívaní(#246) - Zed89	17000km2	10593579	VÍCADMIN	Utop	3979
+23.	LOS made in BeerPong(#710) - DieWalker	18000km2	10192935	.L.O.S.	Utop	3975
+24.	T_H_A_N_O_S(#999) - G.R.E.E.K	17464km2	10171308	CN	Feud	3987
+25.	Konyland(#725) - MrKony	17765km2	10033653	BTC	Utop	3802
+26.	Rafael Nadal(#1233) - .Aragornikk.	19040km2	9942961	OKW	Utop	3944
+27.	S22E05(#698) - ViewSonick	25439km2	9833478	B.K.	Rep	3973
+28.	Sundám TOP1(#371) - leszek	17840km2	9781534	Across	Kom	3931
+29.	50M na ruce tvojí mámy(#50000) - smudlas	13400km2	9682375	SRAN	Utop	3978
+30.	Fabien Barthez(#569) - podwratak	20616km2	9638429	VÍCADMIN	Feud	3975
+31.	Karavana bez sabotov(#886) - Tukenssen	18569km2	9461709	-=DC2=-	Utop	3979
+32.	Friday Highday(#463) - ViewSonick	21544km2	9224742	VÍCADMIN	Rep	3959
+33.	LOS made in Ukrajina(#354) - Eph3dr1ne	25461km2	9176305	NoName	Robo	3978
+34.	Stink^(#617) - budhahahahaha	15283km2	9040227	FR	Tech	3959
+35.	Mňága(#568) - Joker16.	18555km2	9016692	queens	Robo	3976
+36.	FULL OF HELL(#658) - Broot	17660km2	8925470	queens	Rep	3979
+37.	Vlastík Plamínek(#9999) - masterWG	28830km2	8875095	NASA	Robo	3977
+38.	Pasáček hoes(#308) - Jacobthebest	15405km2	8779258	SL	Utop	3791
+39.	Are you afraid?(#977) - N4TH4N13L	16666km2	8746777	OKW	Utop	3978
+40.	Tragedis(#567) - Joker16.	20882km2	8636081	ganja	Robo	3978
