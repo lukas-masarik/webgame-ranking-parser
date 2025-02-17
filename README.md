@@ -2,4 +2,4 @@
 
 Tool for parsing rankings for online strategy game https://webgame.cz.
 
-Last supported epoch is #176.
+Last supported epoch is #177.
