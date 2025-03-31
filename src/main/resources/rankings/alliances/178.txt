@@ -1,0 +1,42 @@
+178. věk
+#	Aliance	Členů	Rozloha	Prestiž	Předseda
+1.	[KCIII.] Karavana`s Club III.	10	166294km2	88701254	MAVEHO KARAVANA III.(#187) - maverickynwa
+2.	[-4F-] 4 the future	10	210890km2	80537630	Hello empty future(#69) - hagg1d
+3.	[Across] Idealistic Organization	10	168102km2	79050860	Jay Lumen(#115) - marv III
+4.	[M] MOON	10	147726km2	73795619	Atlan(#102) - Atlantik
+5.	[Polévka] Prdelačka je lék	10	191101km2	72539724	Kuřecí vývar(#139) - ViewSonick
+6.	[ganja] Ganja	10	191217km2	70818661	Buster Moon(#275) - Dhany
+7.	[**CQR**] Conquerors	10	156318km2	67515076	Lucky Conqueror(#49) - Mr. Sedlinno
+8.	[FR] Flip Reset	10	140556km2	67005627	Raiden Shogun(#3001) - ySpirit
+9.	[T3R0R1ST] T3R0R1ST for fun	10	174085km2	62919053	MawMau(#555) - G.R.E.E.K
+10.	[-=LH=-] Lonely Hearts	10	158119km2	61386489	-=LH=-AMA NUMERO UNO(#43) - Walker
+11.	[=T=] Trója	10	179757km2	58640810	Winter is coming..(#38) - FR3EZY
+12.	[**TCA**] Tactical combat academy	10	189728km2	57837491	BOH odpúšťa JA nie(#666) - trisíííček
+13.	[MENSA] ...prostě (j)elita :)	10	143827km2	57474844	CHYŤ MĚ, KDYŽ TO DOKÁŽEŠ(#125) - Sir Extrem
+14.	[tpOwCh2] the power of wing chun	10	155651km2	56994830	tpOwCh mAx(#215) - MaximusBuchymus
+15.	[-=THC=-] The Heroic Company	10	155656km2	56030524	zem nikoho(#411) - jOguRt44
+16.	[tpOwCh] the power of wing chun	10	160413km2	55062691	tpOwCh bUchY(#37) - MaximusBuchymus
+17.	[SRAN] Tvoje máma	10	149830km2	52424884	Pucuju sasanku tvý mámy(#599) - Vládce Kabraxis
+18.	[DooM] Doomtroopers	10	142932km2	47145763	Záludný Alakhai(#550) - Yurnero
+19.	[SLEZSKO] není Severní Morava	10	159993km2	44922962	Cyprián Lelek(#136) - rewewlol
+20.	[-=DC2=-] DC Comics part II.	10	155232km2	44806020	Captain Boomerang(#589) - Fleship
+21.	[SPRITE] Teď my jsme Sprite a vy žízeň	10	146030km2	42521920	Pocemkamdeš(#71) - demonstrate.
+22.	[BTC] Bitcoin	10	155311km2	42175823	Elon Musk:Dogecoin(#730) - Drunk3n
+23.	[NE5] NE5MRTELN1	10	160959km2	42122969	Niotech(#226) - marv III
+24.	[=Pivko=] Hlavně, že je pivo v tlamě.	9	115725km2	41797469	Radegast 12(#388) - Rozervaná Paní
+25.	[MZA] Mačkat Zadek Adélce	10	130969km2	37894547	Klekni si....(#890) - Michellion
+26.	[Anarchy] Farmíme pro horší minulost	10	132681km2	37843857	Srdce mi pofoukáš...(#439) - thordevil
+27.	[.::R::.] Rytíři	10	173356km2	37431956	B*E*S*A*R*A*B*I*A(#354) - Abdul
+28.	[-GW-] Green way	10	181220km2	37353550	Homo homini lupus(#615) - Kubikk84
+29.	[LaRes] La Resistance	10	132214km2	36859191	Láďa Křížek(#64) - Dark moon spider
+30.	[KCI.] Karavana`s Club I.	10	143710km2	36559297	MAVEHO KARAVANA(#44) - maverickynwa
+31.	[L.O.S.] Losácká láska	10	124697km2	36115610	LOS nade in the Untamed(#4455) - Topisek
+32.	[)CD(] Cikorky DYK?	10	136971km2	35504165	)CelkemDobrák( Grýn(#99) - green88
+33.	[YOZZEFY] Yozzefy = pohoda klik	10	138412km2	34264992	Veterán - farmář(#200) - Allegro
+34.	[DDD] Drancuj, diktuj, dobývaj.	10	149420km2	33333274	Čistou plínkou neurazíš(#168) - Mav7rick
+35.	[-OSN-] OsprostenaStaraNota	10	146171km2	32819959	-osn-ruzove v pive(#326) - D1N1AK
+36.	[tpOwCh4] the power of wing chun	10	138386km2	29605256	tpOwCh maN(#219) - MaximusBuchymus
+37.	[PaTo] PaToLoGiE	10	104291km2	28735970	Air(#639) - kill666
+38.	[D3V1L5] Masters of Underworld	10	145395km2	28708826	*Wiking*(#65) - SVKelt
+39.	[::SoF::] Soldiers of Freedom	10	89314km2	28585525	Admiral Alexei Stukov(#517) - vesosek
+40.	[ETH] Ethereum	10	153386km2	27860342	Be better everyday.(#10000) - Drunk3n
