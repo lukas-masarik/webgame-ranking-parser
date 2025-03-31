@@ -1,0 +1,42 @@
+178. věk
+#	Země	Rozloha	Prestiž	Aliance	Vláda	Kol
+1.	Jdesenato(#1218) - seosen	32748km2	20068496	PaTo	Rep	3979
+2.	Conqueror s kalkulačkou(#292) - .Hellboy.	27186km2	19819650	**CQR**	Rep	3979
+3.	-=LH=-AMA NUMERO UNO(#43) - Walker	25875km2	18145118	-=LH=-	Demo	3979
+4.	Bum Bum Ciao(#721) - Zlýsin	20413km2	16368727	Across	Tech	3972
+5.	Jsem (bez)vadná.(#45) - Baů000	22334km2	15118089	ganja	Utop	3979
+6.	*****(#845) - PLASTIK	24921km2	13935634	Across	Rep	3977
+7.	Lucie upije(#519) - Joker16.	29325km2	13822476	-4F-	Robo	3979
+8.	Niotech(#226) - marv III	31999km2	13608491	NE5	Rep	3969
+9.	vlasy zlatovlasky(#211) - Atlantik	26666km2	13366628	S	Fund	3977
+10.	BOH odpúšťa JA nie(#666) - trisíííček	29500km2	13167845	**TCA**	Robo	3967
+11.	-=KA=-nálník(#1098) - čempix	20193km2	13146169	MENSA	Demo	3979
+12.	tpOwCh nejde o Prestige(#9874) - Degee	13999km2	12963743	tpOwCh	Tech	3938
+13.	tpOwCh be afraid?(#138) - Pacik	23890km2	12861695	tpOwCh2	Demo	3976
+14.	JinX(#1284) - Wisbi03	30838km2	12579732	.::R::.	Demo	3947
+15.	Obviněný(#831) - podwratak	30000km2	12552057	9mm	Robo	3978
+16.	Gondorik.rad.hladi:)(#1017) - .Aragornikk.	25799km2	12347142	-4F-	Rep	3980
+17.	FULL OF HELL(#97) - Broot	22300km2	12244305	ganja	Demo	3978
+18.	Karabanka Karavana(#284) - Tukenssen	18796km2	12227079	KCIII.	Utop	3979
+19.	AB LUCEM AD TENEBRAS(#1222) - .Grim.	15912km2	12194167	M	Tech	3978
+20.	zem nikoho(#411) - jOguRt44	23655km2	11802670	-=THC=-	Robo	3977
+21.	Gumbo(#1073) - ridgeback	27000km2	11634067	Polévka	Rep	3979
+22.	Škrábu mrkev tvojí mámy(#884) - Prometheuss	18098km2	11453477	SRAN	Utop	3974
+23.	XMISION KARAVANA(#711) - xmision	16574km2	11190791	KCIII.	Utop	3978
+24.	MiNioN(#114) - MiNioN	21756km2	11111111	-=DC2=-	Utop	3974
+25.	VYNDANÁ KARAVANA(#324) - smudlas	17999km2	10139761	KCIII.	Utop	3948
+26.	Šedá eminence(#529) - nezbedny bohus	22000km2	10103083	T3R0R1ST	Robo	3964
+27.	Dršťková(#298) - Ctirad2	16343km2	9869785	Polévka	Feud	3978
+28.	Štěpán je pán(#188) - Martin858	18295km2	9800506	ganja	Utop	3976
+29.	Karavana bez sabotov(#286) - Tukenssen	19318km2	9722469	KCIII.	Utop	3963
+30.	tpOwCh Atlantída(#1229) - Paul.MuadDib	20000km2	9702355	tpOwCh4	Utop	3979
+31.	identifikuji se jako dikt(#812) - hlidac3	14128km2	9575885	M	Utop	3854
+32.	Under Tides(#3004) - ySpirit	15906km2	9554137	FR	Utop	3979
+33.	A Wizard is never late(#93) - leszek	14999km2	9520941	M	Utop	3936
+34.	Nežer ten hegeš Šiško(#397) - cucomucko	18161km2	9509989	BTC	Utop	3972
+35.	Jay Lumen(#115) - marv III	21875km2	9471886	Across	Robo	3965
+36.	VODNÍ MELOUN(#1071) - ...Kápo...	12999km2	9290022	N.L.D	Utop	3649
+37.	Brutal Asfalt(#1123) - Zilos	18248km2	9251537	=Pivko=	Kom	3890
+38.	Schizofrenik(#227) - Jacobthebest	24911km2	9249151	Kevlar	Rep	3962
+39.	MAVEHO KARAVANA III.(#187) - maverickynwa	14000km2	9248821	KCIII.	Fund	3979
+40.	Raiden Shogun(#3001) - ySpirit	16061km2	9226212	FR	Utop	3979
