@@ -1,0 +1,42 @@
+179. věk
+#	Země	Rozloha	Prestiž	Aliance	Vláda	Kol
+1.	You dont have the cards(#126) - leszek	25228km2	19238055	Across	Demo	3978
+2.	Opět farmím(#680) - Vojtiiik	38888km2	19049758	D1	Robo	3979
+3.	Gondorik.rad.hladi:)(#891) - .Aragornikk.	25530km2	16934586	MCU	Rep	3979
+4.	vlasy zlatovlasky(#657) - Atlantik	38383km2	13324500	S	Robo	3979
+5.	DamnLand(#46) - seosen	19442km2	12940171	PZY	Tech	3978
+6.	Tenisovy loket v koleni(#360) - sir Kopcem	20481km2	12786714	FATHERS	Demo	3925
+7.	zem nikoho(#164) - jOguRt44	27339km2	12087950	-=THC=-	Rep	3976
+8.	Karabanka Karavana(#605) - Tukenssen	20904km2	12022631	KCIII.	Utop	3883
+9.	Canis Major(#384) - 555888909	22253km2	12002065	*N*	Demo	3978
+10.	Vařící polévka gazpacho(#1004) - Armageddon	22894km2	11618622	-=THC=-	Robo	3979
+11.	Verlorene Siege(#209) - von Lewinski	26838km2	11329188	Perverz	Rep	3979
+12.	.:S3rVuS:.Bro(#309) - Charles king	19300km2	10529895	GYMUO	Utop	3947
+13.	Apollo 11(#145) - Martin858	20575km2	9694985	M	Fund	3973
+14.	131313(#1246) - Gallactic	27694km2	9693745	MENSA	Fund	3978
+15.	Brcko(#1382) - Atletbrcko	20839km2	9638389	wgd	Demo	3887
+16.	03(#756) - daxicek	25592km2	9278110	AHA	Utop	3979
+17.	Atlan(#608) - Atlantik	19432km2	9027345	M	Fund	3968
+18.	Krocanův pekáč(#1274) - Krocan.II.Veliký	21161km2	9000000	.:FK:.	Kom	3879
+19.	50M na ruce tvojí mámy(#50000) - smudlas	19999km2	8781387	SRAN	Utop	3970
+20.	4D 6F 6F 6E(#348) - 3m0t1v	23524km2	8546939	M	Feud	3972
+21.	Audi RS6 Performance(#1657) - Clarkson	17500km2	8500000	1	Utop	3760
+22.	A big, Beautifull wall(#1156) - Zlýsin	20804km2	8470723	Across	Rep	3976
+23.	IWI Tavor(#887) - podwratak	27953km2	8321455	VICADMIN	Dikt	3974
+24.	Střechy jsou mi chodníkem(#1985) - Dhany	14697km2	8312689	=T=	Utop	3977
+25.	Svacim len v noci(#1169) - Zilos	16999km2	8187501	Pifko	Utop	3979
+26.	Bunda z koženky(#33433) - FR3EZY	22945km2	8174604	*N*	Feud	3941
+27.	Pšoukatán(#114) - Šalda	15551km2	8165735	NSFW	Tech	3974
+28.	VODNÍ MELOUN(#182) - ...Kápo...	15999km2	8127874	Kevlar	Dikt	3775
+29.	Karavana bez sabotov(#606) - Tukenssen	16484km2	8014422	KCIII.	Utop	3973
+30.	Moonbase(#949) - hum4nic	19348km2	8012364	M	Fund	3978
+31.	KARAVANA NA TRIPU(#167) - jOguRt44	19361km2	7975282	KCIII.	Robo	3897
+32.	najmenšístredneveľkýpsík(#530) - esya	21328km2	7846868	n2	Robo	3322
+33.	the destroyer of worlds(#759) - MOTOR O1L	19708km2	7763740	=T=	Utop	3978
+34.	Guy Fawkes(#502) - Dareion	17242km2	7752117	GYMUO	Feud	3955
+35.	Douchbag(#700) - čempix	12781km2	7706221	MENSA	Tech	3979
+36.	Je mi 30 a jsem panic(#194) - Promo16	16322km2	7677619	=T=	Utop	3946
+37.	Rosomák(#320) - trisíííček	29000km2	7675346	**TCA**	Dikt	3979
+38.	Nasty Nebula(#440) - Sc0rp10n	17560km2	7642703	-=DC=-	Utop	3970
+39.	KARAVANA za karavanou(#1047) - Ersango	14762km2	7628973	KCII.	Rep	3977
+40.	Free Grundza(#906) - Quari	15848km2	7608425	S.M.R.T.	Utop	3962

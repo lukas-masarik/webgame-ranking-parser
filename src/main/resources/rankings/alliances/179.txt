@@ -1,0 +1,42 @@
+179. věk
+#	Aliance	Členů	Rozloha	Prestiž	Předseda
+1.	[M] MOON	10	179196km2	70750753	Atlan(#608) - Atlantik
+2.	[SRAN] Tvoje Máma	10	162349km2	60478083	Pucuju sasanku tvý mámy(#1100) - Vládce Kabraxis
+3.	[=T=] Trója	10	139717km2	58122063	Winter is coming..(#333) - FR3EZY
+4.	[-=THC=-] The Heroic Company	10	153241km2	55378293	zem nikoho(#164) - jOguRt44
+5.	[*N*] Nemesis	10	166679km2	53638643	*N*esundáš mě(#1216) - Gallactic
+6.	[KCI.] Karavana`s Club I.	10	138869km2	52751501	MAVEHO KARAVANA(#63) - maverickynwa
+7.	[GYMUO] František Kristen jako fčela	10	161370km2	51008823	Guy Fawkes(#502) - Dareion
+8.	[Pifko] Pijeme s Laskou	10	140635km2	50305436	Svacim len v noci(#1169) - Zilos
+9.	[Across] Idealistic Organization	8	141179km2	50000454	HaveYouSaidThankYouOnce?(#120) - leszek
+10.	[KCIII.] Karavana`s Club III.	10	150831km2	46759687	MAVEHO KARAVANA III.(#65) - maverickynwa
+11.	[**TCA**] Tactical combat academy	10	192847km2	46738915	Rosomák(#320) - trisíííček
+12.	[MENSA] ...prostě (j)elita :)	10	151826km2	46690814	CHYŤ MĚ, KDYŽ TO DOKÁŽEŠ(#100) - Sir Extrem
+13.	[=Pivko=] Hlavně, že je pivo v tlamě.	10	152414km2	44086676	Nasraaat(#1054) - Zilos
+14.	[S] SUN	10	168871km2	43874169	nemám čas řešit(#655) - Atlantik
+15.	[AHA] Aliancia Láskavého Triumvirátu	10	154776km2	43103746	Banana skin ON(#750) - Abdul
+16.	[Anarchy] Farmíme pro lepší budoucnost	10	138330km2	42500534	Srdce mi pofoukáš...(#112) - thordevil
+17.	[MZA] Mladistvá Zrzavá Amálka	10	137005km2	41084386	Klekni si....(#504) - Michellion
+18.	[SL] Marsch 3C	10	127810km2	39667322	Connor McJesus(#414) - Shrunke
+19.	[-=DC=-] DC Comics	8	116457km2	37775105	Batman(#441) - Fleship
+20.	[.:MoD:.] Miluji Orální Diskuze	10	115499km2	37558343	Maluji milující se páry(#376) - Smrtihlav2
+21.	[S.M.R.T.] Sádlo Máslo Rumcajs Trencle	10	142565km2	36004556	Osmo(#576) - osmnulaosm
+22.	[DDD] Deštruktívny dramatický dážď	10	159089km2	35565149	Operace extrémně náročná.(#559) - ulkas
+23.	[D3V1L5] Masters of Underworld	10	128139km2	35518234	*Wiking*(#299) - SVKelt
+24.	[tpOwCh2] the power of wing chun	10	177672km2	35041806	tpOwCh maN(#73) - MaximusBuchymus
+25.	[Kevlar] Šajze katze	10	145997km2	35038873	Kazič zábavy(#812) - junker002
+26.	[HAMAS] Za nezavislost Palestiny	10	119826km2	34080656	Tavolníkovec jeřábolistý(#258) - koutb
+27.	[SLEZSKO] není Severní Morava	10	146707km2	34013833	Heliodor Píka(#431) - Canizares II.
+28.	[PZY] Pozitivity	10	136452km2	33772679	DamnLand(#46) - seosen
+29.	[MCU] Marvel	10	105599km2	32539847	Stan Lee(#45) - hagg1d
+30.	[NE5] NE5MRTELN1	10	155278km2	31967670	Nemanja Bombič(#1284) - Zlýsin
+31.	[.:LWB:.] LandWirtrechtsBewegung	10	154232km2	31355971	Ars longa, vita brevis(#201) - HolyShotUK2
+32.	[ahoj] ahoj	10	136176km2	31141042	bubu bu(#658) - Atlantik
+33.	[YOZZEFY] Yozzefy = pohoda klik	10	120148km2	30772749	Farmář - veterán(#163) - Allegro
+34.	[Genocida] Rest in peace	10	174001km2	30445318	Papučí po pysku(#544) - UniQe
+35.	[-GW-] Green way	10	186009km2	29972340	Homo homini lupus(#572) - Kubikk84
+36.	[Temnota] Temnota	10	111431km2	29266753	Doba Temna(#196) - pokrosss
+37.	[TJV] Techno je všechno	9	130085km2	29032114	Forsaken Earth(#1120) - PLASTIK
+38.	[BTC] Bitcoin	10	170351km2	28547003	Quantum computing(#802) - Drunk3n
+39.	[HIZBALAH] SVETOVA ENTYTA	10	88974km2	27973068	Topvar 12 spominam(#293) - MySEl
+40.	[.::R::.] Rytíři	8	123073km2	27481241	B*E*S*A*R*A*B*I*A(#746) - Abdul
