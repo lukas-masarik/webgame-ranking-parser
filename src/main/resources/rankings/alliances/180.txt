@@ -1,0 +1,42 @@
+180. věk
+#	Aliance	Členů	Rozloha	Prestiž	Předseda
+1.	[-WINDE-] For fun	10	214952km2	98951220	host vyhazuje vrchního(#720) - Jankodigital
+2.	[PZY] Pozitivity	10	212680km2	89613213	DamnLand(#428) - seosen
+3.	[KCIII.] Karavana`s Club III.	10	174486km2	88556361	MAVEHO KARAVANA III.(#176) - maverickynwa
+4.	[ganja] Ganja	10	186849km2	79797995	Střechy jsou mi chodníkem(#1985) - Dhany
+5.	[M] MOON	10	171543km2	78698097	Aim, shoot, run(#69) - Supra1Soul5Play
+6.	[TAG] Totální Arytmie Gayů	10	148521km2	73229250	Vyhlazovací útok na ntou(#135) - Walker
+7.	[=T=] Trója	10	187425km2	69658837	Winter is coming..(#133) - FR3EZY
+8.	[SRAN] Tvoje máma	10	177495km2	66925128	Pucuju sasanku tvý mámy(#243) - Vládce Kabraxis
+9.	[tpOwCh2] the power of wing chun	10	143234km2	61636960	tpOwCh yiP(#193) - MaximusBuchymus
+10.	[.:UO:.] Univerzita Obrany	10	168891km2	60291709	Ronald Vegan(#409) - yuphon
+11.	[Across] Idealistic Organization	10	163070km2	57106044	horsegiirL(#44) - marv III
+12.	[-=DC=-] DC Comics	10	167203km2	55953423	Batman(#261) - Fleship
+13.	[Pifko] Pijeme s laskou	10	161138km2	55490864	Farmar Ochlasta(#792) - Zilos
+14.	[tpOwCh] the power of wing chun	10	151223km2	51884611	tpOwCh bUchY(#189) - MaximusBuchymus
+15.	[-=DC2=-] DC Comics part II.	10	151984km2	51458196	Captain Boomerang(#266) - Fleship
+16.	[MENSA] ...prostě (j)elita :)	10	131751km2	51374201	CHYŤ MĚ, KDYŽ TO DOKÁŽEŠ(#505) - Sir Extrem
+17.	[n1] nufnufnuffunkujuc idiuiti	10	178684km2	51284103	najmenšístredneveľkýpsík(#376) - esya
+18.	[S] SUN	10	154413km2	51120209	nemám čas řešit(#185) - Atlantik
+19.	[KCII.] Karavana`s Club II.	10	161531km2	50093124	MAVEHO KARAVANA II.(#173) - maverickynwa
+20.	[-=THC=-] The Heroic Company	10	180507km2	48711242	zem nikoho(#154) - jOguRt44
+21.	[NGTY] Negativity	10	165814km2	47606481	Jdesenato(#434) - seosen
+22.	[L.O.S.] Losové v protekci	10	216829km2	47351409	LOS made in Monte Carlo(#539) - Topisek
+23.	[BH] Bounty Hunters	10	170939km2	46364281	Rossomák(#888) - trisíííček
+24.	[TJV] Techno je všechno	10	175688km2	44214649	HUMAN ERROR(#962) - marv III
+25.	[WINDE] for fun	10	209533km2	43703895	AXXY.(#600) - AXXY
+26.	[MÁMA] Tvoje druhá MÁMA	10	137761km2	41751210	Bio broskvička tvojí mámy(#3300) - Vládce Kabraxis
+27.	[.L.O.S.] Losove hrajici ze zahradky	10	164232km2	40867590	LOS made in South Africa(#3344) - Topisek
+28.	[DDD] Drsní Dozorcovia Dystopie	10	147912km2	40258001	klik sem(#236) - Yank
+29.	[YOZZEFY] Yozzefy = pohoda klik	10	141789km2	39536765	Veterán - farmář(#346) - Allegro
+30.	[LaRes] La Resistance	10	139790km2	39255262	Lastura(#543) - Dark moon spider
+31.	[AHA] Aliancia Láskavého Triumvirátu	10	169494km2	39085611	Banana skin ON(#582) - Abdul
+32.	[.::R::.] Rytíři	10	170410km2	38740869	B*E*S*A*R*A*B*I*A(#574) - Abdul
+33.	[-4F-] 4fun	10	175328km2	38532016	Hello empty future(#148) - hagg1d
+34.	[=Pivko=] Pivo dělá hezká těla	10	150973km2	38222506	Nasraaat(#710) - Zilos
+35.	[-GW-] Green way	10	190274km2	37718319	Homo homini lupus(#751) - Kubikk84
+36.	[KCI.] Karavana`s Club I.	10	109916km2	37603435	MAVEHO KARAVANA(#172) - maverickynwa
+37.	[SLEZSKO] není severní Morava	10	160779km2	36883092	Heliodor Píka(#208) - Canizares II.
+38.	[Anarchy] Farmíme pro lepší minulost	10	143416km2	36670449	Srdce mi pofoukáš...(#580) - thordevil
+39.	[ALI1234] ALI1234	10	127375km2	35979683	usti(#32) - vachys39
+40.	[ahoj] ahoj	7	117705km2	33832804	vlasy zlatovlasky(#188) - Atlantik
