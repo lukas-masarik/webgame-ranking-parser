@@ -1,0 +1,42 @@
+180. věk
+#	Země	Rozloha	Prestiž	Aliance	Vláda	Kol
+1.	Kuliferda(#1144) - Tayger	35426km2	22732164	PZY	Rep	3979
+2.	Aim, shoot, run(#69) - Supra1Soul5Play	27999km2	22542441	M	Tech	3979
+3.	A za kolik expu to bylo?(#654) - Saturas	19642km2	17811393	ganja	Utop	3690
+4.	Snehulienka a 7 BWC(#959) - Duskooo	34530km2	15716222	.::R::.	Robo	3979
+5.	host vyhazuje vrchního(#720) - Jankodigital	22222km2	14339084	-WINDE-	Demo	3978
+6.	The Cthaeh(#336) - FARR FARR AWAYY	30800km2	14148783	EMP	Rep	3844
+7.	The Heroic Toucan(#759) - Tukenssen	20997km2	13461688	-=THC=-	Utop	3979
+8.	Karavana bez sabotov(#757) - Tukenssen	19752km2	12296432	KCIII.	Utop	3976
+9.	NejlepšíŽenaJeNaložená(#818) - klofák	26385km2	12085985	PZY	Rep	3978
+10.	horsegiirL(#44) - marv III	21078km2	11899807	Across	Dikt	3967
+11.	MiNioN(#245) - MiNioN	18187km2	11863902	-=DC2=-	Utop	3970
+12.	Rossomák(#888) - trisíííček	26285km2	11504552	BH	Rep	3969
+13.	No... snaha byla.(#119) - nik1	20000km2	11478205	M	Utop	3562
+14.	Utopkou az na vrchol(#369) - Koumes	21500km2	11017344	-WINDE-	Robo	3977
+15.	Emise tvojí mámy(#885) - gugoslav	20516km2	10933479	SRAN	Demo	3976
+16.	Bugistan(#405) - Duncan I.	15937km2	10803760	TAG	Utop	3977
+17.	bubu bu(#217) - Atlantik	34510km2	10720394	ahoj	Robo	3958
+18.	KARAVANA MILOVANÁ(#1003) - Armageddon	18001km2	10698715	KCIII.	Utop	3978
+19.	KARAVANA ZAHRADNIK(#825) - jOguRt44	19642km2	10686486	KCIII.	Utop	3977
+20.	Air.(#426) - kill666	16876km2	10417704	PaTo	Tech	3717
+21.	Chulimanga(#549) - FR3EZY	17322km2	10318562	=T=	Utop	3952
+22.	Nesebevědomá země(#669) - Masias	22222km2	10218173	-WINDE-	Dikt	3951
+23.	tpOwCh Shield Anvil(#504) - Dareion	17014km2	10202577	tpOwCh2	Utop	3953
+24.	Stink^(#110) - budhahahahaha	14713km2	10112557	TAG	Tech	3970
+25.	SKSlaviaPraha(#742) - Zed89	18635km2	10076630	OMO	Utop	3977
+26.	AXXY..(#601) - AXXY	22222km2	10049180	-WINDE-	Fund	3977
+27.	tpOwCh mám v břiše Ježíše(#2019) - Dhany	15185km2	10045489	tpOwCh2	Utop	3957
+28.	Dota_Allstars(#1299) - .Baťa.	14999km2	10045456		Utop	3972
+29.	Acetylen(#281) - .HARKOMEN.	25222km2	10006378	HRNCE	Dikt	3974
+30.	Karabanka Karavana(#756) - Tukenssen	18834km2	9888903	KCIII.	Utop	3979
+31.	Já farmim, ty expíš(#36) - Gaston...	18626km2	9876949	.:UO:.	Utop	3978
+32.	VYNDANÁ KARAVANA(#158) - smudlas	20000km2	9873481	KCIII.	Utop	3979
+33.	Mechová brambora(#523) - Baů000	19611km2	9851450	ahoj	Utop	3979
+34.	I-H8-U BOJOVA PRASATKA(#571) - Wepř XIII	17707km2	9823879	.:UO:.	Utop	3958
+35.	Kuttenberg(#668) - Masias	20000km2	9817523	-WINDE-	Fund	3977
+36.	::.WG-PROFESSIONAL..:(#584) - Vlasic III	17999km2	9675554	.BW.	Utop	3895
+37.	Skartovaná panna(#1132) - Stalin2	28660km2	9535232	PZY	Dikt	3971
+38.	Střechy jsou mi chodníkem(#1985) - Dhany	19507km2	9479320	ganja	Rep	3958
+39.	Taghle vysoko(#975) - Josefko	15027km2	9443825	TAG	Tech	3977
+40.	Winter is coming..(#133) - FR3EZY	23681km2	9310160	=T=	Kom	3969
