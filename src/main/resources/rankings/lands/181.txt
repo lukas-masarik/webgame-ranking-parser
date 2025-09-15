@@ -1,0 +1,42 @@
+181. věk
+#	Země	Rozloha	Prestiž	Aliance	Vláda	Kol
+1.	Good wetr(#62) - Jankodigital	28530km2	32784580	WINDE	Tech	3692
+2.	Just for fun(#516) - .Baťa.	34172km2	21213450	DOTA1	Tech	3979
+3.	Unique už nejsem na icq(#59) - čempix	26447km2	20868098	UNIQUE	Demo	3979
+4.	Atropin(#1094) - Poison	27220km2	18477085	r0c	Demo	3978
+5.	Mláka ma láka(#1444) - .Grim.	23371km2	18302401	T3R0R1ST	Anar	3965
+6.	-=LH=-át se nemá(#9765) - Seksymania	31961km2	17660404	-=LH=-	Dikt	3976
+7.	AXXY.(#763) - AXXY	27999km2	17495529	WINDE	Rep	3978
+8.	Unique emotions(#8765) - Seksymania	22372km2	15627957	UNIQUE	Anar	3945
+9.	Heliodor Píka(#424) - Canizares II.	24895km2	15309606	SLEZSKO	Rep	3961
+10.	TURNSTILE(#640) - Broot	30018km2	13819902	queens	Demo	3977
+11.	L O V E c(#486) - Defectorr	31055km2	13760765	K	Kom	3978
+12.	AE NE(#642) - .G.R.U.M.Y.	23735km2	13215668	tpOwCh4	Kom	3770
+13.	Šušn(#1075) - ttrtt	27999km2	13003847	ne	Rep	3978
+14.	Grumpy(#420) - Bur.Kek	25109km2	12652110	Grumpy	Rep	3978
+15.	Medajle budou ?(#4000) - Saturas	24179km2	12386288	.Ganja.	Tech	3977
+16.	Reno Raines(#359) - RSkater88	28999km2	12171371	SLEZSKO	Dikt	3942
+17.	E v obraně tvojí mámy(#887) - smudlas	20827km2	12154262	SRAN	Utop	3966
+18.	Krab the king(#856) - blasticek	24128km2	12073981	R.O.BOTS	Robo	3978
+19.	Karabanka Karavana(#772) - Tukenssen	20252km2	12051521	KCIII.	Utop	3958
+20.	Breakpointburg(#470) - Duncan I.	20614km2	11686251	TAG	Utop	3969
+21.	Unique Fate(#253) - leszek	20034km2	11408034	UNIQUE	Rep	3979
+22.	Sauerstoff(#336) - .HARKOMEN.	28130km2	11012768	HRNCE	Feud	3979
+23.	888(#888) - PinkPanther	22118km2	10786027	queens	Rep	3973
+24.	Svacim len v noci(#1221) - Zilos	24839km2	10673353	=Pivko=	Fund	3978
+25.	LokPiva(#557) - LordEinstein	13212km2	10572966	Across	Tech	3979
+26.	M@5_b0nuS?(#1146) - .whitewidow.	17983km2	10516813	MENSA	Robo	3974
+27.	LOS made in South Africa(#3344) - Topisek	21410km2	10396724	-=THC=-	Tech	3840
+28.	hadaj kto je spat?(#1164) - posterr	31387km2	10362030	PaP	Robo	3974
+29.	Karavana bez sabotov(#773) - Tukenssen	19252km2	10321602	KCIII.	Utop	3948
+30.	Střechy jsou mi chodníkem(#1987) - Dhany	19680km2	10313928	.Ganja.	Fund	3968
+31.	Nejvýhernější los(#4445) - gorem	17588km2	10288768	R.O.BOTS	Utop	3972
+32.	Bez práce nejsou koláče.(#381) - Chlevy	22560km2	10233093	queens	Feud	3978
+33.	Wtf(#51) - 0xAnomaly	16371km2	10208905	.:UO:.	Utop	3936
+34.	Bernard(#136) - Arween	19064km2	10193153	.:UO:.	Utop	3978
+35.	Whats my age again?(#351) - Mrkvička777	21051km2	10169661	-=KA=-	Robo	3956
+36.	Brcko(#684) - Atletbrcko	22714km2	10166331	.Ganja.	Feud	3893
+37.	.::Gondor::.(#591) - .Aragornikk.	22136km2	10125170	-=LH=-	Robo	3979
+38.	Čoromoro čučomučo(#452) - cucomucko	22863km2	10062730	SLEZSKO	Fund	3977
+39.	Masias(#820) - Masias	24518km2	9736186	WINDE	Robo	3976
+40.	Próša Frán(#483) - Limerence	22698km2	9720281	=Pivko=	Demo	3977

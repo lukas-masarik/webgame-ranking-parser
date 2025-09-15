@@ -1,0 +1,42 @@
+182. věk
+#	Aliance	Členů	Rozloha	Prestiž	Předseda
+1.	[R.O.BOTS] really obvious bots	10	164687km2	81472028	BoToX(#968) - Arzach
+2.	[KCI.] Karavana`s Club I.	10	168456km2	76161476	Tukanova KARAVANA(#682) - Tukenssen
+3.	[(V)oo(V)] The Crabs	10	206076km2	72420721	krabička(#186) - blasticek
+4.	[M4] Marauders of the Fourth	10	184437km2	70598110	Unique Marauder Triss(#333) - trisíííček
+5.	[NTRLTY] Neutrality	10	178182km2	70541558	Jdesenato(#598) - seosen
+6.	[Across] Idealistic Organization	10	194144km2	70445862	zwilling.(#58) - marv III
+7.	[C.B.] Cripple Bastards	10	200954km2	65547785	sLeČinkA Olympia :-*(#701) - Remor
+8.	[.:UO:.] Univerzita Obrany	10	160431km2	61228895	Ronald Vegan(#12345) - yuphon
+9.	[.L.O.S.] Losaci hrajici jen 3 tydny	10	181118km2	59383457	LOS made in Stargate(#2081) - WEBIG
+10.	[WINDE] Holiday click	10	160392km2	59150595	AXXY.(#1118) - AXXY
+11.	[I-LUV-U] I-LUV-U	10	152426km2	58828571	Chip(#35) - Gaston...
+12.	[queens] QUEENS	10	158533km2	51284814	Pavilon 8 AHC(#223) - gorem
+13.	[UNIQUE] Unique Marauders	10	193401km2	51203323	Unique Marauder MUAD DIB(#444) - trisíííček
+14.	[K] Kocouři	10	185084km2	49848982	Yxcvbnm(#731) - Defectorr
+15.	[L.O.S.] Losove hrajici jen 4 tydny	10	180174km2	48834068	LOS made in Monte Carlo(#1122) - Topisek
+16.	[Anarchy] Farmíme pro horší minulost	10	141211km2	47848176	Srdce mi pofoukáš...(#74) - thordevil
+17.	[-=THC=-] The Heroic Company	10	156545km2	46679670	zem nikoho(#836) - jOguRt44
+18.	[.:YD:.] .:Your Death:.	10	152981km2	44324390	.:YD:. Smrt si tě najde(#252) - White Dead
+19.	[P-V] Pouta války	10	195758km2	43601467	Vertol(#666) - .DuKeLuKe.
+20.	[TJV] Techno je všechno	10	138728km2	38891227	ZAPRAVKA(#65) - marv III
+21.	[*RA*] Rektální Anestezie	10	118035km2	38739975	Rektální Alergie(#217) - Lord.Fuky
+22.	[tpOwCh2] the power of wing chun	10	183588km2	38594938	tpOwCh mAx(#42) - MaximusBuchymus
+23.	[AHA] Aliancia Láskavého Triumvirátu	10	153515km2	38585688	B*E*S*A*R*A*B*I*A(#122) - Abdul
+24.	[=T=] Trója	10	174676km2	38485349	Winter is coming..(#751) - FR3EZY
+25.	[Bubáci] Bubáci	10	153608km2	37181259	Zářící Spasitel(#355) - .DuKeLuKe.
+26.	[PLANET-X] PLANET-X	10	137558km2	36187895	LightFury(#620) - ZUMOTRIX
+27.	[tpOwCh] the power of wing chun	10	171433km2	35159620	tpOwCh bUchY(#41) - MaximusBuchymus
+28.	[Lotta] Lotta per la sopravvivenza	10	127572km2	35146407	Lotta per la vita morte(#111) - trisíííček
+29.	[YOZZEFY] Yozzefy = pohoda klik	10	141193km2	35117683	Veterán - farmář(#316) - Allegro
+30.	[FATHERS] ...Fotři na tahu	6	95816km2	34599242	the GODFATHER(#93) - Sir Extrem
+31.	[BTC] Bitcoin	10	142138km2	33655867	Elon Musk:Dogecoin(#281) - Drunk3n
+32.	[MZA] Mame Zas Alianci	10	135727km2	31289058	Klekni si....(#970) - Michellion
+33.	[tpOwCh3] the power of wing chun	10	148623km2	31263692	tpOwCh yiP(#43) - MaximusBuchymus
+34.	[Temnota] Temnota	10	123895km2	29068339	Doba Temna(#61) - pokrosss
+35.	[KCII.] Karavana`s Club II.	10	122737km2	28915089	MAVEHO KARAVANA II.(#592) - maverickynwa
+36.	[I-H8-U] Od farmářů k válečníkům	10	132537km2	28621852	I-H8-U Zlá prasata(#414) - Wepř XIII
+37.	[S.M.R.T.] Sádlo Máslo Rumcajs Trencle	10	106036km2	27713060	Osmo(#424) - osmnulaosm
+38.	[Legie] Legie Notoriků	8	113055km2	27338515	Hlaholice(#322) - Mireo
+39.	[=Pivko=] Pivecko a rakety	10	117536km2	27295682	Svacim len v noci(#1243) - Zilos
+40.	[D3V1L5] Masters of Underworld	10	165640km2	26159171	*Wiking*(#328) - SVKelt

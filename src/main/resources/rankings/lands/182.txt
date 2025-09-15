@@ -1,0 +1,42 @@
+182. věk
+#	Země	Rozloha	Prestiž	Aliance	Vláda	Kol
+1.	MawMau(#2222) - G.R.E.E.K	30222km2	28343600	M4	Rep	3978
+2.	L O V E c(#769) - Defectorr	34738km2	27376883	C.B.	Demo	3979
+3.	9999(#9999) - PinkPanther	29929km2	19796989	queens	Feud	3977
+4.	31(#773) - Orphelins	27062km2	17551063	WINDE	Anar	3847
+5.	AB LUCEM AD TENEBRAS(#1444) - .Grim.	23803km2	16466163	NTRLTY	Tech	3709
+6.	LOS made in Ukrajina(#448) - Eph3dr1ne	29735km2	16414179	.L.O.S.	Utop	3755
+7.	Karavana bez sabotov(#856) - Tukenssen	23264km2	16219354	-=THC=-	Utop	3976
+8.	01(#46) - daxicek	26213km2	15345709	AHA	Utop	3973
+9.	krabička(#186) - blasticek	19892km2	14028094	(V)oo(V)	Tech	3976
+10.	Savage Hulk(#1075) - .Baťa.	14987km2	12000026		Rep	3966
+11.	Klepetem přes páteř(#585) - Lord Rechleek	19750km2	11893468	(V)oo(V)	Tech	3976
+12.	The Heroic Toucan(#857) - Tukenssen	23825km2	11837416	-=THC=-	Utop	3968
+13.	Make Across Great Again(#887) - Zlýsin	26865km2	11747403	Across	Rep	3970
+14.	Kasiyahan(#943) - .Sp3ct4t0R.	21221km2	11737622	CB	Kom	3928
+15.	T_H_A_N_O_S(#1111) - G.R.E.E.K	23394km2	11654258	NTRLTY	Rep	3843
+16.	zwilling.(#58) - marv III	22251km2	11333685	Across	Robo	3968
+17.	Tukanova KARAVANA(#682) - Tukenssen	18163km2	10894466	KCI.	Utop	3979
+18.	vsechno co si budes prat(#311) - ploutvička	17810km2	10755137	.:UO:.	Utop	3944
+19.	Krab bradavčitý(#399) - Fleship	19999km2	10553102	(V)oo(V)	Tech	3978
+20.	Sebevědomí(#895) - Wojxtier	18865km2	10430742	MZA	Utop	3978
+21.	pinus(#553) - dentitios	29319km2	10396832	P-V	Rep	3892
+22.	Neutíkej, zemřeš unavenej(#475) - siroko	18191km2	10275310	BTC	Utop	3972
+23.	Velke Levare 2(#51) - MPBuldog	14901km2	10148978	I-LUV-U	Utop	3942
+24.	hadaj kto je spat?(#1106) - posterr	20055km2	10076225	PaP	Kom	3686
+25.	John Wick(#162) - Comanndos	21221km2	10050000	SIL	Fund	3979
+26.	KARAVANA DOBÝVÁKY NEKCI(#1001) - Armageddon	19028km2	9818966	KCI.	Utop	3939
+27.	Robot ty pyco(#214) - blasticek	14998km2	9775666	R.O.BOTS	Utop	3978
+28.	Air..(#421) - kill666	15999km2	9658773	R.O.BOTS	Utop	4009
+29.	Cr@b_poustevník(#608) - .whitewidow.	19999km2	9645027	(V)oo(V)	Tech	3973
+30.	BoToX(#968) - Arzach	15999km2	9429345	R.O.BOTS	Utop	3961
+31.	Divnej(#559) - Nepochopisnikdy	20185km2	9374528	.L.O.S.	Robo	3964
+32.	piľ si?(#360) - skazinoska	20533km2	9300120	UNIQUE	Fund	3937
+33.	Jdesenato(#598) - seosen	19458km2	9261386	NTRLTY	Rep	3898
+34.	Výherní los(#334) - gorem	16005km2	9106409	R.O.BOTS	Utop	3979
+35.	Acetylen(#463) - .HARKOMEN.	24999km2	9075805	HRNCE	Utop	3977
+36.	HladOvar(#340) - LordEinstein	21335km2	9026192	Across	Demo	3975
+37.	KARAVANA TU JE?(#979) - jOguRt44	16359km2	8946167	KCI.	Utop	3974
+38.	Eko v obraně aliance(#808) - smudlas	23372km2	8927259	M.A.	Utop	3841
+39.	the FATHERLAND(#338) - sir Kopcem	16259km2	8747631	FATHERS	Utop	3953
+40.	the LITTLEBRO(#230) - JohnnyLamka	12837km2	8707715	FATHERS	Tech	3913
