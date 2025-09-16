@@ -1,0 +1,42 @@
+181. věk
+#	Aliance	Členů	Rozloha	Prestiž	Předseda
+1.	[WINDE] For fun	10	207618km2	106485972	Host vyhazuje vrchního(#65) - Jankodigital
+2.	[UNIQUE] Unique Marauders	10	213575km2	98695688	Unique Marauder Triss(#444) - trisíííček
+3.	[.Ganja.] .Ganja.	10	198868km2	75761637	Comeback(#333) - PinkPanther
+4.	[.:UO:.] Univerzita Obrany	10	164763km2	73136995	Ronald Vegan(#365) - yuphon
+5.	[KCI.] Karavana`s Club I.	10	161323km2	69420000	MAVEHO KARAVANA(#200) - maverickynwa
+6.	[SLEZSKO] není severní Morava	10	186467km2	67656079	Cyprián Lelek(#228) - rewewlol
+7.	[-=LH=-] Lonely Hearts pro Supru	10	182029km2	63831099	Supra1Soul5Play :-*(#127) - Walker
+8.	[queens] QUEENS	10	182943km2	62392638	(-+)(#417) - trubkatrubkovic
+9.	[Across] Idealistic Organization	10	149811km2	59658637	Johannes Schuster(#60) - marv III
+10.	[SRAN] Tvoje máma	10	178305km2	57856814	Pucuju sasanku tvý mámy(#215) - Vládce Kabraxis
+11.	[MENSA] ...prostě (j)elita :)	10	172275km2	56604183	CHYŤ MĚ, KDYŽ TO DOKÁŽEŠ(#597) - Sir Extrem
+12.	[T3R0R1ST] T3R0R1ST for fun	10	163902km2	54870245	T_H_A_N_O_S(#1042) - G.R.E.E.K
+13.	[-=THC=-] The Heroic Company	10	171997km2	54166751	zem nikoho(#709) - jOguRt44
+14.	[KCIII.] Karavana`s Club III.	10	149168km2	52248379	MAVEHO KARAVANA III.(#227) - maverickynwa
+15.	[=Pivko=] Pivo dela hezka tela	10	160770km2	50146675	Svacim len v noci(#1221) - Zilos
+16.	[-=KA=-] Necoka	10	174891km2	47761157	=-...-=.(#711) - zase jachym
+17.	[TJV] Techno je všechno	10	166960km2	46959099	ZAPRAVKA(#110) - marv III
+18.	[GYMUO] František Kristen jako fčela	10	162279km2	46736183	Guy Fawkes(#981) - Dareion
+19.	[Ganja] ganja	10	161794km2	45899112	Desítka bráníček(#2021) - Dhany
+20.	[ahoj] ahoj	10	149942km2	44249892	vlasy zlatovlasky(#82) - Atlantik
+21.	[Anarchy] Farmíme pro horší budoucnost	10	143547km2	43617022	Srdce mi pofoukáš...(#1125) - thordevil
+22.	[D3V1L5] Masters of Underworld	10	149295km2	41721198	*Wiking*(#321) - SVKelt
+23.	[R.O.BOTS] Urcite nefarmime, muck	10	143633km2	41630314	M@5_b0nu5?(#949) - .whitewidow.
+24.	[TAG] Totální Arytmie Gayů	10	145576km2	41388508	Vyhlazovací útok na ntou(#130) - Walker
+25.	[-GW-] Green way	10	163803km2	40874694	Homo homini lupus(#493) - Kubikk84
+26.	[)CD(] Cepovaná desítka	10	140083km2	37131679	)CD( Velický Bombarďák 10(#753) - ja a ty sme oba
+27.	[MZA] Mezitím Zmizela Adéla	10	140124km2	35849196	Klekni si....(#762) - Michellion
+28.	[DOTA1] Allstars	4	90148km2	35823942	Just for fun(#516) - .Baťa.
+29.	[r0c] Rats On Cocaine	6	99575km2	35821229	Nežer ten hegeš Šiško(#458) - cucomucko
+30.	[YOZZEFY] Yozzefy = pohoda klik	10	127669km2	34996673	Veterán - farmář(#689) - Allegro
+31.	[tpOwCh4] the power of wing chun	10	156940km2	33423455	tpOwCh yiP(#153) - MaximusBuchymus
+32.	[C.B.] Cripple Bastards	10	148517km2	33005757	sLeČinkA Olympia :-*(#95) - Remor
+33.	[ALI1234] ALI1234	10	149014km2	30483452	usti(#35) - vachys39
+34.	[KCII.] Karavana`s Club II.	10	169771km2	30481491	MAVEHO KARAVANA II.(#217) - maverickynwa
+35.	[Pifko] Pijeme s laskou	10	154892km2	28194446	Nasraaat(#710) - Zilos
+36.	[JIHAD] Harcovnici MF	10	137382km2	28076083	Kalimdor(#221) - Hoyeres
+37.	[NGTY] Negativity	10	154025km2	27450092	Jdesenato(#621) - seosen
+38.	[I-H8-U] Od farmářů k válečníkům	10	127178km2	25578256	I-H8-U Zlá prasata(#49) - Wepř XIII
+39.	[*RA*] Rektální Anestezie	10	110045km2	24974011	Rektální lobotomie(#560) - Lord.Fuky
+40.	[MÁMA] Tvoje druhá máma	10	128423km2	24375056	Silnější pes tvý mámy(#2200) - Vládce Kabraxis
