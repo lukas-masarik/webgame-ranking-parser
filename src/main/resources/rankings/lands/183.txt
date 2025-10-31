@@ -1,0 +1,42 @@
+183. věk
+#	Země	Rozloha	Prestiž	Aliance	Vláda	Kol
+1.	The World Breaker Hulk(#985) - .Baťa.	36463km2	20073809	NBS	Robo	3979
+2.	.::WG-PROFESSIONAL::.(#114) - jowood2	23620km2	15019464	WG-PROF	Demo	3970
+3.	AD ABSURDUM(#405) - JohnnyLamka	25198km2	14501059	MENSA	Demo	3978
+4.	Pasáček hoes(#857) - Jacobthebest	27471km2	14209120	=T=	Rep	3976
+5.	OKNO is the best choice(#655) - FIxED	24533km2	13615036	OKNO	Demo	3971
+6.	Bunda z koženky(#1106) - FR3EZY	27269km2	12822340	tpOwCh3	Rep	3978
+7.	tpOwCh nejde o Prestige(#9874) - Degee	19999km2	11678343	tpOwCh	Utop	3978
+8.	Mr. Datel(#169) - Ctirad2	25299km2	11649142	SLEZSKO	Dikt	3978
+9.	Leo Bonhart(#784) - hlidac3	17333km2	11404854	M	Tech	3976
+10.	Auxilia(#91) - Dr.Memphisto	21973km2	10781861	.:?:.	Tech	3978
+11.	De Stolze Bauer(#190) - Lishka Rishka	17001km2	10781348	.:UO:.	Utop	3948
+12.	Chulimanga(#878) - FR3EZY	19999km2	10731109	=T=	Utop	3978
+13.	::.WG-PROFESSIONAL.::(#155) - VD Panter	20666km2	10418543	WG-PROF	Utop	3979
+14.	Reno Raines(#105) - RSkater88	28294km2	10239716	SLEZSKO	Dikt	3975
+15.	Maestro Hulk(#989) - .Baťa.	14997km2	10088026		Demo	3970
+16.	Bugistan(#372) - Duncan I.	21941km2	10026469	TAG	Utop	3837
+17.	The Heroic Toucan(#850) - Tukenssen	18528km2	9987622	-=THC=-	Utop	3952
+18.	M4rauder(#4444) - G.R.E.E.K	20200km2	9910388	M4	Utop	3974
+19.	malý psík fenečka(#759) - esya	18445km2	9883917	n1	Tech	3896
+20.	Jason Bourne(#255) - Comanndos	20444km2	9791963	DEJAVU	Dikt	3938
+21.	tpOwCh křeček Mireček(#2021) - Dhany	19663km2	9754949	tpOwCh2	Robo	3969
+22.	PŘÍLIŠ MLADEJ PRO ŽIVOT(#387) - ...Kápo...	19999km2	9752270	NBS	Utop	3962
+23.	šahíd Jahjá Sinvár(#219) - G.Mimoň	28468km2	9720737	NeSeR	Feud	3977
+24.	M4rauder nenávistný(#118) - trisíííček	27499km2	9680228	M4	Robo	3978
+25.	E v obraně tvojí mámy(#808) - smudlas	21432km2	9531692	SRAN	Utop	3952
+26.	Savage Hulk(#988) - .Baťa.	14999km2	9433974		Fund	3930
+27.	Karavana bez sabotov(#849) - Tukenssen	18946km2	9422279	M.A.	Utop	3949
+28.	Verlorene Siege(#990) - von Lewinski	24279km2	9341787	Perverz	Rep	3967
+29.	Heliodor Píka(#96) - Canizares II.	22214km2	9264740	SLEZSKO	Rep	3874
+30.	Dej sem EXP(#513) - Růžový trabant	19551km2	9118348	ETH	Utop	3954
+31.	Karabanka Karavana(#848) - Tukenssen	16617km2	9091712	KCI.	Utop	3935
+32.	Tukanova KARAVANA(#847) - Tukenssen	16360km2	9084146	KCI.	Utop	3937
+33.	LOS made in Bahrain(#588) - mcweb	19140km2	9035238	.L.O.S.	Utop	3919
+34.	SAY10(#478) - Jacobthebest	20310km2	9023635	PRDOX	Robo	3975
+35.	Make Across Great Again(#883) - Zlýsin	20801km2	8636393	Across	Demo	3968
+36.	Just for fun(#984) - .Baťa.	17667km2	8636335	M	Utop	3978
+37.	iberijský špek(#10000) - Drunk3n	22521km2	8576678	MENSA	Utop	3976
+38.	So hot(#100) - 2xcl.	20999km2	8404692	M	Dikt	3978
+39.	KARAVANA TU JE?(#819) - jOguRt44	13031km2	8228595	KCI.	Tech	3955
+40.	LOS made in Coze?(#980) - Nepochopisnikdy	24696km2	8157913	.L.O.S.	Kom	3955
