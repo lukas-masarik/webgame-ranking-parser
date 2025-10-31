@@ -1,0 +1,42 @@
+183. věk
+#	Aliance	Členů	Rozloha	Prestiž	Předseda
+1.	[M] MOON	10	181755km2	74920181	Atlan(#403) - Atlantik
+2.	[=T=] Trója	10	189687km2	68038843	Winter is coming..(#536) - FR3EZY
+3.	[.:UO:.] Univerzita Obrany	10	160873km2	65558174	Ronald Vegan(#12345) - yuphon
+4.	[SLEZSKO] není severní Morava	10	184649km2	64806717	Mikuláš I. Opavský(#99) - Canizares II.
+5.	[I-LUV-U] I-LUV-U	10	149956km2	57997198	Wtf(#61) - 0xAnomaly
+6.	[Across] Idealistic Organization	10	165831km2	53764318	2HOT2PLAY(#283) - marv III
+7.	[WG-PROF] WG-PROFESSIONAL	10	162701km2	51138883	.::WG-PROFESSIONAL::.(#114) - jowood2
+8.	[M4] Marauders of the Fourth	10	194838km2	49150219	M4rauder nenávistný(#118) - trisíííček
+9.	[KCI.] Karavana`s Club I.	10	144814km2	48685531	MAVEHO KARAVANA(#87) - maverickynwa
+10.	[tpOwCh2] the power of wing chun	10	142651km2	46490476	tpOwCh mAx(#77) - MaximusBuchymus
+11.	[VÍCADMIN] VÍCEADMINISTRÁTOŘI WEBGAME	10	183318km2	46114170	Quanti anni hai?(#803) - podwratak
+12.	[MENSA] ...prostě (j)elita :)	10	153214km2	45409420	CHYŤ MĚ, KDYŽ TO DOKÁŽEŠ(#294) - Sir Extrem
+13.	[NBS] Největší blbci světa	10	150766km2	45276027	BLBEC co neklika(#172) - Supra1Soul5Play
+14.	[ahoj] ahoj	10	157891km2	44693815	vlasy zlatovlasky(#691) - Atlantik
+15.	[.L.O.S.] Losí láska	9	143687km2	43393165	LOS made in Bahrain(#588) - mcweb
+16.	[MAGIE] Mmm	10	137452km2	43030837	Dance my marionettes(#580) - mara8
+17.	[n1] nanoditioti2025	10	138788km2	40359966	malý psík fenečka(#759) - esya
+18.	[PRDOX] PRdelí DO Xichtu	9	145173km2	40164610	G0D(#477) - Jacobthebest
+19.	[YOZZEFY] Yozzefy = pohoda klik	10	143540km2	39565047	Veterán - farmář(#200) - Allegro
+20.	[-=THC=-] The Heroic Company	10	178598km2	38731994	zem nikoho(#812) - jOguRt44
+21.	[F1] F1	10	170347km2	38624782	F1 Max Verstappen(#888) - trisíííček
+22.	[Legie] Legie Abstinentů	10	140809km2	36899138	Žiju, abych jedl(#473) - Garfildek
+23.	[tpOwCh3] the power of wing chun	10	142726km2	36583326	tpOwCh yiP(#80) - MaximusBuchymus
+24.	[L.O.S.] Losove planujici chatu	8	122460km2	35909543	LOS made in Stargate(#2081) - WEBIG
+25.	[B33r] Pivo dělá krásná těla	10	124585km2	35127045	Magnamundie(#615) - Hones
+26.	[=Pivko=] Hlavně, že je pivo v tlamě.	10	140140km2	34756865	Anti-Mage(#597) - Rozervaná Paní
+27.	[Komando] SLEZSKO2	10	159948km2	34601976	Nežer ten hegeš Šiško(#420) - cucomucko
+28.	[ganja] Ganja	10	160408km2	33217228	IBK Kubánský Klan(#231) - gorem
+29.	[Anarchy] Farmíme pro lepší budoucnost	10	142463km2	33181114	Srdce mi pofoukáš...(#1113) - thordevil
+30.	[*RA*] Rektální Anestezie	9	99964km2	32167708	Rektální Alergie(#83) - Lord.Fuky
+31.	[tpOwCh] the power of wing chun	8	130266km2	31878271	tpOwCh bUchY(#75) - MaximusBuchymus
+32.	[Temnota] Temnota	10	113947km2	31612761	Doba zla(#693) - pokrosss
+33.	[OKNO] O Kvalitě Nežertujeme	10	145687km2	31555482	OKNO se má dobře ;)(#399) - Grunt7
+34.	[PLANET-X] PLANET-X	9	118000km2	30640874	LightFury(#845) - ZUMOTRIX
+35.	[LaRes] La Resistance	10	125681km2	28872808	Lastura(#731) - Dark moon spider
+36.	[TAG] Totální Arytmie Gayů	10	145128km2	28377096	Vyhlazovací útok na ntou(#227) - Walker
+37.	[B.D.F.G.] Big Dig Fantastick Group	8	115544km2	28313989	Kim Čong-un(#475) - Koron
+38.	[queens] QUEENS	10	164100km2	28217477	(-+)(#281) - trubkatrubkovic
+39.	[LEGO] kostky jsou vrženy	10	115516km2	28184474	LEGO PaedDr. Archi CSc.(#638) - ArchimondS
+40.	[.::R::.] Rytíři	10	146761km2	27833842	B*E*S*A*R*A*B*I*A(#438) - Abdul
