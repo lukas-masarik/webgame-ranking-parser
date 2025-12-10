@@ -1,0 +1,42 @@
+184. věk
+#	Aliance	Členů	Rozloha	Prestiž	Předseda
+1.	[KCII.] Karavana`s Club II.	10	188803km2	90736106	Karabanka Karavana(#601) - Tukenssen
+2.	[Across] Idealistic Organization	10	208392km2	84485294	The Last Dinner Party(#311) - marv III
+3.	[KCI.] Karavana`s Club I.	10	166108km2	74983574	MAVEHO KARAVANA(#36) - maverickynwa
+4.	[VÍCADMIN] Víceadministrátoři Webgame	10	194296km2	72784135	Quanti anni hai?(#818) - podwratak
+5.	[OHRADA] Vesnický pivovar Ohrada	10	186531km2	70627965	IWI Zion(#821) - podwratak
+6.	[-=THC=-] The Heroic Company	10	166815km2	64140132	zem nikoho(#84) - jOguRt44
+7.	[.:UO:.] Univerzita Obrany	10	166413km2	63575714	Ronald Vegan(#12345) - yuphon
+8.	[-4F-] 4 the future	10	185950km2	61910711	Hello empty future(#86) - hagg1d
+9.	[tpOwCh2] The power of wing chun	10	160496km2	60619937	tpOwCh mAx(#190) - MaximusBuchymus
+10.	[ETD] Ete DestilerE	10	169873km2	54270528	Eternal Darkness(#64) - PLASTIK
+11.	[MAGIE]	10	138995km2	52861550	Dance my marionettes(#423) - mara8
+12.	[I-LUV-U] I-LUV-U	10	151402km2	52670245	Wtf(#330) - 0xAnomaly
+13.	[MENSA] ...prostě (j)elita :)	10	160339km2	48604915	CHYŤ MĚ, KDYŽ TO DOKÁŽEŠ(#434) - Sir Extrem
+14.	[Lotta] Lotta per la sopravvivenza	10	174513km2	43632230	Lotta per la vita morte(#44) - trisíííček
+15.	[)CD(] Cepovaná desítka	10	119590km2	42172445	)CD( Velický Bombarďák 10(#1352) - ja a ty sme oba
+16.	[FA] Fast Arrows	10	141431km2	41487777	Neutíkej, zemřeš unavený(#740) - siroko
+17.	[B.D.F.G.] Big Dig Fantastick Group	10	170149km2	38714221	.:REX SOCIUS ET AMICUS:.(#235) - Koron
+18.	[Anarchy] Farmíme pro lepší minulost	10	161049km2	38696250	Srdce mi pofoukáš...(#282) - thordevil
+19.	[tpOwCh3] The power of wing chun	10	161065km2	38602400	tpOwCh yiP(#191) - MaximusBuchymus
+20.	[RHS] RHS	10	138414km2	38542172	Easy target,feelin this?(#54) - Mrkvička777
+21.	[D1KTATOR] D1E	7	130532km2	38020097	Savage Hulk(#1428) - .Baťa.
+22.	[YOZZEFY] Yozzefy = pohoda klik	10	142628km2	35846205	Veterán - farmář(#706) - Allegro
+23.	[*RA*] Rektální Anestezie	10	119544km2	35307010	Rektální Alergie(#246) - Lord.Fuky
+24.	[S.M.R.T.] Sado Maso Rocket Teror	10	137218km2	34964069	Danteho peklo(#197) - Imperator Sorath
+25.	[SLEZSKO] není severní Morava	10	153790km2	34509757	Heliodor Píka(#397) - Canizares II.
+26.	[SRAN] Tvoje máma	10	154739km2	34470830	Měchy tvojí mámy(#1243) - gugoslav
+27.	[Temnota] Temnota	10	139434km2	33955016	Doba Temna(#516) - pokrosss
+28.	[M] MOON	10	128645km2	33611326	Atlan(#59) - Atlantik
+29.	[LEGO] kostky jsou vrženy	10	124214km2	33258030	LEGO PaedDr. Archi CSc.(#1181) - ArchimondS
+30.	[MZA] Mezitím Zmizela Adéla	10	135499km2	31419217	Sex s medvídkem Pú(#779) - Wojxtier
+31.	[ahoj] ahoj	10	143265km2	29909523	vlasy zlatovlasky(#68) - Atlantik
+32.	[tpOwCh] The power of wing chun	10	164098km2	29812134	tpOwCh bUchY(#146) - MaximusBuchymus
+33.	[KCIII.] Karavana`s Club III.	10	133372km2	28772683	XMISION KARAVANA(#421) - xmision
+34.	[CHBY] Chlebíčky Revival	10	114754km2	28598990	Mustafa al-Rafiq(#315) - dominik12
+35.	[(V)oo(V)] The Crabs	10	142270km2	27726203	Pozdní sběr KRABice(#240) - blasticek
+36.	[K.l.] Kocouři	10	172242km2	27496599	Qwertzuiop(#1353) - Defectorr
+37.	[Alkajda] Alkoholici kaj doleješ	10	137284km2	27219561	JednaDvě VD jde..(#1131) - cinanek
+38.	[KKRD] Kluci Kteří Rádi Dročí	10	141446km2	27106988	Machlbery bro(#697) - Spronx
+39.	[PLANET-X] PLANET-X	10	136704km2	26718847	LightFury(#1248) - ZUMOTRIX
+40.	[LF] La Famiglia	10	137529km2	26246736	Neutíkej. zemřeš unavenej(#737) - siroko

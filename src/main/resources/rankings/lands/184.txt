@@ -1,0 +1,42 @@
+184. věk
+#	Země	Rozloha	Prestiž	Aliance	Vláda	Kol
+1.	Atlan(#59) - Atlantik	24881km2	19681771	M	Tech	3675
+2.	Skartovaná molekula piva(#1211) - Stalin2	40319km2	16814268	D1KTATOR	Rep	3966
+3.	Reno Raines(#548) - RSkater88	33033km2	16246281	SLEZSKO	Dikt	3964
+4.	Aurea Future(#89) - jOguRt44	28732km2	15686506	-4F-	Robo	3966
+5.	Il tempo se ne va(#820) - podwratak	27203km2	14886684	VÍCADMIN	Demo	3974
+6.	tpOwCh mAx(#190) - MaximusBuchymus	24699km2	14097038	tpOwCh2	Rep	3975
+7.	IWI Tavor(#822) - podwratak	28034km2	12785331	OHRADA	Demo	3974
+8.	Friday Highday(#837) - ViewSonick	26716km2	12646371	VÍCADMIN	Rep	3975
+9.	Karabanka Karavana(#601) - Tukenssen	22410km2	12275356	KCII.	Utop	3973
+10.	Karavana bez sabotov(#602) - Tukenssen	20096km2	12219709	KCII.	Utop	3975
+11.	Limited Time Offer(#76) - Yank	16779km2	11159879	.:UO:.	Utop	3973
+12.	HolubíZpěv(#941) - HolubíAgresor	24347km2	10873015	FA	Kom	3975
+13.	E v obraně tvojí mámy(#303) - smudlas	22609km2	10543010	SRAN	Utop	3963
+14.	jo(#1089) - ttrtt	29881km2	10513935	nedavej	Robo	3950
+15.	KARAVANA u Syslika(#524) - syslikCZ	19422km2	10466744	KCII.	Utop	3975
+16.	Fine Print(#75) - Yank	22775km2	10387151	Across	Dikt	3964
+17.	Mírumilovná obraná invaze(#1297) - Dupooooo	25234km2	10376368	RHS	Demo	3969
+18.	*`=/+-.,:()*`=:()(#862) - TheSokar	17261km2	10351146	tpOwCh	Utop	3970
+19.	The Heroic Toucan(#603) - Tukenssen	17746km2	10266932	-=THC=-	Utop	3966
+20.	E V OBRANĚ KARAVANY(#33) - smudlas	23067km2	10088940	KCII.	Utop	3972
+21.	SKSlaviaPraha(#925) - Zed89	23775km2	9996428	OHRADA	Rep	3975
+22.	The Last Dinner Party(#311) - marv III	22310km2	9967191	Across	Dikt	3917
+23.	zdravé jádro WG(#111) - Lord Demokrat	22603km2	9810177	OHRADA	Robo	3975
+24.	Make Across Great Again(#690) - Zlýsin	26242km2	9808642	Across	Dikt	3965
+25.	VELKÁ BÍDA(#588) - čempix	25977km2	9768684	MENSA	Dikt	3973
+26.	BRNĚNSKÁ KARAVANA(#687) - xmision	19530km2	9513164	KCII.	Utop	3974
+27.	ToP 1(#891) - Morfeus	24194km2	9493409	SR	Kom	3945
+28.	Hearthfall(#63) - PLASTIK	23538km2	9452121	Across	Fund	3975
+29.	Rektální Antiperspirant(#599) - Lord.Fuky	22023km2	9433023	*RA2*	Utop	3974
+30.	Terms and Conditions(#74) - Yank	19231km2	9356630	Across	Fund	3973
+31.	Life is parallel to Hell(#1043) - ridgeback	17240km2	9353990	MAGIE	Utop	3899
+32.	KARAVANA DOBÝVÁKY NEKCI(#1001) - Armageddon	18999km2	9338042	KCII.	Utop	3872
+33.	Mathieu van der Poel(#51) - Comanndos	29292km2	9307103	D1KTATOR	Robo	3658
+34.	Spainn.(#341) - Grub	21399km2	9234271	-=THC=-	Dikt	3975
+35.	KARAVANA Smradupána(#23456) - yuphon	21467km2	9163920	KCII.	Utop	3947
+36.	Láka ma mláka(#1444) - .Grim.	18481km2	9113374	OHRADA	Kom	3916
+37.	Becoming harmonious.(#1230) - maverickynwa	14999km2	9102358		Rep	3970
+38.	BEVERLY HILLS KARAVANA(#90210) - xmision	18960km2	8960304	KCI.	Fund	3975
+39.	KARAVANA V NATO(#1246) - gugoslav	22956km2	8882898	KCII.	Utop	3973
+40.	Ruins of Elysium(#61) - PLASTIK	20285km2	8853553	Across	Feud	3975
