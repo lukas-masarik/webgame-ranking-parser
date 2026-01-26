@@ -1,0 +1,42 @@
+185. věk
+#	Země	Rozloha	Prestiž	Aliance	Vláda	Kol
+1.	Friday Highday(#864) - ViewSonick	32300km2	16151151	VÍCADMIN	Rep	3978
+2.	:.:WG-PROFESSIONAL:::(#1368) - Quari	16369km2	15064051	WG-PROF	Utop	3680
+3.	Vrchní KRABstěnkář(#1004) - Armageddon	20035km2	13258782	(V)oo(V)	Rep	3965
+4.	.AXXY.(#989) - AXXY	14999km2	12873929	CARTEL:6	Utop	3582
+5.	kalamár na drogách(#99) - blasticek	23262km2	12456460	(V)oo(V)	Dikt	3979
+6.	Ruins of Elysium(#199) - PLASTIK	25126km2	12123477	Across	Demo	3978
+7.	Buster Moon(#1985) - Dhany	17635km2	11777533	ganja	Utop	3966
+8.	Sedinka(#103) - Jankodigital	16514km2	11658089	CARTEL:6	Utop	3880
+9.	tpOwCh be afraid?(#401) - Pacik	26604km2	11488775	tpOwCh2	Demo	3977
+10.	Dr. Sunjatsen(#147) - G.Mimoň	33928km2	11334699	ČsOL	Robo	3981
+11.	Ja zadnu farmu nechcu(#595) - Herr Mirec	15457km2	11315480	.:UO:.	Utop	3976
+12.	Gondorik.rad.hladi:)(#1394) - .Aragornikk.	36970km2	11212643	.::eK::.	Rep	3946
+13.	KARAVANA DOBÝVÁKY NEKCI(#1001) - Armageddon	17326km2	10983306	KCII.	Utop	3969
+14.	Cr@b_poustevník(#1058) - .whitewidow.	19999km2	10778459	(V)oo(V)	Demo	3977
+15.	come on(#157) - Ctirad2	20084km2	10628087	(V)oo(V)	Feud	3958
+16.	Hori ti zem :)(#1459) - Duskooo	23620km2	10616824	-.-	Fund	3924
+17.	Opravár záhradky(#438) - J.E.F.F.R.E.Y	20086km2	10543955	NBS	Demo	3972
+18.	Ryba s marmeládou(#631) - Klonxxl	20818km2	10542543	(V)oo(V)	Rep	3979
+19.	Olafovo(#955) - Awermi	22223km2	10504115	LK	Utop	3938
+20.	Fine Print(#575) - Yank	21105km2	10497545	Across	Rep	3976
+21.	t e s t p r e s s(#177) - marv III	20164km2	10449805	Across	Rep	3895
+22.	::.WG-PROFESSIONAL.::(#752) - Unreal Maniak	18999km2	10355849	WG-PROF	Utop	3769
+23.	IWI Tavor(#128) - podwratak	28596km2	10294703	Legend	Rep	3980
+24.	Ja milujem Fica(#9999) - tvojasmrt	15999km2	10211835	CARTEL:6	Utop	3807
+25.	McLaren racing(#1144) - Jiriss	20996km2	10183725	-=BN=-	Rep	3978
+26.	Střechy jsou mi chodníkem(#1987) - Dhany	23436km2	10076671	=T=	Fund	3978
+27.	to tam ale musíte povedat(#10001) - tvojasmrt	14999km2	9989966	CARTEL:6	Utop	3786
+28.	Krabistán(#422) - blasticek	15524km2	9977661	R.O.BOTS	Tech	3994
+29.	už je tady zas(#1453) - mulako	19090km2	9957107	Across	Tech	3978
+30.	L O V E c(#511) - Defectorr	20552km2	9927496	-4F-	Rep	3963
+31.	XIV Gemina Martia Victrix(#1413) - Technopol	26893km2	9910651	CBA	Rep	3977
+32.	Pavilon 8 AHC(#778) - gorem	15230km2	9890125	R.O.BOTS	Utop	3963
+33.	ToP 1(#298) - Morfeus	23437km2	9841666	D1R1GENT	Rep	3980
+34.	Mathieu van der Poel(#382) - Comanndos	18222km2	9771625	GOAT	Kom	3920
+35.	Bismarckovská Říše(#847) - Zed89	24794km2	9764023	Legend	Feud	3979
+36.	OKNO na stáži(#1151) - Grunt7	28579km2	9743453	Legend	Dikt	3974
+37.	Spainn.(#510) - Grub	18611km2	9698059	-=THC=-	Rep	3978
+38.	01(#1198) - daxicek	17025km2	9655115	CaC	Utop	3936
+39.	Salát(#703) - Arzach	14491km2	9618628	R.O.BOTS	Utop	3759
+40.	The Heroic Toucan(#51) - Tukenssen	18447km2	9443339	-=THC=-	Utop	3945
