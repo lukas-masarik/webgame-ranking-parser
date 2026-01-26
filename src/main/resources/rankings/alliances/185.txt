@@ -1,0 +1,42 @@
+185. věk
+#	Aliance	Členů	Rozloha	Prestiž	Předseda
+1.	[(V)oo(V)] The Crabs	10	196060km2	91849347	kalamár na drogách(#99) - blasticek
+2.	[CARTEL:6] Bezlepkaci	11	156105km2	89284091	I said Juice not Jews(#1180) - Shrunke
+3.	[WG-PROF] WG-PROFESSIONAL	10	177481km2	87203779	.::WG-PROFESSIONAL::.(#113) - jowood2
+4.	[Across] Idealistic Organization	10	190887km2	76840778	t e s t p r e s s(#177) - marv III
+5.	[R.O.BOTS] really obvious bots	10	159940km2	72948794	Krabistán(#422) - blasticek
+6.	[KCII.] Karavana`s Club II.	10	175750km2	71700380	KARAVANA TU JE?(#850) - jOguRt44
+7.	[.:UO:.] Univerzita Obrany	10	159252km2	70800159	Ronald Vegan(#545) - yuphon
+8.	[tpOwCh2] the power of wing chun	10	176831km2	65133938	tpOwCh mAx(#43) - MaximusBuchymus
+9.	[ganja] Ganja	10	161244km2	61270504	LOLomouc(#89) - Dhany
+10.	[NGTY] Negativity	10	206564km2	60557485	Bimbas(#358) - seosen
+11.	[MK] Immortal knights	10	161447km2	54572793	H4kansuk4an(#245) - uzid
+12.	[-GW-] Green way	10	196989km2	53900727	Lata o lomo(#1245) - Kubikk84
+13.	[Legend] Wait for iT	10	191996km2	53016001	IWI Zion(#127) - podwratak
+14.	[MENSA] ...prostě sváteční (j)elita :)	10	139778km2	51331232	CHYŤ MĚ, KDYŽ TO DOKÁŽEŠ(#153) - Sir Extrem
+15.	[CBA] Cenzúra Bojazlivej Aničky	10	168823km2	51252038	Q U É P A S A(#188) - marv III
+16.	[=T=] Trója	10	185736km2	50873793	Winter is coming..(#632) - FR3EZY
+17.	[CARTEL:5] Senza Glutine	10	147198km2	49948407	Connor McJesus(#231) - Shrunke
+18.	[-=THC=-] The Heroic Company	10	154247km2	48985754	zem nikoho(#849) - jOguRt44
+19.	[-4F-] 4 the Future	10	158613km2	47785586	Hello Empty Future(#225) - hagg1d
+20.	[ahoj] ahoj	8	114853km2	44977388	vlasy zlatovlasky(#75) - Atlantik
+21.	[VÍCADMIN] Víceadministrátoři Webgame	10	171854km2	44759584	Quanti anni hai?(#125) - podwratak
+22.	[NBS] Největší blbci světa	10	141494km2	43454865	BLBEC,jak jinak...(#104) - Walker
+23.	[VENDETA] Po 50 vekoch znovu	10	158014km2	41716829	Bloody Koňopes(#167) - Konopess
+24.	[:.UO.:] Uřvané opičky	10	155086km2	39399296	Extended Warranty(#580) - Yank
+25.	[Anarchy] Farmíme pro horší budoucnost	10	152413km2	37356807	Srdce mi pofoukáš...(#563) - thordevil
+26.	[*RA*] Rektální Anestezie	10	129834km2	34295590	Rektální Anesteziolog(#835) - Jendasking
+27.	[=Pivko=] Hlavně, že je pivo v tlamě.	10	123579km2	33664360	Sundance Kid(#275) - Rozervaná Paní
+28.	[KKRD] Kluci Kteří Rádi Dročí	10	132615km2	33637760	Machlbery bro(#985) - Spronx
+29.	[K.l.] Kocouři	10	131688km2	32636924	Yxcvbnm(#1511) - Defectorr
+30.	[MZA] Mezitím Zdeněk Abdikoval	10	138545km2	31139298	Ďábelský guláš(#478) - Wojxtier
+31.	[PZY] Pozitivity	10	141551km2	30850950	Lakad Matatatag(#341) - seosen
+32.	[SRAN] Tvoje máma	10	140527km2	30299810	Tlustý dárky tvojí mámy(#1435) - Vládce Kabraxis
+33.	[D3V1L5] Masters of Underworld	10	134427km2	30094594	*Wiking*(#253) - SVKelt
+34.	[S.M.R.T.] Sado Maso Rocket Teror	10	104303km2	29744105	Za Soratha(#328) - osmnulaosm
+35.	[PRDOX] PRdelí DO Xichtu	10	137954km2	29267716	G0D(#447) - Jacobthebest
+36.	[LEGO] Stavíme Jeddah Tower	10	135345km2	28976986	LEGO PaedDr. Archi CSc.(#759) - ArchimondS
+37.	[-=BN=-] BioNuclear	6	101536km2	28940655	Vrakoviště Tvých Mechů(#841) - xxx stephanG xxx
+38.	[Anarchy2] Člověk si naplánuje	10	163472km2	28824778	Will you mara8 me?(#602) - MAFline
+39.	[tpOwCh3] the power of wing chun	9	111508km2	28342350	tpOwCh yiP(#44) - MaximusBuchymus
+40.	[ÚDéHá] Trebeach represent	8	113280km2	28180814	Tahá za mě pes(#432) - Wožungrush
