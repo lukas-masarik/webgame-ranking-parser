@@ -1,0 +1,42 @@
+186. věk
+#	Aliance	Členů	Rozloha	Prestiž	Předseda
+1.	[Pzy] Pozitivity	10	167832km2	90849063	Lakad Matatatag(#776) - seosen
+2.	[Across] Idealistic Organization	10	194413km2	86433409	MCR-T(#200) - marv III
+3.	[OKNO] O Kvalitě Nežertujeme	10	196715km2	84329864	OKNO se má dobře ;)(#133) - Grunt7
+4.	[.L.O.S.] Los co nepije	10	179384km2	83620659	LOS made in Laponsko(#1241) - mcweb
+5.	[tpOwCh2] the power of wing chun	10	183103km2	77065580	tpOwCh mAx(#80) - MaximusBuchymus
+6.	[R.O.BOTS] Kolo pro rychlíka ))	10	165034km2	74339489	I roboti mají rádi pivo(#579) - blasticek
+7.	[=T=] Trója	10	191355km2	72523579	Winter is coming..(#45) - FR3EZY
+8.	[-4F-] 4 the Future	10	166406km2	70262826	Hello empty future(#372) - hagg1d
+9.	[LANDFARM] Farmari	10	155452km2	68269149	LandFarma(#188) - Konopess
+10.	[M4] Marauders of the Fourth	10	161887km2	60718623	M4rauder Romulus(#666) - trisíííček
+11.	[Legend] Wait for iT	10	176455km2	57960471	IWI Zion(#552) - podwratak
+12.	[MK2] Immortal knights 2	10	134098km2	56876341	hanasland(#116) - hanass
+13.	[Ngty] Negativity	10	173104km2	56542449	DrogyJsouTop(#781) - seosen
+14.	[CBA] Cenzúra Bojazlivej Aničky	10	152478km2	55776141	999999999(#99999) - marv III
+15.	[-=LH=-] Lonely Hearts	10	176406km2	54856316	Vyhlazovací útok na ntou(#186) - Walker
+16.	[-=THC=-] The Heroic Company	10	177558km2	51781616	zem nikoho(#494) - jOguRt44
+17.	[BETON] BE IN TONE	10	141434km2	51055434	To neprojdeš(#90) - haLOOSER
+18.	[Anarchy] Farmíme pro horší minulost	10	141819km2	50125290	Srdce mi pofoukáš...(#296) - thordevil
+19.	[L.O.S.] Los lepší než sob	10	181201km2	49650551	LOS made in Stargate(#2081) - WEBIG
+20.	[VÍCADMIN] Víceadministrátoři Webgame	10	180537km2	49539405	Quanti anni hai?(#550) - podwratak
+21.	[IBHZK] Ich bin hier zur Kur	10	168396km2	48470229	I Bara Hezky Zuzla Kulky(#284) - klankosti
+22.	[ganja] Ganja	10	162007km2	48129270	Buster Moon(#1985) - Dhany
+23.	[tpOwCh] the power of wing chun	10	143432km2	47605337	tpOwCh bUchY(#79) - MaximusBuchymus
+24.	[LMS] Last Man Standing	10	159592km2	47216509	Republica(#126) - Xazax.Barbarian
+25.	[MK] Immortal knights	10	152253km2	46821677	H4kansuk4an(#329) - uzid
+26.	[*RA*] Rektální Anestezie	10	119723km2	46249115	Rektální Alergie(#154) - Lord.Fuky
+27.	[DEA] Drug Enforcement Admins	10	182372km2	43623399	Gilbert Grissom(#656) - jowood2
+28.	[YOZZEFY2] Yozzefy = pohoda klik2	10	130922km2	43236964	Veterán - technokrat(#764) - Allegro
+29.	[I-LUV-U] Feel the love	10	137549km2	42622489	o(O_o)o(#957) - Gaston...
+30.	[-=BN=-] BioNuclear	8	109414km2	40065276	Vrakoviště Tvých Mechů(#564) - xxx stephanG xxx
+31.	[BONE] BONEFIELD	10	135277km2	39115802	IDK1(#434) - White Dead
+32.	[MZA] Mezitím Zmizela Adéla	10	130717km2	37117727	Sex s Krtečkem(#574) - Wojxtier
+33.	[PPT] Pošta pre teba	10	191365km2	36915868	Vymaz do konca veku(#220) - .G.R.U.M.Y.
+34.	[MENSA] ...prostě (j)elita :)	10	122918km2	36802729	CHYŤ MĚ, KDYŽ TO DOKÁŽEŠ(#262) - Sir Extrem
+35.	[Temnota] Temnota	10	120983km2	36642684	Doba Temna(#556) - pokrosss
+36.	[Komando] SLEZSKO 2	10	156746km2	35813027	Nežer ten hegeš Šiško(#359) - cucomucko
+37.	[DC] DC Comics	8	113994km2	33981822	Krabí džus(#956) - Chleba se sádlem
+38.	[B33r] Pivo dělá krásná těla	10	131206km2	33465812	Magnamundie(#707) - Hones
+39.	[LaRes] La Resistance	10	137640km2	32305444	DPC Josef(#241) - Dark moon spider
+40.	[YOZZEFY] Yozzefy = pohoda klik	10	144108km2	31157515	Veterán - farmář(#201) - Allegro

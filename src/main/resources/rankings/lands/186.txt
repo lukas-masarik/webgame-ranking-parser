@@ -1,0 +1,42 @@
+186. věk
+#	Země	Rozloha	Prestiž	Aliance	Vláda	Kol
+1.	hanasland(#116) - hanass	25067km2	20007603	MK2	Demo	3958
+2.	Used To Be Young(#2026) - Mr. Sedlinno	22599km2	18900751	.L.O.S.	Utop	3975
+3.	IWI Tavor(#553) - podwratak	29405km2	17176065	Legend	Tech	3978
+4.	Ruins of Elysium(#71) - PLASTIK	28781km2	16738254	Across	Robo	3978
+5.	MCR-T(#200) - marv III	27396km2	15479934	Across	Rep	3948
+6.	Draco dormiens nunquam ti(#100) - Dzindzik	28113km2	15393641	W.G.M	Demo	3978
+7.	Bunda z koženky(#33333) - FR3EZY	30023km2	14782424	tpOwCh	Rep	3977
+8.	Tygřík to má na háku(#766) - Tayger	18373km2	14653754	Pzy	Tech	3961
+9.	The Heroic Toucan(#692) - Tukenssen	22596km2	13463414	-=THC=-	Utop	3971
+10.	Il tempo se ne va(#551) - podwratak	28475km2	13269253	VÍCADMIN	Demo	3978
+11.	LOS made in Coze?(#1266) - Nepochopisnikdy	25430km2	12931429	.L.O.S.	Tech	3961
+12.	OKNO do Zorgovy duše(#465) - Lord Demokrat	23798km2	12874195	OKNO	Rep	3977
+13.	Republica(#126) - Xazax.Barbarian	24556km2	12792699	LMS	Rep	3979
+14.	tpOwCh Warmonger(#489) - Dareion	21456km2	12588566	tpOwCh2	Rep	3973
+15.	OKNO Grunt to Podstawa(#261) - leszek	25082km2	12464811	OKNO	Fund	3978
+16.	Homeland(#1213) - kuliočko	22724km2	11789525	ZZ	Rep	3977
+17.	The Silent Mary(#371) - hagg1d	22500km2	11781364	-=BN=-	Robo	3977
+18.	LandFarma(#188) - Konopess	19528km2	11757035	LANDFARM	Utop	3978
+19.	zdravé jádro WG(#229) - Lord Demokrat	26538km2	11677075	Legend	Demo	3978
+20.	SKSlaviaPraha(#677) - Zed89	25143km2	11673255	VÍCADMIN	Rep	3977
+21.	Olivie zem(#129) - Dudlajs	27198km2	11411940	-=LH=-	Rep	3973
+22.	U R TEARING ME APART LISA(#98765) - Konopess	19528km2	10769406	-4F-	Utop	3979
+23.	M4rauder Pollux(#165) - Dr.Memphisto	18621km2	10630077	M4	Utop	3978
+24.	OKNO Znojmák(#993) - Dupooooo	23242km2	10615588	OKNO	Rep	3979
+25.	SATAN KEBAB(#506) - veganporno	21372km2	10562042	MK	Robo	3976
+26.	tpOwCh be afraid?(#152) - Pacik	19077km2	10409947	tpOwCh2	Rep	3978
+27.	Třetí zem(#1012) - Honzík	19513km2	10271250	Pzy	Fund	3969
+28.	HolubíŘev(#228) - HolubíAgresor	19999km2	10250177	=T=	Utop	3968
+29.	but no(#215) - Yank	21333km2	10229313	Across	Demo	3978
+30.	Winter is coming..(#45) - FR3EZY	24996km2	10141511	=T=	Kom	3972
+31.	Vlado Tuhý(#70) - hum4nic	17668km2	10131057	LANDFARM	Tech	3976
+32.	NejlepšíŽenaJePoložená(#1047) - klofák	17194km2	10126656	Pzy	Utop	3952
+33.	už je tady zas(#927) - mulako	21054km2	10125688	AxF	Feud	3965
+34.	OKNO(#143) - Xazax.Barbarian	21111km2	10071032	OKNO	Feud	3979
+35.	OKNO ZORGanizuji ti zemi(#771) - FIxED	21991km2	10044520	OKNO	Robo	3979
+36.	come on(#124) - Ctirad2	17020km2	10022065	(V)oo(V)	Demo	3978
+37.	Hranatej robot(#113) - Dhany	17788km2	9870218	R.O.BOTS	Utop	3978
+38.	Rozšířím u tebe Dezinfo(#589) - xxx stephanG xxx	21555km2	9842810	-4F-	Utop	3978
+39.	tpOwCh křeček Mireček(#2019) - Dhany	19078km2	9826678	tpOwCh2	Fund	3976
+40.	M4rauder Romulus(#666) - trisíííček	15100km2	9597721	M4	Utop	3978
