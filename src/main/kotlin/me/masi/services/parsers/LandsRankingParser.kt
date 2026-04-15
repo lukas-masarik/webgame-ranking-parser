@@ -13,7 +13,6 @@ import kotlin.io.path.absolutePathString
 class LandsRankingParser(
     private val appTrigger: EAppTrigger = EAppTrigger.IDE,
 ) : AbstractRankingParser<LandsRanking>() {
-
     override fun parse(): List<LandsRanking> {
         return when (appTrigger) {
             EAppTrigger.IDE -> parseRankingsFromFiles()
@@ -71,7 +70,10 @@ class LandsRankingParser(
         return LandsRanking(epochNumber = epochNumber, landsRankingRows = landsRankingRows)
     }
 
-    fun parseLandsRankingRow(landsRankingRow: String, epochNumber: Int): LandsRankingRow {
+    fun parseLandsRankingRow(
+        landsRankingRow: String,
+        epochNumber: Int,
+    ): LandsRankingRow {
         val landsRankingRowMatchResult =
             REGEX_LANDS_RANKING_ROW.toRegex().find(landsRankingRow)?.groupValues ?: throw IllegalArgumentException("Invalid lands ranking row.")
         return LandsRankingRow(
@@ -84,7 +86,7 @@ class LandsRankingParser(
             alliance = landsRankingRowMatchResult[7].ifBlank { null },
             stateSystem = landsRankingRowMatchResult[8],
             rounds = landsRankingRowMatchResult[9].toInt(),
-            epochNumber = epochNumber
+            epochNumber = epochNumber,
         )
     }
 }

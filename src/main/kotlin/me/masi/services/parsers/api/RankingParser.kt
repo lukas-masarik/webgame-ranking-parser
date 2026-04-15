@@ -1,6 +1,5 @@
 package me.masi.services.parsers.api
 
-
 interface RankingParser<out T> {
     /**
      * Parse files with copied epoch result.

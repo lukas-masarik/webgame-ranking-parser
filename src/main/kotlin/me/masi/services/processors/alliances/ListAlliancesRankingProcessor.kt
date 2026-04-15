@@ -11,7 +11,6 @@ class ListAlliancesRankingProcessor(
     private val inputReader: InputReader,
     private val parser: RankingParser<AlliancesRanking>,
 ) : AbstractAlliancesRankingProcessor() {
-
     override fun process() {
         val sortAttribute = inputReader.selectSortAttributeFromInput()
         val sortDirection = inputReader.selectSortDirectionFromInput()
@@ -25,32 +24,34 @@ class ListAlliancesRankingProcessor(
         val filteredEpochs = filterEpochs(epochs, epochStart, epochEnd)
         val filteredRanks = filterRankings(filteredEpochs, rankStart, rankEnd)
 
-        val rankedAlliances = filteredRanks.flatMap { it.alliancesRankingRows }
-            .let {
-                when (sortDirection) {
-                    ESortDirection.ASCENDING -> {
-                        when (sortAttribute) {
-                            ESortAttribute.PRESTIGE -> it.sortedBy { it.prestige }
-                            ESortAttribute.AREA -> it.sortedBy { it.area }
-                            ESortAttribute.EPOCH_NUMBER -> it.sortedBy { it.epochNumber }
+        val rankedAlliances =
+            filteredRanks
+                .flatMap { it.alliancesRankingRows }
+                .let {
+                    when (sortDirection) {
+                        ESortDirection.ASCENDING -> {
+                            when (sortAttribute) {
+                                ESortAttribute.PRESTIGE -> it.sortedBy { it.prestige }
+                                ESortAttribute.AREA -> it.sortedBy { it.area }
+                                ESortAttribute.EPOCH_NUMBER -> it.sortedBy { it.epochNumber }
+                            }
+                        }
+
+                        ESortDirection.DESCENDING -> {
+                            when (sortAttribute) {
+                                ESortAttribute.PRESTIGE -> it.sortedByDescending { it.prestige }
+                                ESortAttribute.AREA -> it.sortedByDescending { it.area }
+                                ESortAttribute.EPOCH_NUMBER -> it.sortedByDescending { it.epochNumber }
+                            }
                         }
                     }
-                    ESortDirection.DESCENDING -> {
-                        when (sortAttribute) {
-                            ESortAttribute.PRESTIGE -> it.sortedByDescending { it.prestige }
-                            ESortAttribute.AREA -> it.sortedByDescending { it.area }
-                            ESortAttribute.EPOCH_NUMBER -> it.sortedByDescending { it.epochNumber }
-                        }
+                }.let {
+                    if (alliancesCount != 0) {
+                        it.take(alliancesCount)
+                    } else {
+                        it.toList()
                     }
                 }
-            }
-            .let {
-                if (alliancesCount != 0) {
-                    it.take(alliancesCount)
-                } else {
-                    it.toList()
-                }
-            }
 
         processOutput(rankedAlliances)
     }
@@ -66,7 +67,7 @@ class ListAlliancesRankingProcessor(
         alliancesRankingRows.forEach { rankedAlliance ->
             println(
                 "${i++}.\t${rankedAlliance.allianceTag}\t${rankedAlliance.prestige}\t${rankedAlliance.area}km2\t${rankedAlliance.epochNumber}" +
-                    "\t${rankedAlliance.membersCount}\t${rankedAlliance.chairmanPlayerName}\t${rankedAlliance.ranking}."
+                    "\t${rankedAlliance.membersCount}\t${rankedAlliance.chairmanPlayerName}\t${rankedAlliance.ranking}.",
             )
         }
     }

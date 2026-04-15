@@ -26,15 +26,15 @@ class FilterLandsRankingProcessor(
     private val inputReader: InputReader,
     private val parser: RankingParser<LandsRanking>,
 ) : AbstractLandsRankingProcessor() {
-
     override fun process() {
         val filteringParameter = inputReader.selectFilteringParameterForLandsFromInput()
-        val filteringQuery = when (filteringParameter) {
-            EFilteringParameterForLands.PLAYER -> inputReader.selectFilterPlayerQueryFromInput()
-            EFilteringParameterForLands.ALLIANCE -> inputReader.selectFilterAllianceQueryFromInput()
-            EFilteringParameterForLands.STATE_SYSTEM -> inputReader.selectFilterStateSystemQueryFromInput()
-            EFilteringParameterForLands.LAND_NUMBER -> inputReader.selectFilterLandNumberQueryFromInput()
-        }
+        val filteringQuery =
+            when (filteringParameter) {
+                EFilteringParameterForLands.PLAYER -> inputReader.selectFilterPlayerQueryFromInput()
+                EFilteringParameterForLands.ALLIANCE -> inputReader.selectFilterAllianceQueryFromInput()
+                EFilteringParameterForLands.STATE_SYSTEM -> inputReader.selectFilterStateSystemQueryFromInput()
+                EFilteringParameterForLands.LAND_NUMBER -> inputReader.selectFilterLandNumberQueryFromInput()
+            }
         val sortAttribute = inputReader.selectSortAttributeFromInput()
         val sortDirection = inputReader.selectSortDirectionFromInput()
         val landsCount = inputReader.selectReturnCountFromInput()
@@ -47,45 +47,50 @@ class FilterLandsRankingProcessor(
         val filteredEpochs = filterEpochs(epochs, epochStart, epochEnd)
         val filteredRanks = filterRankings(filteredEpochs, rankStart, rankEnd)
 
-        val rankedLands = filteredRanks.flatMap { it.landsRankingRows }
-            .let {
-                when (filteringParameter) {
-                    EFilteringParameterForLands.PLAYER -> it.filter { it.playerName.lowercase() == filteringQuery!!.lowercase() }
-                    EFilteringParameterForLands.ALLIANCE -> it.filter { it.alliance?.lowercase() == filteringQuery?.ifBlank { null }?.lowercase() }
-                    EFilteringParameterForLands.STATE_SYSTEM -> it.filter { it.stateSystem.lowercase() == filteringQuery!!.lowercase() }
-                    EFilteringParameterForLands.LAND_NUMBER -> it.filter { it.landNumber == (filteringQuery!!.toIntOrNull() ?: 0) }
-                }
-            }
-            .let {
-                when (sortDirection) {
-                    ESortDirection.ASCENDING -> {
-                        when (sortAttribute) {
-                            ESortAttribute.PRESTIGE -> it.sortedBy { it.prestige }
-                            ESortAttribute.AREA -> it.sortedBy { it.area }
-                            ESortAttribute.EPOCH_NUMBER -> it.sortedBy { it.epochNumber }
+        val rankedLands =
+            filteredRanks
+                .flatMap { it.landsRankingRows }
+                .let {
+                    when (filteringParameter) {
+                        EFilteringParameterForLands.PLAYER -> it.filter { it.playerName.lowercase() == filteringQuery!!.lowercase() }
+                        EFilteringParameterForLands.ALLIANCE -> it.filter { it.alliance?.lowercase() == filteringQuery?.ifBlank { null }?.lowercase() }
+                        EFilteringParameterForLands.STATE_SYSTEM -> it.filter { it.stateSystem.lowercase() == filteringQuery!!.lowercase() }
+                        EFilteringParameterForLands.LAND_NUMBER -> it.filter { it.landNumber == (filteringQuery!!.toIntOrNull() ?: 0) }
+                    }
+                }.let {
+                    when (sortDirection) {
+                        ESortDirection.ASCENDING -> {
+                            when (sortAttribute) {
+                                ESortAttribute.PRESTIGE -> it.sortedBy { it.prestige }
+                                ESortAttribute.AREA -> it.sortedBy { it.area }
+                                ESortAttribute.EPOCH_NUMBER -> it.sortedBy { it.epochNumber }
+                            }
+                        }
+
+                        ESortDirection.DESCENDING -> {
+                            when (sortAttribute) {
+                                ESortAttribute.PRESTIGE -> it.sortedByDescending { it.prestige }
+                                ESortAttribute.AREA -> it.sortedByDescending { it.area }
+                                ESortAttribute.EPOCH_NUMBER -> it.sortedByDescending { it.epochNumber }
+                            }
                         }
                     }
-                    ESortDirection.DESCENDING -> {
-                        when (sortAttribute) {
-                            ESortAttribute.PRESTIGE -> it.sortedByDescending { it.prestige }
-                            ESortAttribute.AREA -> it.sortedByDescending { it.area }
-                            ESortAttribute.EPOCH_NUMBER -> it.sortedByDescending { it.epochNumber }
-                        }
+                }.let {
+                    if (landsCount != 0) {
+                        it.take(landsCount)
+                    } else {
+                        it.toList()
                     }
                 }
-            }
-            .let {
-                if (landsCount != 0) {
-                    it.take(landsCount)
-                } else {
-                    it.toList()
-                }
-            }
 
         processOutput(rankedLands, filteringParameter, filteringQuery)
     }
 
-    private fun processOutput(landsRankingRows: List<LandsRankingRow>, filteringParameter: EFilteringParameterForLands, filteringQuery: String?) {
+    private fun processOutput(
+        landsRankingRows: List<LandsRankingRow>,
+        filteringParameter: EFilteringParameterForLands,
+        filteringQuery: String?,
+    ) {
         println("${filteringParameter.value}: $filteringQuery")
         if (landsRankingRows.isEmpty()) {
             println("Zadne vysledky.")
@@ -106,7 +111,7 @@ class FilterLandsRankingProcessor(
         landsRankingRows.forEach { rankedLand ->
             println(
                 "${i++}.\t${rankedLand.prestige}\t${rankedLand.area}km2\t${rankedLand.stateSystem}\t${rankedLand.alliance}\t${rankedLand.epochNumber}\t" +
-                        "${rankedLand.ranking}."
+                    "${rankedLand.ranking}.",
             )
         }
     }
@@ -117,7 +122,7 @@ class FilterLandsRankingProcessor(
         landsRankingRows.forEach { rankedLand ->
             println(
                 "${i++}.\t${rankedLand.playerName}\t${rankedLand.prestige}\t${rankedLand.area}km2\t${rankedLand.stateSystem}\t${rankedLand.epochNumber}\t" +
-                        "${rankedLand.ranking}."
+                    "${rankedLand.ranking}.",
             )
         }
     }
@@ -128,7 +133,7 @@ class FilterLandsRankingProcessor(
         landsRankingRows.forEach { rankedLand ->
             println(
                 "${i++}.\t${rankedLand.playerName}\t${rankedLand.prestige}\t${rankedLand.area}km2\t${rankedLand.alliance}\t${rankedLand.epochNumber}\t" +
-                        "${rankedLand.ranking}."
+                    "${rankedLand.ranking}.",
             )
         }
     }
@@ -139,7 +144,7 @@ class FilterLandsRankingProcessor(
         landsRankingRows.forEach { rankedLand ->
             println(
                 "${i++}.\t${rankedLand.playerName}\t${rankedLand.prestige}\t${rankedLand.area}km2\t${rankedLand.stateSystem}\t${rankedLand.alliance}\t" +
-                        "${rankedLand.epochNumber}\t${rankedLand.ranking}."
+                    "${rankedLand.epochNumber}\t${rankedLand.ranking}.",
             )
         }
     }

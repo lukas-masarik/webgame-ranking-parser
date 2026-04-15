@@ -24,8 +24,8 @@ class LandsRankingParserTest {
                 alliance = "UFD",
                 stateSystem = "Rep",
                 rounds = 3811,
-                epochNumber = 1
-            )
+                epochNumber = 1,
+            ),
         )
     }
 
@@ -46,8 +46,8 @@ class LandsRankingParserTest {
                 alliance = null,
                 stateSystem = "Utop",
                 rounds = 3836,
-                epochNumber = 1
-            )
+                epochNumber = 1,
+            ),
         )
     }
 }

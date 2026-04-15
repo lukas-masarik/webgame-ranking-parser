@@ -13,7 +13,6 @@ import kotlin.io.path.absolutePathString
 class AlliancesRankingParser(
     private val appTrigger: EAppTrigger = EAppTrigger.IDE,
 ) : AbstractRankingParser<AlliancesRanking>() {
-
     override fun parse(): List<AlliancesRanking> {
         return when (appTrigger) {
             EAppTrigger.IDE -> parseRankingsFromFiles()
@@ -71,7 +70,10 @@ class AlliancesRankingParser(
         return AlliancesRanking(epochNumber = epochNumber, alliancesRankingRows = alliancesRankingRows)
     }
 
-    fun parseAlliancesRankingRow(alliancesRankingRow: String, epochNumber: Int): AlliancesRankingRow {
+    fun parseAlliancesRankingRow(
+        alliancesRankingRow: String,
+        epochNumber: Int,
+    ): AlliancesRankingRow {
         val alliancesRankingRowMatchResult =
             REGEX_ALLIANCES_RANKING_ROW.toRegex().find(alliancesRankingRow)?.groupValues ?: throw IllegalArgumentException("Invalid alliances ranking row.")
         return AlliancesRankingRow(
@@ -81,7 +83,7 @@ class AlliancesRankingParser(
             area = alliancesRankingRowMatchResult[4].toInt(),
             prestige = alliancesRankingRowMatchResult[5].toLong(),
             chairmanPlayerName = alliancesRankingRowMatchResult[6],
-            epochNumber = epochNumber
+            epochNumber = epochNumber,
         )
     }
 }
