@@ -38,6 +38,6 @@ Key layers:
 
 ## Conventions
 
-- Kotlin targeting JVM 11, official Kotlin code style
+- Kotlin 2.1 targeting JVM 23, runs on Java 25, official Kotlin code style
 - JUnit 5 for tests (parser regex tests in `src/test/kotlin/me/masi/services/parsers/`)
 - Dual execution context: resource loading differs between IDE (filesystem) and JAR (zip filesystem) — both paths must be maintained in parsers

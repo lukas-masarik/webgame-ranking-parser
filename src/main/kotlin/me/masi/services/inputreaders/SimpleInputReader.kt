@@ -382,7 +382,7 @@ class SimpleInputReader(
     }
 
     private fun extractFilterStateSystemQueryFromInput(input: String?): String {
-        return if (input?.isNullOrBlank() == true) "anar" else input
+        return if (input.isNullOrBlank()) "anar" else input
     }
 
     override fun selectFilterLandNumberQueryFromInput(): String {
