@@ -106,7 +106,7 @@ class FilterAlliancesRankingProcessor(
     }
 
     private fun processMembersCountOutput(alliancesRankingRows: List<AlliancesRankingRow>) {
-        println("#\tAliance\tPrestiz\tRozloha\tPreseda\tVek\tUmisteni")
+        println("#\tAliance\tPrestiz\tRozloha\tPredseda\tVek\tUmisteni")
         var i = 1
         alliancesRankingRows.forEach { rankedAlliance ->
             println(
