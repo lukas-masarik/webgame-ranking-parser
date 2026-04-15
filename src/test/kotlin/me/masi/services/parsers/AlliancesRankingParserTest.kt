@@ -21,8 +21,8 @@ class AlliancesRankingParserTest {
                 area = 117774,
                 prestige = 29599780,
                 chairmanPlayerName = "Jitus21",
-                epochNumber = 1
-            )
+                epochNumber = 1,
+            ),
         )
     }
 
@@ -40,8 +40,8 @@ class AlliancesRankingParserTest {
                 area = 140790,
                 prestige = 24751703,
                 chairmanPlayerName = "thordevil",
-                epochNumber = 1
-            )
+                epochNumber = 1,
+            ),
         )
     }
 }

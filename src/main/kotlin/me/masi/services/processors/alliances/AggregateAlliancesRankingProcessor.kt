@@ -12,7 +12,6 @@ class AggregateAlliancesRankingProcessor(
     private val inputReader: InputReader,
     private val parser: RankingParser<AlliancesRanking>,
 ) : AbstractAlliancesRankingProcessor() {
-
     override fun process() {
         val groupingParameter = inputReader.selectGroupingParameterForAlliancesFromInput()
         val aggregatingParameter = inputReader.selectAggregatingParameterFromInput()
@@ -27,56 +26,76 @@ class AggregateAlliancesRankingProcessor(
         val filteredEpochs = filterEpochs(epochs, epochStart, epochEnd)
         val filteredRanks = filterRankings(filteredEpochs, rankStart, rankEnd)
 
-        val resultMap = filteredRanks.flatMap { it.alliancesRankingRows }
-            .let {
-                when (groupingParameter) {
-                    EGroupingParameterForAlliances.TAG -> it.groupBy { it.allianceTag.uppercase() }
-                    EGroupingParameterForAlliances.CHAIRMAN -> it.groupBy { it.chairmanPlayerName }
-                    EGroupingParameterForAlliances.MEMBERS_COUNT -> it.groupBy { it.membersCount.toString() }
-                }
-            }
-            .let {
-                when (sortDirection) {
-                    ESortDirection.ASCENDING -> {
-                        when (aggregatingParameter) {
-                            EAggregatingParameter.OCCURRENCE -> it.toList()
-                                .sortedBy { (_, values) -> values.size }
-                                .toMap()
-                            EAggregatingParameter.PRESTIGE -> it.toList()
-                                .sortedBy { (_, values) -> values.sumOf { it.prestige } }
-                                .toMap()
-                            EAggregatingParameter.AREA -> it.toList()
-                                .sortedBy { (_, values) -> values.sumOf { it.area } }
-                                .toMap()
+        val resultMap =
+            filteredRanks
+                .flatMap { it.alliancesRankingRows }
+                .let {
+                    when (groupingParameter) {
+                        EGroupingParameterForAlliances.TAG -> it.groupBy { it.allianceTag.uppercase() }
+                        EGroupingParameterForAlliances.CHAIRMAN -> it.groupBy { it.chairmanPlayerName }
+                        EGroupingParameterForAlliances.MEMBERS_COUNT -> it.groupBy { it.membersCount.toString() }
+                    }
+                }.let {
+                    when (sortDirection) {
+                        ESortDirection.ASCENDING -> {
+                            when (aggregatingParameter) {
+                                EAggregatingParameter.OCCURRENCE ->
+                                    it
+                                        .toList()
+                                        .sortedBy { (_, values) -> values.size }
+                                        .toMap()
+
+                                EAggregatingParameter.PRESTIGE ->
+                                    it
+                                        .toList()
+                                        .sortedBy { (_, values) -> values.sumOf { it.prestige } }
+                                        .toMap()
+
+                                EAggregatingParameter.AREA ->
+                                    it
+                                        .toList()
+                                        .sortedBy { (_, values) -> values.sumOf { it.area } }
+                                        .toMap()
+                            }
+                        }
+
+                        ESortDirection.DESCENDING -> {
+                            when (aggregatingParameter) {
+                                EAggregatingParameter.OCCURRENCE ->
+                                    it
+                                        .toList()
+                                        .sortedByDescending { (_, values) -> values.size }
+                                        .toMap()
+
+                                EAggregatingParameter.PRESTIGE ->
+                                    it
+                                        .toList()
+                                        .sortedByDescending { (_, values) -> values.sumOf { it.prestige } }
+                                        .toMap()
+
+                                EAggregatingParameter.AREA ->
+                                    it
+                                        .toList()
+                                        .sortedByDescending { (_, values) -> values.sumOf { it.area } }
+                                        .toMap()
+                            }
                         }
                     }
-                    ESortDirection.DESCENDING -> {
-                        when (aggregatingParameter) {
-                            EAggregatingParameter.OCCURRENCE -> it.toList()
-                                .sortedByDescending { (_, values) -> values.size }
-                                .toMap()
-                            EAggregatingParameter.PRESTIGE -> it.toList()
-                                .sortedByDescending { (_, values) -> values.sumOf { it.prestige } }
-                                .toMap()
-                            EAggregatingParameter.AREA -> it.toList()
-                                .sortedByDescending { (_, values) -> values.sumOf { it.area } }
-                                .toMap()
-                        }
+                }.let {
+                    if (alliancesCount != 0) {
+                        it.toList().take(alliancesCount).toMap()
+                    } else {
+                        it.toMap()
                     }
                 }
-            }
-            .let {
-                if (alliancesCount != 0) {
-                    it.toList().take(alliancesCount).toMap()
-                } else {
-                    it.toMap()
-                }
-            }
 
         processOutput(resultMap, groupingParameter)
     }
 
-    private fun processOutput(resultMap: Map<String, List<AlliancesRankingRow>>, groupingParameter: EGroupingParameterForAlliances) {
+    private fun processOutput(
+        resultMap: Map<String, List<AlliancesRankingRow>>,
+        groupingParameter: EGroupingParameterForAlliances,
+    ) {
         if (resultMap.isEmpty()) {
             println("Zadne vysledky.")
             return

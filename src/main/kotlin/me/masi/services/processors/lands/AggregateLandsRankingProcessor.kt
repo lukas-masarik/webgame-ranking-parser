@@ -25,7 +25,6 @@ class AggregateLandsRankingProcessor(
     private val inputReader: InputReader,
     private val parser: RankingParser<LandsRanking>,
 ) : AbstractLandsRankingProcessor() {
-
     override fun process() {
         val groupingParameter = inputReader.selectGroupingParameterForLandsFromInput()
         val aggregatingParameter = inputReader.selectAggregatingParameterFromInput()
@@ -40,57 +39,77 @@ class AggregateLandsRankingProcessor(
         val filteredEpochs = filterEpochs(epochs, epochStart, epochEnd)
         val filteredRanks = filterRankings(filteredEpochs, rankStart, rankEnd)
 
-        val resultMap = filteredRanks.flatMap { it.landsRankingRows }
-            .let {
-                when (groupingParameter) {
-                    EGroupingParameterForLands.PLAYER -> it.groupBy { it.playerName }
-                    EGroupingParameterForLands.ALLIANCE -> it.groupBy { it.alliance?.uppercase() }
-                    EGroupingParameterForLands.STATE_SYSTEM -> it.groupBy { it.stateSystem }
-                    EGroupingParameterForLands.LAND_NUMBER -> it.groupBy { it.landNumber.toString() }
-                }
-            }
-            .let {
-                when (sortDirection) {
-                    ESortDirection.ASCENDING -> {
-                        when (aggregatingParameter) {
-                            EAggregatingParameter.OCCURRENCE -> it.toList()
-                                .sortedBy { (_, values) -> values.size }
-                                .toMap()
-                            EAggregatingParameter.PRESTIGE -> it.toList()
-                                .sortedBy { (_, values) -> values.sumOf { it.prestige } }
-                                .toMap()
-                            EAggregatingParameter.AREA -> it.toList()
-                                .sortedBy { (_, values) -> values.sumOf { it.area } }
-                                .toMap()
+        val resultMap =
+            filteredRanks
+                .flatMap { it.landsRankingRows }
+                .let {
+                    when (groupingParameter) {
+                        EGroupingParameterForLands.PLAYER -> it.groupBy { it.playerName }
+                        EGroupingParameterForLands.ALLIANCE -> it.groupBy { it.alliance?.uppercase() }
+                        EGroupingParameterForLands.STATE_SYSTEM -> it.groupBy { it.stateSystem }
+                        EGroupingParameterForLands.LAND_NUMBER -> it.groupBy { it.landNumber.toString() }
+                    }
+                }.let {
+                    when (sortDirection) {
+                        ESortDirection.ASCENDING -> {
+                            when (aggregatingParameter) {
+                                EAggregatingParameter.OCCURRENCE ->
+                                    it
+                                        .toList()
+                                        .sortedBy { (_, values) -> values.size }
+                                        .toMap()
+
+                                EAggregatingParameter.PRESTIGE ->
+                                    it
+                                        .toList()
+                                        .sortedBy { (_, values) -> values.sumOf { it.prestige } }
+                                        .toMap()
+
+                                EAggregatingParameter.AREA ->
+                                    it
+                                        .toList()
+                                        .sortedBy { (_, values) -> values.sumOf { it.area } }
+                                        .toMap()
+                            }
+                        }
+
+                        ESortDirection.DESCENDING -> {
+                            when (aggregatingParameter) {
+                                EAggregatingParameter.OCCURRENCE ->
+                                    it
+                                        .toList()
+                                        .sortedByDescending { (_, values) -> values.size }
+                                        .toMap()
+
+                                EAggregatingParameter.PRESTIGE ->
+                                    it
+                                        .toList()
+                                        .sortedByDescending { (_, values) -> values.sumOf { it.prestige } }
+                                        .toMap()
+
+                                EAggregatingParameter.AREA ->
+                                    it
+                                        .toList()
+                                        .sortedByDescending { (_, values) -> values.sumOf { it.area } }
+                                        .toMap()
+                            }
                         }
                     }
-                    ESortDirection.DESCENDING -> {
-                        when (aggregatingParameter) {
-                            EAggregatingParameter.OCCURRENCE -> it.toList()
-                                .sortedByDescending { (_, values) -> values.size }
-                                .toMap()
-                            EAggregatingParameter.PRESTIGE -> it.toList()
-                                .sortedByDescending { (_, values) -> values.sumOf { it.prestige } }
-                                .toMap()
-                            EAggregatingParameter.AREA -> it.toList()
-                                .sortedByDescending { (_, values) -> values.sumOf { it.area } }
-                                .toMap()
-                        }
+                }.let {
+                    if (landsCount != 0) {
+                        it.toList().take(landsCount).toMap()
+                    } else {
+                        it.toMap()
                     }
                 }
-            }
-            .let {
-                if (landsCount != 0) {
-                    it.toList().take(landsCount).toMap()
-                } else {
-                    it.toMap()
-                }
-            }
 
         processOutput(resultMap, groupingParameter)
     }
 
-    private fun processOutput(resultMap: Map<String?, List<LandsRankingRow>>, groupingParameter: EGroupingParameterForLands) {
+    private fun processOutput(
+        resultMap: Map<String?, List<LandsRankingRow>>,
+        groupingParameter: EGroupingParameterForLands,
+    ) {
         if (resultMap.isEmpty()) {
             println("Zadne vysledky.")
             return

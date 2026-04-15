@@ -23,7 +23,6 @@ class ListLandsRankingProcessor(
     private val inputReader: InputReader,
     private val parser: RankingParser<LandsRanking>,
 ) : AbstractLandsRankingProcessor() {
-
     override fun process() {
         val sortAttribute = inputReader.selectSortAttributeFromInput()
         val sortDirection = inputReader.selectSortDirectionFromInput()
@@ -37,32 +36,34 @@ class ListLandsRankingProcessor(
         val filteredEpochs = filterEpochs(epochs, epochStart, epochEnd)
         val filteredRanks = filterRankings(filteredEpochs, rankStart, rankEnd)
 
-        val rankedLands = filteredRanks.flatMap { it.landsRankingRows }
-            .let {
-                when (sortDirection) {
-                    ESortDirection.ASCENDING -> {
-                        when (sortAttribute) {
-                            ESortAttribute.PRESTIGE -> it.sortedBy { it.prestige }
-                            ESortAttribute.AREA -> it.sortedBy { it.area }
-                            ESortAttribute.EPOCH_NUMBER -> it.sortedBy { it.epochNumber }
+        val rankedLands =
+            filteredRanks
+                .flatMap { it.landsRankingRows }
+                .let {
+                    when (sortDirection) {
+                        ESortDirection.ASCENDING -> {
+                            when (sortAttribute) {
+                                ESortAttribute.PRESTIGE -> it.sortedBy { it.prestige }
+                                ESortAttribute.AREA -> it.sortedBy { it.area }
+                                ESortAttribute.EPOCH_NUMBER -> it.sortedBy { it.epochNumber }
+                            }
+                        }
+
+                        ESortDirection.DESCENDING -> {
+                            when (sortAttribute) {
+                                ESortAttribute.PRESTIGE -> it.sortedByDescending { it.prestige }
+                                ESortAttribute.AREA -> it.sortedByDescending { it.area }
+                                ESortAttribute.EPOCH_NUMBER -> it.sortedByDescending { it.epochNumber }
+                            }
                         }
                     }
-                    ESortDirection.DESCENDING -> {
-                        when (sortAttribute) {
-                            ESortAttribute.PRESTIGE -> it.sortedByDescending { it.prestige }
-                            ESortAttribute.AREA -> it.sortedByDescending { it.area }
-                            ESortAttribute.EPOCH_NUMBER -> it.sortedByDescending { it.epochNumber }
-                        }
+                }.let {
+                    if (landsCount != 0) {
+                        it.take(landsCount)
+                    } else {
+                        it.toList()
                     }
                 }
-            }
-            .let {
-                if (landsCount != 0) {
-                    it.take(landsCount)
-                } else {
-                    it.toList()
-                }
-            }
 
         processOutput(rankedLands)
     }
@@ -76,7 +77,9 @@ class ListLandsRankingProcessor(
         println("#\tHrac\tPrestiz\tRozloha\tVlada\tVek\tUmisteni")
         var i = 1
         landsRankingRows.forEach { rankedLand ->
-            println("${i++}.\t${rankedLand.playerName}\t${rankedLand.prestige}\t${rankedLand.area}km2\t${rankedLand.stateSystem.fullName()}\t${rankedLand.epochNumber}\t${rankedLand.ranking}.")
+            println(
+                "${i++}.\t${rankedLand.playerName}\t${rankedLand.prestige}\t${rankedLand.area}km2\t${rankedLand.stateSystem.fullName()}\t${rankedLand.epochNumber}\t${rankedLand.ranking}.",
+            )
         }
     }
 

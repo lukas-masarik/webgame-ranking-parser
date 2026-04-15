@@ -12,14 +12,14 @@ class FilterAlliancesRankingProcessor(
     private val inputReader: InputReader,
     private val parser: RankingParser<AlliancesRanking>,
 ) : AbstractAlliancesRankingProcessor() {
-
     override fun process() {
         val filteringParameter = inputReader.selectFilteringParameterForAlliancesFromInput()
-        val filteringQuery = when (filteringParameter) {
-            EFilteringParameterForAlliances.TAG -> inputReader.selectFilterAllianceQueryFromInput()
-            EFilteringParameterForAlliances.CHAIRMAN -> inputReader.selectFilterPlayerQueryFromInput()
-            EFilteringParameterForAlliances.MEMBERS_COUNT -> inputReader.selectFilterMembersCountQueryFromInput()
-        }
+        val filteringQuery =
+            when (filteringParameter) {
+                EFilteringParameterForAlliances.TAG -> inputReader.selectFilterAllianceQueryFromInput()
+                EFilteringParameterForAlliances.CHAIRMAN -> inputReader.selectFilterPlayerQueryFromInput()
+                EFilteringParameterForAlliances.MEMBERS_COUNT -> inputReader.selectFilterMembersCountQueryFromInput()
+            }
         val sortAttribute = inputReader.selectSortAttributeFromInput()
         val sortDirection = inputReader.selectSortDirectionFromInput()
         val alliancesCount = inputReader.selectReturnCountFromInput()
@@ -32,44 +32,49 @@ class FilterAlliancesRankingProcessor(
         val filteredEpochs = filterEpochs(epochs, epochStart, epochEnd)
         val filteredRanks = filterRankings(filteredEpochs, rankStart, rankEnd)
 
-        val rankedAlliances = filteredRanks.flatMap { it.alliancesRankingRows }
-            .let {
-                when (filteringParameter) {
-                    EFilteringParameterForAlliances.TAG -> it.filter { it.allianceTag.lowercase() == filteringQuery!!.lowercase() }
-                    EFilteringParameterForAlliances.MEMBERS_COUNT -> it.filter { it.membersCount == (filteringQuery!!.toIntOrNull() ?: 10) }
-                    EFilteringParameterForAlliances.CHAIRMAN -> it.filter { it.chairmanPlayerName.lowercase() == filteringQuery!!.lowercase() }
-                }
-            }
-            .let {
-                when (sortDirection) {
-                    ESortDirection.ASCENDING -> {
-                        when (sortAttribute) {
-                            ESortAttribute.PRESTIGE -> it.sortedBy { it.prestige }
-                            ESortAttribute.AREA -> it.sortedBy { it.area }
-                            ESortAttribute.EPOCH_NUMBER -> it.sortedBy { it.epochNumber }
+        val rankedAlliances =
+            filteredRanks
+                .flatMap { it.alliancesRankingRows }
+                .let {
+                    when (filteringParameter) {
+                        EFilteringParameterForAlliances.TAG -> it.filter { it.allianceTag.lowercase() == filteringQuery!!.lowercase() }
+                        EFilteringParameterForAlliances.MEMBERS_COUNT -> it.filter { it.membersCount == (filteringQuery!!.toIntOrNull() ?: 10) }
+                        EFilteringParameterForAlliances.CHAIRMAN -> it.filter { it.chairmanPlayerName.lowercase() == filteringQuery!!.lowercase() }
+                    }
+                }.let {
+                    when (sortDirection) {
+                        ESortDirection.ASCENDING -> {
+                            when (sortAttribute) {
+                                ESortAttribute.PRESTIGE -> it.sortedBy { it.prestige }
+                                ESortAttribute.AREA -> it.sortedBy { it.area }
+                                ESortAttribute.EPOCH_NUMBER -> it.sortedBy { it.epochNumber }
+                            }
+                        }
+
+                        ESortDirection.DESCENDING -> {
+                            when (sortAttribute) {
+                                ESortAttribute.PRESTIGE -> it.sortedByDescending { it.prestige }
+                                ESortAttribute.AREA -> it.sortedByDescending { it.area }
+                                ESortAttribute.EPOCH_NUMBER -> it.sortedByDescending { it.epochNumber }
+                            }
                         }
                     }
-                    ESortDirection.DESCENDING -> {
-                        when (sortAttribute) {
-                            ESortAttribute.PRESTIGE -> it.sortedByDescending { it.prestige }
-                            ESortAttribute.AREA -> it.sortedByDescending { it.area }
-                            ESortAttribute.EPOCH_NUMBER -> it.sortedByDescending { it.epochNumber }
-                        }
+                }.let {
+                    if (alliancesCount != 0) {
+                        it.take(alliancesCount)
+                    } else {
+                        it.toList()
                     }
                 }
-            }
-            .let {
-                if (alliancesCount != 0) {
-                    it.take(alliancesCount)
-                } else {
-                    it.toList()
-                }
-            }
 
         processOutput(rankedAlliances, filteringParameter, filteringQuery)
     }
 
-    private fun processOutput(alliancesRankingRows: List<AlliancesRankingRow>, filteringParameter: EFilteringParameterForAlliances, filteringQuery: String?) {
+    private fun processOutput(
+        alliancesRankingRows: List<AlliancesRankingRow>,
+        filteringParameter: EFilteringParameterForAlliances,
+        filteringQuery: String?,
+    ) {
         println("${filteringParameter.value}: $filteringQuery")
         if (alliancesRankingRows.isEmpty()) {
             println("Zadne vysledky.")
@@ -89,7 +94,7 @@ class FilterAlliancesRankingProcessor(
         alliancesRankingRows.forEach { rankedAlliance ->
             println(
                 "${i++}.\t${rankedAlliance.prestige}\t${rankedAlliance.area}km2\t${rankedAlliance.membersCount}\t${rankedAlliance.chairmanPlayerName}\t" +
-                        "${rankedAlliance.epochNumber}\t${rankedAlliance.ranking}."
+                    "${rankedAlliance.epochNumber}\t${rankedAlliance.ranking}.",
             )
         }
     }
@@ -100,18 +105,18 @@ class FilterAlliancesRankingProcessor(
         alliancesRankingRows.forEach { rankedAlliance ->
             println(
                 "${i++}.\t${rankedAlliance.allianceTag}\t${rankedAlliance.prestige}\t${rankedAlliance.area}km2\t${rankedAlliance.membersCount}\t" +
-                        "${rankedAlliance.epochNumber}\t${rankedAlliance.ranking}."
+                    "${rankedAlliance.epochNumber}\t${rankedAlliance.ranking}.",
             )
         }
     }
 
     private fun processMembersCountOutput(alliancesRankingRows: List<AlliancesRankingRow>) {
-        println("#\tAliance\tPrestiz\tRozloha\tPreseda\tVek\tUmisteni")
+        println("#\tAliance\tPrestiz\tRozloha\tPredseda\tVek\tUmisteni")
         var i = 1
         alliancesRankingRows.forEach { rankedAlliance ->
             println(
                 "${i++}.\t${rankedAlliance.allianceTag}\t${rankedAlliance.prestige}\t${rankedAlliance.area}km2\t${rankedAlliance.chairmanPlayerName}\t" +
-                        "${rankedAlliance.epochNumber}\t${rankedAlliance.ranking}."
+                    "${rankedAlliance.epochNumber}\t${rankedAlliance.ranking}.",
             )
         }
     }
