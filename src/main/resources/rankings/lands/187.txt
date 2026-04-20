@@ -1,0 +1,42 @@
+187. věk
+#	Země	Rozloha	Prestiž	Aliance	Vláda	Kol
+1.	Can you beat me?(#300) - Dzindzik	26187km2	14199507	M	Utop	3975
+2.	tpOwCh be afraid?(#32) - Pacik	23482km2	13808222	tpOwCh2	Rep	3974
+3.	ale skor nie(#1284) - Yank	33179km2	12736586	Across	Rep	3975
+4.	Atropin(#246) - Poison	31226km2	12728304	POISON	Robo	3974
+5.	Forsaken Earth(#807) - PLASTIK	25122km2	12554198	PRDOX	Demo	3975
+6.	Embargo v obraně tvý mámy(#1108) - smudlas	20020km2	12498052	SRAN	Utop	3968
+7.	Il tempo se ne va(#222) - podwratak	25284km2	12467411	VÍCADMIN	Rep	3982
+8.	UNFCKNGBLVBL(#687) - Dupooooo	19698km2	12394081	EKO	Tech	3975
+9.	Prince Kheldar of Drasnia(#1170) - FARR FARR AWAYY	19999km2	12171869	MAGIE	Utop	3973
+10.	KARAVANA POD EMBARGEM(#836) - gugoslav	24347km2	12092224	KCI.	Fund	3974
+11.	Tadej Pogačar(#71) - Comanndos	22777km2	11700000	GOAT	Utop	3862
+12.	Fet-=KA=-(#77777) - tvojasmrt	17999km2	11055511	FETKA	Utop	3840
+13.	...WG-PROFESSIONAL..:(#565) - king leonardo	24239km2	10983063	S.D.E	Demo	3974
+14.	Jason Bourne(#61) - Comanndos	20000km2	10938585	Junkyard	Utop	3892
+15.	Buster Moon(#1985) - Dhany	20296km2	10929175	ganja	Fund	3972
+16.	Láka ma mláka(#1333) - .Grim.	19550km2	10816464	SLZA	Tech	3972
+17.	01(#115) - daxicek	25744km2	10725115	.::R::.	Demo	3980
+18.	Tommy Wiseau je king(#133) - Konopess	20868km2	10611249	VENDETA	Utop	3971
+19.	/(#489) - cmelo	32278km2	10369884	Across	Dikt	3949
+20.	tpOwCh are you scary?(#900) - Pacik	24950km2	10359117	tpOwCh2	Rep	3973
+21.	Prazo Senator(#566) - elitewardog	16666km2	10288873	KRAPO	Tech	3868
+22.	-osn- ChosenOne(#788) - KuXIV	17796km2	10265043	ganja	Rep	3975
+23.	tpOwCh křeček Mireček(#2019) - Dhany	21120km2	10206317	tpOwCh2	Fund	3965
+24.	uglypukedface(#436) - cejo the king	19230km2	10173582	VENDETA	Utop	3975
+25.	Lotta per la veritae(#451) - Miriss	20971km2	10145216	Lotta	Feud	3975
+26.	LOS made in Untamed(#4455) - Topis	16999km2	10070071	EKO	Utop	3884
+27.	The Heroic Toucan(#598) - Tukenssen	18440km2	10065823	-=THC=-	Utop	3939
+28.	U R TEARING ME APART LISA(#785) - Konopess	18936km2	10063892	VENDETA	Utop	3965
+29.	Helly R.(#164) - hum4nic	20135km2	10020240	VENDETA	Tech	3975
+30.	Avgánistán(#838) - StrikSSrs	27246km2	9945976	AxF	Dikt	3930
+31.	Olafovo(#715) - Awermi	16683km2	9910993	VENDETA	Utop	3973
+32.	PedOKnírekPornoknír(#93) - Ctirad2	20000km2	9660063	S	Feud	3973
+33.	Chlupatý krk(#238) - Lord Rechleek	22665km2	9256820	PaTo	Tech	3924
+34.	Teď si dám pívo...(#507) - bruminka	18305km2	9236225	.:UO:.	Utop	3975
+35.	Moonlight AFK Jungle Farm(#861) - .Baťa.	25036km2	9226593	M	Utop	3974
+36.	Veselá Mrkev(#72) - Wojxtier	19999km2	9203469	VENDETA	Utop	3975
+37.	Neutíkej, zemřeš unavenej(#174) - siroko	19451km2	9131378	.:YD:.	Utop	3975
+38.	Karabanka Karavana(#592) - Tukenssen	16752km2	9074411	KCII.	Utop	3893
+39.	KARAVANA LUDVÍKA XIV.(#995) - xmision	18536km2	9061936	KCII.	Utop	3974
+40.	.:HejBro:.(#480) - Charles king	18999km2	9041792	tpOwCh3	Kom	3756

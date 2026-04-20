@@ -1,0 +1,42 @@
+187. věk
+#	Aliance	Členů	Rozloha	Prestiž	Předseda
+1.	[VENDETA] VENDETA	10	190206km2	88590600	Tommy Wiseau je king(#133) - Konopess
+2.	[KCII.] Karavana`s Club II.	10	174800km2	77120913	KARAVANA TU JE?(#188) - jOguRt44
+3.	[ganja] Ganja	10	180128km2	73219170	Buster Moon(#1985) - Dhany
+4.	[tpOwCh2] the power of wing chun	10	182349km2	70754822	tpOwCh mAx(#167) - MaximusBuchymus
+5.	[M] MOON	10	196877km2	69861512	Atlan(#142) - Atlantik
+6.	[Across] Idealistic Organization	10	207089km2	67718203	Part Time Killer(#233) - marv III
+7.	[EKO] Bráníme ekonomem	10	161992km2	65902806	nejsem ZORG(#321) - Lord Demokrat
+8.	[=T=] Trója	10	198937km2	61314857	Winter is coming..(#39) - FR3EZY
+9.	[*MAGIE*] *	10	152533km2	59291569	Bylo jaro, všechno kvetlo(#1161) - mara8
+10.	[FETKA] Fetuj jako ponrava	10	123946km2	58548961	Ponrava(#341) - Estetik
+11.	[SLZA] Isto tu nejakú nájdeš.	10	127179km2	57114844	Múr nárekov(#310) - mcweb
+12.	[n1] nasilinieeIdiotyfnukfunfuk	10	136430km2	55999703	malá epidémia samoty(#485) - esya
+13.	[CBA] Cenzúra Bojazlivej Aničky	10	164292km2	55599187	Oliver Koletzki(#259) - marv III
+14.	[S] SUN	10	154737km2	53724611	vlasy zlatovlasky(#168) - Atlantik
+15.	[-=THC=-] The Heroic Company	10	141022km2	53578941	zem nikoho(#181) - jOguRt44
+16.	[Lotta] Lotta per la sopravvivenza	10	172788km2	53527039	Lotta la nostra la furia(#145) - trisíííček
+17.	[SRAN] Embargo	10	162896km2	53336203	Embargo tvojí mámy(#1100) - Vládce Kabraxis
+18.	[VÍCADMIN] Víceadministrátoři Webgame	10	188437km2	50348772	Quanti anni hai?(#111) - podwratak
+19.	[VENDETTA] Bloody... sh.t	10	153238km2	49191749	Mark S.(#159) - hum4nic
+20.	[KCI.] Karavana`s Club I.	10	145492km2	48612129	KARAVANA MISTRA YODY(#590) - maverickynwa
+21.	[CaC] Command and Conquer	10	149343km2	48571264	03(#118) - daxicek
+22.	[I-LUV-U] Feel the LOVE in your A**	10	167756km2	45501543	Velke Levare 3(#299) - MPBuldog
+23.	[Genocida] Rest in peace	10	172390km2	44160276	Papučí po pysku(#501) - UniQe
+24.	[*UL*] United Legion	10	180662km2	42863306	Fireblade(#175) - snasa1
+25.	[Wexo] Wexo	10	146198km2	42781334	Wexo daj love(#1166) - sweetlollipop
+26.	[.::R::.] Rytíři	10	157744km2	42699101	B*E*S*A*R*A*B*I*A(#482) - Abdul
+27.	[queens] QUEENS	10	168767km2	41512037	(-+)(#644) - trubkatrubkovic
+28.	[=Pivko=] Naservíruju ti to na stůl.	10	130859km2	40349111	Kvašňák 13 nefiltr(#362) - Rozervaná Paní
+29.	[M4] Marauders of the Fourth	9	139432km2	39175084	M4rauder Romulus(#134) - trisíííček
+30.	[YOZZEFY2] Yozzefy = pohoda klik2	10	126015km2	38551843	Veterán - technokrat(#603) - Allegro
+31.	[PRDOX] PRdelí DO Xichtu	10	153843km2	38398421	G0D(#763) - Jacobthebest
+32.	[PPT] Pošta pre teba	10	144042km2	37446147	Opravár záhradky(#121) - J.E.F.F.R.E.Y
+33.	[VD] Vamos Dort	10	175572km2	37158897	AMSTAFF(#187) - snasa1
+34.	[PZY] Pozitivity	10	148923km2	36590311	Lakad Matatatag(#189) - seosen
+35.	[.:UO:.] Univerzita Obrany	10	161269km2	36284735	Ronald Vegan(#12345) - yuphon
+36.	[Anarchy] Farmíme pro lepší budoucnost	10	139597km2	35576336	Srdce mi pofoukáš...(#1159) - thordevil
+37.	[Temnota] Temnota	10	132598km2	35349229	Doba Temna(#351) - pokrosss
+38.	[NTRLTY] Neutrality	10	206047km2	34715600	NejlepšíŽenaJeNaložená(#253) - klofák
+39.	[D3V1L5] Masters of Underworld	10	134029km2	34318803	*Wiking*(#140) - SVKelt
+40.	[MAGIE]	10	151130km2	33922417	Dance my marionettes(#441) - mara8
