@@ -6,3 +6,7 @@ target
 .cache
 build
 out
+
+# AI
+.claude/**/.env
+.claude/**/*.local.*

@@ -1,0 +1,42 @@
+188. věk
+#	Země	Rozloha	Prestiž	Aliance	Vláda	Kol
+1.	pinus(#347) - dentitios	31044km2	26027346	.::R::.	Rep	3978
+2.	BLBEC co rád flastry(#42) - Supra1Soul5Play	34205km2	22240443	NBS	Robo	3977
+3.	Lasička(#289) - Seksymania	33508km2	22130733	=T=	Rep	3978
+4.	L O V E c(#235) - Defectorr	37744km2	20063028	C.B.	Robo	3972
+5.	Forsaken Earth(#751) - PLASTIK	28689km2	19172044	CBA	Demo	3979
+6.	Nikdy neodmlouvej kámo(#1041) - .12bomber12.	23442km2	16371436	RHS	Demo	3978
+7.	Lisan al-Gaib(#716) - tUtkoFromIKAR	31687km2	15821841	Kevlar	Rep	3947
+8.	DrogyJsouTop(#876) - seosen	32123km2	15469331	PZY	Demo	3976
+9.	Veveruška(#283) - Seksymania	27525km2	14749479	RHS	Feud	3972
+10.	Tukanova slza bez kolecka(#348) - Tukenssen	23546km2	13883548	AxF	Utop	3960
+11.	The Heroic Toucan(#349) - Tukenssen	22526km2	13383006	-=THC=-	Utop	3976
+12.	Horakulo(#260) - elitewardog	20373km2	13257113	KRAPO	Utop	3975
+13.	I Hate Models(#713) - marv III	25378km2	12683815	CBA	Robo	3926
+14.	KARAVANA DOBÝVÁKY NEKCI(#1001) - Armageddon	21073km2	12307750	KCII.	Utop	3969
+15.	So hot(#99) - 2xcl.	24179km2	12249541	M	Feud	3979
+16.	VODNÍ MELOUN(#948) - ...Kápo...	23333km2	12000000	AxF	Tech	3936
+17.	Embo v obraně tvojí mámy(#808) - smudlas	19055km2	11751672	SRAN	Utop	3938
+18.	Teotihuacán(#2001) - .modran	18520km2	11490243	VENDETA	Demo	3950
+19.	Pressure make diamonds(#280) - leszek	19999km2	10854025	M	Utop	3979
+20.	Moonlight AFK Jungle Farm(#920) - .Baťa.	21125km2	10745930	M	Utop	3978
+21.	Dark Bubble(#392) - Sc0rp10n	19475km2	10636580	CBA	Rep	3939
+22.	Mr. Datel(#443) - Ctirad2	22146km2	10600408	SLEZSKO	Dikt	3973
+23.	nemám čas řešit(#493) - Atlantik	19048km2	10537628	M	Robo	3978
+24.	Zzzzzzzzzzzzzzzzz(#868) - Martin858	19473km2	10478050	DEJAVU	Utop	3917
+25.	Reno Raines(#122) - RSkater88	28477km2	10357483	SLEZSKO	Dikt	3959
+26.	Atropin(#1124) - Poison	31006km2	10316087	BrBa	Dikt	3976
+27.	:..WG-PROFESSIONAL..:(#1233) - Neodym	18000km2	10241110	WG-PROF	Utop	3900
+28.	Alara(#888) - Limerence	27239km2	10153926	WEXO	Fund	3979
+29.	Božský lok(#1272) - FR3EZY	20417km2	9917584	NGTY	Kom	3945
+30.	tpOwCh -.-.-.-.-:-.-(#889) - HromikSir	19455km2	9892365	tpOwCh	Utop	3966
+31.	Tadej Pogačar(#361) - Comanndos	20000km2	9790031	GOAT	Utop	3948
+32.	DÁVNÁ KARAVANA(#332) - HnSb	19590km2	9715971	KCII.	Utop	3978
+33.	Karabanka Karavana(#346) - Tukenssen	19950km2	9627902	KCII.	Utop	3959
+34.	Vrchní podržtaška(#1002) - Armageddon	17499km2	9600821	.:UO:.	Utop	3972
+35.	I Bara Hezky Zuzla Kulky(#157) - klankosti	29166km2	9553296	IBHZK	Rep	3924
+36.	Knírek tvojí mámy(#584) - jOguRt44	22941km2	9513155	SRAN	Robo	3948
+37.	Veselá Mrkev(#574) - Wojxtier	19264km2	9453615	VENDETA	Utop	3979
+38.	critical(#572) - CreeCoC	20486km2	9426977	S.M.R.T.	Rep	3977
+39.	Ronald Vegan(#12345) - yuphon	21002km2	9348362	.:UO:.	Utop	3973
+40.	.:S3rVuS:.Bro(#688) - Charles king	19822km2	9325824	tpOwCh	Utop	3978
