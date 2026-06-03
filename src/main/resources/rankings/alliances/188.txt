@@ -1,0 +1,42 @@
+188. věk
+#	Aliance	Členů	Rozloha	Prestiž	Předseda
+1.	[M] MOON	10	186971km2	87881775	Atlan(#64) - Atlantik
+2.	[KCII.] Karavana`s Club II.	10	189874km2	81227696	KARAVANA TU JE?(#143) - jOguRt44
+3.	[VENDETA] VENDETA	10	178513km2	79855952	Lave vajko tu(#366) - posterr
+4.	[RHS] RHS	10	190556km2	79079728	Easy target,feelin this?(#854) - Mrkvička777
+5.	[CBA] Cenzúra Bojazlivej Aničky	10	173673km2	78788557	I Hate Models(#713) - marv III
+6.	[.:UO:.] Univerzita Obrany	10	182637km2	67697432	Ronald Vegan(#12345) - yuphon
+7.	[NBS] Největší blbci světa	10	152757km2	63775352	BLBEC,jak jinak...(#163) - Walker
+8.	[SRAN] Tvoje máma	10	166097km2	62922758	Tvoje máma má extra dlouhé jmé(#757) - gugoslav
+9.	[WG-PROF] WG-PROFESSIONAL	10	172109km2	62846395	:.:WG-PROFESSIONAL..:(#582) - Unreal Maniak
+10.	[WEXO] WEXO	10	174997km2	57814938	Wexo 36 krajín(#430) - sweetlollipop
+11.	[SLEZSKO] není Severní Morava	10	167755km2	56113039	Reno Raines(#122) - RSkater88
+12.	[S.M.R.T.] Sado Maso Rocket Teror	10	148640km2	53058299	SejuMocRychlouTrávu(#372) - Ch0z3
+13.	[NRsF] Nemám rád ... vy víte	10	153427km2	52499015	NRsF: MOSTRASTAS(#2510) - Beast Boban
+14.	[KRAPO] Krádeže a Podvody	10	143721km2	47946268	Kapurkova(#220) - Hurons
+15.	[ahoj] ahoj	10	151743km2	46152411	vlasy zlatovlasky(#494) - Atlantik
+16.	[tpOwCh] the power of wing chun	8	140680km2	46009745	tpOwCh bUchY(#273) - MaximusBuchymus
+17.	[NGTY] Negativity	10	142266km2	45965924	Normalin Normalin(#877) - seosen
+18.	[YOZZEFY2] Yozzefy2 = pohoda klik2	10	136855km2	45718097	Veterán - technokrat(#91) - Allegro
+19.	[L.O.S.] Losove se veseli	10	155874km2	45137265	LOS made in Salajna(#1122) - Topisek
+20.	[:.UO.:] Ufo Odmítáme	10	156146km2	44744621	Pomela Anderson(#23456) - yuphon
+21.	[tpOwCh2] the power of wing chun	10	167203km2	42872689	tpOwCh yiP(#276) - MaximusBuchymus
+22.	[=Pivko=] Naservíruju ti to na stůl.	10	135342km2	42856585	Kvašňák 13 nefiltr(#802) - Rozervaná Paní
+23.	[(OP)] One Piece	10	137509km2	42172438	Roronoa Zorro(#558) - Lord Naiden
+24.	[ganja] ganja	10	165868km2	41670529	Buster Moon(#356) - Dhany
+25.	[PZY] Pozitivity	10	141997km2	41193217	Lakad Matatatag(#499) - seosen
+26.	[.::R::.] Rytíři	10	124299km2	40562907	B*E*S*A*R*A*B*I*A(#352) - Abdul
+27.	[VENDETTA] VENDETTA	9	118815km2	39693226	Hryzanec do bulvy x)(#4747) - LOtr cyru5
+28.	[=T=] Trója	10	147036km2	39468996	Winter is coming..(#177) - FR3EZY
+29.	[YOZZEFY] Yozzefy = pohoda klik	10	131810km2	39359187	Veterán - farmář(#79) - Allegro
+30.	[Anarchy] Farmíme pro lepší minulost	10	142919km2	39175278	Srdce mi pofoukáš...(#38) - thordevil
+31.	[-=THC=-] The Heroic Company	10	153060km2	38259505	zem nikoho(#136) - jOguRt44
+32.	[Across] Idealistic Organization	10	151457km2	37679346	HUMAN ERROR(#257) - marv III
+33.	[C.B.] Cripple Bastards	10	163549km2	37451176	sLeČinkA Olympia :-*(#375) - Remor
+34.	[NSFW] NOT SAFE FOR WEBGAME	10	168955km2	37214175	Raining Blood(#1993) - RSkater88
+35.	[TreBeach]	10	166285km2	35920050	TLUČHUBA(#768) - Mrkvik
+36.	[AxF] AxF	10	140483km2	35256554	Avgánistán(#764) - StrikSSrs
+37.	[)CD(] Cepovaná desítka	10	137780km2	34794297	)CD( Velický Bombarďák 10(#438) - ja a ty sme oba
+38.	[MZA] Mačkat zadek Adélce	10	144201km2	34530175	Pardeeho vlna(#520) - Michellion
+39.	[queens] QUEENS	10	167423km2	34518273	(-+)(#1030) - trubkatrubkovic
+40.	[I-LUV-U] Feel the love in your A**	10	152751km2	33584228	Velke Levare(#386) - MPBuldog
