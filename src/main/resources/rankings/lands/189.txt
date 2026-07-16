@@ -1,0 +1,42 @@
+189. věk
+#	Země	Rozloha	Prestiž	Aliance	Vláda	Kol
+1.	Veveruška(#87654) - Seksymania	23456km2	24044439	=T=	Tech	3745
+2.	Bunda z koženky(#1189) - FR3EZY	30846km2	20938867	DooM	Rep	3978
+3.	První(#220) - Dudlajs	28349km2	18111478	AHA	Rep	3978
+4.	Frustrace z částečka(#51) - Supra1Soul5Play	34535km2	17662128	S	Rep	3978
+5.	Normalin Normalin(#35) - seosen	25419km2	17612568	NGTY	Rep	3979
+6.	Whats my age again?(#287) - Mrkvička777	26795km2	16873431	PRD	Demo	3978
+7.	BýtZelenýNeníVůbecLehké(#356) - Grunt7	35127km2	16121121	PRD	Rep	3979
+8.	.::WG-PROFESSIONAL::.(#108) - jowood2	30622km2	16064964	WG-PROF	Demo	3978
+9.	Láka ma mláka(#1333) - .Grim.	17162km2	15468798	LBL	Tech	3690
+10.	UNFCKNGBLVBL(#409) - Dupooooo	27092km2	15248615	PRD	Robo	3979
+11.	Chulimanga(#218) - FR3EZY	23518km2	15153131	=T=	Robo	3978
+12.	Conqueror Hombré(#337) - demolizer	21666km2	14908016	**CQR**	Rep	3978
+13.	Palader(#747) - Wakinava	24151km2	14737729	AUTORITA	Rep	3978
+14.	MALÁ BÍDA(#1170) - čempix	31620km2	14704538	AUTORITA	Rep	3822
+15.	42 Prague(#858) - Martin858	19077km2	14410799	ganja	Utop	3970
+16.	Nasraaat(#870) - Zilos	23158km2	14110391	Wexo	Tech	3978
+17.	PRNSTR(#815) - Dupooooo	22124km2	14092814	VIR	Tech	3974
+18.	Hoffnung(#484) - .HARKOMEN.	29480km2	13342103	VENDETA2	Rep	3979
+19.	Reno Raines(#224) - RSkater88	26778km2	13199350	SLEZSKO	Dikt	3972
+20.	Chlupatý krk(#833) - Lord Rechleek	25248km2	13187118	NGTY	Rep	3963
+21.	Holohlavý vlasáč(#573) - Pedas	25797km2	13031583	AHA	Demo	3975
+22.	Otloukánek(#165) - D.r.a.k.	23658km2	12752739	VENDETA	Utop	3974
+23.	Vrchní KRABstěnkář(#1004) - Armageddon	23926km2	12498353	KRAPO	Rep	3977
+24.	Maľ ši branic(#241) - skazinoska	23202km2	12209234	Lotta	Robo	3976
+25.	Air..(#40) - kill666	28966km2	12086562	NGTY	Dikt	3966
+26.	Třetí zem(#964) - Honzík	29346km2	12056468	NGTY	Feud	3973
+27.	European Conqueror(#1003) - Armageddon	21780km2	12007897	**CQR**	Demo	3977
+28.	LOLomouc(#2019) - Dhany	16871km2	11914805	ganja	Utop	3978
+29.	(-+))(#1123) - trubkatrubkovic	23102km2	11719738	.ganja.	Demo	3978
+30.	Bibi-Bobi(#216) - Lishka Rishka	32543km2	11458719	RAPTOR	Robo	3979
+31.	NewcastleUnitedFC(#818) - Zed89	18307km2	11434821	VÍCADMIN	Utop	3978
+32.	A za kolik expu to bylo?(#647) - Saturas	20006km2	11413822	ganja	Utop	3979
+33.	tpOwCh -.-.-.-.-:-.-(#214) - HromikSir	21622km2	11324816	tpOwCh	Demo	3977
+34.	U R TEARING ME APART LISA(#69) - Konopess	22102km2	11308373	VENDETA	Utop	3946
+35.	Modrý pták(#845) - ridgeback	18222km2	11285129	LBL	Utop	3693
+36.	Lasička(#65432) - Seksymania	21540km2	11182418	LBL	Utop	3942
+37.	Potulnej pornoherec(#290) - Pedas	21781km2	11153731	ee	Tech	3939
+38.	uglyfatface(#682) - cejo the king	21495km2	10987619	VENDETA	Utop	3977
+39.	Easy target,feelin this?(#285) - Mrkvička777	17054km2	10917678	VIR	Utop	3977
+40.	Chandra Nalaar(#1083) - Limerence	21911km2	10581891	DooM	Robo	3978

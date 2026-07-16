@@ -1,0 +1,42 @@
+189. věk
+#	Aliance	Členů	Rozloha	Prestiž	Předseda
+1.	[LBL] LBL	10	188484km2	101611048	Modrý pták(#845) - ridgeback
+2.	[NGTY] Negativity	10	222820km2	99615806	DrogyJsouTop(#34) - seosen
+3.	[ganja] Ganja	10	179560km2	87912723	LOLomouc(#2019) - Dhany
+4.	[=T=] Trója	10	184450km2	86878182	Winter is coming..(#175) - FR3EZY
+5.	[VENDETA] VENDETA	10	197953km2	86295630	U R TEARING ME APART LISA(#69) - Konopess
+6.	[PRD] Proti realitě dlouhodobě	10	201497km2	83889140	UNFCKNGBLVBL(#409) - Dupooooo
+7.	[VIR] VIR	10	166347km2	76956951	Easy target,feelin this?(#285) - Mrkvička777
+8.	[KCII.] Karavana`s Club II.	10	187006km2	76753694	KARAVANA TU JE?(#471) - jOguRt44
+9.	[AUTORITA] Kdo se vleče, neuteče...	10	202194km2	74625510	Forsaken Palace(#948) - masterofgod
+10.	[DooM] Doomtroopers	10	174888km2	70086683	Kardinál Durand(#123) - Yurnero
+11.	[ahoj] ahoj	10	168744km2	69468783	vlasy zlatovlasky(#660) - Atlantik
+12.	[.:UO:.] Univerzita Obrany	10	176307km2	67055816	Ronald Vegan(#12345) - yuphon
+13.	[VÍCADMIN] Víceadministrátoři Webgame	10	177965km2	66932100	SKSlaviaPraha(#812) - Zed89
+14.	[**CQR**] Conquerors	10	162934km2	66736292	Conqueror Kryštůfek(#451) - .Hellboy.
+15.	[KRAPO] Krádeže a Podvody	10	177196km2	66491551	BuBuBu(#278) - Hurons
+16.	[AHA] Aliancia Láskavého Triumvirátu	10	188181km2	65140322	První(#220) - Dudlajs
+17.	[WG-PROF] WG-PROFESSIONAL	10	150872km2	61599969	:::WG-PROFESSIONAL::.(#1264) - Smr?ák5
+18.	[.:?:.] CeNsoReD	10	168452km2	60304010	Ruhmreichen Sieg(#66) - Dr.Memphisto
+19.	[Lotta] Lotta per la sopravvivenza	10	182332km2	59550030	Lotta la nostra la furia(#249) - trisíííček
+20.	[Wexo] Wexo	10	152795km2	57393517	Wexo 36 krajín(#584) - sweetlollipop
+21.	[PZY] Pozitivity	10	147608km2	50942287	Lakad Matatatag(#33) - seosen
+22.	[SLEZSKO] není Severní Morava	10	154879km2	50518857	Reno Raines(#224) - RSkater88
+23.	[tpOwCh] the power of wing chun	10	148559km2	47537280	tpOwCh bUchY(#78) - MaximusBuchymus
+24.	[CaC] Command and Conquer	10	133382km2	46259942	03(#88) - daxicek
+25.	[Temnota] Temnota	10	143708km2	45969498	Doba Temna(#598) - pokrosss
+26.	[C.B.] Cripple Bastards	10	178855km2	44913758	sLeČinkA Olympia :-*(#859) - Remor
+27.	[=Pivko=] Podává se čersvé chlazené pivo	10	131874km2	44441527	Kvašňák 13 nefiltr(#537) - Rozervaná Paní
+28.	[CBA] Cenzúra Bojazlivej Aničky	10	136014km2	44138658	Spytihněv(#61) - marv III
+29.	[Anarchy] Farmíme pro horší budoucnost	10	158205km2	42527466	Srdce mi pofoukáš...(#83) - thordevil
+30.	[YOZZEFY2] Yozzefy = pohoda klik2	10	142304km2	41820688	Veterán - technokrat(#119) - Allegro
+31.	[-=DH=-] Dark Hunters	10	163951km2	40521115	Amy Pond(#252) - Ersango
+32.	[)CD(] cold	10	126862km2	40058653	)CD( Velický Bombarďák 10(#324) - ja a ty sme oba
+33.	[Hercules] Xeny tajný nabiječ	10	162678km2	39938118	Resurrection(#1178) - .Ex.Dirty.
+34.	[.ganja.] Ganja	10	137239km2	35687313	(-+))(#1123) - trubkatrubkovic
+35.	[DP-1] Do Posilky na 1edno	10	163031km2	35514122	Gastroterrorista Babica(#611) - hrabě z Mentu
+36.	[YOZZEFY] Yozzefy = pohoda klik	10	133182km2	35229750	Veterán - farmář(#111) - Allegro
+37.	[NTRLTY] Neutrality	10	160964km2	34854208	HopNeboTrop(#38) - seosen
+38.	[SKL] Svadba Krála Lesa	10	129633km2	34040371	Vincov Háj(#473) - KrálLesa
+39.	[AxF] AxF	9	173980km2	32546769	Avgánistán(#930) - StrikSSrs
+40.	[LEGO] kostky jsou vrženy	10	126678km2	32433087	LEGO PaedDr. Archi CSc.(#1044) - ArchimondS
