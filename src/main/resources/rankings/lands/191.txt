@@ -1,0 +1,42 @@
+191. věk
+#	Země	Rozloha	Prestiž	Aliance	Vláda	Kol
+1.	Kumar Patel(#326) - blasticek	26779km2	21555555	ganja	Tech	3789
+2.	//(#142) - cmelo	26474km2	15031183	Across	Utop	3978
+3.	Romani ite domum(#782) - Wojxtier	27653km2	14524856	MZA	Rep	3979
+4.	Kvalitní mrmle tvojí mámy(#808) - smudlas	22226km2	13142662	SRAN	Utop	3958
+5.	VHK(#1094) - ploutvička	25269km2	12984150	ŠANG-HAJ	Robo	3973
+6.	Now I am become Death(#878) - MOTOR O1L	21591km2	12339507	=T=	Utop	3970
+7.	BýtZelenýNeníVůbecLehké(#1053) - Grunt7	23108km2	12339045	PRD	Kom	3703
+8.	tpOwCh are you scary?(#900) - Pacik	21283km2	12263834	tpOwCh2	Demo	3975
+9.	Vazte si farem(#506) - Aram Chroustal	15229km2	12025841	tpOwCh2	Rep	3976
+10.	Prosím normal diktě, dík(#45678) - yuphon	18422km2	11459926	CaC	Utop	3969
+11.	tpOwCh Warmonger(#329) - Dareion	19624km2	10978650	tpOwCh2	Rep	3902
+12.	Vrchní KRABstěnkář(#1004) - Armageddon	24490km2	10846725	(V)oo(V)	Robo	3968
+13.	AHOJTE CHALANI tvojí mámy(#677) - gugoslav	20391km2	10777163	SRAN	Demo	3978
+14.	Neběhej, zemřeš unavenej(#405) - siroko	18703km2	10696653	FA	Utop	3979
+15.	Pračka Vidle Čárky(#852) - Dupooooo	21049km2	10612750	100K	Rep	3964
+16.	Jak Vladimir Putin(#132) - KlepeTo	20812km2	10503370	PŠTROSI	Kom	3976
+17.	KARAVANA DOBÝVÁKY NEKCI(#1001) - Armageddon	23000km2	10464269	KCI.	Utop	3969
+18.	Success(#2000) - MrSlim	25663km2	10275017	PRD	Rep	3979
+19.	SleznanRohan(#230) - Ctirad2	20197km2	10118668	SLEZSKO	Dikt	3979
+20.	Reno Raines(#205) - RSkater88	18441km2	10037526	SLEZSKO	Robo	3931
+21.	Pštros bez klobouku boss(#512) - Dark Phoenix	16358km2	9889230	PŠTROSI	Utop	3979
+22.	uglypukedface(#618) - cejo the king	20844km2	9793549	.:V3R:.	Utop	3972
+23.	NTTS(#238) - marv III	23509km2	9705639	Across	Demo	3904
+24.	Internal(#159) - MrSlim	20161km2	9688533	.:UO:.	Utop	3979
+25.	Typkovic(#1292) - Kennys	20535km2	9621296	PRD	Rep	3896
+26.	kuso no yaro(#1198) - klíšťák	29496km2	9607927	AxF2	Dikt	3977
+27.	NRsF: Oblina(#586) - CreeCoC	19156km2	9322563	NRsF	Rep	3967
+28.	.::WG-PROFESSIONAL::.(#761) - jowood2	19775km2	9168962	VIR	Utop	3967
+29.	Sex s medvídkem Pú(#779) - Wojxtier	19026km2	9127952	.:V3R:.	Utop	3978
+30.	Finis est Initium(#1016) - EnSabahNur	18317km2	9087658	.:UO:.	Utop	3972
+31.	Ahoy(#303) - MAFline	22555km2	9020674	MZA	Utop	3978
+32.	Aliance -=ka=- neexistuje(#1119) - esya	16395km2	9000537	-=KA=-	Tech	3942
+33.	almost gave a f*ck(#149) - azumax	17131km2	8849306	PRD	Utop	3985
+34.	Rivendell(#295) - Flancek	15993km2	8768250	I-LUV-U	Utop	3978
+35.	BLBEC, vepřo, zelo(#941) - jOguRt44	18540km2	8740386	NBS	Robo	3931
+36.	what could go wrong..(#101) - azumax	18426km2	8714686	*SoD*	Utop	3932
+37.	tpOwCh be afraid?(#452) - Pacik	19583km2	8710438	tpOwCh2	Rep	3978
+38.	Krasna dolinka(#505) - Aram Chroustal	16999km2	8666765	CaC	Utop	3926
+39.	uglyskinnyface(#611) - cejo the king	15803km2	8604317	warcrime	Tech	3979
+40.	Dark Bubble(#679) - Sc0rp10n	21373km2	8599734	Across	Rep	3956
