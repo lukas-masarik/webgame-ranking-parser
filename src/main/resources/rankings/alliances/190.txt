@@ -1,0 +1,42 @@
+190. věk
+#	Aliance	Členů	Rozloha	Prestiž	Předseda
+1.	[*WINDE*]	10	223478km2	104344281	Chceš mě, chci tě.(#534) - Koumes
+2.	[ganja] Ganja	10	191422km2	93050598	Smile :)(#812) - PinkPanther
+3.	[queens] QUEENS	10	170403km2	89876473	Pavilon 8 AHC(#182) - gorem
+4.	[Polévka] Polévka je lék	10	210055km2	88596718	Tequila Tuesday(#2701) - ViewSonick
+5.	[AHA] Aliancia Láskavého Triumvirátu	10	170663km2	85395976	Banana skin ON(#186) - Abdul
+6.	[KCII.] Karavana`s Club II.	10	181223km2	76898913	KARAVANA TU JE?(#573) - jOguRt44
+7.	[.:UO:.] Univerzita Obrany	10	159537km2	75651411	Ronald Vegan(#12345) - yuphon
+8.	[.ganja.] .GANJA.	10	201025km2	74422752	(-+))(#566) - trubkatrubkovic
+9.	[NBS] Největší blbci světa	10	181051km2	74365000	Největší BLBEC systému(#233) - Walker
+10.	[-=KA=-] Killa Army	10	178789km2	73393272	-=KA=-líme a fetujem(#335) - Erwin Stahler
+11.	[RHS] RHS	10	175894km2	73010855	Whats my age again?(#668) - Mrkvička777
+12.	[CaC] Command and Conquer	10	168362km2	67664833	03(#409) - daxicek
+13.	[Bubáci] Dobráci	10	208100km2	67291428	Zářící Spasitel(#69) - .DuKeLuKe.
+14.	[MA] Malá Autorita	10	181548km2	62010505	Ytel(#843) - Wakinava
+15.	[DooM] Doomtrooper	10	180004km2	60817749	Sean Gallagher(#496) - Yurnero
+16.	[Anarchy] Farmíme pro horší minulost	10	152946km2	55081472	raggaMAFin(#108) - MAFline
+17.	[PŠTROSI] Pštrosi? Ti se neprosí.	10	134427km2	54841198	Pštrosí latifundie(#128) - Dark Phoenix
+18.	[-=LH=-] Lonely Hearts	10	147677km2	54761520	-=LH=-EDAM DÁRCE JATER(#239) - Walker
+19.	[KCIII.] Karavana`s Club III.	10	135562km2	52607095	BRNĚNSKÁ KARAVANA(#818) - xmision
+20.	[VIR] VIR	10	168133km2	52548368	Easy target,feelin this?(#665) - Mrkvička777
+21.	[KCI.] Karavana`s Club I.	10	145612km2	51473569	TAŤKOVA KARAVANA(#180) - maverickynwa
+22.	[-=THC=-] The Heroic Company	10	142549km2	50886871	zem nikoho(#568) - jOguRt44
+23.	[KKRD] Kluci Kteří Rádi Dročí	10	171078km2	50538765	Machlbery bro(#217) - Spronx
+24.	[SLIVKA] Máme radi domácu pálenku	10	149186km2	48350712	Great Tomb of Nazarick(#78) - Ainz Ooal Gown
+25.	[FA] Fast Arrows	10	137315km2	43089779	Štětky chlupů na ocasu(#329) - siroko
+26.	[D3V1L5] Masters of Underworld	10	153275km2	42763061	*Wiking*(#77) - SVKelt
+27.	[.:MoD:.] Miluji orální diskuze	10	147648km2	42319549	Smrt všem bezvěrcům(#374) - Smrtihlav2
+28.	[warcrime] War Criminals	9	145552km2	41944222	Vubeharietta(#736) - ymethyst
+29.	[tpOwCh] the power of wing chun	10	175650km2	41219140	tpOwCh bUchY(#83) - MaximusBuchymus
+30.	[YOZZEFY2] Yozzefy = pohoda klik2	10	147788km2	40111548	Veterán - technokrat(#526) - Allegro
+31.	[.:YD:.] .:Your Death:.	8	125753km2	38693787	Smrt si tě najde(#503) - White Dead
+32.	[)CD(] Cepovaná desítka	10	123990km2	37933204	)CD( Velický Bombarďák 10(#540) - ja a ty sme oba
+33.	[Temnota] Temnota	10	150810km2	37868003	Doba Temna(#103) - pokrosss
+34.	[YOZZEFY] Yozzefy = pohoda klik	10	137906km2	37398475	Veterán - farmář(#522) - Allegro
+35.	[=Pivko=] Hlavně, že je pivo v tlamě.	10	143657km2	35763049	Kvašňák 13 nefiltr(#390) - Rozervaná Paní
+36.	[LEGO] kostky jsou vrženy	10	136464km2	35429127	PaedDr Archi CSc.(#620) - ArchimondS
+37.	[PZY] Pozitivity	10	139396km2	34995598	Lakad Matatatag(#303) - seosen
+38.	[SRAN] Tvoje máma	10	151108km2	34655052	Vycucanej dudlík tvý mámy(#519) - Vládce Kabraxis
+39.	[=T=] Trója	10	175200km2	33256906	Winter is coming..(#44) - FR3EZY
+40.	[NRsF] Nemám rád ... vy víte	10	136018km2	31877706	NRsF: MOSTRASTAS(#701) - Beast Boban

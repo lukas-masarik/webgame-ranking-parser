@@ -1,0 +1,42 @@
+191. věk
+#	Aliance	Členů	Rozloha	Prestiž	Předseda
+1.	[tpOwCh2] The power of wing chun	10	186114km2	82352375	tpOwCh yiP(#343) - MaximusBuchymus
+2.	[SRAN] Tvoje máma	10	182042km2	76260151	Som neni redneck tvý mámy(#1100) - Vládce Kabraxis
+3.	[Across] Idealistic Organization	10	183828km2	73729709	NTTS(#238) - marv III
+4.	[warcrime] War Criminals	10	163117km2	68617699	Drimloq(#231) - ymethyst
+5.	[=T=] Trója	10	182573km2	68362161	Winter is coming..(#32) - FR3EZY
+6.	[.:UO:.] Univerzita Obrany	10	186175km2	66227951	Ronald Vegan(#423) - yuphon
+7.	[CaC] Command and Conquer	10	176259km2	65976820	03(#146) - daxicek
+8.	[-=KA=-] Killa Army	10	155196km2	63113915	-=KA=-lička meskalinu(#836) - Athara
+9.	[ganja] Ganja	10	167595km2	63062207	Mám jednu nohu dlouhou(#193) - Dhany
+10.	[PRD] Proti realitě dlouhodobě	10	197615km2	62543584	UNFCKNGBLVBL(#449) - Dupooooo
+11.	[KCII.] Karavana`s Club II.	10	164580km2	60056466	KARAVANA TU JE?(#378) - jOguRt44
+12.	[S] SUN	10	165815km2	58781387	vlasy zlatovlasky(#615) - Atlantik
+13.	[I-LUV-U] Feel the love in your ***	9	137956km2	54502866	Velke Levare 3(#364) - MPBuldog
+14.	[SLEZSKO] není Severní Morava	10	153162km2	53797355	Reno Raines(#205) - RSkater88
+15.	[MZA] Majklův Zdárný Absták	10	161459km2	53132336	Vicinity Of Obscenity(#320) - Merugrin
+16.	[NRsF] Nemám rád ... vy víte	10	150212km2	52380092	NRsF: MOSTRASTAS(#2510) - Beast Boban
+17.	[FA] Fast Arrows	10	144610km2	51355211	Neběhej, zemřeš unavenej(#405) - siroko
+18.	[-=THC=-] The Heroic Company	10	160289km2	50404215	zem nikoho(#290) - jOguRt44
+19.	[PŠTROSI] Speciální pštrosí operace	10	145877km2	48927450	Pštros bez klobouku boss(#512) - Dark Phoenix
+20.	[KCI.] Karavana`s Club I.	10	202283km2	46242789	KARAVANA MISTRA YODY(#253) - maverickynwa
+21.	[SL] Stop Lepku	10	164490km2	43291002	Connor McJesus(#612) - Shrunke
+22.	[.:V3R:.] škola sexu	10	159566km2	42758784	Sex s medvídkem Pú(#779) - Wojxtier
+23.	[Yozzefy2] Yozzefy = pohoda klik2	10	143951km2	41180125	Veterán - technokrat(#845) - Allegro
+24.	[PZY] Pozitivity	10	214916km2	41009514	Lakad Matatatag(#440) - seosen
+25.	[NBS] Největší blbci světa	10	143135km2	40042520	Největší BLBEC systému(#85) - Walker
+26.	[S.M.R.T.] Sado Maso Rocket Teror	10	133164km2	39467720	critical(#482) - CreeCoC
+27.	[AUTORITA] Kdo se vleče, neuteče...	10	172213km2	36144623	Forsaken Palace(#721) - masterofgod
+28.	[.:YD:.] .:Your Death:.	10	128463km2	35946090	Smrt si tě najde(#704) - White Dead
+29.	[Anarchy] Farmíme pro lepší budoucnost	10	132789km2	35369672	Srdce mi pofoukáš...(#145) - thordevil
+30.	[D3V1L5] Masters of Underworld	10	152226km2	34778209	*Wiking*(#337) - SVKelt
+31.	[(V)oo(V)] The Crabs	10	181266km2	31758256	kalamár na drogách(#322) - blasticek
+32.	[NC] Nevím Co	10	146914km2	31744219	onen svet(#206) - Mystic22
+33.	[M] MOON	10	163604km2	31619136	Atlan(#43) - Atlantik
+34.	[USO] Ústav strategických omylů	10	140362km2	29199286	Teutoburský les(#100) - Lord Shako
+35.	[NGTY] Negativity	10	158043km2	28962347	DrogyJsouTop(#800) - seosen
+36.	[=Pivko=] Hlavně, že je pivo v tlamě.	10	173519km2	28656448	Kvašňák 13 nefiltr(#38) - Rozervaná Paní
+37.	[100K] Sto komínů	10	136877km2	27193375	Tata dělá VeWerku(#461) - leszek
+38.	[Kevlar] Zahrajeme na nervy	10	202869km2	25025159	Kazič zábavy(#479) - junker002
+39.	[Yozzefy] Yozzefy = pohoda klik	9	118929km2	24735280	Veterán - farmář(#838) - Allegro
+40.	[VIR] VIR	10	104341km2	24485702	Whats my age again?(#518) - Mrkvička777

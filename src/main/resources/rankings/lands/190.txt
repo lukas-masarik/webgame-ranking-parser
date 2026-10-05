@@ -1,0 +1,42 @@
+190. věk
+#	Země	Rozloha	Prestiž	Aliance	Vláda	Kol
+1.	Tequila Tuesday(#2701) - ViewSonick	30323km2	25138717	Polévka	Rep	3978
+2.	Banana skin ON(#186) - Abdul	34661km2	23905393	AHA	Rep	3979
+3.	BLBEC co rád emoquit(#199) - Supra1Soul5Play	33033km2	22127597	NBS	Robo	3979
+4.	Comeback(#7777) - PinkPanther	31427km2	21433636	ganja	Rep	3979
+5.	Whats my age again?(#668) - Mrkvička777	33701km2	20276789	RHS	Rep	3979
+6.	Zzzzzzzzzzzzzzzzz(#858) - Martin858	20000km2	16150287	.ganja.	Utop	3972
+7.	Fagus(#856) - dentitios	22703km2	14438723	AHA	Utop	3977
+8.	Pan Tau(#697) - ZoDiiak	27103km2	14408722	*WINDE*	Rep	3978
+9.	Abies(#857) - dentitios	20227km2	14399624	AHA	Utop	3691
+10.	Mockingbird(#8888) - G.R.E.E.K	34600km2	14333333	Polévka	Demo	3979
+11.	(+-))(#536) - trubkatrubkovic	23277km2	13707554	ganja	Demo	3979
+12.	Nikdy neodmlouvej kámo(#426) - .12bomber12.	24739km2	13633803	RHS	Rep	3978
+13.	Asdfghjkl(#4422) - Defectorr	27224km2	13571282	*WINDE*	Rep	3965
+14.	G0D(#995) - Jacobthebest	30000km2	13522908	PRDOX	Rep	3960
+15.	Mám rád farmáře(#833) - Koumes	21570km2	13495016	tpOwCh	Utop	3848
+16.	KARAVANA DOBÝVÁKY NEKCI(#1001) - Armageddon	21077km2	13450453	KCII.	Utop	3974
+17.	AXXY.-(#630) - AXXY	26000km2	13384378	*WINDE*	Rep	3979
+18.	Dobyl mě deb**(#166) - Lishka Rishka	20000km2	13267987	CaC	Utop	3979
+19.	Keen Ass Perfekt(#137) - Lishka Rishka	27500km2	13245355	ŠANG-HAJ	Rep	3978
+20.	SneakyPickle(#290) - tUtkoFromIKAR	22540km2	12981495	MA	Rep	3961
+21.	Air(#934) - kill666	26799km2	12739388	PZY	Tech	3754
+22.	Pštrosí latifundie(#128) - Dark Phoenix	17552km2	12704766	PŠTROSI	Utop	3974
+23.	Chandra Nalaar(#347) - Limerence	22015km2	12521687	DooM	Robo	3978
+24.	The Heroic Toucan(#793) - Tukenssen	20832km2	12369192	-=THC=-	Utop	3943
+25.	Realm of Terror(#147) - p1x1x	14246km2	12342044	.:UO:.	Tech	3977
+26.	UžJeTadyZas(#969) - Flashik	20280km2	12255016	VIR	Kom	3743
+27.	No time to die(#816) - Martin858	19245km2	11885688	ganja	Utop	3970
+28.	-osn- Mastodont(#879) - mahamar kaddafi	20193km2	11839270	queens	Utop	3979
+29.	uglywastedface(#493) - cejo the king	27911km2	11815500	-=LH=-	Utop	3976
+30.	BLBEC co ma rad Charizard(#832) - .Baťa.	21937km2	11772660	NBS	Rep	3940
+31.	Střechy jsou mi chodníkem(#1987) - Dhany	17710km2	11507029	queens	Utop	3975
+32.	42 Prague(#820) - Martin858	17000km2	11442063	queens	Utop	3978
+33.	03(#409) - daxicek	21840km2	11268176	CaC	Utop	3983
+34.	Qwertzuiop(#134) - Defectorr	22022km2	11258740	*WINDE*	Kom	3976
+35.	Vrchní podržtaška(#1002) - Armageddon	21029km2	11242806	.:UO:.	Utop	3972
+36.	11111(#11111) - PinkPanther	23907km2	11119371	.ganja.	Feud	3957
+37.	Raining Blood(#1993) - RSkater88	21960km2	11103303	MA	Rep	3940
+38.	Chogoris(#437) - Atlant	24065km2	11004342	warcrime	Rep	3976
+39.	KARAVANA PIVNÍ MÁMY(#1098) - Štěpis	17785km2	10941344	KCI.	Utop	3980
+40.	XXXXX_LOBOTOM_XXXXX(#42066) - Christmess	24413km2	10866526	.:YD:.	Dikt	3972
