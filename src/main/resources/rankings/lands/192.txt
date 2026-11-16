@@ -1,0 +1,42 @@
+192. věk
+#	Země	Rozloha	Prestiž	Aliance	Vláda	Kol
+1.	Dr.Hurka(#41) - Dr.Krkavec	28120km2	22125479	Across	Utop	4022
+2.	AB LUCEM AD TENEBRAS(#1105) - .Grim.	27345km2	18950747	-4F-	Robo	3983
+3.	Jason Bourne(#77) - Comanndos	19000km2	18276413	DEJAVU	Utop	3684
+4.	KARAVANA DOBÝVÁKY NEKCI(#10001) - Armageddon	20521km2	17548391	KCI.	Utop	3979
+5.	BLBEC,jak jinak...(#50) - Walker	33271km2	17474538	NBS	Dikt	3982
+6.	Střechy jsou mi chodníkem(#1987) - Dhany	25244km2	15817656	ganja	Rep	3983
+7.	RoboTitan(#770) - Arzach	28448km2	14560370	R.O.BOTS	Robo	3970
+8.	Chat GPT(#48) - blasticek	21184km2	13467550	R.O.BOTS	Utop	3977
+9.	(vy)smažený kalamár(#40) - blasticek	23447km2	13282412	(V)oo(V)	Robo	3974
+10.	Cr@b_P0U5tevník(#338) - .whitewidow.	20666km2	12821603	(V)oo(V)	Feud	3981
+11.	The Heroic Toucan(#590) - Tukenssen	24781km2	12200132	-=THC=-	Utop	3943
+12.	////(#90) - cmelo	25497km2	12192647	Across	Utop	3980
+13.	Pardeeho vlna(#277) - Michellion	22666km2	12078769	MZA	Rep	3982
+14.	Pštrosí latifundie(#64) - Dark Phoenix	20375km2	11953170	ÚDéHá	Utop	3978
+15.	Berani sux(#51) - Lishka Rishka	20879km2	11721723	RAPTOR	Rep	3993
+16.	OKNO do Zorgovy duše(#1174) - Lord Demokrat	20657km2	11477538	A	Rep	3982
+17.	-osn- ChosenOne(#1061) - KuXIV	19852km2	11314973	ganja	Rep	3983
+18.	Aliance-=ka=-neexistuje.(#403) - esya	17899km2	11249404	-=KA=-	Tech	3982
+19.	Druhá zem(#1043) - Honzík	22222km2	11190257	R.O.BOTS	Feud	3980
+20.	tpOwCh Krasna dolinka(#91) - Aram Chroustal	22419km2	11118399	tpOwCh2	Tech	3955
+21.	240 KM/H(#56) - marv III	19955km2	11103208	Across	Utop	3952
+22.	Kings Landing(#1154) - klankosti	18469km2	11077499	ganja	Demo	3921
+23.	Na každou půdu útočím(#870) - Nertazin	20363km2	11066236	=Pivko=	Demo	3982
+24.	MiNioN(#141) - MiNioN	22222km2	10745219	DC	Utop	3982
+25.	-=KA=-lička meskalinu(#898) - Athara	16620km2	10665015	-=KA=-	Utop	3983
+26.	Rhaegar Targaryen(#413) - Rhaegar II	17246km2	10562449	.:UO:.	Utop	3981
+27.	-=KA=-líme a fetujem(#108) - Erwin Stahler	20248km2	10437239	-=KA=-	Utop	3983
+28.	Na duši kľud(#1047) - LordStefanius	20224km2	10309938	AxF	Utop	3942
+29.	Tahá za mě pes(#876) - Wožungrush	24312km2	10258562	KŠM	Utop	3930
+30.	(-+)(#232) - trubkatrubkovic	19797km2	10135335	ganja	Dikt	3978
+31.	BLBEC co rád flastry(#71) - Supra1Soul5Play	21154km2	10097348	NBS	Utop	3967
+32.	MoonBreaker(#69) - Supra1Soul5Play	20000km2	10086546	-4F-	Utop	3978
+33.	DOPAMIN(#595) - JohnnyLamka	20768km2	10013422	A	Utop	3973
+34.	tpOwCh Optimus(#777) - mysho155	20286km2	10013398	tpOwCh2	Utop	3983
+35.	Vrchní podržtaška(#10002) - Armageddon	18503km2	9975680	.:UO:.	Utop	3970
+36.	uglyfatface(#1007) - cejo the king	20074km2	9882358	warcrime	Tech	3938
+37.	Adrian Mills(#61) - marv III	23867km2	9865259	Across	Dikt	3960
+38.	VODNÍ MELOUN(#536) - ...Kápo...	19999km2	9782650	A	Utop	3980
+39.	uglyskinnyface(#1008) - cejo the king	20875km2	9757366	warcrime	Utop	3982
+40.	Mrknul a požehnal(#2003) - MAFline	22222km2	9617250	MZA	Utop	3988

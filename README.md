@@ -2,7 +2,7 @@
 
 Tool for browsing and analyzing historical rankings from the online strategy game [webgame.cz](https://webgame.cz).
 
-Last supported epoch: **#191**.
+Last supported epoch: **#192**.
 
 ## What it can do
 
