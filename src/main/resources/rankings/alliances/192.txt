@@ -1,0 +1,42 @@
+192. věk
+#	Aliance	Členů	Rozloha	Prestiž	Předseda
+1.	[Across] Idealistic Organization	10	215455km2	100924419	240 KM/H(#56) - marv III
+2.	[ganja] Ganja	10	179794km2	90671304	-osn- LastOne(#1060) - KuXIV
+3.	[.:UO:.] Univerzita Obrany	10	186353km2	78131368	Ronald Vegan(#12345) - yuphon
+4.	[tpOwCh2] the power of wing chun	10	190761km2	75093963	tpOwCh yiP(#33) - MaximusBuchymus
+5.	[-4F-] 4 The future	10	185715km2	74976418	Vepřo,knedlo, zelo(#868) - jOguRt44
+6.	[-=KA=-] Killa Army	10	185612km2	73010599	-=KA=-lička meskalinu(#898) - Athara
+7.	[warcrime] War Criminals	10	184995km2	71806691	Drimloq(#1101) - ymethyst
+8.	[KCI.] Karavana`s Club I.	10	180312km2	63638023	KARAVANA MISTRA YODY(#407) - maverickynwa
+9.	[R.O.BOTS] really obvious bots	10	159091km2	62583109	Chat GPT(#48) - blasticek
+10.	[NBS] Největší blbci světa	10	160533km2	60807909	Největší BLBEC systému(#49) - Walker
+11.	[MZA] Mačkat Zadek Adélce	10	149764km2	59067750	Sýrové království(#540) - Lord Shako
+12.	[(V)oo(V)] The Crabs	10	175053km2	58293243	(vy)smažený kalamár(#40) - blasticek
+13.	[-=THC=-] The Heroic Company	10	176218km2	57734658	zem nikoho(#513) - jOguRt44
+14.	[CaC] Command and Conquer	10	187186km2	56246542	03(#427) - daxicek
+15.	[KCII.] Karavana`s Club II.	10	188351km2	54244017	KARAVANA TU JE?(#552) - jOguRt44
+16.	[KŠM] Klub šovinismu a misogynie	10	161751km2	53472515	Poštu řeší 131(#86) - KlepeTo
+17.	[TJV] Techno je všechno	10	179309km2	51597592	Ready for your love(#146) - marv III
+18.	[USO] Ústav strategických omylů	10	166908km2	49900304	Západní úvaly(#237) - Lord Shako
+19.	[A] Class A Team	8	135900km2	49340030	Kratos(#656) - siroko
+20.	[Lotta] Lotta per la sopravvivenza	10	196597km2	49022337	Lotta la nostra la furia(#690) - trisíííček
+21.	[Anarchy] Farmíme pro lepší minulost	10	163174km2	45129325	Srdce mi pofoukáš...(#434) - thordevil
+22.	[RAPTOR] Team Raptor	10	142224km2	45039850	RAPTOR Valach za Prahou(#766) - Aram Chroustal
+23.	[WG-PROF] WG-PROFESSIONAL	10	178354km2	43809908	:::WG-PROFESSIONAL:::(#919) - ySpirit
+24.	[.:ÚO:.] Úderné Opičky	10	177038km2	43681526	Mike Litoris(#23456) - yuphon
+25.	[PZY] Pozitivity	10	207971km2	43318938	Lakad Matatatag(#295) - seosen
+26.	[I-LUV-U] Feel the LOVE in your A**	10	161087km2	42134024	Velke Levare(#311) - MPBuldog
+27.	[=T=] Trója	10	170479km2	41863889	Winter is coming..(#297) - FR3EZY
+28.	[=Pivko=] Pivo pivko pivíčko	10	160240km2	39476034	=Vrbnička Žlahtina=(#666) - Mr.Lipi
+29.	[ÚDéHá] Údolí dutých hlaf	10	141251km2	39191332	Alianční koště (#449) - Wožungrush
+30.	[YOZZEFY2] Yozzefy = pohoda klik2	10	133554km2	37818991	Veterán - technokrat(#115) - Allegro
+31.	[Genocida] Rest in peace	10	171946km2	37407903	Papučí po pysku(#65) - UniQe
+32.	[YOZZEFY] Yozzefy = pohoda klik	10	146092km2	36461236	Veterán - farmář(#106) - Allegro
+33.	[DC] DC Comics	10	172478km2	36031747	Batman(#140) - Fleship
+34.	[SPRITE] My jsme Sprite a vy žízeň	8	113698km2	35823597	Pocemkamdes(#11010) - demonstrate.
+35.	[AxF] AxF	10	158083km2	35814455	Tuk tuk(#1200) - StrikSSrs
+36.	[=Vínko=] Ve víně je pravda	10	157000km2	35656614	NPC(#88) - Mr.Lipi
+37.	[-=DH=-] Dark Hunters	10	172558km2	35556676	Amy Pond(#199) - Ersango
+38.	[LaRes] La Resistance	10	154769km2	33818571	DPC Josef(#441) - Dark moon spider
+39.	[Legie] Legie Alkoholiků	10	135920km2	33141689	Miro(#961) - Mireo
+40.	[KMS] Klikni a Modli se	10	135313km2	32072455	Knedlik(#765) - Arzach
